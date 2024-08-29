@@ -1,0 +1,145 @@
+{% if template.name == 'collection' %}
+    <style>
+        .section_id-{{ schema.id }}.image-with-slider .product-sample:first-child {
+            top: {{ schema.settings.product_sample1_vertical_position }}%;
+            left: {{ schema.settings.product_sample1_horizontal_position }}%;
+        }
+        .section_id-{{ schema.id }}.image-with-slider .product-sample:nth-child(2) {
+            top: {{ schema.settings.product_sample2_vertical_position }}%;
+            left: {{ schema.settings.product_sample2_horizontal_position }}%;
+        }
+        .section_id-{{ schema.id }}.image-with-slider .product-sample:nth-child(3) {
+            top: {{ schema.settings.product_sample3_vertical_position }}%;
+            left: {{ schema.settings.product_sample3_horizontal_position }}%;
+        }
+        .section_id-{{ schema.id }}.image-with-slider .product-sample:nth-child(4) {
+            top: {{ schema.settings.product_sample4_vertical_position }}%;
+            left: {{ schema.settings.product_sample4_horizontal_position }}%;
+        }
+
+        {% if request.design_mode %}
+            .template-collection .hide {
+                display: block !important;
+            }
+            .template-collection .hide .image-grid-item {
+                display: none !important;
+            }
+            .template-collection .hide .grid__item {
+                float: unset !important;
+                margin-top: 80px
+            }
+        {% endif %}
+    </style>
+{% endif %}
+
+<div class="image-with-slider section_id-{{ schema.id }} {% if template.name == 'collection' %}grid__item{% endif %}" {% if template.name == 'collection' %}js-collection-image-with-slider data-desktop-position="{{ schema.settings.desk_position }}" data-mobile-position="{{ schema.settings.mob_position }}" data-has-slider="true"{% endif %} js-image-with-slider>
+    <div class="wrapper {% if schema.settings.change_alignment %}change-alignment{% endif %}">
+        {% if schema.settings.image != blank %}
+            <div class="alpha">
+                {% if schema.settings.title != blank %}
+                    <h3 class="title">{{ schema.settings.title }}</h3>
+                {% endif %}
+                <div class="img-wrap">
+                    <img src="{{ schema.settings.image | img_url: 'master'}}" alt="">
+                    <div class="products-sample">
+                        {% if template.name == 'collection' %}
+                            {% for i in (1..4) %}
+                                {% capture productSampleKey %}product_{{ i }}{% endcapture %}
+                                {% assign productSample = schema.settings[productSampleKey] %}
+                                {% if productSample != blank %}
+                                    <div class="product-sample" js-product-sample data-product-id="{{ productSample.id }}"></div>
+                                {% endif %}
+                            {% endfor %}
+                        {% else %}
+                            {% for block in schema.blocks %}
+                                {% if block.settings.sample_product != blank %}
+                                    <style>
+                                        #{{ schema.id }} .product-sample-{{ forloop.index }} {
+                                            top: {{ block.settings.vertical_position }}%;
+                                            left: {{ block.settings.horizontal_position }}%;
+                                        }
+                                    </style>
+
+                                    <div class="product-sample product-sample-{{ forloop.index }}" js-product-sample data-product-id="{{ block.settings.sample_product.id }}"></div>
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+
+        {% if template.name == 'collection' %}
+
+
+            <div class="beta">
+                <div class="beta-inner">
+                    {% if schema.settings.title != blank %}
+                        <h3 class="title">{{ schema.settings.title }}</h3>
+                    {% endif %}
+                    <div class="main-grid">
+                        <div class="featured-collection-slider" js-featured-collection-slider>
+                            <div class="swiper-wrapper">
+                                {% for i in (1..4) %}
+                                    {% capture productSampleKey %}product_{{ i }}{% endcapture %}
+                                    {% assign product = schema.settings[productSampleKey] %}
+                                    {% if product != blank %}
+                                        <div class="swiper-slide" data-slide-index="{{ forloop.index }}" data-product-id="{{ product.id }}">
+                                            <a href="{{ product.url }}" class="product-link">
+                                                <div class="image">
+                                                    <img src="{{ product.featured_image | img_url: 'master'}}">
+                                                </div>
+                                                <div class="product-details">
+                                                    <h4 class="product-title">{{ product.title }}</h4>
+                                                    <span class="product-price">{{ product.price | money_without_trailing_zeros }}</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        {% else %}
+
+        <div class="beta">
+            <div class="beta-inner">
+                {% if schema.settings.title != blank %}
+                    <h3 class="title">{{ schema.settings.title }}</h3>
+                {% endif %}
+                <div class="main-grid">
+                    <div class="featured-collection-slider" js-featured-collection-slider>
+                        <div class="swiper-wrapper">
+                            {% for block in schema.blocks %}
+                                {% if block.settings.sample_product != blank %}
+                                    {% assign product = block.settings.sample_product %}
+                                    <div class="swiper-slide" data-slide-index="{{ forloop.index }}" data-product-id="{{ product.id }}">
+                                        <a href="{{ product.url }}" class="product-link">
+                                            <div class="image">
+                                                <img src="{{ product.featured_image | img_url: 'master'}}">
+                                            </div>
+                                            <div class="product-details">
+                                                <h4 class="product-title">{{ product.title }}</h4>
+                                                <span class="product-price">{{ product.price | money_without_trailing_zeros }}</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {% endif %}
+        
+    </div>
+</div>

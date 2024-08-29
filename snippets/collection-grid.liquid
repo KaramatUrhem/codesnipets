@@ -1,0 +1,97 @@
+{% comment %}
+Snippet Arguments
+- collection: Liquid 'collection' or 'search' object
+- items: Paginated 'collection.products' or 'search.results' list. Cannot be pulled from the the 'collection' object passed in above
+- enable_sidebar: boolean
+- filter_style: 'sidebar' or 'drawer'
+- enable_sort: boolean
+- enable_collection_count
+- per_row
+- mobile_flush_grid
+- quick_shop_enable
+{% endcomment %}
+
+{% liquid
+  if collection.products
+    assign count = collection.products_count
+    assign count_label = 'collections.general.items_with_count'
+  endif
+
+  if collection.results
+    assign count = collection.results_count
+    assign count_label = 'general.search.result_count'
+  endif
+
+  assign filters = collection.filters
+  assign sort_by = collection.sort_by
+  assign default_sort_by = collection.default_sort_by
+  assign sort_options = collection.sort_options
+  assign current_filter_size = 0
+
+  for filter in filters
+    assign current_filter_size = current_filter_size | plus: filter.active_values.size
+  endfor
+%}
+
+<div class="collection-grid__wrapper">
+  <div id="collectionGrid" class="grid grid--uniform{% if mobile_flush_grid %} small--grid--flush{% endif %}"{% unless enable_collection_count %} data-scroll-to{% endunless %}>
+    {%- for item in items -%}
+      {%- if item.object_type == 'product' -%}
+        {%- render 'product-grid-item',
+          product: item,
+          per_row: per_row,
+          quick_shop_enable: quick_shop_enable
+        -%}
+      {%- else -%}
+        {%- render 'search-grid-item',
+          item: item,
+          per_row: per_row
+        %}
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+</div>
+
+{%- if enable_sidebar and filter_style != 'drawer' and collection.filters.size > 0 -%}
+{% comment %}
+  Sidebar enabled but not in drawer mode, only show filter button on mobile
+{% endcomment %}
+{% style %}
+@media screen and (min-width: 769px) {
+  .collection-filter__item--drawer {
+    display: none;
+  }
+  .collection-filter__item--count {
+    text-align: left;
+  }
+  html[dir="rtl"] .collection-filter__item--count {
+    text-align: right;
+  }
+}
+{% endstyle %}
+{%- endif -%}
+
+{%- if enable_sidebar == false or collection.filters.size == 0 -%}
+{% comment %}
+    Disable sidebar & filter features
+{% endcomment %}
+{% style %}
+.collection-filter__item--drawer {
+  display: none;
+}
+.collection-filter__item--count {
+  text-align: left;
+}
+html[dir="rtl"] .collection-filter__item--count {
+  text-align: right;
+}
+{% endstyle %}
+{%- endif -%}
+
+{%- unless enable_sort -%}
+{% style %}
+.collection-filter__sort-container {
+  display: none;
+}
+{% endstyle %}
+{%- endunless -%}

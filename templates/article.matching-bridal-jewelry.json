@@ -1,0 +1,311 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>The wedding day is a special occasion not only for the bride but also for her closest friends, sisters, and family members. And when it comes to accessorizing, matching jewelry can enhance the overall look and add a touch of elegance and sophistication to the bridal party. But with so many options available, it can be overwhelming to choose the perfect pieces. That's where a bridal stylist comes in! Though often associated with just the bride, bridal stylists can also provide their expert guidance in coordinating the jewelry of the bridesmaids and family members with the bride's jewelry, creating a cohesive and stunning look for the entire bridal party.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Bride_tribe.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/Bride_tribe.png",
+            "smallinfotext": "<p><em>Image courtesy: Pinterest<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/Bridal_Stylist_Matching_Indian_Jewelry2.png",
+        "backmobileimage": "shopify:\/\/shop_images\/Bridal_Stylist_Matching_Indian_Jewelry2.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>How a Bridal Stylist Brings the Bride Tribe Together<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Bridal stylists serve as a source of guidance and inspiration, ensuring that every aspect of the bride's ensemble harmonizes flawlessly. However, a bridal stylist's expertise extends beyond the bride; they also take care of coordinating the jewelry of bridesmaids and family members with the overall bridal look. With an innate eye for style and an acute understanding of personal preferences, the bridal stylist can closely work with each individual, carefully curating jewelry pieces that complement the overall wedding theme and enhance the unique beauty of every wearer. This blog unveils a treasure trove of how a bridal stylist guides the bridal entourage creating a breathtaking symphony of brilliance.<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/amish-thakkar-8vmvtj_W4xQ-unsplash.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/amish-thakkar-8vmvtj_W4xQ-unsplash.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<h3>Understanding the Bride’s Vision and Style<\/h3><p>A bridal stylist works closely with the bride understanding her tastes and preferences for the big day. This helps a bridal stylist act as a bridge between the bride and her loved ones, helping to realize the bride's vision for her wedding. Whether the bride opts for traditional elements, modern minimalism, vintage charm, or bohemian flair, the bridal stylist takes cues from her choices. This understanding allows them to curate a selection of jewelry options for the bridal troupe that aligns with the bride's desires, ensuring a unified and harmonious appearance.<\/p><p><\/p>"
+          }
+        },
+        "a982140a-9293-44e7-b696-64adcd670b63": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<h3>Personalized Guidance<\/h3><p>Each member of the bridal party has a unique style, preferences, and features that deserve to be highlighted. A bridal stylist brings their expertise to the table by considering the individual characteristics of friends, sisters, and family members. Whether it's considering skin tone, face shape, or personal style, the bridal stylist helps select jewelry that complements and flatters each person, ensuring they feel confident and beautiful on the big day, while keeping in mind the bride’s vision and ensuring everything fits perfectly.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3",
+        "a982140a-9293-44e7-b696-64adcd670b63"
+      ],
+      "settings": {
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Harmonizing With the Bridal Ensemble",
+            "infotext": "<p>The bride's jewelry serves as the centerpiece, but the jewelry worn by friends, sisters, and family members should enhance the overall bridal party's appearance. A bridal stylist has an eye for detail and can recommend jewelry pieces that complement the bride's attire without overpowering it. The bridal stylist also takes into account the details of the bride's jewelry, such as the metals, gemstones, and overall design, to curate pieces that coordinate harmoniously. This might involve choosing similar metals or gemstones that complement each other without overshadowing the bride's jewelry. The result is a cohesive and visually appealing bridal party, where everyone shines while maintaining a unified aesthetics.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/bridal_stylist_for_bridesmaids.png",
+            "mobileimage": "shopify:\/\/shop_images\/bridal_stylist_for_bridesmaids.png",
+            "imagetext": "<p><em>Image courtesy: Pinterest<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "disabled": true,
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Kundan ribbons ready for use",
+            "infotext": "<p>After folding multiple times, the Kundan ribbon (ranging in thickness from 4mm to 7mm) is ready to be divided into small pieces and used. It must be handled with extreme caution and must not be touched by hand to prevent impurities from mixing with the metal. According to goldsmiths, the ability to create high-quality Kundan is the first and most important virtue of their trade.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6084_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6086-min.jpg",
+            "imagetext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "disabled": true,
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Different shapes put together",
+            "infotext": "<p>The sophisticated Kundan technique enables gemstones of any size or shape to be set into intricate designs. Sometimes, before the entire stone-setting process begins, gold-smiths might fill the hollow frame, known as ghat, with different objects of varying shapes grouped together to form the object. Another option is to let the shape of the gemstone define the ghat's shame.<\/p><p>Since earlier times, certain shapes have influenced the jewelry-making tradition. Squares, triangles, and circles are the most common shapes.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6084_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6086-min.jpg",
+            "imagetext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "de5faab3-91d0-4dad-9264-39faee3afc0e": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16724338016508__de5faab3-91d0-4dad-9264-39faee3afc0e-16844920779e6316b6-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<h3>Balancing Statement Pieces<\/h3><p>Sometimes, the bride may opt for a statement piece of jewelry that serves as the centerpiece of her ensemble. It could be a dazzling necklace, a pair of statement earrings, or an ornate hairpiece. A bridal stylist has the expertise to balance these standout pieces with jewelry choices for friends, sisters, and family members. By selecting complementary but less overpowering pieces, the stylist ensures that everyone's jewelry works together to create a seamless and well-coordinated bridal party.<\/p><h3>Exploring Alternatives<\/h3><p>A bridal stylist is well-versed in the wide range of jewelry options available, from traditional to contemporary styles. They can suggest alternatives and offer innovative ideas to create a unique and personalized look for each bridal party member. For example, if the bride prefers a vintage-inspired look, the stylist can source vintage-inspired pieces or suggest antique heirlooms that can be incorporated into the ensemble. This creative approach adds depth and character to the overall bridal party aesthetic.<\/p><h3>Shopping Assistance<\/h3><p>Selecting jewelry can be an overwhelming process, especially when considering the coordination among different individuals. A bridal stylist provides valuable shopping assistance by narrowing down options based on the bride's vision and the individual preferences of friends, sisters, and family members. They can recommend reputable jewelry designers or boutiques that offer high-quality pieces within different price ranges. This guidance saves time and ensures that the jewelry chosen for the bridal party is of exceptional quality.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16724338016508__de5faab3-91d0-4dad-9264-39faee3afc0e-16844920779e6316b6-1"
+      ],
+      "settings": {
+      }
+    },
+    "c8b39fec-4b6e-42fb-8043-e02931d0d0e4": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16724338016508__c8b39fec-4b6e-42fb-8043-e02931d0d0e4-168449234923f6ff4a-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Coordinating Colors and Themes",
+            "infotext": "<p>Matching jewelry for the bridal party involves careful consideration of colors and themes. A bridal stylist possesses expertise in color coordination and can advise on which jewelry pieces will harmonize with the bridal ensemble. Whether it's selecting pieces that incorporate the wedding colors or complementing the chosen theme, the bridal stylist ensures that the jewelry worn by friends, sisters, and family members seamlessly blends with the theme of the wedding.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/bridal_stylist_for_bridesmaids1.png",
+            "mobileimage": "shopify:\/\/shop_images\/bridal_stylist_for_bridesmaids1.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16724338016508__c8b39fec-4b6e-42fb-8043-e02931d0d0e4-168449234923f6ff4a-1": {
+          "type": "information",
+          "disabled": true,
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Lorem Ipsum is simply dummy text.",
+            "infotext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "imagetext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16724338016508__c8b39fec-4b6e-42fb-8043-e02931d0d0e4-168449234923f6ff4a-2": {
+          "type": "information",
+          "disabled": true,
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Lorem Ipsum is simply dummy text.",
+            "infotext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "imagetext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16724338016508__c8b39fec-4b6e-42fb-8043-e02931d0d0e4-168449234923f6ff4a-0",
+        "template--16724338016508__c8b39fec-4b6e-42fb-8043-e02931d0d0e4-168449234923f6ff4a-1",
+        "template--16724338016508__c8b39fec-4b6e-42fb-8043-e02931d0d0e4-168449234923f6ff4a-2"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "63f8d20f-2fb2-413b-a257-afd3d30de17d": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16724338016508__63f8d20f-2fb2-413b-a257-afd3d30de17d-16844920779e6316b6-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<h3>Sourcing and Procurement<\/h3><p>A bridal stylist has an extensive network of connections within the wedding industry, including jewelry designers and suppliers. They can assist in sourcing and procuring the perfect jewelry pieces for the bridal party, ensuring high-quality craftsmanship and materials. By leveraging their industry relationships, the stylist can often secure exclusive designs or limited-edition collections, giving the bridal party access to unique and exquisite jewelry options.<\/p><h3>Expertise and Trend Awareness<\/h3><p>Bridal stylists are well-versed in the latest trends and fashion in the wedding industry. They stay updated with evolving jewelry designs, materials, and styles, allowing them to offer expert guidance to the bridal party. From vintage-inspired pieces to contemporary and minimalist designs, the stylist can suggest jewelry that aligns with current trends while still staying true to the bride's vision.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16724338016508__63f8d20f-2fb2-413b-a257-afd3d30de17d-16844920779e6316b6-1"
+      ],
+      "settings": {
+      }
+    },
+    "aa5b4091-0742-4acb-9c0f-f75a7ebb7bba": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16724338016508__aa5b4091-0742-4acb-9c0f-f75a7ebb7bba-168449234923f6ff4a-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Customization and Personalization",
+            "infotext": "<p>Each member of the bridal party is unique, and their jewelry choices should reflect their individuality. A bridal stylist excels in customizing and personalizing jewelry options to suit each person's style and personality while staying within the overall theme. They offer suggestions for personalized touches, such as monogrammed pendants or birthstone accents, that can be incorporated into the jewelry to make it more meaningful and special for friends, sisters, and family members.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/WhatsApp_Image_2023-04-29_at_13_30_24_jpeg.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/WhatsApp_Image_2023-04-29_at_13_30_24_jpeg.jpg",
+            "imagetext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16724338016508__aa5b4091-0742-4acb-9c0f-f75a7ebb7bba-168449234923f6ff4a-0"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "8a748010-e7a8-4fb7-af4c-fe1c6f47ccfd": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16724338016508__8a748010-e7a8-4fb7-af4c-fe1c6f47ccfd-16844920779e6316b6-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Through their expertise in curating exquisite wedding looks, considering the wedding theme, co-designing jewelry, and balancing individual tastes, a bridal stylist ensures that the entire bridal party shines harmoniously. With a bridal stylist's guidance, the bride and her loved ones can confidently adorn themselves in jewelry that enhances their beauty and creates unforgettable memories on this special day. Discover the enchantment of personalized bridal styling with us. With their meticulous attention to detail and unmatched expertise, our expert bridal stylists can help to turn your vision into a flawlessly curated reality!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16724338016508__8a748010-e7a8-4fb7-af4c-fe1c6f47ccfd-16844920779e6316b6-1"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "blocks": {
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#000000",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "de5faab3-91d0-4dad-9264-39faee3afc0e",
+    "c8b39fec-4b6e-42fb-8043-e02931d0d0e4",
+    "63f8d20f-2fb2-413b-a257-afd3d30de17d",
+    "aa5b4091-0742-4acb-9c0f-f75a7ebb7bba",
+    "8a748010-e7a8-4fb7-af4c-fe1c6f47ccfd",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

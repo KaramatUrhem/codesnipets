@@ -1,0 +1,250 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "9344003c-9e72-4dbb-986b-01503ae729a0": {
+      "type": "background-image-text",
+      "settings": {
+        "classname": "ourstory_banner",
+        "subtitle": "our story",
+        "title": "Aurus is all about going back to <span>one’s roots<\/span>",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Group_1073713421.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Group_1073713422.jpg",
+        "layout": "left",
+        "height": 450,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "7e384885-7ecc-49a3-b8c3-705a0cdd5370": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16686221983996__7e384885-7ecc-49a3-b8c3-705a0cdd5370-1680772902d16ac861-0": {
+          "type": "heading",
+          "settings": {
+            "title": "The <span>idea<\/span>"
+          }
+        },
+        "template--16686221983996__7e384885-7ecc-49a3-b8c3-705a0cdd5370-1680772902d16ac861-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Jewellery is an object of permanence, something that transcends the boundaries of age and time and that can be passed on from one generation to another. Co-founded by the husband-wife duo of Puja and Kunal Shah, Aurus addresses the need to communicate directly with their clientele and to disrupt the old impersonal system. It is built to offer jewelry that is not just a family heirloom that may gather dust in bank vaults for the most part of its life but a beautiful object of adornment that echoes the sentiments and emotions of the wearer.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221983996__7e384885-7ecc-49a3-b8c3-705a0cdd5370-1680772902d16ac861-0",
+        "template--16686221983996__7e384885-7ecc-49a3-b8c3-705a0cdd5370-1680772902d16ac861-1"
+      ],
+      "settings": {
+        "classname": "the-idea",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "8259b318-ac27-44eb-beed-bbe1b7931792": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16686221983996__8259b318-ac27-44eb-beed-bbe1b7931792-168110132360421066-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\"h1\">The <span>story<\/span><\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221983996__8259b318-ac27-44eb-beed-bbe1b7931792-168110132360421066-1"
+      ],
+      "settings": {
+        "classname": "medium-up--hide the-story-sec mobile_vts",
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "ad478de3-c227-41a4-a0e1-2f4176fc2c8d": {
+      "type": "text-and-image",
+      "settings": {
+        "classname": "the-story-sec",
+        "video_show": false,
+        "videourl": "",
+        "image": "shopify:\/\/shop_images\/Rectangle_6099.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "The <span>story<\/span>",
+        "text": "<p>Puja and Kunal are a classic left-brain right-brain combination with Puja driving design and Kunal driving business. The duo had dreamt of owning a business together before they got married in 2001. Puja started designing jewelry for clients in 2003 shortly after moving back to India from the US. And in 2013, armed with a decade of experience in designing jewelry, AURUS was founded with a boutique store in Ahmedabad, India.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "50077b78-8f19-476d-8495-54d12c98a6bf": {
+      "type": "background-image-text",
+      "settings": {
+        "classname": "story-bg-image2",
+        "subtitle": "",
+        "title": "Refined sensibility of design with an  <span>enhanced experience<\/span>  of buying fine jewels",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Rectangle_6090.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Rectangle_6100.png",
+        "layout": "right",
+        "height": 650,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "0b9daf92-4b48-4cd7-a98a-220487c4ffb1": {
+      "type": "advanced-content",
+      "blocks": {
+        "79e3481c-8ca2-42c4-9899-6dc62b59c0b6": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\"h1\">The <span>design<\/span><\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "79e3481c-8ca2-42c4-9899-6dc62b59c0b6"
+      ],
+      "settings": {
+        "classname": "medium-up--hide the-story-sec mobile_vts",
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "7e4b94ed-4fbe-4932-b706-e5cd953bc706": {
+      "type": "text-and-image",
+      "custom_css": [
+        ".feature-row__first-image .image-wrap {height: auto !important; padding-bottom: 0 !important;}",
+        ".feature-row__first-image .image-wrap video {width: 100% !important; display: flex;}"
+      ],
+      "settings": {
+        "classname": "the-story-sec the-design-sec",
+        "video_show": true,
+        "videourl": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/93c6d4ac069841abb2fbdf1099ed9f1f.mp4",
+        "image": "shopify:\/\/shop_images\/about_us_video_image_about_us_video.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "The <span>design<\/span>",
+        "text": "<p>In her head, Puja belongs to the late 19th and early 20th century India, with its vast commissions of art of all types, from exquisite textiles to jewelry to furniture to household artefacts, using materials and techniques inherent to India but also influenced in design by Persian, European and other Asian cultures. The clothes she wears, the furniture she uses, the books she reads and the jewelry she designs are all in sync with this ‘vintage’ mood. Puja is a qualified jewelry designer from Fashion Institute of Technology (FIT), New York.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "4056554a-43f5-4b53-8578-961f0d0d40fc": {
+      "type": "text-and-image",
+      "settings": {
+        "classname": "pujas-journey",
+        "video_show": false,
+        "videourl": "",
+        "image": "shopify:\/\/shop_images\/Rectangle_6097.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/Rectangle_6098.jpg",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Puja's journey with art and design started when she worked at the Metropolitan Museum of Art and the Brooklyn Museum of Art in New York where she discovered India’s incredible heritage in crafts, materials and techniques in the meticulously catalogued displays at both these museums and the groundbreaking show at the MET around the Mughal Jewels now owned by the al-Sabahs, the ruling family of Kuwait.This tempered with her formal training in Jewelry Design at the Fashion Institute of Technology, New York honed a fine balance between practiced design and a historical reference.<br\/><br\/>Shah's design process at Aurus is deeply rooted in her worldview on design in general and history in particular. It is a microcosm of her life’s journey.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "a4b4cb3a-c66f-4dfb-ba8e-ee0b04080690": {
+      "type": "background-image-text",
+      "settings": {
+        "classname": "the-tradition-sec",
+        "subtitle": "",
+        "title": "The <span>tradition<\/span>",
+        "text": "<p><strong>Aurus defines luxury that is a feeling, 'unrushed'. The new idiom : Make it small, but significant. <\/strong><br\/>The meaning of true luxury is not about how much we own, it's about how well we live. To live well, we need certainty and assurance and that comes with owning meaningful products. A true testament to that idea of discreet luxury and beauty in Indian jewelry made timeless with an edge of refinement. <br\/><br\/>Aurus' design portfolio ranges from the simpler timeless designs to layered one-of-a-kind masterpieces, created in partnership with skilled artisans, helping revive the techniques which are fast getting extinct as popular design preferences take precedence. Always making sure the slight imperfections and quirks that truly make a piece unique are not just preserved but celebrated, ensure luxury and quality with a hawk-eyed attention to detail.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/about_us_2.webp",
+        "mobile_image": "shopify:\/\/shop_images\/About_us_mobile_2.webp",
+        "layout": "left",
+        "height": 650,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "93afa714-f249-4901-aa74-2016d4903f69": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16686221983996__93afa714-f249-4901-aa74-2016d4903f69-16808640006886fd58-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>As the world follows current trends, Aurus is all about going back to one’s roots. To preserve history. To make jewelry, as Patek Philippe says- 'to pass on through generations'.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221983996__93afa714-f249-4901-aa74-2016d4903f69-16808640006886fd58-1"
+      ],
+      "settings": {
+        "classname": "world-follow-content",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9344003c-9e72-4dbb-986b-01503ae729a0",
+    "7e384885-7ecc-49a3-b8c3-705a0cdd5370",
+    "8259b318-ac27-44eb-beed-bbe1b7931792",
+    "ad478de3-c227-41a4-a0e1-2f4176fc2c8d",
+    "50077b78-8f19-476d-8495-54d12c98a6bf",
+    "0b9daf92-4b48-4cd7-a98a-220487c4ffb1",
+    "7e4b94ed-4fbe-4932-b706-e5cd953bc706",
+    "4056554a-43f5-4b53-8578-961f0d0d40fc",
+    "a4b4cb3a-c66f-4dfb-ba8e-ee0b04080690",
+    "93afa714-f249-4901-aa74-2016d4903f69"
+  ]
+}

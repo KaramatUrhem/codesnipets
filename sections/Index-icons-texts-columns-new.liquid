@@ -1,0 +1,84 @@
+{%- if section.blocks.size > 0 -%}
+  <div class="Index_Icons_texts_columns_main_new" style="background:{{ section.settings.mainbackcolor }}">
+    <div class="page-width">
+      <div class="Index_Icons_texts_columns_inner_new">
+        <div class="Index_Icons_texts_columns_allloop_new">
+          <div class="swiper home_logo_slider">
+            <div class="swiper-wrapper">
+              {%- for block in section.blocks -%}
+                {%- if block.settings.svgiconpath != blank or block.settings.title != blank -%}
+                  <div class="swiper-slide Index_Icons_texts_columns_allloop_boxs_new">
+                    {%- if block.settings.svgiconpath != blank -%}
+                      <div class="Index_Icons_texts_columns_allloop_iconboxs_new">
+                        {%- render 'image-element',
+                          img: block.settings.svgiconpath,
+                          widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                          classes: '',
+                        -%}
+                      </div>
+                    {%- endif -%}
+                    {%- if block.settings.title != blank -%}
+                      <div class="Index_Icons_texts_columns_allloop_textboxs_new">
+                        {{ block.settings.title }}
+                      </div>
+                    {%- endif -%}
+                  </div>
+                {%- endif -%}
+              {%- endfor -%}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Index Icons Texts Columns",
+    "class": "Index_Icons_texts_columns_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#F6F2F1"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "svgiconpath",
+            "label": "Add Icon"
+          },
+          {
+            "type": "richtext",
+            "id": "title",
+            "label": "Add Information Text",
+            "default": "<p>“Lorem ipsum dolor sit amet, consectetur itlet, sed do eiusmod tempor aliqua.”</p>"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Index Icons Texts Columns",
+        "blocks": [
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

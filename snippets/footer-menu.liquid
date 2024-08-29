@@ -1,0 +1,27 @@
+{%- if linklists[block.settings.menu].links.size > 0 -%}
+  {%- if block.settings.show_footer_title -%}
+    <p class="h4 footer__title small--hide">
+      {{ linklists[block.settings.menu].title }}
+    </p>
+    <button type="button" class="h4 footer__title collapsible-trigger collapsible-trigger-btn medium-up--hide" aria-controls="Footer-{{ block.id }}">
+      {{ linklists[block.settings.menu].title }}
+      <svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 0.300781L6 6.30078L12 0.300781" fill="#1C1C24"/>
+      </svg>
+    </button>
+  {%- endif -%}
+  <div
+    {% if block.settings.show_footer_title %}
+      id="Footer-{{ block.id }}" class="collapsible-content collapsible-content--small"
+    {% endif %}>
+    <div class="collapsible-content__inner">
+      <div class="footer__collapsible{% unless block.settings.show_footer_title %} footer_collapsible--disabled{% endunless %}">
+        <ul class="no-bullets site-footer__linklist">
+          {%- for link in linklists[block.settings.menu].links -%}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+  </div>
+{%- endif -%}

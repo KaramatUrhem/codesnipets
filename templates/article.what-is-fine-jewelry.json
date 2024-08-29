@@ -1,0 +1,273 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>If you ever came across the terms ‘fine jewelry’ and ‘fashion jewelry’ and thought they were the same thing, you’re not the only one out there. While both are beautiful and have their pros, knowing the difference between the two can be of incredible help when it comes to buying jewelry. Apart from helping you make a smart purchase, knowing the difference between fine jewelry and fashion jewelry will allow you to wear your piece with confidence. So let’s dive in.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/3_8dc3fac9-bb64-42ea-b7f1-2f490a107f19.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/3_8dc3fac9-bb64-42ea-b7f1-2f490a107f19.png",
+            "smallinfotext": "<p><em>Rani no Pitaaro: little treasures of Indian fine jewelry by Aurus<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/2_3560653f-51d0-4ff0-9898-f846a0ce8c8d.png",
+        "backmobileimage": "shopify:\/\/shop_images\/2_3560653f-51d0-4ff0-9898-f846a0ce8c8d.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Knowing Fashion Jewelry<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Fashion jewelry is a commonly used term these days. It is made using base metals such as copper, brass, or aluminum. The gemstones used in fashion jewelry are also made using plastic, glass, or crystal. Since it is not made using precious or semi-precious metals, it is not described as ‘real’ jewelry. Made as an imitation of fine jewelry, fashion jewelry generally costs less and therefore comes with lower quality. So it is easily discolored or damaged. <\/p><p>Costume jewelry, which is a type of fashion jewelry, generally features pieces made using plastic, glass, and resin. It is artistic and has been worn by many famous personalities. Vintage costume jewelry is also considered a collectible item. <\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Aurus_Blog_2_8404afd5-289d-43d9-a9ad-dfec145678ff.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/Aurus_Blog_2_8404afd5-289d-43d9-a9ad-dfec145678ff.png",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Let’s quickly take a look at some pros and cons of fashion and costume jewelry:<\/p><h3>Pros<\/h3><p>Fashion jewelry is cheap and affordable. This makes it easy to replace in case of wear and tear. Due to its low cost, it can also be used as everyday jewelry. <\/p><h3>Cons<\/h3><p>The outer metal layer of fashion jewelry wears off over time and often discolors the skin. Another downside of fashion jewelry is that it is very easy to break and does not last long.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3"
+      ],
+      "settings": {
+      }
+    },
+    "d92dcd54-37e6-4f02-b787-96915b56d115": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16731025146108__d92dcd54-37e6-4f02-b787-96915b56d115-1685787649e012a8a0-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>What is Fine Jewelry?<\/p>"
+          }
+        },
+        "template--16731025146108__d92dcd54-37e6-4f02-b787-96915b56d115-1685787649e012a8a0-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Fine jewelry is the real deal. It is made using precious metals such as gold, silver, platinum, and precious stones such as diamonds and gemstones. Fine jewelry is crafted with meticulous attention to detail, using superior craftsmanship and techniques. Since it is made using durable material, fine jewelry can easily last a lifetime and can be repaired by a trained goldsmith or jeweler. The use of precious metals also allows the wearer to get the piece resized if needed. <\/p><p>Known for its enduring value, timeless designs, and exceptional durability, fine jewelry is considered a lifetime investment and is often used as a piece that is passed on from generation to generation.<\/p>"
+          }
+        },
+        "template--16731025146108__d92dcd54-37e6-4f02-b787-96915b56d115-1685787649e012a8a0-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/4_fba4b358-4bdf-4f6e-95c4-2da08c7cc0d6.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/4_fba4b358-4bdf-4f6e-95c4-2da08c7cc0d6.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/rano-gold-kundan-jadau-polki-choker-necklace\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/rano-gold-kundan-jadau-polki-choker-necklace\"><em>Rano Necklace<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "template--16731025146108__d92dcd54-37e6-4f02-b787-96915b56d115-1685787649e012a8a0-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Let’s go over the pros and cons of fine jewelry:<\/p><h3>Pros<\/h3><p>Fine jewelry is high-quality jewelry. It is very durable and can last a lifetime if proper care is taken. Due to the same reason, fine jewelry is a great option for heirloom jewelry. It features timeless designs that don’t go out of fashion and therefore, fine jewelry is a great option when it comes to <a href=\"https:\/\/www.aurusjewels.com\/blogs\/news\/gold-jewelry-investment-how-indians-successfully-defended-their-centuries-old-practice\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/blogs\/news\/gold-jewelry-investment-how-indians-successfully-defended-their-centuries-old-practice\">investing in precious metals<\/a>. <\/p><h3>Cons<\/h3><p>The only downside to fine jewelry is that it costs more than fashion jewelry.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16731025146108__d92dcd54-37e6-4f02-b787-96915b56d115-1685787649e012a8a0-0",
+        "template--16731025146108__d92dcd54-37e6-4f02-b787-96915b56d115-1685787649e012a8a0-1",
+        "template--16731025146108__d92dcd54-37e6-4f02-b787-96915b56d115-1685787649e012a8a0-2",
+        "template--16731025146108__d92dcd54-37e6-4f02-b787-96915b56d115-1685787649e012a8a0-3"
+      ],
+      "settings": {
+      }
+    },
+    "97b9b68c-2f56-4e3d-90be-63aafe8688e9": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16731025146108__97b9b68c-2f56-4e3d-90be-63aafe8688e9-16857881817ab61298-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Semi-Fine Jewelry: A Mix of Both<\/p>"
+          }
+        },
+        "template--16731025146108__97b9b68c-2f56-4e3d-90be-63aafe8688e9-16857881817ab61298-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>While fashion jewelry caters to ever-changing trends and uses low-cost material that doesn’t last long, fine jewelry prioritizes quality and durability by making use of precious metals and gemstones that last a long time. This makes it timeless and unique. But if you’re trying to find the middle road that balances both, semi-fine jewelry might be a good fit for you.<\/p><p>Semi-fine jewelry is not entirely made of precious metals but is generally coated with them. This makes semi-fine jewelry more durable and long-lasting than fashion jewelry while keeping costs low.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16731025146108__97b9b68c-2f56-4e3d-90be-63aafe8688e9-16857881817ab61298-0",
+        "template--16731025146108__97b9b68c-2f56-4e3d-90be-63aafe8688e9-16857881817ab61298-1"
+      ],
+      "settings": {
+      }
+    },
+    "2f3442c8-9a55-4a81-a373-056b705d0340": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16731025146108__2f3442c8-9a55-4a81-a373-056b705d0340-16857881817ab61298-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>What’s Best for You and Why<\/p>"
+          }
+        },
+        "template--16731025146108__2f3442c8-9a55-4a81-a373-056b705d0340-16857881817ab61298-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>While the choice between the three depends upon personal preferences, based on the pros and cons of each, fine jewelry is the superior option. Here’s why:<\/p><h3>Craftsmanship and Quality<\/h3><p>Fine jewelry is made with precision using the highest quality materials. Skilled artisans with years of experience use superior techniques to craft intricate pieces of fine jewelry which feature a distinct shine that is unmatched by any other kind.<\/p>"
+          }
+        },
+        "template--16731025146108__2f3442c8-9a55-4a81-a373-056b705d0340-16857881817ab61298-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/6_0db631cd-19a0-4538-bcd7-ffab36609d56.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/6_0db631cd-19a0-4538-bcd7-ffab36609d56.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/navya-gold-polki-navratna-pearl-choker-necklace\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/navya-gold-polki-navratna-pearl-choker-necklace\"><em>Navya Navratna Necklace<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "template--16731025146108__2f3442c8-9a55-4a81-a373-056b705d0340-16857881817ab61298-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<h3>Great Investment<\/h3><p>Fine jewelry serves as a great investment. Since precious metals and gemstones are used, the piece of fine jewelry retains its worth over time and sometimes even appreciates in value. This makes fine jewelry a great asset. <\/p><h3>Timeless and Versatile<\/h3><p>Fine jewelry features a shine and designs that don’t age. The precious metals and gemstones effortlessly team up with all sorts of outfits. Indian fine jewelry pieces such as a bracelet made in gold can be easily paired up with both traditional as well as Western outfits. Other pieces of Indian fine jewelry such as a maangtika, earrings, or a necklace can be worn for a lifetime and then passed on as heirloom pieces. <\/p><h3>Easy Repairs<\/h3><p>The one big upside of buying fine jewelry is that it can always be repaired. The wear and tear of your piece can be reversed and the original shine can be brought back. If the gemstones are damaged, they can be replaced. This will also allow you to change the look and feel of your piece while reviving its luster. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16731025146108__2f3442c8-9a55-4a81-a373-056b705d0340-16857881817ab61298-0",
+        "template--16731025146108__2f3442c8-9a55-4a81-a373-056b705d0340-16857881817ab61298-1",
+        "template--16731025146108__2f3442c8-9a55-4a81-a373-056b705d0340-16857881817ab61298-2",
+        "template--16731025146108__2f3442c8-9a55-4a81-a373-056b705d0340-16857881817ab61298-3"
+      ],
+      "settings": {
+      }
+    },
+    "d3cefc58-b39f-4851-a471-947a1acc0a99": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16731025146108__d3cefc58-b39f-4851-a471-947a1acc0a99-16857881817ab61298-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Be it for a special occasion or something that will stay with your every day, fine jewelry is a great option. With its long-lasting luster and impeccable quality, it can elevate any outfit and add a touch of elegance. It is a great choice if you’re looking for bridal jewelry that can embellish your wedding lehenga. The vivid gemstones can add a layer of colors to the wedding ensemble and the intricate design can give it more depth and flavor. <\/p><p>So, if you’re looking for something timeless and elegant to adorn your wedding outfit with, fine jewelry is the ideal choice. We welcome you to take a look at our <a href=\"https:\/\/www.aurusjewels.com\/\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/\">Indian fine jewelry collection<\/a> and you’ll surely find some exquisite pieces that will help create all sorts of looks. From subtle jewelry that adorns the minimalist bride to color pieces that the culturally-rooted bride adores, we have it all.<\/p>"
+          }
+        },
+        "template--16731025146108__d3cefc58-b39f-4851-a471-947a1acc0a99-16857881817ab61298-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/5_34a51d0f-86cd-4723-ace1-ce33bbf15240.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/5_34a51d0f-86cd-4723-ace1-ce33bbf15240.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/kalki-gold-and-polki-meenakari-torque-hasli-indian-wedding-necklace\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/kalki-gold-and-polki-meenakari-torque-hasli-indian-wedding-necklace\"><em>Kalki Hasli Necklace<\/em><\/a><em> and <\/em><a href=\"https:\/\/www.aurusjewels.com\/products\/kanha-meenakari-gold-polki-necklace-for-women\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/kanha-meenakari-gold-polki-necklace-for-women\"><em>Kanha Necklace<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "template--16731025146108__d3cefc58-b39f-4851-a471-947a1acc0a99-16857881817ab61298-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>And if you need a hand styling your magnificent pieces of fine jewelry with your outfit, we’ll be happy to help. Just give us a call and we’d be happy to connect you with our personal stylists for a styling consultation.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16731025146108__d3cefc58-b39f-4851-a471-947a1acc0a99-16857881817ab61298-1",
+        "template--16731025146108__d3cefc58-b39f-4851-a471-947a1acc0a99-16857881817ab61298-2",
+        "template--16731025146108__d3cefc58-b39f-4851-a471-947a1acc0a99-16857881817ab61298-3"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "blocks": {
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#000000",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "d92dcd54-37e6-4f02-b787-96915b56d115",
+    "97b9b68c-2f56-4e3d-90be-63aafe8688e9",
+    "2f3442c8-9a55-4a81-a373-056b705d0340",
+    "d3cefc58-b39f-4851-a471-947a1acc0a99",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

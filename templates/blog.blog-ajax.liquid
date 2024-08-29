@@ -1,0 +1,18 @@
+{% layout none %}
+
+{%- paginate blog.articles by 18 -%}
+  <div class="grid grid--uniform blog_template_main_grid_new blogs-on-page-2" id="ajax-tab-blog-section" data-next-url-2="{{paginate.next.url}}">
+    {%- for article in blog.articles -%}
+      <div class="grid__item medium-up--one-third Index_latests_blogs_posts_boxs_new {% cycle 'Index_latests_blogs_posts_1_new', 'Index_latests_blogs_posts_2_new', 'Index_latests_blogs_posts_3_new', 'Index_latests_blogs_posts_4_new', 'Index_latests_blogs_posts_5_new', 'Index_latests_blogs_posts_6_new' %}">
+        {%- render 'article-grid-item', article: article, grid_item_width: '', per_row: '3', image_size: section.settings.blog_image_size -%}
+      </div>
+    {%- endfor -%}
+  </div>
+
+  {%- if paginate.pages > 1 -%}
+    <div class="load-more-2">
+      <a class="load-more_btn-2 btn" id="load_more_btn_2">VIEW MORE</a>
+      <div class="load-more_spinner-2"></div>
+    </div>
+  {%- endif -%}
+{%- endpaginate -%}

@@ -1,0 +1,106 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "53d8ab24-2922-49af-8cfa-a9f08d9f2a45": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Culture | tradition | opulence"
+          }
+        },
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>BENARAS is a celebration of indigenous rituals and traditions. Embracing ancient cultures, Benaras pulsates with the soulful energy that emanates from the rhythmic chants of priests during the pheras around the holy fire, the “qubool hai” declaration at a nikah or an Anandkaraj ceremony at a gurdwara. It is an ethereal energy that explores the core of our being and is generously peppered with regalia and opulence. The Benaras woman then, is deeply and proudly traditional and plans everything from her jewellery and her outfits to the decor and the invites, in the same vein. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-0",
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-1"
+      ],
+      "settings": {
+        "classname": "",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 3,
+            "rows_per_page": 23,
+            "mobile_flush_grid": false
+          }
+        },
+        "bc684439-3546-4626-a905-1f3ecfeeca81": {
+          "type": "image_with_slider",
+          "settings": {
+            "desk_position": "9",
+            "mob_position": "8",
+            "change_alignment": false,
+            "title": "<p>Shop the<em> look<\/em><\/p>",
+            "image": "shopify:\/\/shop_images\/benaras_STL.webp",
+            "product_1": "sringara-gold-polki-and-tourmaline-necklace",
+            "product_sample1_vertical_position": 74,
+            "product_sample1_horizontal_position": 44,
+            "product_2": "poulomi-ruby-and-tourmaline-emerald-polki-earrings",
+            "product_sample2_vertical_position": 50,
+            "product_sample2_horizontal_position": 20,
+            "product_3": "vermilion-gold-and-pearl-polki-maangtika",
+            "product_sample3_vertical_position": 20,
+            "product_sample3_horizontal_position": 68,
+            "product_4": "",
+            "product_sample4_vertical_position": 48,
+            "product_sample4_horizontal_position": 90
+          }
+        },
+        "382f433d-0451-456b-8ea0-1f0d914122a1": {
+          "type": "image_grid_item",
+          "settings": {
+            "desk_position": "6",
+            "mob_position": "6",
+            "image": "shopify:\/\/shop_images\/Fall_2021_2_7d43ec4e-aea9-4901-893b-502468ec069b.jpg",
+            "title": "Curate your <br><span>dream wedding <\/span> jewels",
+            "text": "A magical mix of tradition, design and refinement.",
+            "link_text": "Consult with us",
+            "link": "https:\/\/wa.me\/message\/7WGG6ZYHZSKXO1"
+          }
+        }
+      },
+      "block_order": [
+        "product_grid",
+        "bc684439-3546-4626-a905-1f3ecfeeca81",
+        "382f433d-0451-456b-8ea0-1f0d914122a1"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "53d8ab24-2922-49af-8cfa-a9f08d9f2a45",
+    "main-collection"
+  ]
+}

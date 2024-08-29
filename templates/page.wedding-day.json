@@ -1,0 +1,477 @@
+{
+  "sections": {
+    "main": {
+      "type": "hero-banner",
+      "settings": {
+        "desk_img": "shopify:\/\/shop_images\/Wedding_Day_cover_1.webp",
+        "mob_img": "shopify:\/\/shop_images\/Wedding_Day_cover_1.webp",
+        "title": "Wedding Day"
+      }
+    },
+    "93f5d6dd-c431-4945-85e9-fbbb035ab85b": {
+      "type": "image-with-slider",
+      "blocks": {
+        "83c6c039-5e74-48a6-afb5-eb08ebe6b159": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kalki-gold-and-polki-meenakari-torque-hasli-indian-wedding-necklace",
+            "vertical_position": 44,
+            "horizontal_position": 50
+          }
+        },
+        "c2b24e6d-753e-4d67-a3f5-101f9d03ec3f": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "shaheen-gold-polki-and-pearl-necklace",
+            "vertical_position": 38,
+            "horizontal_position": 46
+          }
+        }
+      },
+      "block_order": [
+        "83c6c039-5e74-48a6-afb5-eb08ebe6b159",
+        "c2b24e6d-753e-4d67-a3f5-101f9d03ec3f"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 1<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/shop_the_look_2.webp"
+      }
+    },
+    "9496480e-3363-4dcd-8203-11318be61c96": {
+      "type": "image-with-slider",
+      "blocks": {
+        "a4f59e8c-bcab-42dc-8f57-37887a5710d6": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kuhu-gold-polki-and-pearl-indian-bridal-necklace",
+            "vertical_position": 50,
+            "horizontal_position": 50
+          }
+        },
+        "f93d7568-0ab9-4c79-b0bc-73ab64507e56": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "nandita-gold-and-polki-heritage-bridal-earrings",
+            "vertical_position": 40,
+            "horizontal_position": 64
+          }
+        }
+      },
+      "block_order": [
+        "a4f59e8c-bcab-42dc-8f57-37887a5710d6",
+        "f93d7568-0ab9-4c79-b0bc-73ab64507e56"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 2<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Artboard_1_copy_10.webp"
+      }
+    },
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3": {
+      "type": "image-with-slider",
+      "blocks": {
+        "9c38f691-d200-4556-af0b-bf95296ff2b3": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "hoor-tourmaline-and-gold-necklace",
+            "vertical_position": 56,
+            "horizontal_position": 38
+          }
+        },
+        "a475b3a1-011e-4264-938f-a59126fc840e": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "ved-indian-polki-gold-earring",
+            "vertical_position": 32,
+            "horizontal_position": 20
+          }
+        }
+      },
+      "block_order": [
+        "9c38f691-d200-4556-af0b-bf95296ff2b3",
+        "a475b3a1-011e-4264-938f-a59126fc840e"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 2<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Wedding_Day_2.webp"
+      }
+    },
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f": {
+      "type": "image-with-slider",
+      "blocks": {
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "anushka-god-and-uncut-diamond-polki-choker",
+            "vertical_position": 46,
+            "horizontal_position": 52
+          }
+        },
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "aabha-gold-and-kundan-earrings",
+            "vertical_position": 4,
+            "horizontal_position": 82
+          }
+        }
+      },
+      "block_order": [
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7",
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 3<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Wedding_Day_3.webp"
+      }
+    },
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7": {
+      "type": "image-with-slider",
+      "blocks": {
+        "920ef467-8a1e-415a-97d9-5296cab26b15": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "sringara-gold-polki-and-tourmaline-necklace",
+            "vertical_position": 52,
+            "horizontal_position": 28
+          }
+        },
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "poulomi-ruby-and-tourmaline-emerald-polki-earrings",
+            "vertical_position": 30,
+            "horizontal_position": 14
+          }
+        },
+        "b71ad110-bc81-43e4-8d2b-1f0bf148f40b": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "vermilion-gold-and-pearl-polki-maangtika",
+            "vertical_position": 12,
+            "horizontal_position": 48
+          }
+        }
+      },
+      "block_order": [
+        "920ef467-8a1e-415a-97d9-5296cab26b15",
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0",
+        "b71ad110-bc81-43e4-8d2b-1f0bf148f40b"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 4<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Wedding_Day_8.webp"
+      }
+    },
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97": {
+      "type": "image-with-slider",
+      "blocks": {
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kaliganthi-gold-and-ruby-bridal-necklace",
+            "vertical_position": 60,
+            "horizontal_position": 50
+          }
+        },
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kaliganthi-gold-and-ruby-bridal-earrings",
+            "vertical_position": 34,
+            "horizontal_position": 72
+          }
+        },
+        "09f8edeb-253d-490b-b6c4-78fe9c503664": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kalinda-gold-polki-maangtika",
+            "vertical_position": 16,
+            "horizontal_position": 40
+          }
+        }
+      },
+      "block_order": [
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb",
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6",
+        "09f8edeb-253d-490b-b6c4-78fe9c503664"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 5<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Wedding_Day_6.webp"
+      }
+    },
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96": {
+      "type": "image-with-slider",
+      "blocks": {
+        "cd89a8db-6af2-41be-ba3f-12f70780d661": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "brinda-colourful-gold-polki-choker",
+            "vertical_position": 44,
+            "horizontal_position": 40
+          }
+        },
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "pankh-polki-peacock-pendant-necklace",
+            "vertical_position": 58,
+            "horizontal_position": 34
+          }
+        },
+        "f11e2a6d-ade4-472f-9458-1946ba44cb02": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "mayura-pearl-and-multi-gemstone-necklace",
+            "vertical_position": 86,
+            "horizontal_position": 32
+          }
+        },
+        "ce9eb968-4b8e-49ca-86e3-39bddfbc87a4": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "vaidehi-navratna-gold-polki-baali-earrings",
+            "vertical_position": 30,
+            "horizontal_position": 26
+          }
+        },
+        "9a5b2f73-0a41-44f8-a3e0-61c935dafe5c": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "ved-polki-gold-maangtika",
+            "vertical_position": 10,
+            "horizontal_position": 74
+          }
+        }
+      },
+      "block_order": [
+        "cd89a8db-6af2-41be-ba3f-12f70780d661",
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f",
+        "f11e2a6d-ade4-472f-9458-1946ba44cb02",
+        "ce9eb968-4b8e-49ca-86e3-39bddfbc87a4",
+        "9a5b2f73-0a41-44f8-a3e0-61c935dafe5c"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 6<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Wedding_Day_5.webp"
+      }
+    },
+    "31713cac-3799-4cd3-a759-47088a63f1b1": {
+      "type": "image-with-slider",
+      "blocks": {
+        "ae9eb7cf-7ca2-4657-9259-11eb6f8ffc0c": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "maithli-gold-and-polki-emerald-drops-necklace",
+            "vertical_position": 56,
+            "horizontal_position": 54
+          }
+        },
+        "04334981-1337-40ab-99e2-99d02187b2c7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "ananya-gold-and-polki-jadau-jhumka-earrings",
+            "vertical_position": 38,
+            "horizontal_position": 60
+          }
+        },
+        "855c765c-accc-4493-951f-02c6782d45d0": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "ananya-gold-and-polki-jadau-choker",
+            "vertical_position": 50,
+            "horizontal_position": 48
+          }
+        }
+      },
+      "block_order": [
+        "ae9eb7cf-7ca2-4657-9259-11eb6f8ffc0c",
+        "04334981-1337-40ab-99e2-99d02187b2c7",
+        "855c765c-accc-4493-951f-02c6782d45d0"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 7 <\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Wedding_Day_4.webp"
+      }
+    },
+    "77f7bd44-d102-446f-9bdf-db115b3ec54d": {
+      "type": "image-with-slider",
+      "blocks": {
+        "af2635be-4f71-44e9-9469-6aee26c9440a": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "adira-gold-polki-and-emerald-mathapatti-and-necklace",
+            "vertical_position": 16,
+            "horizontal_position": 22
+          }
+        },
+        "3dc813a3-5d90-425e-99de-fc294ee3831c": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "heer-colourful-gemstones-gold-polki-hathphool",
+            "vertical_position": 80,
+            "horizontal_position": 6
+          }
+        },
+        "ad1c6169-350b-4fdf-a38a-1c5d16f4f52c": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "pranithi-multi-gemstone-pearl-nath-necklace",
+            "vertical_position": 52,
+            "horizontal_position": 38
+          }
+        }
+      },
+      "block_order": [
+        "af2635be-4f71-44e9-9469-6aee26c9440a",
+        "3dc813a3-5d90-425e-99de-fc294ee3831c",
+        "ad1c6169-350b-4fdf-a38a-1c5d16f4f52c"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 8<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Wedding_Day_9.webp"
+      }
+    },
+    "2bc3feae-8766-41b5-9c12-8959a4a8cf73": {
+      "type": "image-with-slider",
+      "blocks": {
+        "a69c733f-f30f-436d-ade9-1bb71374cedb": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "javli-ruby-and-polki-gold-necklace",
+            "vertical_position": 56,
+            "horizontal_position": 60
+          }
+        },
+        "397134d7-c467-4be4-a8c7-1bed8e28c087": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "crimson-polki-and-gold-earring-studs-with-ser",
+            "vertical_position": 28,
+            "horizontal_position": 40
+          }
+        }
+      },
+      "block_order": [
+        "a69c733f-f30f-436d-ade9-1bb71374cedb",
+        "397134d7-c467-4be4-a8c7-1bed8e28c087"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 9<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Wedding_Day_1.webp"
+      }
+    },
+    "0d9ab712-9a13-45c7-a03f-9c22e5c2b2ea": {
+      "type": "image-with-slider",
+      "blocks": {
+        "778a5ca9-796e-4b65-8508-1a24f2d1e682": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "mysore-colourful-polki-choker-necklace",
+            "vertical_position": 54,
+            "horizontal_position": 38
+          }
+        },
+        "8a85dc2a-9671-4e02-9ca8-54966c0cfba4": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "barkha-gold-ruby-and-emerald-earrings",
+            "vertical_position": 38,
+            "horizontal_position": 68
+          }
+        },
+        "66ebde31-7528-41dd-874e-6732168f7cd9": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "jheel-antique-diamond-maangtika",
+            "vertical_position": 10,
+            "horizontal_position": 34
+          }
+        }
+      },
+      "block_order": [
+        "778a5ca9-796e-4b65-8508-1a24f2d1e682",
+        "8a85dc2a-9671-4e02-9ca8-54966c0cfba4",
+        "66ebde31-7528-41dd-874e-6732168f7cd9"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 10<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Wedding_Day_7.webp"
+      }
+    },
+    "34a50418-d359-42d9-833a-84d310f4e465": {
+      "type": "image-with-slider",
+      "blocks": {
+        "1247e104-67ec-4592-8678-3d972ca45279": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "saira-wedding-gold-and-tourmaline-necklace-for-women",
+            "vertical_position": 52,
+            "horizontal_position": 52
+          }
+        },
+        "df1108a6-b833-4179-ad83-e11402197619": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "hoor-tourmaline-and-gold-necklace",
+            "vertical_position": 62,
+            "horizontal_position": 60
+          }
+        },
+        "eea0ebd1-e275-481d-ba69-a526b331321b": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kumudini-pink-kundan-gold-baali-earrings",
+            "vertical_position": 42,
+            "horizontal_position": 68
+          }
+        },
+        "19724cf5-a0a3-414e-aaef-0190d9dd732f": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "neeti-colourful-gemstones-gold-polki-hathphool",
+            "vertical_position": 82,
+            "horizontal_position": 54
+          }
+        }
+      },
+      "block_order": [
+        "1247e104-67ec-4592-8678-3d972ca45279",
+        "df1108a6-b833-4179-ad83-e11402197619",
+        "eea0ebd1-e275-481d-ba69-a526b331321b",
+        "19724cf5-a0a3-414e-aaef-0190d9dd732f"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "",
+        "image": "shopify:\/\/shop_images\/Artboard_1_copy_16.webp"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "93f5d6dd-c431-4945-85e9-fbbb035ab85b",
+    "9496480e-3363-4dcd-8203-11318be61c96",
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3",
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f",
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7",
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97",
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96",
+    "31713cac-3799-4cd3-a759-47088a63f1b1",
+    "77f7bd44-d102-446f-9bdf-db115b3ec54d",
+    "2bc3feae-8766-41b5-9c12-8959a4a8cf73",
+    "0d9ab712-9a13-45c7-a03f-9c22e5c2b2ea",
+    "34a50418-d359-42d9-833a-84d310f4e465"
+  ]
+}

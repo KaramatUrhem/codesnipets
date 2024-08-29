@@ -1,0 +1,272 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian weddings are renowned for their grandeur, vibrancy, and timeless traditions. With a rich tapestry of rituals, colors, and festivities, these celebrations captivate the hearts and imaginations of people around the world. Amidst the kaleidoscope of cultural customs, one element that holds immense significance is the jewelry adorning the bride. Indian wedding jewelry is more than just ornamental embellishments; it is an embodiment of heritage, beliefs, and personal style. <\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_5787-min.jpg",
+            "smallinfotext": ""
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/Indian_bridal_jewelry_styles.png",
+        "backmobileimage": "shopify:\/\/shop_images\/Indian_bridal_jewelry_styles.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "530a3a6e-d009-46dc-975e-961c234c3b2f": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16734058742012__530a3a6e-d009-46dc-975e-961c234c3b2f-1686290671ad4dc1e8-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Indian Wedding Jewelry: A Treasure of Time<\/p>"
+          }
+        },
+        "template--16734058742012__530a3a6e-d009-46dc-975e-961c234c3b2f-1686290671ad4dc1e8-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian wedding jewelry has a rich and vibrant history, deeply intertwined with the cultural fabric of the country. For centuries, jewelry has held immense symbolic and emotional value, making it an integral part of Indian weddings. From elaborate necklaces to intricate bangles, each piece of jewelry carries its own significance, reflecting tradition, prosperity, and the bonds of love and commitment. These exquisite adornments are not merely decorative accessories, but rather cherished heirlooms passed down through generations, carrying the weight of family heritage and ancestral blessings.<\/p>"
+          }
+        },
+        "template--16734058742012__530a3a6e-d009-46dc-975e-961c234c3b2f-1686290671ad4dc1e8-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/fine_jewelry_collection_guide.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/fine_jewelry_collection_guide.png",
+            "smallinfotext": ""
+          }
+        },
+        "template--16734058742012__530a3a6e-d009-46dc-975e-961c234c3b2f-1686290671ad4dc1e8-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian wedding jewelry serves as a visual manifestation of the bride's identity, grace, and wealth, enhancing her beauty and radiance on the auspicious occasion. It represents the culmination of timeless traditions, customs, and the celebration of union, making it an indispensable and treasured aspect of every Indian wedding.<\/p><p>However, as the world evolves and individualism takes center stage, there is a growing desire among modern brides to strike a harmonious balance between honoring tradition and expressing their unique personalities. This shift in perspective has led to a reimagining of wedding customs and the emergence of new trends that encapsulate personal style and preferences.  Brides are embracing their unique identities, cherishing the traditions that hold meaning to them, and expressing themselves in new and creative ways. Today, we will delve into the fascinating world of Indian wedding jewelry, exploring ways to blend the richness of tradition with personalized elements, creating a perfect synergy between the past and the present.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16734058742012__530a3a6e-d009-46dc-975e-961c234c3b2f-1686290671ad4dc1e8-0",
+        "template--16734058742012__530a3a6e-d009-46dc-975e-961c234c3b2f-1686290671ad4dc1e8-1",
+        "template--16734058742012__530a3a6e-d009-46dc-975e-961c234c3b2f-1686290671ad4dc1e8-2",
+        "template--16734058742012__530a3a6e-d009-46dc-975e-961c234c3b2f-1686290671ad4dc1e8-3"
+      ],
+      "settings": {
+      }
+    },
+    "cc58c8ca-ea1a-409f-b345-ca309b23ea2e": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16734058742012__cc58c8ca-ea1a-409f-b345-ca309b23ea2e-1686290671ad4dc1e8-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Striking a Balance: Tips for Combining Tradition and Personal Style<\/p>"
+          }
+        },
+        "template--16734058742012__cc58c8ca-ea1a-409f-b345-ca309b23ea2e-1686290671ad4dc1e8-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian weddings are known for their grandeur and the exquisite jewelry worn by the bride. Striking a balance between tradition and personal style is important when selecting wedding jewelry. Here are some tips to help you combine tradition and personal style in Indian wedding jewelry:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16734058742012__cc58c8ca-ea1a-409f-b345-ca309b23ea2e-1686290671ad4dc1e8-0",
+        "template--16734058742012__cc58c8ca-ea1a-409f-b345-ca309b23ea2e-1686290671ad4dc1e8-1"
+      ],
+      "settings": {
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Understand Traditional Jewelry Styles",
+            "infotext": "<p>To understand traditional Indian wedding jewelry styles, it is essential to delve into the rich heritage of the region or culture you are associated with. Start by familiarizing yourself with the traditional jewelry styles of the region or culture you belong to. Each region in India has its own unique jewelry designs, such as Kundan, Filigree, Temple, or Pachhikaam. These styles hold immense cultural and historical significance. Take the time to educate yourself about the origins and symbolic meanings attached to these traditional jewelry styles. By doing so, you will gain a deeper appreciation for their traditional value and be able to recognize and appreciate the intricate craftsmanship and unique aesthetics they embody.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/1_e8ded370-cad7-4979-a8c1-726240dc8386.png",
+            "mobileimage": "shopify:\/\/shop_images\/1_e8ded370-cad7-4979-a8c1-726240dc8386.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Research Contemporary Trends",
+            "infotext": "<p>Explore current jewelry trends to identify elements that align with your personal style. Look for modern interpretations of traditional designs or contemporary jewelry styles that can be incorporated into your wedding ensemble. Keep an eye out for sleeker and more streamlined designs that offer a contemporary touch. Additionally, seek out unique gemstone combinations or innovative settings that add a distinctive flair to Indian wedding jewelry. By staying updated with current trends, you can discover inspiring ideas that enhance your overall bridal look with a modern and individualistic charm.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/7_9f7b2339-3f01-481a-b587-ae1f99da7fb1.png",
+            "mobileimage": "shopify:\/\/shop_images\/7_9f7b2339-3f01-481a-b587-ae1f99da7fb1.png",
+            "imagetext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Blend Traditional and Modern Elements",
+            "infotext": "<p>To create a harmonious blend of traditional and modern elements in Indian wedding jewelry, consider incorporating contemporary touches into classic designs. Opt for a statement necklace that features a modern twist, such as a unique pendant or unconventional gemstones. Additionally, opt for bangles that seamlessly fuse traditional motifs with contemporary patterns, showcasing the best of both worlds. By embracing these modern elements, you can express your individual style and preferences while paying homage to the rich traditions and heritage of Indian wedding jewelry.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/2_212572c3-8fbb-4430-b804-ad73e4587f36.png",
+            "mobileimage": "shopify:\/\/shop_images\/2_212572c3-8fbb-4430-b804-ad73e4587f36.png",
+            "imagetext": ""
+          }
+        },
+        "d9bdde53-be0c-4392-b652-ad3b46448b82": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Mix and Match",
+            "infotext": "<p>Mixing and matching traditional Indian wedding jewelry and contemporary elements in your choices can result in a beautifully balanced and unique style. For example, by combining a classic Kundan necklace with a modern diamond bracelet, you effortlessly merge the old and new, creating a captivating contrast. Additionally, incorporating a cherished Indian wedding jewelry vintage family heirloom into a modern jewelry setting allows you to preserve the sentimental value while infusing a touch of modernity. This fusion of styles not only adds depth and intrigue to your overall look but also showcases your individuality and personal flair, making a lasting impression.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/6_d5d0cb6d-f568-4dfa-81de-688723b1146f.png",
+            "mobileimage": "shopify:\/\/shop_images\/6_d5d0cb6d-f568-4dfa-81de-688723b1146f.png",
+            "imagetext": ""
+          }
+        },
+        "a650ea6c-0daa-43be-932f-b23b00c4994d": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Consider Statement Pieces",
+            "infotext": "<p>When it comes to accessorizing, consider the power of statement pieces. Rather than wearing a full set of Indian wedding jewelry, choose one standout item that becomes the centerpiece of your outfit. Whether it's a captivating statement necklace, eye-catching oversized earrings, or a bold Maang tikka, these singular pieces can make a powerful impact while still honoring traditional aesthetics. By focusing on a single statement accessory, you can create a striking and memorable look that showcases your personal style and captures attention effortlessly.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/4_dbd4cb3f-af7a-45af-97c2-1a898dd0d034.png",
+            "mobileimage": "shopify:\/\/shop_images\/4_dbd4cb3f-af7a-45af-97c2-1a898dd0d034.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "5052cbe0-9296-4dc0-8fb3-b598bd43777c": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Seek Inspiration",
+            "infotext": "<p>To create the perfect blend of tradition and personal style in your Indian wedding jewelry, it's essential to seek inspiration from various sources. Browse through bridal magazines, explore online platforms, and engage with social media to gather ideas from real weddings and expert advice. Take note of the pieces that resonate with you and save images to create mood boards. These visual references will help you communicate your vision effectively to your jeweler, ensuring they understand the aesthetic you desire. By seeking inspiration, you'll be able to infuse your unique style into your wedding jewelry while honoring timeless traditions.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/3_112c9554-930f-423a-8f08-22a2cfc33285.png",
+            "mobileimage": "shopify:\/\/shop_images\/3_112c9554-930f-423a-8f08-22a2cfc33285.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "d8ed60f0-f593-4275-93e1-c913bc7d0467": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Customize Your Jewelry",
+            "infotext": "<p>The beauty of customization lies in the ability to infuse your own unique essence into your Indian wedding jewelry, ensuring that it becomes a cherished reflection of your personal taste and an unforgettable symbol of your special day. Customization allows you to infuse your personality into your wedding jewelry. By collaborating with a talented jewelry designer, you have the opportunity to tailor your jewelry to perfectly match your individual style, all while incorporating elements of timeless tradition. Through open discussions with them about your preferences, favored colors, and design concepts, you can bring your vision to life and craft one-of-a-kind pieces that truly resonate with your personality. <\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/5_cfd48ae1-8d25-49b2-8024-dfe26b88f349.png",
+            "mobileimage": "shopify:\/\/shop_images\/5_cfd48ae1-8d25-49b2-8024-dfe26b88f349.png",
+            "imagetext": "<p><em>Bespoke <\/em><a href=\"https:\/\/www.aurusjewels.com\/products\/leela-diamond-emerald-and-topaz-studded-gold-peacock-necklace\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/leela-diamond-emerald-and-topaz-studded-gold-peacock-necklace\"><em>Leela Peacock Necklace<\/em><\/a><em> by Aurus in the making<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2",
+        "d9bdde53-be0c-4392-b652-ad3b46448b82",
+        "a650ea6c-0daa-43be-932f-b23b00c4994d",
+        "5052cbe0-9296-4dc0-8fb3-b598bd43777c",
+        "d8ed60f0-f593-4275-93e1-c913bc7d0467"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "bac19c80-07d0-443f-96bb-5633f6b4e0ba": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16734058742012__bac19c80-07d0-443f-96bb-5633f6b4e0ba-1686290671ad4dc1e8-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Embrace the richness of tradition and the beauty of individuality as you embark on your journey to find the perfect Indian wedding jewelry. Your wedding jewelry should make you feel confident and beautiful while honoring your cultural heritage. By blending traditional elements with contemporary touches, you can create a unique and meaningful ensemble for your special day. Looking for someone to guide you through this process? Let our team of experts be the helping hand in curating Indian wedding jewelry for you that can be a treasure of time and a testament to your uniqueness!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16734058742012__bac19c80-07d0-443f-96bb-5633f6b4e0ba-1686290671ad4dc1e8-1"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "blocks": {
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#000000",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "530a3a6e-d009-46dc-975e-961c234c3b2f",
+    "cc58c8ca-ea1a-409f-b345-ca309b23ea2e",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "bac19c80-07d0-443f-96bb-5633f6b4e0ba",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

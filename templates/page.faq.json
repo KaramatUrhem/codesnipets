@@ -1,0 +1,268 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "faq-0": {
+          "type": "rich-text",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "faq-3": {
+          "type": "rich-text",
+          "disabled": true,
+          "settings": {
+            "title": "Returns",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-4": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "faq-3",
+        "faq-4"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "56e6b1c8-7fe5-4035-bd89-411acabd493b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16686222049532__56e6b1c8-7fe5-4035-bd89-411acabd493b-16812740538c470752-0": {
+          "type": "heading",
+          "settings": {
+            "title": "FAQs"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686222049532__56e6b1c8-7fe5-4035-bd89-411acabd493b-16812740538c470752-0"
+      ],
+      "settings": {
+        "classname": "pages_header",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "dae40c2d-fc2f-46dd-b0b9-582a03b657b2": {
+      "type": "new-faq-with-tab",
+      "blocks": {
+        "fdefbe73-b6d2-4e5a-aae1-db71e84f59ed": {
+          "type": "faqtab",
+          "settings": {
+            "Category-name": "Shipping",
+            "faq-title-name": "Shipping",
+            "FAQ1-Qes": "What is your standard making time?",
+            "FAQ1-Ans": "<p>Our designs are either made to order, in stock or in the making.<\/p><p>If our design is in stock we can dispatch it in a weeks time and if the design is made to order it will take us approximately a month to 45 days to make the designs - from the day the order is placed. We would request you to reach out us on <a href=\"tel:8866286000\" title=\"tel:8866286000\">+918866286000<\/a> or mail us on <a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com<\/a> to know the availibility of the designs or if you have a specific timeline.<\/p><p>Note : Actual making timelines might vary subject to reasons beyond our control and we will ensure that we inform you as soon we can in case of any such delays.<\/p>",
+            "FAQ2-Qes": "How long will it take to get my order?",
+            "FAQ2-Ans": "<p>The time taken for delivery tends to vary according to the destination; however, we make our best efforts to ensure that the order is delivered within 4-5 working days from the day your order is dispatched<\/p><p>For select pincodes and cities like Delhi, Mumbai, Hyderabad, Chennai and Bangalore the product will be delivered within two days.<\/p><p>Note : Actual delivery timelines might vary subject to reasons beyond our control and we will ensure that we inform you as soon we can in case of any such delays. Delivery details with a tracking link shall be provided on email as soon as your order is shipped.<\/p>",
+            "FAQ3-Qes": "What shipping carriers do you use?",
+            "FAQ3-Ans": "<p>We use insured shipping carrier Sequel logistics for all deliveries within India.<\/p>",
+            "FAQ4-Qes": "Is shipping insured?",
+            "FAQ4-Ans": "<p>Yes. All our shipments are insured.<\/p>",
+            "FAQ5-Qes": "Will I have to pay additional shipping and taxes for my order?",
+            "FAQ5-Ans": "<p>Shipping within India is complimentary. Additional GST of 3% is applicable at checkout.<\/p>",
+            "FAQ6-Qes": "Can I edit my shipping address?",
+            "FAQ6-Ans": "<p>You can get in touch with us on<a href=\"tel:918866286000\" title=\"tel:918866286000\">+918866286000<\/a>or mail us on<a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com<\/a>if you face any difficulties there. to edit your shipping address. Kindly note that a change in shipping address may alter the delivery date of the product.<\/p>",
+            "FAQ7-Qes": "How can I track the status of my order?",
+            "FAQ7-Ans": "<p>We send out an order dispatch confirmation email which has the tracking link of your order. You can click on the same to track your order and you can get in touch with us on<a href=\"tel:918866286000\" title=\"tel:918866286000\">+918866286000<\/a>or mail us on<a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com<\/a>if you face any difficulties there.<\/p>",
+            "FAQ8-Qes": "",
+            "FAQ8-Ans": "",
+            "FAQ9-Qes": "",
+            "FAQ9-Ans": "",
+            "FAQ10-Qes": "",
+            "FAQ10-Ans": ""
+          }
+        },
+        "c1f5949b-3ce2-423a-8383-3c955cde877a": {
+          "type": "faqtab",
+          "settings": {
+            "Category-name": "Product",
+            "faq-title-name": "Product",
+            "FAQ1-Qes": "How can I find the size of the ring\/bracelet",
+            "FAQ1-Ans": "<p>You can refer to our size chart to find your accurate ring or bracelet size. In case of any difficulties, you can get in touch with us on <a href=\"tel:918866286000\" title=\"tel:918866286000\">+918866286000 <\/a>or mail us on <a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com <\/a>and we will assist you with measuring the accurate size.<\/p>",
+            "FAQ2-Qes": "Can I get my product personalized?",
+            "FAQ2-Ans": "<p>Kindly email any personalization requests to us at<a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com<\/a>and we will let you know on it.<\/p>",
+            "FAQ3-Qes": "Why does the product appear to be different on the website than the original piece?",
+            "FAQ3-Ans": "<p>We try to capture the design in its utmost essence, with true to reality colors, though sometimes the result is subject to lighting and may appear different on each screen depending on the screen resolution. Each product is unique as it is handcrafted which implies that no two pieces can be exact replicas, with a 5-10% margin on changes in weights and dimensions and therefore the overall look. We strive towards putting all our efforts to match it to the specifications provided on the website and do not compromise on quality at any point.<\/p>",
+            "FAQ4-Qes": "How do I take care of my jewelry?",
+            "FAQ4-Ans": "<p>You can click here to read our jewel care . In case of any further questions, you can also get in touch with us on<a href=\"tel:+918866286000\" title=\"tel:+918866286000\">+918866286000<\/a>or mail us on<a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com<\/a>.<\/p>",
+            "FAQ5-Qes": "I see a different price than what I saw earlier for a design, why is that?",
+            "FAQ5-Ans": "<p>We update our prices if there is a noticeable hike in the prevalent gold rates or other precious materials used in the design, this would be the only reason for the hike you see.<\/p>",
+            "FAQ6-Qes": "Do you have any stores or stockists? I would like to see the product before buying it.",
+            "FAQ6-Ans": "<p>We have our boutique in Ahmedabad. If you live elsewhwere, we can help you with additional pictures and\/or schedule a video call if that helps you understand the product better. We can also help you with a home-viewing - subject to the availability of the designs you shortlist. You can reach out to us on<a href=\"tel:918866286000\" title=\"tel:918866286000\">+918866286000<\/a>or mail us on<a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com<\/a>with your request and we will happily assist you.<\/p>",
+            "FAQ7-Qes": "What is the authenticity and quality of the gemstones used in your designs?",
+            "FAQ7-Ans": "<p>All the gemstones we use are natural and responsibly sourced. They may have, indentations, inclusions or other slight imperfections which are the identity and beauty of naturally occurring gemstones. To know more, you can get in touch with us on<a href=\"tel:918866286000\" title=\"tel:918866286000\">+918866286000<\/a>or mail us on<a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com<\/a>.<\/p>",
+            "FAQ8-Qes": "",
+            "FAQ8-Ans": "",
+            "FAQ9-Qes": "",
+            "FAQ9-Ans": "",
+            "FAQ10-Qes": "",
+            "FAQ10-Ans": ""
+          }
+        },
+        "d774cee4-3e43-48e6-8601-91b0e2ad9600": {
+          "type": "faqtab",
+          "settings": {
+            "Category-name": "Account",
+            "faq-title-name": "Account",
+            "FAQ1-Qes": "Do I need to create an account to place an order?",
+            "FAQ1-Ans": "<p>No, you don’t need to create an account to place an order. You can checkout as a guest, but we will need you to fill in your email address at checkout and phone number during checkout for communication related to order fulfilment and logistics.<\/p>",
+            "FAQ2-Qes": "How do I reset my password?",
+            "FAQ2-Ans": "<p>You can click on forgot password, to receive a password reset link on your registered email ID.<\/p>",
+            "FAQ3-Qes": "Do you take customization orders?",
+            "FAQ3-Ans": "<p>For any personalization\/customsitaion requests kindly get in touch with us us on<a href=\"tel:918866286000\" title=\"tel:918866286000\">+918866286000<\/a>or mail us on<a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com<\/a>and we will review your request and get back to you.<\/p>",
+            "FAQ4-Qes": "Do you provide a certificate?",
+            "FAQ4-Ans": "<p>We provide an In store certificate that has all the specifications of the design. For the diamonds we can give you an IGI certificate on request which will come at an additional cost. We stamp all our products and will honor our commitment in case of any manufacturing defects.<\/p>",
+            "FAQ5-Qes": "",
+            "FAQ5-Ans": "",
+            "FAQ6-Qes": "",
+            "FAQ6-Ans": "",
+            "FAQ7-Qes": "",
+            "FAQ7-Ans": "",
+            "FAQ8-Qes": "",
+            "FAQ8-Ans": "",
+            "FAQ9-Qes": "",
+            "FAQ9-Ans": "",
+            "FAQ10-Qes": "",
+            "FAQ10-Ans": ""
+          }
+        },
+        "32d0e478-d5cd-4ebd-a26c-e9f330bf085c": {
+          "type": "faqtab",
+          "settings": {
+            "Category-name": "Sizing",
+            "faq-title-name": "Sizing",
+            "FAQ1-Qes": "How do I find my correct size?",
+            "FAQ1-Ans": "<p>We have laid out a simple and well illustrated size guide here which should help you ascertain your ring size or bracelet size. We would recommend you reach out to us on whatsapp or call if you need any assistance in finding your size, before placing an order.<\/p>",
+            "FAQ2-Qes": "What if the ring\/bracelet size I ordered does not fit me?",
+            "FAQ2-Ans": "<p>We recommend you follow the well illustrated steps laid out in our size guide here to ascertain your ring size or bracelet size before placing an order.<\/p><p>In the case, where the size provided by you while placing an order, turns out to not fit you, we should be able to work it out for you. Additional costs may apply.<\/p><p>We would recommend you reach out to us on whatsapp or call if you need any assistance in finding your size, before placing an order.<\/p>",
+            "FAQ3-Qes": "Which is your recommended method to submit my ring size?",
+            "FAQ3-Ans": "<p>We would recommend method 1 from the sizing guide. The image of a ring neatly placed on a ruler is the clearest way for us to ascertain ring size.<\/p>",
+            "FAQ4-Qes": "",
+            "FAQ4-Ans": "",
+            "FAQ5-Qes": "",
+            "FAQ5-Ans": "",
+            "FAQ6-Qes": "",
+            "FAQ6-Ans": "",
+            "FAQ7-Qes": "",
+            "FAQ7-Ans": "",
+            "FAQ8-Qes": "",
+            "FAQ8-Ans": "",
+            "FAQ9-Qes": "",
+            "FAQ9-Ans": "",
+            "FAQ10-Qes": "",
+            "FAQ10-Ans": ""
+          }
+        },
+        "240a1922-249d-4e91-bff6-6ab71fa8784c": {
+          "type": "faqtab",
+          "settings": {
+            "Category-name": "Repairs",
+            "faq-title-name": "Repairs",
+            "FAQ1-Qes": "What if I receive a damaged piece?",
+            "FAQ1-Ans": "<p>Ouch! That's sad!<br\/>In the event of any defects or damages, please get in touch with us on <a href=\"tel:918866286000\" title=\"tel:918866286000\">+918866286000 <\/a>or mail us on <a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com <\/a>within 24 hours of receiving your product along with photographs of the product highlighting the issue. Our team will respond back to remedy the situation. We shall then arrange a pickup for the damaged product to be sent to us. It has to be in its original condition and secure packaging.<\/p>",
+            "FAQ2-Qes": "I broke\/damaged my jewelry while using, can you help?",
+            "FAQ2-Ans": "<p>In the event of any defects or damages caused by use or natural wear and tear, please get in touch with us on<a href=\"tel:918866286000\" title=\"tel:918866286000\">+918866286000<\/a>or mail us on<a href=\"mailto:shop@aurusjewels.com\" title=\"mailto:shop@aurusjewels.com\">shop@aurusjewels.com<\/a>along with photographs of the product highlighting the issue. Our team will respond back soon, to help remedy the situation and we will offer our assistance in getting the best for you!<br\/><br\/>Additional charges may apply.<\/p>",
+            "FAQ3-Qes": "Can all the rings be resized?",
+            "FAQ3-Ans": "<p>Every ring is made on order and we have a standard procedure that we follow to confirm the ring size which allows us to get an accurate size most of the times. We shall follow the provided measurement for crafting the ring. In case you need a size adjustment, a new piece will have to be crafted and sent to you, an additional token amount shall be applicable.<\/p>",
+            "FAQ4-Qes": "",
+            "FAQ4-Ans": "",
+            "FAQ5-Qes": "",
+            "FAQ5-Ans": "",
+            "FAQ6-Qes": "",
+            "FAQ6-Ans": "",
+            "FAQ7-Qes": "",
+            "FAQ7-Ans": "",
+            "FAQ8-Qes": "",
+            "FAQ8-Ans": "",
+            "FAQ9-Qes": "",
+            "FAQ9-Ans": "",
+            "FAQ10-Qes": "",
+            "FAQ10-Ans": ""
+          }
+        },
+        "d990b52a-f2ef-4c7f-91f7-394e9abe4e3b": {
+          "type": "faqtab",
+          "settings": {
+            "Category-name": "Resale policy",
+            "faq-title-name": "Resale policy",
+            "FAQ1-Qes": "What is your resale\/exchange policy?",
+            "FAQ1-Ans": "<p>We generally have a 30% markdown on the value of the piece - on return (within 3 years from the date of purchase) and in case of a later duration - we can consider the then gold value and arrive at a decision.<\/p>",
+            "FAQ2-Qes": "",
+            "FAQ2-Ans": "",
+            "FAQ3-Qes": "",
+            "FAQ3-Ans": "",
+            "FAQ4-Qes": "",
+            "FAQ4-Ans": "",
+            "FAQ5-Qes": "",
+            "FAQ5-Ans": "",
+            "FAQ6-Qes": "",
+            "FAQ6-Ans": "",
+            "FAQ7-Qes": "",
+            "FAQ7-Ans": "",
+            "FAQ8-Qes": "",
+            "FAQ8-Ans": "",
+            "FAQ9-Qes": "",
+            "FAQ9-Ans": "",
+            "FAQ10-Qes": "",
+            "FAQ10-Ans": ""
+          }
+        }
+      },
+      "block_order": [
+        "fdefbe73-b6d2-4e5a-aae1-db71e84f59ed",
+        "c1f5949b-3ce2-423a-8383-3c955cde877a",
+        "d774cee4-3e43-48e6-8601-91b0e2ad9600",
+        "32d0e478-d5cd-4ebd-a26c-e9f330bf085c",
+        "240a1922-249d-4e91-bff6-6ab71fa8784c",
+        "d990b52a-f2ef-4c7f-91f7-394e9abe4e3b"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq",
+    "56e6b1c8-7fe5-4035-bd89-411acabd493b",
+    "dae40c2d-fc2f-46dd-b0b9-582a03b657b2"
+  ]
+}

@@ -1,0 +1,53 @@
+<div class="Page_indian_family_jewels_loop_meta_main_new" style="background:{{ section.settings.mainbackcolor }};">
+  <div class="Page_indian_family_jewels_loop_meta_inner_new">
+    <div class="Page_indian_family_jewels_loop_meta_up_next_new">UP NEXT</div>
+    <div class="Page_indian_family_jewels_loop_meta_allloop_new">
+      {%- for indianfamilyjewels in shop.metaobjects.indian_family_jewels.values -%}
+        {%- unless indianfamilyjewels.redirect_page_url.value == request.path -%}
+          {%- if indianfamilyjewels.image.value != blank or indianfamilyjewels.title.value != blank -%}
+            <div class="Page_indian_family_jewels_loop_meta_allloop_mainboxs_new">
+              <div class="Page_indian_family_jewels_loop_meta_allloop_innerboxs_new">
+                <a href="{{ indianfamilyjewels.redirect_page_url.value }}">
+                  {%- if indianfamilyjewels.title.value != blank -%}
+                    <div class="Page_indian_family_jewels_loop_meta_allloop_titleboxs_new">
+                      <h3>{{ indianfamilyjewels.title.value }}</h3>
+                    </div>
+                  {%- endif -%}
+                  {%- if indianfamilyjewels.image.value != blank -%}
+                    <div class="Page_indian_family_jewels_loop_meta_allloop_imageboxs_new">
+                      {%- render 'image-element',
+                        img: indianfamilyjewels.image.value,
+                        widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                        classes: 'boxs_image_new',
+                      -%}
+                    </div>
+                  {%- endif -%}
+                </a>
+              </div>
+            </div>
+          {%- endif -%}
+        {%- endunless -%}
+      {%- endfor -%}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Indian Family Jewels Loop",
+    "class": "Page_indian_family_jewels_loop_meta_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#000000"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Indian Family Jewels Loop"
+      }
+    ]
+  }
+{% endschema %}

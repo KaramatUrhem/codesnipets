@@ -1,0 +1,165 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>The journey to becoming a bride is one filled with excitement, joy and a myriad of decisions to be made. The journey to becoming a bride is not merely about selecting a dress or perfecting a hairstyle. It is about the creation of a cherished memory, a celebration of love, and the manifestation of a lifelong dream. And behind it all, the elite bridal stylists stand as silent guardians of beauty, weaving their expertise and secrets to ensure that every bride's journey is a true work of art.<\/p><p><\/p>"
+          }
+        },
+        "0f8b74d5-e567-4f68-a758-8a9df8af3cd0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Bridal Stylists: Crafting the Perfect Bridal Experience<\/p>"
+          }
+        },
+        "489327e5-d196-4001-8d59-74f56ce2dc40": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Bridal stylists play a pivotal role in helping brides curate their dream wedding looks, ensuring a seamless and unforgettable experience. With their expertise and years of experience, top bridal stylists have an innate understanding of current trends, timeless styles, and the unique needs of each bride. They meticulously assess various factors such as the bride's personal style and wedding theme to provide tailored recommendations on wedding dress, accessories, and hairstyles. <\/p><p>Bridal stylists' invaluable advice helps brides navigate the overwhelming choices, ensuring they feel confident and radiant on their special day. Today, we will embark on a journey to unlock the mysteries of bridal styling, as we delve into the minds of top bridal stylists who are masters of their craft.<\/p>"
+          }
+        },
+        "5efd72d6-9081-4491-b905-aec0f39971c7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Why_you_need_a_bridal_stylist.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Bridal_styling_etiquettes.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "5174b168-ab0f-4721-9545-9836351cee2d": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<h3>Preparing for Bridal Styling<\/h3><p>Before diving into the world of bridal styling, it is crucial for brides to prepare themselves. One of the first steps is to research different styles and gather inspiration. Browsing through bridal magazines, websites, and social media platforms can help brides discover their preferences and identify the styles that resonate with them. It's also helpful to create a mood board or collection of images that showcase the desired look. This will serve as a reference point when discussing ideas with the bridal stylist.<\/p><h3>Body Type Analysis and Silhouette Selection<\/h3><p>Every bride is unique, and it's crucial to choose a wedding dress silhouette that flatters their individual body type. Top bridal stylists emphasize the importance of understanding one's body shape and selecting a silhouette that accentuates the bride's best features. By analyzing body proportions and understanding the bride's preferences, a skilled bridal stylist guides her toward the perfect silhouette that makes her feel confident and beautiful on her special day.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "0f8b74d5-e567-4f68-a758-8a9df8af3cd0",
+        "489327e5-d196-4001-8d59-74f56ce2dc40",
+        "5efd72d6-9081-4491-b905-aec0f39971c7",
+        "5174b168-ab0f-4721-9545-9836351cee2d"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/2_72a8ae91-b906-496d-a27a-2ddbe02ff90b.png",
+        "backmobileimage": "shopify:\/\/shop_images\/2_72a8ae91-b906-496d-a27a-2ddbe02ff90b.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Color Palette and Styling Tips",
+            "infotext": "<p>The color palette chosen for the wedding dress can significantly impact the overall bridal look. Bridal stylists emphasize the importance of selecting colors that complement the bride's skin tone and the overall wedding theme. Moreover, bridal stylists suggest considering the season and venue when finalizing the color palette, as these elements can influence the ambiance of the wedding. The expert advice of a bridal stylist can help brides choose the perfect color palette that brings out their natural beauty and creates a captivating visual impact.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/1_f301caf9-d268-4a32-b716-a9dfce31bc0f.png",
+            "mobileimage": "shopify:\/\/shop_images\/1_f301caf9-d268-4a32-b716-a9dfce31bc0f.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Accessory and Jewelry Recommendations",
+            "infotext": "<p>Bridal accessories are the finishing touches that complete the bridal ensemble. Hair accessories and footwear, along with bridal jewelry, contribute to the overall look. Top bridal stylists recommend selecting accessories that harmonize with the wedding dress, reflecting the bride's personal style and the overall aesthetic of the wedding. By carefully selecting accessories, a bridal stylist can help create a cohesive and breathtaking ensemble.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/2_810de738-455f-44e0-90f4-53446a174a10.png",
+            "mobileimage": "shopify:\/\/shop_images\/2_810de738-455f-44e0-90f4-53446a174a10.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/sampada-indian-gold-jhumka-earrings\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/sampada-indian-gold-jhumka-earrings\"><em>Sampada Earrings<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<h3>Hair and Makeup Tips<\/h3><p>Bridal hairstyles and makeup are essential components of the overall look. They can elevate the bride's beauty and complete her wedding ensemble. Top bridal stylists emphasize the importance of choosing a hairstyle and makeup that align with the bride's personal style and features. The hairstyle should enhance the bride's facial features and complement the wedding dress. Similarly, the makeup should be tailored to the bride's preferences, skin tone, and desired level of glamor. By considering these factors, a bridal stylist can ensure the bride feels confident, radiant, and stunning on her special day.<\/p>"
+          }
+        },
+        "62d8d3f5-0de3-4b17-b8eb-830d630e7888": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Bridal_styling_etiquettes.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Bridal_styling_etiquettes.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "0c100047-d266-4a0a-ad4b-72cb9f691c64": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Bridal styling is an art that requires expertise and an understanding of the bride's vision. Top bridal stylists possess the skills and knowledge to unlock the secrets of bridal styling, ensuring that every bride looks and feels her best on her wedding day. From choosing the right wedding dress to selecting the perfect color palette, accessories, hairstyle, and makeup, their guidance and tips are invaluable in creating a cohesive and personalized bridal look. By working with a bridal stylist, brides can unlock the secrets to achieving their dream wedding look and make their special day truly unforgettable.<\/p><p>Experience the magic of jewelry styling with our team of bridal stylists, and let us bring your vision to life. From helping you select the perfect Indian bridal necklace to curating your entire wedding day trousseau, our bridal stylists are here to guide you every step of the way. Let us transform your vision into reality, ensuring you look and feel your absolute best on your special day.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "62d8d3f5-0de3-4b17-b8eb-830d630e7888",
+        "0c100047-d266-4a0a-ad4b-72cb9f691c64"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

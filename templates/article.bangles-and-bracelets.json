@@ -1,0 +1,213 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>India, the land of cultures and traditions, has always been decorated with colors. Different colors symbolize different emotions and beliefs. Indian philosophers believed that the creation of our universe is linked with gunas, which are linked to colors. The three gunas – Tamas, Rajas, and Sattva, are connected to three colors – black, red, and white respectively. A glimpse of these colors can also be seen in the innovative designs of Indian jewelry. Be it necklaces, rings, or bracelets and bangles, the use of color gives the piece more depth and flavor.  <br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2"
+      ],
+      "settings": {
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Relationship Between Colors and Jewelry<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Colors hold a dear place in our hearts. We can’t imagine a bride without her red ensemble or a trip to the holy places without witnessing the shades of saffron. Colors help us celebrate and grieve. They add more taste to our clothes and jewelry. Since colors and jewels are inseparable in our culture, let’s take a closer look at what they represent and symbolize in Indian bangles and bracelets for women.<\/p><p><\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/2_d6be9dbf-b4d5-4061-bc47-c44a82eb24bf.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/2_d6be9dbf-b4d5-4061-bc47-c44a82eb24bf.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Rene Passet via Flickr<\/em><\/p>"
+          }
+        },
+        "afdc8e57-d650-4e18-88a3-c422ed297a05": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Classic Red<\/p>"
+          }
+        },
+        "b5cc17fe-6775-40ad-aced-eb5228a593a6": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/3_c152b8c3-b47a-44f4-b705-f9c5ed69b2ce.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/3_c152b8c3-b47a-44f4-b705-f9c5ed69b2ce.png",
+            "smallinfotext": "<p><em>Image courtesy: Wikimedia Commons<\/em><\/p>"
+          }
+        },
+        "645b6f1d-11bb-4f86-b274-fca397d10124": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>As mentioned above, red is the primary color that comes to mind when one thinks of an Indian wedding. It is a symbol of love, prosperity, and fertility in Indian culture. At the same time, red is associated with Durga, a Hindu goddess associated with protection, strength, motherhood, destruction, and wars. <\/p><p>So, red is more than just a color. Since the color emits positive energy, having red on the wrist is never a bad idea. The red chooda that a bride wears after her marriage is believed to bring luck to the newlywed couple. The Ruby, which is also known as “Ratnaraj” or the “King of precious stones” in Indian culture, is associated with passion, love, beauty, and wisdom. <\/p><p><\/p>"
+          }
+        },
+        "b000c975-c1ca-4e7d-8eb2-2a34b02867e1": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Grandiose Green<\/p>"
+          }
+        },
+        "fcc65107-0e00-4708-8b31-c209aaad3ce4": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/4_76d2f0d1-6b71-4188-a9fc-271ce378f24f.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/4_76d2f0d1-6b71-4188-a9fc-271ce378f24f.png",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "686a7206-a21e-4b6c-b834-922e9dbd422b": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Green is associated with nature and growth. The color symbolizes new beginnings, the harvest of crops, and happiness. The women of Maharashtra and parts of Karnataka wear green bangles as a sign of fertility and auspiciousness.<\/p><p>Due to all these reasons, green is a popular choice for Indian bracelets and bangles these days, and gold bracelets for women encrusted with emeralds are timeless pieces that can add a sense of grandeur to your look. \t<\/p><p><\/p>"
+          }
+        },
+        "2c2ae553-a567-43c1-91e7-8eb8fa0c33d4": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Mellow Yellow<\/p>"
+          }
+        },
+        "a9b2341e-48d2-4a44-8927-d68d399b9208": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/5_52a42f33-93b2-4d84-8cc3-e59cb5a954e9.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/5_52a42f33-93b2-4d84-8cc3-e59cb5a954e9.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "a02dd270-f52b-48fd-b55e-cab0b20febac": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Yellow is considered to be the happy color. It is associated with Surya and Lord Vishnu and symbolizes purity and victory. It is also often associated with the Hindu goddess Saraswati, who is the goddess of knowledge and learning. <\/p><p>Brides wear yellow outfits, bangles, and bracelets before their wedding during the ‘haldi’ ceremony. A yellow sapphire gemstone, also known as Pukhraj, represents power and grace. Yellow hand jewelry is popular and can be easily paired with outfits and other pieces of jewelry. For instance, gold bangles and bracelets for women are the premier choices when it comes to adding more shine and flavor to any outfit, be it an evergreen Benarasi saree or a fusion contemporary lehenga. <\/p><p><\/p>"
+          }
+        },
+        "e302d465-bd7f-4931-bf78-9a62492fc897": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Lively Blue<\/p>"
+          }
+        },
+        "16c4289b-f570-4911-9a16-22a5b8ffb6af": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/6_3dfe6d96-573f-400b-880f-79bb7414576b.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/6_3dfe6d96-573f-400b-880f-79bb7414576b.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "d57c63d0-8f13-429b-9166-f3ed321a7c08": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Blue is the color of infiniteness, the sky, and the oceans. It represents life and power. It is often associated with Lord Krishna but Brahmins do not wear the color because they believe it is destructive.  <\/p><p>Blue is great for creating calm looks. It carries a sense of elegance with it and blue sapphires are the perfect example of that. A great look can be created effortlessly using the blue theme and can be decorated using blue Indian bracelets and bangles. <\/p><p><\/p>"
+          }
+        },
+        "ea4649b7-8767-41ff-b4de-962059439119": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Sanctified Saffron<\/p>"
+          }
+        },
+        "5131a17f-4f58-4d7d-b57a-aec3ef51cda7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/7_bab3e7e7-d401-4643-8e18-987904747ba3.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/7_bab3e7e7-d401-4643-8e18-987904747ba3.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Wallpaper Flare<\/em><\/p>"
+          }
+        },
+        "d78893f6-292c-4a7e-abd1-569247507fdf": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Saffron is closely related to the Hindu holy places. The vibrant and energetic shades of the color can make up for interesting outfits and jewelry. <\/p><p>Orange is connected with wealth and abundance. Gemstones such as the orange citrine can surely add more charm and elegance to your outfits and Indian bracelets or bangles detailed in orange can easily become your statement pieces. <\/p><p>The jewels and colors of India have a close-knit relationship. The colors incorporate our cultures and traditions into our jewelry and make it even more beautiful. If you’re looking for something colorful for your ensemble, take a look at our Indian bracelet collection and get some inspiration from there! <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2",
+        "afdc8e57-d650-4e18-88a3-c422ed297a05",
+        "b5cc17fe-6775-40ad-aced-eb5228a593a6",
+        "645b6f1d-11bb-4f86-b274-fca397d10124",
+        "b000c975-c1ca-4e7d-8eb2-2a34b02867e1",
+        "fcc65107-0e00-4708-8b31-c209aaad3ce4",
+        "686a7206-a21e-4b6c-b834-922e9dbd422b",
+        "2c2ae553-a567-43c1-91e7-8eb8fa0c33d4",
+        "a9b2341e-48d2-4a44-8927-d68d399b9208",
+        "a02dd270-f52b-48fd-b55e-cab0b20febac",
+        "e302d465-bd7f-4931-bf78-9a62492fc897",
+        "16c4289b-f570-4911-9a16-22a5b8ffb6af",
+        "d57c63d0-8f13-429b-9166-f3ed321a7c08",
+        "ea4649b7-8767-41ff-b4de-962059439119",
+        "5131a17f-4f58-4d7d-b57a-aec3ef51cda7",
+        "d78893f6-292c-4a7e-abd1-569247507fdf"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "ed5ac2c7-8150-44a0-bee2-105fe06d7c3f": {
+      "type": "size_chart_custom",
+      "blocks": {
+        "a88ef4d2-0fd0-4bd1-9737-e1aa1eab307d": {
+          "type": "size-chart-tab",
+          "settings": {
+            "Category-name": "Rings",
+            "sub-title-method-left": "method 1",
+            "main-title-left": "If you <span>have<\/span> a ring",
+            "description-data-left": "<p>Take a ring that fits you perfectly.<\/p>",
+            "image-frist-left": "shopify:\/\/shop_images\/image_54.png",
+            "description-image1-left": "<p>Measure the largest distance between the inner edges of ring to get the inner diameter in mm.<\/p>",
+            "image-second-left": "shopify:\/\/shop_images\/image_56.png",
+            "description-image2-left": "<p>Now you have the inner diameter of the ring, use the following chart to determine your size.<\/p>",
+            "sub-title-method-right": "method 2",
+            "main-title-right": "If you<span>have<\/span> a ring",
+            "description-data-right": "<p>Wind a thread around your finger and cut it where the ends meet. You can also do this with a strip of thin paper.<\/p>",
+            "image-frist-right": "shopify:\/\/shop_images\/image_57.png",
+            "description-image1-right": "<p>Straighten it to measure on a ruler in mm.<\/p>",
+            "image-second-right": "shopify:\/\/shop_images\/image_59.png",
+            "description-image2-right": "<p>Now you have the circumference of the ring, use the following chart to determine your size.<\/p>",
+            "image-size-chart": "shopify:\/\/shop_images\/Group_1073713286.png"
+          }
+        },
+        "aa579f84-306b-4ec1-857b-413bfde41688": {
+          "type": "size-chart-tab",
+          "settings": {
+            "Category-name": "Loose Bracelet",
+            "sub-title-method-left": "",
+            "main-title-left": "",
+            "description-data-left": "",
+            "description-image1-left": "",
+            "description-image2-left": "",
+            "sub-title-method-right": "",
+            "main-title-right": "",
+            "description-data-right": "",
+            "description-image1-right": "",
+            "description-image2-right": ""
+          }
+        },
+        "a688caf3-b77b-4635-9f44-123e255bc4df": {
+          "type": "size-chart-tab",
+          "settings": {
+            "Category-name": "Oval Bracelet",
+            "sub-title-method-left": "",
+            "main-title-left": "",
+            "description-data-left": "",
+            "description-image1-left": "",
+            "description-image2-left": "",
+            "sub-title-method-right": "",
+            "main-title-right": "",
+            "description-data-right": "",
+            "description-image1-right": "",
+            "description-image2-right": ""
+          }
+        }
+      },
+      "block_order": [
+        "a88ef4d2-0fd0-4bd1-9737-e1aa1eab307d",
+        "aa579f84-306b-4ec1-857b-413bfde41688",
+        "a688caf3-b77b-4635-9f44-123e255bc4df"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "e1ff526d-aa4b-4d58-8372-ef83d46bb3ad": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16703598723324__e1ff526d-aa4b-4d58-8372-ef83d46bb3ad-168119255292112813-0": {
+          "type": "heading",
+          "settings": {
+            "title": "In the <span>press<\/span>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16703598723324__e1ff526d-aa4b-4d58-8372-ef83d46bb3ad-168119255292112813-0"
+      ],
+      "settings": {
+        "classname": "pages_header",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "c4ad98f9-0062-463a-a82e-a2c269bacf35": {
+      "type": "Press-page-custom",
+      "blocks": {
+        "47aaade2-67be-4efe-b173-bbe85df7dd81": {
+          "type": "image-logo-div-section",
+          "settings": {
+            "image-banner-size": "shopify:\/\/shop_images\/SkinPeeling_jpg.png",
+            "image-title": "\"Opulent emeralds spell luxury for a day function, be it the mehendi ceremony or the wedding. Rich brocade, grand jewellery...\"",
+            "image-description": "",
+            "des-logo-size": "shopify:\/\/shop_images\/image_39.png",
+            "frist-box-logo": "shopify:\/\/shop_images\/image_44_03c9b7ae-4607-4ceb-89e0-b25df76f652f.png",
+            "frist-logo-description": "<p>\"Aurus Jewels’ Eclectic Shine - In jewellery designer Puja Shah’s ingenious hands, traditional jewellery techniques get a whimsical makeover....\"<\/p>",
+            "frist-Read-more-btn": "read more",
+            "frist-Read-more-url": "https:\/\/www.thevoiceoffashion.com\/real-shop\/lifestyle\/tvof-radar-10-things-we-love-4154",
+            "second-box-logo": "shopify:\/\/shop_images\/image_45_1.png",
+            "second-logo-description": "<p>\"Jewellery designer Puja Shah feels that the millennial bride is a lot more discerning and appreciative of the finer things in life....\"<\/p>",
+            "second-Read-more-btn": "read more",
+            "second-Read-more-url": "https:\/\/www.indulgexpress.com\/fashion\/weddings\/2020\/aug\/28\/weddings-in-the-time-of-covid-19-jewellery-designers-like-falguni-mehta-and-harit-zaveri-on-what-to-27673.html",
+            "third-box-logo": "shopify:\/\/shop_images\/image_47_1.png",
+            "third-logo-description": "<p>\"A unique wedding experience is the eternal dream of any bride. Puja explains to us the concept of Solah Sringar, which can help you in selecting....\"<\/p>",
+            "third-Read-more-btn": "read more",
+            "third-Read-more-url": ""
+          }
+        },
+        "28d88881-3f09-4409-a9c4-b36ca74aaedd": {
+          "type": "grid-main-div-section",
+          "settings": {
+            "frist-image-size-grid": "shopify:\/\/shop_images\/esmi2020053_jpg_9cd2bfb5-61a8-49b7-bf94-b34c3149614b.png",
+            "frist-logo-size-grid": "shopify:\/\/shop_images\/Group_1073712543_1.png",
+            "frist-main-title": "Aurus Jewellery: To Create The Most Luxurious Wedding Trousseau",
+            "frist-main-description": "<p>\"The extensive selection at Aurus promises an intimate, one-of-a-kind experience—the joy of being a bride, the way you like it...\"<\/p>",
+            "frist-grid-read-btn": "read more",
+            "frist-grid-read-btn-url": "https:\/\/www.vogue.in\/story\/aurus-the-ultimate-jewellery-for-the-millennial-bride\/",
+            "second-image-size-grid": "shopify:\/\/shop_images\/SkinPeeling.jpg_1.png",
+            "second-logo-size-grid": "shopify:\/\/shop_images\/Vogue_1_68b131da-88cd-400a-8db4-02e3d2beb61f.png",
+            "second-main-title": "Aurus captures the vintage mood",
+            "second-main-description": "<p>\"We scoured the depths of social media to find eight Instagram-famous cult jewellery labels dressing a carousel....\"<\/p>",
+            "second-grid-read-btn": "READ MORE",
+            "second-grid-read-btn-url": "https:\/\/cdn.shopify.com\/s\/files\/1\/2196\/3271\/files\/Vogue_July_2021_issue.pdf?v=1708335448",
+            "third-image-size-grid": "shopify:\/\/shop_images\/esmi2020053.jpg_1.png",
+            "third-logo-size-grid": "shopify:\/\/shop_images\/image_38.png",
+            "third-main-title": "Aurus Jewellery: To Create The Most Luxurious Wedding Trousseau",
+            "third-main-description": "<p>\"The brand has a very simple philosophy which says, “One cannot be forever innovating, I am here to create classics! Aurus is a shared dream....\"<\/p>",
+            "third-grid-read-btn": "read more",
+            "third-grid-read-btn-url": "https:\/\/www.stylegods.com\/aurus-jewellery\/",
+            "frist-logo-grid": "shopify:\/\/shop_images\/image_42.png",
+            "frist-grid-logo-description": "<p>\"Jewellery plays a quintessential role in an Indian bride’s trousseau as it carries great sentimental value, being passed from one generation to another....\"<\/p>",
+            "frist-grid-readmore-text": "read more",
+            "frist-grid-readmore-url": "https:\/\/cdn.shopify.com\/s\/files\/1\/2962\/2750\/files\/Press_AURUS_3.png?v=1608102612",
+            "second-logo-grid": "shopify:\/\/shop_images\/Group_1073712543_1.png",
+            "second-grid-logo-description": "<p>\"Brides-to-be, take note, cookie-cutter designs are passe. If you’re looking for bespoke pieces to go with your wedding outfit, head to ‘Aurus’....\"<\/p>",
+            "second-grid-readmore-text": "read more",
+            "second-grid-readmore-url": "https:\/\/www.vogue.in\/story\/like-personalized-jewellery-aurus-need-shopping\/",
+            "thrid-logo-grid": "shopify:\/\/shop_images\/image_42.png",
+            "thrid-grid-logo-description": "<p>\"Budgeted Jewellery Brands To Buy Your Baubles From : Since low-key is the mood for the festivities this season, swap the heavy jewellery for dainty....\"<\/p>",
+            "thrid-grid-readmore-text": "read more",
+            "thrid-grid-readmore-url": "https:\/\/www.femina.in\/fashion\/trends\/budgeted-jewellery-brands-baubles-jewellery-festive-season-diwali-177297-6.html"
+          }
+        },
+        "b2838d1f-b4d5-4050-b09d-0df6d79f259b": {
+          "type": "grid-main-div-section",
+          "settings": {
+            "frist-logo-size-grid": "shopify:\/\/shop_images\/1_13.png",
+            "frist-main-title": "",
+            "frist-main-description": "<p>A Closer Look at the Emerging Brands in India: Many new brands are succeeding in the market today thanks to their excellent product selection...<\/p>",
+            "frist-grid-read-btn": "READ MORE",
+            "frist-grid-read-btn-url": "https:\/\/www.hindustantimes.com\/brand-stories\/a-closer-look-at-the-emerging-brands-in-india-101684155244449.html",
+            "second-logo-size-grid": "shopify:\/\/shop_images\/Vogue_1_bc0a34de-1d1d-4a25-91df-1656c8d67078.png",
+            "second-main-title": "",
+            "second-main-description": "<p>In collaboration with Border & Fall, Aurus Jewel's founders Puja and Kunal Shah attempt to catalogue historically significant jewellery accents across the country's map.<\/p>",
+            "second-grid-read-btn": "READ MORE",
+            "second-grid-read-btn-url": "https:\/\/www.vogue.in\/content\/a-family-heirloom-passed-down-generations-sparked-this-project-documenting-the-lost-art-of-crafting-old-school-indian-jewellery",
+            "third-logo-size-grid": "shopify:\/\/shop_images\/image_44_03c9b7ae-4607-4ceb-89e0-b25df76f652f_2.png",
+            "third-main-title": "",
+            "third-main-description": "<p>Bringing together historical information, anecdotes and personal stories, this is an open-source archive of jewellery from across India—deconstructing their legacies and meanings as well as the artisanal communities that serve as custodians of these crafts.<\/p>",
+            "third-grid-read-btn": "READ MORE",
+            "third-grid-read-btn-url": "https:\/\/www.instagram.com\/p\/CvzL2DaoBu7",
+            "frist-grid-logo-description": "",
+            "frist-grid-readmore-text": "",
+            "frist-grid-readmore-url": "",
+            "second-grid-logo-description": "",
+            "second-grid-readmore-text": "",
+            "second-grid-readmore-url": "",
+            "thrid-grid-logo-description": "",
+            "thrid-grid-readmore-text": "",
+            "thrid-grid-readmore-url": ""
+          }
+        },
+        "df84f12c-c58e-4091-a73c-01dbd219232c": {
+          "type": "grid-main-div-section",
+          "settings": {
+            "frist-image-size-grid": "shopify:\/\/shop_images\/4_3eb61799-f235-45a7-9e3a-c86830afdd77.png",
+            "frist-logo-size-grid": "shopify:\/\/shop_images\/VOGUE_revista_-_logo_05ce63c1-4b02-46f8-bce6-4fba9e278748.png",
+            "frist-main-title": "",
+            "frist-main-description": "<p>\"The extensive selection at Aurus promises an intimate, one-of-a-kind experience—the joy of being a bride, the way you like it...\"<\/p>",
+            "frist-grid-read-btn": "Read More",
+            "frist-grid-read-btn-url": "https:\/\/www.vogue.in\/story\/aurus-the-ultimate-jewellery-for-the-millennial-bride\/",
+            "second-logo-size-grid": "shopify:\/\/shop_images\/2_897ea10e-f69b-4061-9623-1c3c6b862249.png",
+            "second-main-title": "",
+            "second-main-description": "<p>A digitally native brand, Aurus is disrupting the traditional industry, infusing it with creativity, a reverence for craft layered with sophistication...<\/p>",
+            "second-grid-read-btn": "READ MORE",
+            "second-grid-read-btn-url": "https:\/\/www.outlookindia.com\/business-spotlight\/aurus-amdavad-pioneering-the-digital-frontier-of-indian-fine-jewellery-news-310051",
+            "third-logo-size-grid": "shopify:\/\/shop_images\/6_a3489c71-0cae-4fe7-b756-13a5d875bd6e.png",
+            "third-main-title": "",
+            "third-main-description": "<p>Aurus Jewels collaborate with Border & Fall to revive the Diminishing Diversities of Indian Jewellery through the Memory Project - IFJ...<\/p>",
+            "third-grid-read-btn": "READ MORE",
+            "third-grid-read-btn-url": "https:\/\/aninews.in\/news\/business\/business\/aurus-jewels-collaborate-with-border-amp-fall-to-revive-the-diminishing-diversities-of-indian-jewellery-through-the-memory-project-ifj20230822160039\/",
+            "frist-grid-logo-description": "",
+            "frist-grid-readmore-text": "",
+            "frist-grid-readmore-url": "",
+            "second-grid-logo-description": "",
+            "second-grid-readmore-text": "",
+            "second-grid-readmore-url": "",
+            "thrid-grid-logo-description": "",
+            "thrid-grid-readmore-text": "",
+            "thrid-grid-readmore-url": ""
+          }
+        },
+        "18ea3cce-97a6-42fb-95c8-f03265c7e336": {
+          "type": "grid-main-div-section",
+          "settings": {
+            "frist-logo-size-grid": "shopify:\/\/shop_images\/1_3791a705-ab42-4516-80fb-109206425f58.png",
+            "frist-main-title": "",
+            "frist-main-description": "<p>Aurus goes beyond conventional boundaries, offering discerning customers a refreshing alternative, allowing wearers to interpret the jewels uniquely...<\/p>",
+            "frist-grid-read-btn": "READ MORE",
+            "frist-grid-read-btn-url": "https:\/\/www.businessworld.in\/article\/A-Language-of-Innovation-Aurus-Jewels-Moi-Disrupting-An-Age-old-Jewellery-Industry-Through-Instagram\/08-06-2023-479751\/",
+            "second-logo-size-grid": "shopify:\/\/shop_images\/1_3791a705-ab42-4516-80fb-109206425f58.png",
+            "second-main-title": "",
+            "second-main-description": "<p>A showcase of 11 dynamic visionaries who have not only disrupted industries but have also left an indelible mark on the global business landscape...<\/p>",
+            "second-grid-read-btn": "READ MORE",
+            "second-grid-read-btn-url": "https:\/\/www.businessworld.in\/article\/11-Dynamic-Entrepreneurs-of-The-Year-2023\/02-06-2023-478992\/",
+            "third-logo-size-grid": "shopify:\/\/shop_images\/4_0ca5f773-f72b-464e-ab03-3db32f8d59f8.png",
+            "third-main-title": "",
+            "third-main-description": "<p>Through simple, time-honoured styles and layered, one-of-a-kind works of art, Aurus has an iconic visual language that displays the richness of Indian craft...<\/p>",
+            "third-grid-read-btn": "READ MORE",
+            "third-grid-read-btn-url": "https:\/\/www.siliconindia.com\/news\/general\/aurus-jewels-old-school-craft-for-the-21stcentury-indian-woman-nid-223876-cid-1.html",
+            "frist-grid-logo-description": "",
+            "frist-grid-readmore-text": "",
+            "frist-grid-readmore-url": "",
+            "second-grid-logo-description": "",
+            "second-grid-readmore-text": "",
+            "second-grid-readmore-url": "",
+            "thrid-grid-logo-description": "",
+            "thrid-grid-readmore-text": "",
+            "thrid-grid-readmore-url": ""
+          }
+        },
+        "59e933fa-d478-4a5b-bb0a-9a21a33fd624": {
+          "type": "logo-after-image-section",
+          "settings": {
+            "Main-image-logo-section": "shopify:\/\/shop_images\/SkinPeeling.jpg_2.png",
+            "main-image-titlee": "Aurus captures the vintage mood",
+            "main-image-descriptionss": "<p>\"Anushka Sharma, Deepika Padukone and more give emerald necklaces their stamp of approval. A look at how your favourite celebrities have worn....\"<\/p>",
+            "des-logo": "shopify:\/\/shop_images\/Group_1073712543_1.png",
+            "left-image-small": "shopify:\/\/shop_images\/esmi2020053.jpg_2.png",
+            "left-logo": "shopify:\/\/shop_images\/image_52.png",
+            "left-logo-titlee": "Aurus Jewellery: To Create The Most Luxurious Wedding Trousseau",
+            "logo-image-descriptionss": "<p>\"Aurus: Bespoke Jewelry Reinvented to Create Classic and Timeless Designs for the New-Age Woman. The following post is brought to you by Aurus Jewels....\"<\/p>",
+            "logo-image-readmore-text": "",
+            "logo-image-readmore-url": "",
+            "second-left-logo": "shopify:\/\/shop_images\/image_45_1.png",
+            "second-logo-image-descriptionss": "<p>\"Every piece has a styling ethos that brings out the designers' inclination towards repurposing vintage jewellery and giving it new life....\"<\/p>",
+            "second-logo-image-readmore-text": "read more",
+            "second-logo-image-readmore-url": "https:\/\/cdn.shopify.com\/s\/files\/1\/2962\/2750\/files\/Press_AURUS_5.jpg?v=1608102616"
+          }
+        },
+        "09436885-95e1-456c-ba08-bc39c5260d02": {
+          "type": "grid-main-div-section",
+          "disabled": true,
+          "settings": {
+            "frist-logo-size-grid": "shopify:\/\/shop_images\/image_44_c9b59762-0d0f-4b6b-9750-f942c9b48345.png",
+            "frist-main-title": "",
+            "frist-main-description": "<p>While the country’s jewellery heritage can be seen in some museums and in books, IFJ makes such information accessible for customers and anyone interested in learning about crafts and techniques.<\/p>",
+            "frist-grid-read-btn": "READ MORE",
+            "frist-grid-read-btn-url": "https:\/\/www.thevoiceoffashion.com\/fabric-of-india\/features\/retelling-stories-of-family-jewels-5722",
+            "second-main-title": "",
+            "second-main-description": "<p>Through this project, Puja and Kunal wish to place the spotlight on jewellery and use Indian Family Jewels as a platform to initiate conversations using a digital-first medium to talk about all things jewellery while making it relatable to today’s younger generation.<\/p>",
+            "second-grid-read-btn": "READ MORE",
+            "second-grid-read-btn-url": "https:\/\/www.instagram.com\/p\/Cv2C50TSYej\/",
+            "third-main-title": "",
+            "third-main-description": "<p>The Indian Family Jewels project answers why we wear a certain ornament for our weddings, what is the meaning of the symbols, what are the roots (tribal, agrarian or royal) and also what were the materials used at the time.<\/p>",
+            "third-grid-read-btn": "READ MORE",
+            "third-grid-read-btn-url": "https:\/\/www.lifestyleasia.com\/ind\/style\/jewellery\/indian-family-jewels\/",
+            "frist-grid-logo-description": "",
+            "frist-grid-readmore-text": "",
+            "frist-grid-readmore-url": "",
+            "second-grid-logo-description": "",
+            "second-grid-readmore-text": "",
+            "second-grid-readmore-url": "",
+            "thrid-grid-logo-description": "",
+            "thrid-grid-readmore-text": "",
+            "thrid-grid-readmore-url": ""
+          }
+        },
+        "2db1a112-3f95-47e2-87f2-b5b0bb6639da": {
+          "type": "grid-main-div-section",
+          "disabled": true,
+          "settings": {
+            "frist-main-title": "",
+            "frist-main-description": "",
+            "frist-grid-read-btn": "",
+            "frist-grid-read-btn-url": "",
+            "second-main-title": "",
+            "second-main-description": "",
+            "second-grid-read-btn": "",
+            "second-grid-read-btn-url": "",
+            "third-main-title": "",
+            "third-main-description": "",
+            "third-grid-read-btn": "",
+            "third-grid-read-btn-url": "",
+            "frist-grid-logo-description": "",
+            "frist-grid-readmore-text": "",
+            "frist-grid-readmore-url": "",
+            "second-grid-logo-description": "",
+            "second-grid-readmore-text": "",
+            "second-grid-readmore-url": "",
+            "thrid-grid-logo-description": "",
+            "thrid-grid-readmore-text": "",
+            "thrid-grid-readmore-url": ""
+          }
+        }
+      },
+      "block_order": [
+        "47aaade2-67be-4efe-b173-bbe85df7dd81",
+        "28d88881-3f09-4409-a9c4-b36ca74aaedd",
+        "b2838d1f-b4d5-4050-b09d-0df6d79f259b",
+        "df84f12c-c58e-4091-a73c-01dbd219232c",
+        "18ea3cce-97a6-42fb-95c8-f03265c7e336",
+        "59e933fa-d478-4a5b-bb0a-9a21a33fd624",
+        "09436885-95e1-456c-ba08-bc39c5260d02",
+        "2db1a112-3f95-47e2-87f2-b5b0bb6639da"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ed5ac2c7-8150-44a0-bee2-105fe06d7c3f",
+    "e1ff526d-aa4b-4d58-8372-ef83d46bb3ad",
+    "c4ad98f9-0062-463a-a82e-a2c269bacf35"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "7f997495-674c-42ed-99c7-0e14248bf628": {
+          "type": "article_content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "7f997495-674c-42ed-99c7-0e14248bf628"
+      ],
+      "settings": {
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "disabled": true,
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "01810fce-ede0-4b59-9dd7-f7fabf7d4627": {
+      "type": "article-featured-collect-new",
+      "disabled": true,
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "16832099456cd17fbf": {
+      "type": "apps",
+      "blocks": {
+        "be4aa0fe-afd6-43a9-ba0d-47ad5c408385": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#1c1c24",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "be4aa0fe-afd6-43a9-ba0d-47ad5c408385"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "01810fce-ede0-4b59-9dd7-f7fabf7d4627",
+    "16832099456cd17fbf"
+  ]
+}

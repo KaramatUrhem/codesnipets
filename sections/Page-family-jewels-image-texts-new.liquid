@@ -1,0 +1,86 @@
+{%- if section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank or section.settings.mainheadingtext != blank or section.settings.maininfotext != blank -%}
+  <div class="Page_family_jewels_image_texts_main_new{% if section.settings.imageonright %} Page_family_jewels_image_texts_imageonright_new{% endif %}" style="background:{{ section.settings.mainbackcolor }};">
+    <div class="page-width">
+      <div class="Page_family_jewels_image_texts_inner_new">
+        <div class="Page_family_jewels_image_texts_leftright_new">
+          {%- if section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank -%}
+            <div class="Page_family_jewels_image_texts_leftside_new">
+              {%- if section.settings.maindesktopimage != blank -%}
+                {%- render 'image-element',
+                  img: section.settings.maindesktopimage,
+                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                  classes: 'desktop_image_new',
+                -%}
+              {%- endif -%}
+              {%- if section.settings.mainmobileimage != blank -%}
+                {%- render 'image-element',
+                  img: section.settings.mainmobileimage,
+                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                  classes: 'mobile_image_new',
+                -%}
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+          {%- if section.settings.mainheadingtext != blank or section.settings.maininfotext != blank -%}
+            <div class="Page_family_jewels_image_texts_rightside_new">
+              {%- if section.settings.mainheadingtext != blank -%}
+                <h3>{{ section.settings.mainheadingtext }}</h3>
+              {%- endif -%}
+              {%- if section.settings.maininfotext != blank -%}
+                {{ section.settings.maininfotext }}
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+        </div>
+      </div>
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+  {
+    "name": "Family Jewels Image Texts",
+    "class": "Page_family_jewels_image_texts_new",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "imageonright",
+        "label": "Image On Right Side Display",
+        "default": false
+      },
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#FFFFFF"
+      },
+      {
+        "type": "image_picker",
+        "id": "maindesktopimage",
+        "label": "Add Main Desktop Image Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "mainmobileimage",
+        "label": "Add Main Mobile Image Display"
+      },
+      {
+        "type": "text",
+        "id": "mainheadingtext",
+        "label": "Add Main Heading Text Display",
+        "default": "An Introduction To Family Jewels"
+      },
+      {
+        "type": "richtext",
+        "id": "maininfotext",
+        "label": "Add Main Information Text Display",
+        "default": "<p>The kasunala is a necklace made by stringing identical coins ver closely, often engraved with motifs and is an important part of the wedding trousseau. it became popular during the period of roman trade. the necklace is one of the most striking examples of ornaments serving as an instrument of saving.</p><p>The kasunala is a necklace made by stringing identical coins ver closely, often engraved with motifs and is an important part of the wedding trousseau. it became popular during the period of roman trade. the necklace is one of the most striking examples of ornaments serving as an instrument of saving.</p>"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Family Jewels Image Texts"
+      }
+    ]
+  }
+{% endschema %}

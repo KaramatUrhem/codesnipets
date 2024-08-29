@@ -1,0 +1,42 @@
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "footer": {
+      "type": "Latest-footer-new",
+      "blocks": {
+        "6ec2e86d-975d-40f8-9023-9f9af61f3a90": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": false,
+            "menu": "latest-footer-main-menu",
+            "container_width": 95
+          }
+        }
+      },
+      "block_order": [
+        "6ec2e86d-975d-40f8-9023-9f9af61f3a90"
+      ],
+      "settings": {
+        "show_locale_selector": false,
+        "show_currency_selector": false,
+        "show_currency_flags": false,
+        "show_payment_icons": false,
+        "show_copyright": true,
+        "copyright_text": ""
+      }
+    },
+    "footer-promotions": {
+      "type": "footer-promotions",
+      "disabled": true,
+      "settings": {
+        "hide_homepage": false,
+        "image_size": "wide"
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "footer-promotions"
+  ]
+}

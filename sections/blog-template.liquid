@@ -1,0 +1,147 @@
+{%- paginate blog.articles by 18 -%}
+  <div class="blog_template_main_new" data-section-id="{{ section.id }}" data-section-type="blog">
+    <div class="page-width">
+
+      {%- if section.settings.blog_show_title or section.settings.blog_show_rss -%}
+        <header class="section-header{% if section.settings.blog_show_tag_filter and blog.tags.size > 0 %}{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}{% endif %}">
+          {%- if section.settings.blog_show_title or section.settings.blog_show_rss -%}
+            <h1 class="section-header__title">
+              {%- if section.settings.blog_show_title -%}
+                {{ blog.title }}
+              {%- endif -%}
+              {%- if section.settings.blog_show_rss -%}
+                <a href="{{ shop.url }}{{ blog.url }}.atom" class="rss-link">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-rss" viewBox="0 0 20 20"><path fill="#444" d="M5.903 16.586a2.489 2.489 0 1 1-4.977 0 2.489 2.489 0 0 1 4.977 0zM12.956 19.075H9.43c0-4.688-3.817-8.505-8.505-8.505V7.044c6.638 0 12.031 5.393 12.031 12.031z"/><path fill="#444" d="M15.445 19.075c0-8.028-6.493-14.52-14.52-14.52V.925c10.019 0 18.15 8.131 18.15 18.15h-3.63z"/></svg>
+                  <span class="icon__fallback-text">RSS</span>
+                </a>
+              {%- endif -%}
+            </h1>
+          {%- endif -%}
+        </header>
+      {%- endif -%}
+
+      {% if section.settings.blog_show_tag_filter %}
+        <div class="filter_option_new">
+          <div class="filter_option_title_new">Filter & Sort By:</div>
+          <div class="filter_option_link_main_new">
+            <div class="swiper blog_link_slider">
+              <div class="swiper-wrapper">
+                {%- if section.settings.blog_show_tag_filter and blog.tags.size > 0 -%}
+                  <div class="swiper-slide filter_option_link_new"><a js-blog-tag-link data-blog-tag="All" class="{% unless request.path contains "tagged" %}selected{% endunless %}">All blogs</a></div>
+                  {%- for tag in blog.all_tags -%}
+                    {% if tag contains "_" %}{%- assign tag_starts_with = tag | slice: 0 -%}{% if tag_starts_with == "_" %}{% if tag_count %}{%- assign tag_count = tag_count | minus: 1 | at_least: 0 -%}{% endif %}{% continue %}{% endif %}{% endif %}
+                    <div class="swiper-slide filter_option_link_new"><a js-blog-tag-link data-blog-tag="{{ tag | handleize }}" class="{% if current_tags contains tag %}selected{% endif %}">{{ tag }}</a></div>
+                  {%- endfor -%}
+                {%- endif -%}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+  
+      <div class="grid grid--uniform blog_template_main_grid_new blogs-on-page-2" id="tab-blog-section" data-next-url-2="{{paginate.next.url}}">
+        {%- for article in blog.articles -%}
+          <div class="grid__item medium-up--one-third Index_latests_blogs_posts_boxs_new {% cycle 'Index_latests_blogs_posts_1_new', 'Index_latests_blogs_posts_2_new', 'Index_latests_blogs_posts_3_new', 'Index_latests_blogs_posts_4_new', 'Index_latests_blogs_posts_5_new', 'Index_latests_blogs_posts_6_new' %}">
+            {%- render 'article-grid-item', article: article, grid_item_width: '', per_row: '3', image_size: section.settings.blog_image_size -%}
+          </div>
+        {%- endfor -%}
+      </div>
+
+      {%- if paginate.pages > 1 -%}
+        <div class="load-more-2">
+          <a class="load-more_btn-2 btn" id="load_more_btn_2">VIEW MORE</a>
+          <div class="load-more_spinner-2"></div>
+        </div>
+      {%- endif -%}
+                
+    </div>
+  </div>
+{%- endpaginate -%}
+
+{% schema %}
+{
+  "name": "Blog Template",
+  "class": "blog_template_new",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "blog_show_title",
+      "label": "Show Blog Title",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_tag_filter",
+      "label": "t:sections.blog-template.settings.blog_show_tag_filter.label",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_rss",
+      "label": "t:sections.blog-template.settings.blog_show_rss.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_tags",
+      "label": "t:sections.blog-template.settings.blog_show_tags.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_date",
+      "label": "t:sections.blog-template.settings.blog_show_date.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_comments",
+      "label": "t:sections.blog-template.settings.blog_show_comments.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_author",
+      "label": "t:sections.blog-template.settings.blog_show_author.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_excerpt",
+      "label": "t:sections.blog-template.settings.blog_show_excerpt.label",
+      "default": true
+    },
+    {
+      "type": "select",
+      "id": "blog_image_size",
+      "label": "t:sections.blog-template.settings.blog_image_size.label",
+      "default": "square",
+      "options": [
+        {
+          "value": "natural",
+          "label": "t:sections.blog-template.settings.blog_image_size.options.natural.label"
+        },
+        {
+          "value": "square",
+          "label": "t:sections.blog-template.settings.blog_image_size.options.square.label"
+        },
+        {
+          "value": "landscape",
+          "label": "t:sections.blog-template.settings.blog_image_size.options.landscape.label"
+        },
+        {
+          "value": "portrait",
+          "label": "t:sections.blog-template.settings.blog_image_size.options.portrait.label"
+        },
+        {
+          "value": "wide",
+          "label": "t:sections.blog-template.settings.blog_image_size.options.wide.label"
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": ["footer", "header", "custom.popups"]
+  }
+}
+{% endschema %}

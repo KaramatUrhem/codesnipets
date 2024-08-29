@@ -1,0 +1,262 @@
+<div class="part-tab-content page-width">
+ <div class="mobile-menu-scroll">
+  <div class="w3-bar w3-theme center size-chart-menu">
+      {%- for block in section.blocks -%}
+        {% if block.settings.Category-name != blank %}
+          <button class="size-chart-tab w3-bar-item w3-button testbtn w3-padding-16 Tab-text"  onclick="openCategory(event,'Category-{{ forloop.index0 }}')">{{ block.settings.Category-name }}</button>
+        {% endif %}
+    {%- endfor -%}  
+  </div>
+ </div>
+
+   <div class="content-chart-size"></div>
+  
+   <div class="content-data">
+    <div class="content-size-chart">
+          {%- for block in section.blocks -%}
+            <div id="Category-{{ forloop.index0 }}" class="w3-container category w3-animate-opacity">
+             
+              <div class="size-content">
+                <div class="frist-details-part">
+            <div class="size_col1">
+                  <div class="frist-box-content {{ block.settings.Category-name | handle }}__first">
+            
+                    {% if block.settings.sub-title-method-left != blank %}
+                        <p class="sub-title-frist">{{ block.settings.sub-title-method-left }}</p>
+                    {% endif %}
+                      
+                      {% if block.settings.main-title-left != blank %}
+                          <h2 class="main-title">{{ block.settings.main-title-left }}</h2>
+                      {% endif %}
+
+                    <div class="mobile-use frist-left-flex-{{ forloop.index0 }}">
+                       {% if block.settings.description-data-left != blank %}
+                          <p class="description-data">{{ block.settings.description-data-left | strip_html }}</p>
+                       {% endif %}
+            
+                        {% if block.settings.image-frist-left != blank %}
+                          <div class="image-div">
+                            <img id="image-frist-left-{{ forloop.index0 }}" class="image-sizeing" src="{{block.settings.image-frist-left | img_url: 'master'}}">
+                          </div>
+                        {% endif %}
+                      </div>
+
+                    <div class="mobile-use second-left-flex-{{ forloop.index0 }}">
+                    {% if block.settings.description-image1-left != blank %}
+                      <p class="image-description1">{{ block.settings.description-image1-left | strip_html }}</p>
+                     {% endif %}
+              
+                    {% if block.settings.image-second-left != blank %}
+                      <div class="image-div">
+                        <img id="image-second-left-{{ forloop.index0 }}" class="image-sizeing" src="{{block.settings.image-second-left | img_url: 'master'}}">
+                      </div>
+                    {% endif %}
+                    </div>
+            
+                   {% if block.settings.description-image2-left != blank %}
+                     <p class="image-description2">{{ block.settings.description-image2-left | strip_html }}</p>
+                    {% endif %}
+                  </div>
+                </div>
+                  <div class="mobile-center-border"></div>
+                  <div class="size_col2">
+                  <div class="second-box-content {{ block.settings.Category-name | handle }}__second">
+                     {% if block.settings.sub-title-method-right != blank %}
+                        <p class="sub-title-frist">{{ block.settings.sub-title-method-right }}</p>
+                     {% endif %}
+                       
+                      {% if block.settings.main-title-right != blank %}
+                          <h2 class="main-title">{{ block.settings.main-title-right }}</h2>
+                      {% endif %}
+            
+                     <div class="mobile-use frist-right-flex-{{ forloop.index0 }}">
+                        {% if block.settings.description-data-right != blank %}
+                          <p class="description-data">{{ block.settings.description-data-right | strip_html }}</p>
+                        {% endif %}
+          
+                          {% if block.settings.image-frist-right != blank %}
+                              <div class="image-div">
+                                <img id="image-frist-right-{{ forloop.index0 }}" class="image-sizeing" src="{{block.settings.image-frist-right | img_url: 'master'}}">
+                              </div>
+                          {% endif %}
+                     </div>
+                    
+                     <div class="mobile-use second-right-flex-{{ forloop.index0 }}">
+                       {% if block.settings.description-image1-right != blank %}
+                          <p class="image-description1">{{ block.settings.description-image1-right | strip_html }}</p>
+                        {% endif %}
+            
+                        {% if block.settings.image-second-right != blank %}
+                            <div class="image-div">
+                              <img id="image-second-right-{{ forloop.index0 }}" class="image-sizeing" src="{{block.settings.image-second-right | img_url: 'master'}}">
+                            </div>
+                        {% endif %}
+                     </div>
+                    
+                    {% if block.settings.description-image2-right != blank %}
+                       <p class="image-description2">{{ block.settings.description-image2-right | strip_html }}</p>
+                    {% endif %}
+                  </div>
+                </div>
+                </div>
+                
+              <div class="chart-image">
+                 {% if block.settings.image-size-chart != blank %}
+                    <img id="image-size-chart-{{ forloop.index0 }}" class="image-size-chart" src="{{block.settings.image-size-chart | img_url: 'master'}}">
+                 {% endif %}
+              </div>
+                
+            </div>
+                
+            </div>
+        
+            </div>
+        {%- endfor -%}  
+      </div>
+  </div>
+</div>
+
+
+{% schema %}
+{
+"name": "Size Chart Section",
+"settings": [
+],
+   "blocks": [
+      {
+        "type": "size-chart-tab",
+        "name": "size-chart-tab",
+        "settings": [
+                 {
+          "type":"text",
+          "id":"Category-name",
+          "label":"Tab Name"
+        },
+           {
+          "type":"text",
+          "id":"sub-title-method-left",
+          "label":"Left Sub Title Method"
+        },
+          {
+          "type":"html",
+          "id":"main-title-left",
+          "label":"Left Main Title"
+        },
+          {
+          "type":"richtext",
+          "id":"description-data-left",
+          "label":"Left Description Data"
+        },
+          {
+            "type": "image_picker",
+            "id": "image-frist-left",
+            "label": "Left Frist Image"
+          },
+           {
+          "type":"richtext",
+          "id":"description-image1-left",
+          "label":"Left Description Iamge"
+        },
+          {
+            "type": "image_picker",
+            "id": "image-second-left",
+            "label": "Left Second Image"
+          },
+           {
+          "type":"richtext",
+          "id":"description-image2-left",
+          "label":"Left Description Iamge"
+        },
+            {
+          "type":"text",
+          "id":"sub-title-method-right",
+          "label":"Right Sub Title Method"
+        },
+          {
+          "type":"html",
+          "id":"main-title-right",
+          "label":"Right Main Title"
+        },
+          {
+          "type":"richtext",
+          "id":"description-data-right",
+          "label":"Right Description Data"
+        },
+          {
+            "type": "image_picker",
+            "id": "image-frist-right",
+            "label": "Right Frist Image"
+          },
+           {
+          "type":"richtext",
+          "id":"description-image1-right",
+          "label":"Right Description Iamge"
+        },
+          {
+            "type": "image_picker",
+            "id": "image-second-right",
+            "label": "Right Second Image"
+          },
+           {
+          "type":"richtext",
+          "id":"description-image2-right",
+          "label":"Right Description Iamge"
+        },
+          {
+            "type": "image_picker",
+            "id": "image-size-chart",
+            "label": "Image Size Chart"
+          }
+
+		]
+	}
+],
+"presets": [
+{
+"name": "Size Chart Section"
+}
+]
+}
+{% endschema %}
+
+<style>
+  .main-title span {
+    font-family: snell_roundhand;
+}
+  </style>
+
+<script>
+  
+  function openCategory(evt, CategoryName) {
+    var i;
+    var x = document.getElementsByClassName("category");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";
+    }
+    var activebtn = document.getElementsByClassName("testbtn");
+    for (i = 0; i < x.length; i++) {
+        activebtn[i].className = activebtn[i].className.replace(" w3-theme-dark", "");
+    }
+    document.getElementById(CategoryName).style.display = "block";
+    evt.currentTarget.className += " w3-theme-dark";
+  }
+  
+  var mybtn = document.getElementsByClassName("testbtn")[0];
+  mybtn.click();
+  
+  </script>
+  
+   <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  
+  <script>
+  
+  if ($(".accordion__item__header").length > 0) {
+    var active = "active";
+    $(".accordion__item__header").click(function () {
+      $(this).toggleClass(active);
+      $(this).next("div").slideToggle(200);
+    });
+  }
+    
+</script>

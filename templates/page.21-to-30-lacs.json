@@ -1,0 +1,215 @@
+{
+  "sections": {
+    "main": {
+      "type": "hero-banner",
+      "settings": {
+        "desk_img": "shopify:\/\/shop_images\/21_To_30_Lacswebp.webp",
+        "mob_img": "shopify:\/\/shop_images\/21_To_30_Lacswebp.webp",
+        "title": "21 To 30 Lacs"
+      }
+    },
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3": {
+      "type": "image-with-slider",
+      "blocks": {
+        "9c38f691-d200-4556-af0b-bf95296ff2b3": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "ratna-luxury-gold-gemstone-necklace",
+            "vertical_position": 84,
+            "horizontal_position": 36
+          }
+        },
+        "8460192a-2fca-4f06-8475-9135ab5aa4a1": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "hoor-tourmaline-and-gold-necklace",
+            "vertical_position": 56,
+            "horizontal_position": 36
+          }
+        },
+        "14cbdd8a-3655-429d-811c-b733a34d91f6": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "ved-indian-polki-gold-earring",
+            "vertical_position": 26,
+            "horizontal_position": 18
+          }
+        }
+      },
+      "block_order": [
+        "9c38f691-d200-4556-af0b-bf95296ff2b3",
+        "8460192a-2fca-4f06-8475-9135ab5aa4a1",
+        "14cbdd8a-3655-429d-811c-b733a34d91f6"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 1<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_221_lacs_to_30_lacs.webp"
+      }
+    },
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f": {
+      "type": "image-with-slider",
+      "blocks": {
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "anushka-god-and-uncut-diamond-polki-choker",
+            "vertical_position": 46,
+            "horizontal_position": 42
+          }
+        },
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "aabha-gold-and-kundan-earrings",
+            "vertical_position": 8,
+            "horizontal_position": 80
+          }
+        }
+      },
+      "block_order": [
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7",
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 2<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_421_To_30_Lacs_3.webp"
+      }
+    },
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7": {
+      "type": "image-with-slider",
+      "blocks": {
+        "eecb2efc-a9ff-427e-aae5-12f7df878959": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "mor-bagh-necklace",
+            "vertical_position": 56,
+            "horizontal_position": 54
+          }
+        },
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "medha-gold-ruby-and-polki-earrings",
+            "vertical_position": 16,
+            "horizontal_position": 26
+          }
+        }
+      },
+      "block_order": [
+        "eecb2efc-a9ff-427e-aae5-12f7df878959",
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 3<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_21.webp"
+      }
+    },
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97": {
+      "type": "image-with-slider",
+      "blocks": {
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "brinda-colourful-gold-polki-choker",
+            "vertical_position": 40,
+            "horizontal_position": 36
+          }
+        },
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "pankh-polki-peacock-pendant-necklace",
+            "vertical_position": 50,
+            "horizontal_position": 44
+          }
+        },
+        "93d95bff-feaf-49b4-a883-6224b8ea9aeb": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "mayura-pearl-and-multi-gemstone-necklace",
+            "vertical_position": 70,
+            "horizontal_position": 52
+          }
+        },
+        "010c0d1c-62f7-4153-ab72-888ad677484d": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "vaidehi-navratna-gold-polki-baali-earrings",
+            "vertical_position": 32,
+            "horizontal_position": 14
+          }
+        },
+        "9f32ac84-b836-4714-89ec-520e4a7efc18": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "ved-polki-gold-maangtika",
+            "vertical_position": 10,
+            "horizontal_position": 28
+          }
+        }
+      },
+      "block_order": [
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb",
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6",
+        "93d95bff-feaf-49b4-a883-6224b8ea9aeb",
+        "010c0d1c-62f7-4153-ab72-888ad677484d",
+        "9f32ac84-b836-4714-89ec-520e4a7efc18"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 4<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_421_To_30_Lacs_copy_2.webp"
+      }
+    },
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96": {
+      "type": "image-with-slider",
+      "blocks": {
+        "cd89a8db-6af2-41be-ba3f-12f70780d661": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "tarika-diamond-and-pearl-choker",
+            "vertical_position": 40,
+            "horizontal_position": 32
+          }
+        },
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "tarika-gold-and-diamond-earrings",
+            "vertical_position": 26,
+            "horizontal_position": 28
+          }
+        },
+        "f11e2a6d-ade4-472f-9458-1946ba44cb02": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "naaz-wedding-diamond-necklace-for-women",
+            "vertical_position": 50,
+            "horizontal_position": 34
+          }
+        }
+      },
+      "block_order": [
+        "cd89a8db-6af2-41be-ba3f-12f70780d661",
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f",
+        "f11e2a6d-ade4-472f-9458-1946ba44cb02"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 5 <\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_421_To_30_Lacs_1.webp"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3",
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f",
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7",
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97",
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96"
+  ]
+}

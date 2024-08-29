@@ -1,0 +1,53 @@
+{{ 'hero-banner.css' | asset_url | stylesheet_tag }}
+
+<div class="hero-banner">
+    <div class="container">
+        <div class="wrapper">
+            {% if section.settings.desk_img != blank %}
+                <div class="image-desktop">
+                    <img src="{{ section.settings.desk_img | img_url: 'master'}}" alt="">
+                </div>
+            {% endif %}
+            {% if section.settings.mob_img != blank %}
+                <div class="image-mobile">
+                    <img src="{{ section.settings.mob_img | img_url: 'master'}}" alt="">
+                </div>
+            {% endif %}
+            {% if section.settings.title != blank %}
+                <div class="contents-wrap">
+                    <h1 class="title">{{ section.settings.title }}</h1>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Hero banner",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "desk_img",
+        "label": "Image (desktop)"
+      },
+      {
+        "type": "image_picker",
+        "id": "mob_img",
+        "label": "Image (mobile)"
+      },
+      {
+        "type": "textarea",
+        "id": "title",
+        "label": "Title"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Hero banner",
+        "category": "banner"
+      }
+    ]
+  }
+{% endschema %}

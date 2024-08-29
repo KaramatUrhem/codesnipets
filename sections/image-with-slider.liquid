@@ -1,0 +1,67 @@
+{{ 'image-with-slider.css' | asset_url | stylesheet_tag }}
+
+<div class="image-with-slider-section" id="{{ section.id }}">
+    <div class="page-width">
+        {% render 'image-with-slider', schema: section %}
+    </div>
+</div>
+
+{% schema %}
+    {
+        "name": "Image with slider",
+        "settings": [
+            {
+                "type": "checkbox",
+                "id": "change_alignment",
+                "label": "Change alignment"
+            },
+            {
+                "type": "richtext",
+                "id": "title",
+                "label": "Title"
+            },
+            {
+                "type": "image_picker",
+                "id": "image",
+                "label": "Image"
+            }
+        ],
+        "blocks": [
+            {
+                "name": "Sample product",
+                "type": "sample_product",
+                "settings": [
+                    {
+                        "type": "product",
+                        "id": "sample_product",
+                        "label": "Choose product"
+                    },
+                    {
+                        "type": "range",
+                        "id": "vertical_position",
+                        "label": "Vertical position",
+                        "default": 20,
+                        "min": 0,
+                        "max": 100,
+                        "step": 2
+                    },
+                    {
+                        "type": "range",
+                        "id": "horizontal_position",
+                        "label": "Horizontal position",
+                        "default": 20,
+                        "min": 0,
+                        "max": 100,
+                        "step": 2
+                    }
+                ]
+            }
+        ],
+        "presets": [
+            {
+                "name": "Image with slider",
+                "category": "slider"
+            }
+        ]
+    }
+{% endschema %}

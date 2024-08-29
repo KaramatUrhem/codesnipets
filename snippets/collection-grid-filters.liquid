@@ -1,0 +1,100 @@
+{% comment %}
+- collection: Liquid 'collection' or 'search' object
+- enable_sidebar: boolean
+- filter_style: 'sidebar' or 'drawer'
+- enable_color_swatches: boolean
+- collapsed: boolean
+{% endcomment %}
+
+{% liquid
+  assign sort_by = collection.sort_by
+  assign default_sort_by = collection.default_sort_by
+  assign sort_options = collection.sort_options
+%}
+
+{%- assign animation_row = 1 -%}
+
+{%- if enable_sidebar -%}
+<div id="CollectionSidebar" data-style="{{ filter_style }}">
+
+    <ul class="no-bullets tag-list tag-list--active-tags">
+    {%- for filter in collection.filters -%}
+      {%- assign filter_index = forloop.index -%}
+
+      {%- for filter_value in filter.active_values -%}
+      <li class="tag tag--remove">
+        <a class="btn btn--small" href="{{ filter_value.url_to_remove }}">
+          {{ filter_value.label | escape }}
+        </a>
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
+      </li>
+      {%- endfor -%}
+    {%- endfor -%}
+    </ul>
+
+    <div class="collection-sidebar-grid">
+      {%- if filter_style == 'sidebar' -%}
+      <div class="collection-sidebar small--hide">
+          {%- render 'collection-grid-filters-form', location: 'CollectionSidebar', filters: collection.filters, collapsed: collapsed, enable_color_swatches: enable_color_swatches -%}
+      </div>
+      {%- endif -%}  
+
+      <div class="collection-filter">
+        <div class="collection-filter__item collection-filter__item--drawer">
+          <button
+            type="button"
+            class="js-drawer-open-collection-filters btn btn--tertiary{% unless current_filter_size == 0 %} btn--tertiary-active{% endunless %}"
+            aria-controls="FilterDrawer">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-filter" viewBox="0 0 64 64"><path d="M48 42h10M48 42a5 5 0 1 1-5-5 5 5 0 0 1 5 5zM7 42h31M16 22H6M16 22a5 5 0 1 1 5 5 5 5 0 0 1-5-5zM57 22H26"/></svg>
+              {{ 'collections.filters.title_tags' | t }}
+              {%- if current_filter_size > 0 -%}
+                  ({{ current_filter_size }})
+              {%- endif -%}
+          </button>
+        </div>
+    
+        <div class="collection-filter__item collection-filter__item--count small--hide">
+          {%- if enable_collection_count -%}
+            {{ count_label | t: count: count }}
+          {%- endif -%}
+        </div>
+    
+        <div class="collection-filter__item collection-filter__item--sort">
+            <div class="collection-filter__sort-container">
+            {%- assign sort_by = sort_by | default: default_sort_by -%}
+            <label for="SortBy" class="hidden-label">{{ 'collections.sorting.title' | t }}</label>
+            <select name="SortBy" id="SortBy" data-default-sortby="{{ default_sort_by }}">
+              <option value="title-ascending"{% if sort_by == default_sort_by %} selected="selected"{% endif %}>{{ 'collections.sorting.title' | t }}</option>
+              {%- for option in sort_options -%}
+              <option value="{{ option.value }}"{% if option.value == sort_by %} selected="selected"{% endif %}>{{ option.name }}</option>
+              {%- endfor -%}
+            </select>
+            </div>
+        </div>
+      </div>
+
+      <div id="FilterDrawer" class="drawer drawer--left">
+        <div class="drawer__contents">
+          <div class="drawer__fixed-header">
+            <div class="drawer__header appear-animation appear-delay-{{ animation_row }}">
+              <div class="h2 drawer__title">
+                {{ 'collections.filters.title_tags' | t }}
+              </div>
+              <div class="drawer__close">
+                <button type="button" class="drawer__close-button js-drawer-close">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
+                  <span class="icon__fallback-text">{{ 'general.drawers.close_menu' | t }}</span>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          {%- assign animation_row = animation_row | plus: 1 -%}
+          <div class="drawer__scrollable appear-animation appear-delay-{{ animation_row }}">
+            {%- render 'collection-grid-filters-form', location: 'SidebarDrawer', filters: collection.filters, collapsed: collapsed, enable_color_swatches: enable_color_swatches -%}
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+{%- endif -%}

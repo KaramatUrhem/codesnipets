@@ -1,0 +1,22 @@
+{{ 'image-grid-item.css' | asset_url | stylesheet_tag }}
+
+<div class="image-grid-item grid__item medium-up--one-third" js-collection-grid-item data-desktop-position="{{ block.settings.desk_position }}" data-mobile-position="{{ block.settings.mob_position  }}">
+    <div class="grid_inner">
+        {% if block.settings.image != blank %}
+            <div class="image">
+                <img src="{{ block.settings.image | img_url: 'master' }}" alt="">
+            </div>
+        {% endif %}
+        <div class="contents-wrap">
+            {% if block.settings.title != blank %}
+                <h2 class="title">{{ block.settings.title }}</h2>
+            {% endif %}
+            {% if block.settings.text != blank %}
+                    <p class="text">{{ block.settings.text }}</p>
+            {% endif %}
+            {% if block.settings.link_text != blank %}
+                <a class="link" href="{{ block.settings.link }}">{{ block.settings.link_text }}</a>
+            {% endif %}
+        </div>
+    </div>
+</div>

@@ -1,0 +1,263 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian weddings are an enchanting occasion reflecting the vibrant tapestry of rituals filled with laughter, food, and dance. The ceremonies showcase the rich culture of the country, where love and tradition intertwine. It is a spectacle that captures the hearts of all who witness it. Amongst the myriad elements that compose this magical occasion, one aspect stands out with resplendent allure – the intricate and awe-inspiring Indian wedding jewelry.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/4_fba4b358-4bdf-4f6e-95c4-2da08c7cc0d6.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/4_fba4b358-4bdf-4f6e-95c4-2da08c7cc0d6.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/collections\/necklaces\/products\/rano-gold-kundan-jadau-polki-choker-necklace\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/collections\/necklaces\/products\/rano-gold-kundan-jadau-polki-choker-necklace\"><em>Rano Choker Necklace<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/1_a26a13fc-8939-4716-89b9-b0dc087dac48.png",
+        "backmobileimage": "shopify:\/\/shop_images\/1_a26a13fc-8939-4716-89b9-b0dc087dac48.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Beauty of Indian Wedding Jewelry: A Kaleidoscope of Elegance and Tradition<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian wedding jewelry is an enchanting symphony of elegance and tradition, adorning brides from head to toe. It is a mesmerizing tapestry of shimmering gold, intricate designs, and vibrant gemstones, weaving tales of grandeur and heritage. From the ornate Indian wedding jewelry mang tikka gracing her forehead to the delicate anklets embracing her feet, every piece celebrates the splendor of love and the richness of the country’s culture.<\/p><p>Indian wedding jewelry is a world where gold gleams like the sun, gemstones shimmer like cosmic constellations, and every stroke of design whispers tales of love, tradition, and spirituality. Here each piece tells a story, holds a legacy, and embraces a profound symbolism. From intricate patterns to delicate motifs, these adornments are not just accessories; they are embodiments of centuries-old cultural heritage.<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/2_9eb864f1-dc55-4c2c-a5e2-d41f65adb70e.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/2_9eb864f1-dc55-4c2c-a5e2-d41f65adb70e.png",
+            "smallinfotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian wedding jewelry, a dazzling ensemble of intricate designs and motifs, holds a treasure trove of cultural and spiritual significance. Each delicate stroke, every carefully crafted element, embodies profound meanings that transcend mere adornment. This blog unravels the hidden meanings behind the captivating designs and motifs of Indian wedding jewelry, delving into a realm where aesthetics and symbolism dance hand in hand, weaving tales of deep-rooted beliefs and cherished traditions. Get ready to immerse yourself in a world of beauty, meaning, and wonder as we explore the significance that lies within the glittering treasures of traditional Indian wedding jewelry.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3"
+      ],
+      "settings": {
+      }
+    },
+    "27405d9a-c62a-44fc-b6db-63398ebc63dc": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16732328722684__27405d9a-c62a-44fc-b6db-63398ebc63dc-168605566161a173a2-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Unearthing the Symbolic Mysteries of Indian Wedding Jewelry<\/p>"
+          }
+        },
+        "template--16732328722684__27405d9a-c62a-44fc-b6db-63398ebc63dc-168605566161a173a2-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian wedding jewelry is characterized by intricate craftsmanship and an abundance of symbols and motifs.  These symbols are deeply rooted in the cultural and historical fabric of the country, and they hold profound meanings. Let us explore some of the common designs and motifs found in Indian wedding jewelry and understand their significance.<\/p><h3>Bird Motif<\/h3>"
+          }
+        },
+        "template--16732328722684__27405d9a-c62a-44fc-b6db-63398ebc63dc-168605566161a173a2-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/3_7c22562f-ef5b-4f8c-88c2-cdffbff5e19b.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/3_7c22562f-ef5b-4f8c-88c2-cdffbff5e19b.png",
+            "smallinfotext": "<p><em>Shaheen Necklace from \"Rani no Pitaaro\" collection by Aurus<\/em><\/p>"
+          }
+        },
+        "template--16732328722684__27405d9a-c62a-44fc-b6db-63398ebc63dc-168605566161a173a2-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Bird motifs play a significant role in Indian wedding jewelry, adding a touch of elegance and symbolism to the adornments. These motifs symbolize love, fidelity, and the beauty of nature, capturing the essence of a blissful union. Birds are seen as messengers of joy and prosperity, and their presence in wedding jewelry is believed to bring blessings and good fortune to the couple.<\/p><p>A variety of bird motifs can be observed in Indian wedding jewelry, each carrying its own symbolism. The <a href=\"https:\/\/totapari.com\/blogs\/news\/indian-motifs-in-jewellery\" target=\"_blank\" title=\"https:\/\/totapari.com\/blogs\/news\/indian-motifs-in-jewellery\">peacock<\/a> with its majestic feathers, represents beauty, grace, and immortality. It is often depicted in intricate designs, showcasing its vibrant plumage. The <a href=\"https:\/\/blog.saffronart.com\/2014\/04\/14\/four-animals-youd-spot-in-south-indian-jewellery\/#:~:text=In%20Hindu%20mythology%2C%20the%20parrot,of%20imbibing%20in%20jewellery%20designs.\" target=\"_blank\" title=\"https:\/\/blog.saffronart.com\/2014\/04\/14\/four-animals-youd-spot-in-south-indian-jewellery\/#:~:text=In%20Hindu%20mythology%2C%20the%20parrot,of%20imbibing%20in%20jewellery%20designs.\">parrot<\/a>, symbolizing love and fidelity, is another popular bird motif found in wedding jewelry. Its colorful plumage and affectionate nature resonate with the idea of a devoted partnership. Other bird motifs include the <a href=\"https:\/\/www.sundarisilks.com\/blogs\/article\/the-famous-five-motifs-of-indian-jewellery\" target=\"_blank\" title=\"https:\/\/www.sundarisilks.com\/blogs\/article\/the-famous-five-motifs-of-indian-jewellery\">swan<\/a>, representing purity and eternal love.<\/p><p>These avian designs are meticulously crafted in gold, silver, or precious gemstones, enhancing the allure of the jewelry and creating a timeless piece of art. Incorporating bird motifs in Indian wedding jewelry not only adds visual splendor but also imbues the jewelry with deep cultural significance and blessings for a prosperous and harmonious marriage.<\/p><h3>Elephant Motif<\/h3>"
+          }
+        },
+        "ccf33d60-1817-492e-bcec-41624f2122a8": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Aurus_Blog_2_d630ea5c-f687-474b-bcc4-6af14e2c6fba.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/Aurus_Blog_2_d630ea5c-f687-474b-bcc4-6af14e2c6fba.png",
+            "smallinfotext": "<p><em>Image courtesy: The Met Museum<\/em><\/p>"
+          }
+        },
+        "4a08335d-56d5-416e-b5be-5e607c75d850": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Among the myriad motifs found in Indian wedding jewelry, the enchanting elephant holds a significant place. Depicted gracefully in intricate designs, the <a href=\"http:\/\/repository.kln.ac.lk\/handle\/123456789\/14075#:~:text=Widely%20used%20as%20motif%20in,symbolizing%20great%20intellect%20and%20wisdom.\" target=\"_blank\" title=\"http:\/\/repository.kln.ac.lk\/handle\/123456789\/14075#:~:text=Widely%20used%20as%20motif%20in,symbolizing%20great%20intellect%20and%20wisdom.\">elephant motif<\/a> symbolizes strength, royalty, wisdom, and good fortune. It represents the auspicious beginnings of a marriage, signifying the couple's journey into a blessed and prosperous life together. Adorning the jewelry, these majestic creatures embody the regal elegance and magnificence associated with Indian weddings. From delicate pendants to elaborate bangles, the elephant motif adds a touch of tradition and cultural symbolism to the bridal ensemble, making it truly extraordinary.<\/p><h3>Sun and Moon Motif<\/h3>"
+          }
+        },
+        "4fa2df6c-f353-4dca-89ea-1b15ebe155ff": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/6_f75717ac-3102-4da1-a88a-e378a25d58f2.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/6_f75717ac-3102-4da1-a88a-e378a25d58f2.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.in\/products\/kaveri-chand-polki-choker-necklace\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/kaveri-chand-polki-choker-necklace\"><em>Kaveri Choker Necklace<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "020de38e-3f84-4b0e-bc4c-ca497bf7e037": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Another prominent motif in Indian wedding jewelry is the <a href=\"https:\/\/mcfarlanefinejewellery.com\/blogs\/the-lovelist\/sun-and-moon-necklace-meaning\" target=\"_blank\" title=\"https:\/\/mcfarlanefinejewellery.com\/blogs\/the-lovelist\/sun-and-moon-necklace-meaning\">Sun and Moon<\/a>. This enchanting symbol represents the celestial bodies that govern our day and night. In Indian culture, the Sun symbolizes energy, power, and vitality, while the Moon signifies grace, wisdom, and beauty. When combined in wedding jewelry, the Sun and Moon motif symbolizes the harmonious union. It embodies the perfect balance of energies, bringing blessings of abundance, happiness, and everlasting love to the couple's marital journey.<\/p><h3>Flowers Motif<\/h3>"
+          }
+        },
+        "ca5b907c-699d-44d5-9781-fa6de4312ca7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/7_7ef10def-0021-48fa-8c26-5df94a6e2803.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/7_7ef10def-0021-48fa-8c26-5df94a6e2803.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/bani-yellow-and-green-gemstone-gold-baali-earrings\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/bani-yellow-and-green-gemstone-gold-baali-earrings\"><em>Bani Earrings<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "2a0d008f-91dc-4d38-add3-ccd28d85fc48": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Symbolizing beauty, prosperity, and fertility, the delicate <a href=\"https:\/\/totapari.com\/blogs\/news\/indian-motifs-in-jewellery#:~:text=Flower%20Motif&text=It%20symbolises%20the%20beauty%20of,delicate%20to%20elaborate%20and%20ornate.\" target=\"_blank\" title=\"https:\/\/totapari.com\/blogs\/news\/indian-motifs-in-jewellery#:~:text=Flower%20Motif&text=It%20symbolises%20the%20beauty%20of,delicate%20to%20elaborate%20and%20ornate.\">flower motif<\/a> in Indian wedding jewelry adds a touch of natural beauty and timeless charm to the bride's ensemble, creating a truly enchanting aura. In Indian traditions, flowers are considered sacred and are often associated with the Hindu goddess Lakshmi and are used in various rituals and ceremonies. When incorporated into bridal jewelry, flowers represent the blossoming of love and the beginning of a new chapter in a couple's life. The intricate floral designs in necklaces, earrings, and bangles evoke a sense of elegance and grace, enhancing the bride's radiance on her special day.<\/p><h3>Fish Motif<\/h3>"
+          }
+        },
+        "1da2e362-0658-4e89-b9fd-652d8be12c8f": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/5_ca14865b-391b-45f1-8ba1-4a9775e10c98.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/5_ca14865b-391b-45f1-8ba1-4a9775e10c98.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/mira-gold-polki-and-gemstones-earrings\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/mira-gold-polki-and-gemstones-earrings\"><em>Mira Earrings<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "c79f3d8d-8ac2-45e7-ab16-b103d8220ebf": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>The <a href=\"https:\/\/www.melissascoppa.com\/products\/simple-fish-pendant#:~:text=The%20fish%20is%20a%20symbol,and%20prosperity%20to%20the%20wearer.\" target=\"_blank\" title=\"https:\/\/www.melissascoppa.com\/products\/simple-fish-pendant#:~:text=The%20fish%20is%20a%20symbol,and%20prosperity%20to%20the%20wearer.\">fish motif<\/a> holds significant symbolism in Indian wedding jewelry, representing prosperity, fertility, and good luck. It is a common feature in traditional jewelry designs, particularly in regions like South India and Bengal. The fish, known as \"matsya\" in Sanskrit, is associated with the goddess of wealth and abundance, Lakshmi. It is believed that wearing fish motifs brings blessings of wealth and prosperity to the couple. Additionally, the fish symbolizes fertility and is often considered an auspicious charm for married life, bringing harmony and abundance to the union.<\/p><h3>Peacock Feather Motif<\/h3>"
+          }
+        },
+        "d2be57d4-e094-4964-9028-ab82d6c8e849": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/8_c4e7d473-f021-436b-940d-19701085e9bc.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/8_c4e7d473-f021-436b-940d-19701085e9bc.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/padmini-gold-thussi-choker-bridal-necklace\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/padmini-gold-thussi-choker-bridal-necklace\"><em>Padmini Thussi Necklace<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "50bad62f-8fa8-40b3-a6ec-6826068371c3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Resplendent with vibrant colors and graceful curves, the <a href=\"https:\/\/rooftopapp.com\/blogs\/significance-of-peacock-motif-in-indian-art\/#:~:text=This%20national%20bird%20represents%20strength,which%20represents%20immortality%20and%20resurrection.\" target=\"_blank\" title=\"https:\/\/rooftopapp.com\/blogs\/significance-of-peacock-motif-in-indian-art\/#:~:text=This%20national%20bird%20represents%20strength,which%20represents%20immortality%20and%20resurrection.\">peacock feather motif<\/a> holds a distinctive allure. It symbolizes beauty, power, and immortality. Peacock feathers are revered in Indian culture as a representation of Lord Krishna and his love for Radha. Their inclusion in bridal adornments signifies the bride's connection to divine love and her own enchanting presence. The peacock feather motif, with its timeless charm, adds a touch of regality and spiritual significance to Indian wedding jewelry, making it an integral part of a bride's ensemble.<\/p><p><\/p>"
+          }
+        },
+        "db97fd37-7486-4b4e-8f62-74cc054da234": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Understanding the symbolism behind Indian wedding jewelry allows us to forge a deeper connection with our cultural heritage. These precious pieces become not only ornaments but also a way to honor traditions, express identities, and connect with the profound heritage that is woven into the fabric of Indian society. Each piece of jewelry becomes a vessel that carries the stories and values of generations past. By wearing these symbolic ornaments, you not only honor their traditions but also express your identities and values.<\/p><p>So, the next time you admire the beauty of Indian wedding jewelry, remember to delve into its symbolism and embrace the stories that it tells. Let your jewelry tell a story, representing your aspirations. Embrace the beauty and depth of Indian wedding jewelry, and let it be a reminder of the rich traditions and beliefs that shape our lives. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16732328722684__27405d9a-c62a-44fc-b6db-63398ebc63dc-168605566161a173a2-0",
+        "template--16732328722684__27405d9a-c62a-44fc-b6db-63398ebc63dc-168605566161a173a2-1",
+        "template--16732328722684__27405d9a-c62a-44fc-b6db-63398ebc63dc-168605566161a173a2-2",
+        "template--16732328722684__27405d9a-c62a-44fc-b6db-63398ebc63dc-168605566161a173a2-3",
+        "ccf33d60-1817-492e-bcec-41624f2122a8",
+        "4a08335d-56d5-416e-b5be-5e607c75d850",
+        "4fa2df6c-f353-4dca-89ea-1b15ebe155ff",
+        "020de38e-3f84-4b0e-bc4c-ca497bf7e037",
+        "ca5b907c-699d-44d5-9781-fa6de4312ca7",
+        "2a0d008f-91dc-4d38-add3-ccd28d85fc48",
+        "1da2e362-0658-4e89-b9fd-652d8be12c8f",
+        "c79f3d8d-8ac2-45e7-ab16-b103d8220ebf",
+        "d2be57d4-e094-4964-9028-ab82d6c8e849",
+        "50bad62f-8fa8-40b3-a6ec-6826068371c3",
+        "db97fd37-7486-4b4e-8f62-74cc054da234"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "blocks": {
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#000000",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "27405d9a-c62a-44fc-b6db-63398ebc63dc",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

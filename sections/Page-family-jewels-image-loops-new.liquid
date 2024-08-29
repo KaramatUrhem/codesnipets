@@ -1,0 +1,154 @@
+{%- if section.settings.mainheadingtext != blank or section.settings.maininfotext != blank or section.blocks.size > 0 -%}
+  <div class="Page_family_jewels_image_loops_main_new" style="background:{{ section.settings.mainbackcolor }};">
+    <div class="page-width">
+      <div class="Page_family_jewels_image_loops_inner_new">
+        {%- if section.settings.mainheadingtext != blank or section.settings.maininfotext != blank -%}
+          <div class="page_common_title_new Page_family_jewels_image_loops_allheading_new">
+            {%- if section.settings.mainheadingtext != blank -%}
+              <h2>{{ section.settings.mainheadingtext }}</h2>
+            {%- endif -%}
+            {%- if section.settings.maininfotext != blank -%}
+              {{ section.settings.maininfotext }}
+            {%- endif -%}
+          </div>
+        {%- endif -%}
+
+        {%- if section.blocks.size > 0 -%}
+          <div class="Page_family_jewels_image_loops_allloop_new">
+            <div class="swiper page_jewels_slider">
+              <div class="swiper-wrapper">
+                {%- for block in section.blocks -%}
+                  {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                    <div class="swiper-slide Page_family_jewels_image_loops_allloop_boxs_new">
+                      {%- if block.settings.redirectlink != blank -%}
+                        <a href="{{ block.settings.redirectlink }}">
+                      {%- endif -%}
+                          {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                            <div class="Page_family_jewels_image_loops_allloop_imageboxs_new">
+                              {%- if block.settings.desktopimage != blank -%}
+                                {%- render 'image-element',
+                                  img: block.settings.desktopimage,
+                                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                                  classes: 'desktop_image_new',
+                                -%}
+                              {%- endif -%}
+                              {%- if block.settings.mobileimage != blank -%}
+                                {%- render 'image-element',
+                                  img: block.settings.mobileimage,
+                                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                                  classes: 'mobile_image_new',
+                                -%}
+                              {%- endif -%}
+                            </div>
+                          {%- endif -%}                                  
+                      {%- if block.settings.redirectlink != blank -%}
+                        </a>
+                      {%- endif -%}
+                    </div>
+                  {%- endif -%}
+                {%- endfor -%}
+              </div>
+              <div class="swiper-button-next"></div>
+              <div class="swiper-button-prev"></div>
+            </div>
+            <div class="page_jewels_mobile_new">
+              {%- for block in section.blocks limit:4 -%}
+                {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                  <div class="Page_family_jewels_image_loops_allloop_boxs_new">
+                    {%- if block.settings.redirectlink != blank -%}
+                      <a href="{{ block.settings.redirectlink }}">
+                    {%- endif -%}
+                        {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                          <div class="Page_family_jewels_image_loops_allloop_imageboxs_new">
+                            {%- if block.settings.desktopimage != blank -%}
+                              {%- render 'image-element',
+                                img: block.settings.desktopimage,
+                                widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                                classes: 'desktop_image_new',
+                              -%}
+                            {%- endif -%}
+                            {%- if block.settings.mobileimage != blank -%}
+                              {%- render 'image-element',
+                                img: block.settings.mobileimage,
+                                widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                                classes: 'mobile_image_new',
+                              -%}
+                            {%- endif -%}
+                          </div>
+                        {%- endif -%}                                  
+                    {%- if block.settings.redirectlink != blank -%}
+                      </a>
+                    {%- endif -%}
+                  </div>
+                {%- endif -%}
+              {%- endfor -%}
+            </div>
+          </div>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+  {
+    "name": "Family Jewels Image Loops",
+    "class": "Page_family_jewels_image_loops_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "id": "mainheadingtext",
+        "label": "Add Main Heading Text Display",
+        "default": "Discover Necklaces Of India"
+      },
+      {
+        "type": "richtext",
+        "id": "maininfotext",
+        "label": "Add Main Information Text Display",
+        "default": "<p>Explore the letest story and jewels we uncover</p>"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "desktopimage",
+            "label": "Add Desktop Image Display"
+          },
+          {
+            "type": "image_picker",
+            "id": "mobileimage",
+            "label": "Add Mobile Image Display"
+          },
+          {
+            "type": "url",
+            "id": "redirectlink",
+            "label": "Add Redirect Link Display"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Family Jewels Image Loops",
+        "blocks": [
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

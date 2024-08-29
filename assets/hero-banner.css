@@ -1,0 +1,88 @@
+.hero-banner {
+    margin-bottom: 44px;
+}
+.hero-banner .container {
+    max-width: 2000px;
+    margin: 0 auto;
+}
+.hero-banner .wrapper {
+    position: relative;
+}
+.hero-banner .contents-wrap {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  background:rgba(28,28,36,0.2);
+}
+.hero-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+.hero-banner .image-desktop {
+    height: 340px;
+}
+.hero-banner .contents-wrap .title {
+    color: #ffffff;
+    text-align: center;
+    margin:0;
+}
+.hero-banner .contents-wrap .title {
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 58px;
+}
+.hero-banner .contents-wrap .title span {
+    font-size: 56px;
+    font-family: "snell_roundhand";
+}
+.hero-banner .image-mobile {
+    display: none;
+}
+
+@media screen and (max-width: 991px) {
+    .hero-banner .image-desktop {
+        height: 220px;
+    }
+    .hero-banner .contents-wrap .title {
+        
+    }
+    .hero-banner .contents-wrap .title span {
+        font-size: 36px;
+    }
+    .hero-banner .contents-wrap .title {
+        font-size: 34px;
+        line-height: 37px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .hero-banner {
+        margin-bottom: 22px;
+    }
+    .hero-banner .contents-wrap .title {
+        
+    }
+    .hero-banner .image-mobile {
+        display: block;
+        height: 124px;
+    }
+    .hero-banner .image-desktop {
+        display: none;
+    }
+    .hero-banner .contents-wrap .title span {
+        font-size: 38px;
+        
+    }
+    .hero-banner .contents-wrap .title {
+        font-size: 32px;
+      line-height: 37px;
+    }
+}

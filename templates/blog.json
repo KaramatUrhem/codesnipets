@@ -1,0 +1,30 @@
+{
+  "sections": {
+    "4898f174-d3a9-4abe-a4e6-dcb0d138da81": {
+      "type": "hero-banner",
+      "settings": {
+        "desk_img": "shopify:\/\/shop_images\/Rectangle_3-min.jpg",
+        "mob_img": "shopify:\/\/shop_images\/Rectangle_3_1_-min.jpg",
+        "title": "<span>journal<\/span>"
+      }
+    },
+    "main": {
+      "type": "blog-template",
+      "settings": {
+        "blog_show_title": false,
+        "blog_show_tag_filter": true,
+        "blog_show_rss": false,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    }
+  },
+  "order": [
+    "4898f174-d3a9-4abe-a4e6-dcb0d138da81",
+    "main"
+  ]
+}

@@ -1,0 +1,140 @@
+{%- if section.blocks.size > 0 or section.settings.mainheadingtext != blank -%}
+  <div class="article_images_with_texts_main_new">
+    <div class="page-width">
+      <div class="article_images_with_texts_inner_new">
+        {%- if section.settings.mainheadingtext != blank -%}
+          <div class="article_images_with_texts_mainheadingtext_new">
+            <h2>{{ section.settings.mainheadingtext }}</h2>
+          </div>
+        {%- endif -%}
+        {%- if section.blocks.size > 0 -%}
+          <div class="article_images_with_texts_allloop_new">
+            {%- for block in section.blocks -%}
+              {%- if block.settings.headingtext != blank or block.settings.infotext != blank or block.settings.desktopimage != blank or block.settings.mobileimage != blank or block.settings.imagetext != blank -%}
+                <div class="article_images_with_texts_allloop_boxs_new{% if block.settings.image_on_left %} article_images_with_texts_allloop_boxs_imageonleft_new{% endif %}">
+                  {%- if block.settings.headingtext != blank or block.settings.infotext != blank or block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                    <div class="article_images_with_texts_allloop_leftrightboxs_new">
+                      {%- if block.settings.headingtext != blank or block.settings.infotext != blank -%}
+                        <div class="article_images_with_texts_allloop_leftboxs_new">
+                          {%- if block.settings.imagetext != blank -%}
+                            <div class="article_images_with_texts_allloop_imagetextboxs_new article_images_with_texts_allloop_imagetextboxs_mobile_new">
+                              {{ block.settings.imagetext }}
+                            </div>
+                          {%- endif -%}
+                          <div class="article_images_with_texts_allloop_leftboxs_in_new">
+                            {%- if block.settings.headingtext != blank -%}
+                              <h3>{{ block.settings.headingtext }}</h3>
+                            {%- endif -%}
+                            {%- if block.settings.infotext != blank -%}
+                              {{ block.settings.infotext }}
+                            {%- endif -%}
+                          </div>
+                        </div>
+                      {%- endif -%}
+                      {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                        <div class="article_images_with_texts_allloop_rightboxs_new">
+                          {%- if block.settings.desktopimage != blank -%}
+                            {%- render 'image-element',
+                              img: block.settings.desktopimage,
+                              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                              classes: 'desktop_image_new',
+                            -%}
+                          {%- endif -%}
+                          {%- if block.settings.mobileimage != blank -%}
+                            {%- render 'image-element',
+                              img: block.settings.mobileimage,
+                              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                              classes: 'mobile_image_new',
+                            -%}
+                          {%- endif -%}
+                        </div>
+                      {%- endif -%}
+                    </div>
+                  {%- endif -%}
+                  {%- if block.settings.imagetext != blank -%}
+                    <div class="article_images_with_texts_allloop_imagetextboxs_new">
+                      {{ block.settings.imagetext }}
+                    </div>
+                  {%- endif -%}
+                </div>
+              {%- endif -%}
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Article Images With Texts",
+    "class": "article_images_with_texts_new",
+    "settings": [
+      {
+        "type": "textarea",
+        "id": "mainheadingtext",
+        "label": "Add Main Heading Text Display",
+        "default": "The intricate art of kundan jewelry making- a closer look!"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "checkbox",
+            "id": "image_on_left",
+            "label": "Show Image On Left Display",
+            "default": false
+          },
+          {
+            "type": "text",
+            "id": "headingtext",
+            "label": "Add Heading Text Display",
+            "default": "Lorem Ipsum is simply dummy text."
+          },
+          {
+            "type": "richtext",
+            "id": "infotext",
+            "label": "Add Information Text Display",
+            "default": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+          },
+          {
+            "type": "image_picker",
+            "id": "desktopimage",
+            "label": "Add Desktop Image Display"
+          },
+          {
+            "type": "image_picker",
+            "id": "mobileimage",
+            "label": "Add Mobile Image Display"
+          },
+          {
+            "type": "richtext",
+            "id": "imagetext",
+            "label": "Add Image Text Display",
+            "default": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder</em></p>"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Article Images With Texts",
+        "blocks": [
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

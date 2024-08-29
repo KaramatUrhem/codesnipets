@@ -1,0 +1,178 @@
+{%- if section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.mainbtnlink != blank or section.settings.bottomheadingtext != blank or section.blocks.size > 0 or section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank -%}
+  <div class="Index_images_with_texts_main_new{% if section.settings.imageonleft %} Index_images_with_texts_imageonleft_new{% endif %}" style="background:{{ section.settings.mainbackcolor }}">
+    <div class="Index_images_with_texts_inner_new">
+      <div class="Index_images_with_texts_leftrightboth_new">        
+        {%- if section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.mainbtnlink != blank or section.settings.bottomheadingtext != blank or section.blocks.size > 0 -%}
+          <div class="Index_images_with_texts_leftside_new">
+            {%- if section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.mainbtnlink != blank -%}
+              <div class="Index_images_with_texts_leftside_toppart_main_new">
+                <div class="Index_images_with_texts_leftside_toppart_new">
+                  {%- if section.settings.biginfotext != blank -%}
+                    <h3>{{ section.settings.biginfotext }}</h3>
+                  {%- endif -%}
+                  {%- if section.settings.smallinfotext != blank -%}
+                    {{ section.settings.smallinfotext }}
+                  {%- endif -%}
+                  {%- if section.settings.mainbtntext != blank and section.settings.mainbtnlink != blank -%}
+                    <div class="Index_images_with_texts_leftside_button_new">
+                      <a href="{{ section.settings.mainbtnlink }}" class="btn">
+                        {{ section.settings.mainbtntext }}
+                      </a>
+                    </div>
+                  {%- endif -%}
+                </div>
+              </div>
+            {%- endif -%}
+            {%- if section.blocks.size > 0 -%}
+              <div class="Index_images_with_texts_leftside_bottompart_main_new">
+                <div class="Index_images_with_texts_leftside_bottompart_new">
+                  {%- if section.settings.bottomheadingtext != blank -%}
+                    <div class="Index_images_with_texts_leftside_bottompart_title_new">
+                      <h3>{{ section.settings.bottomheadingtext }}</h3>
+                    </div>
+                  {%- endif -%}
+                  {%- if section.blocks.size > 0 -%}
+                    <div class="Index_images_with_texts_leftside_bottompart_loop_new">
+                      {%- for block in section.blocks -%}
+                        {%- if block.settings.infotext != blank -%}
+                          <div class="Index_images_with_texts_leftside_bottompart_boxsloop_new">
+                            {%- if block.settings.infolink != blank -%}
+                              <a href="{{ block.settings.infolink }}">
+                            {%- endif -%}
+                                {{ block.settings.infotext }}
+                            {%- if block.settings.infolink != blank -%}
+                              </a>
+                            {%- endif -%}
+                          </div>
+                        {%- endif -%}  
+                      {%- endfor -%}  
+                    </div>
+                  {%- endif -%}  
+                </div>
+              </div>
+            {%- endif -%}  
+          </div>
+        {%- endif -%}
+  
+        {%- if section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank -%}
+          <div class="Index_images_with_texts_rightside_new">
+            {%- if section.settings.maindesktopimage != blank -%}
+              {%- render 'image-element',
+                img: section.settings.maindesktopimage,
+                widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                classes: 'desktop_image_new',
+              -%}
+            {%- endif -%}
+            {%- if section.settings.mainmobileimage != blank -%}
+              {%- render 'image-element',
+                img: section.settings.mainmobileimage,
+                widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                classes: 'mobile_image_new',
+              -%}
+            {%- endif -%}
+          </div>
+        {%- endif -%}  
+      </div>
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Index Images With Texts",
+    "class": "Index_images_with_texts_new",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "imageonleft",
+        "label": "Image On Left Side Display",
+        "default": false
+      },
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#F6F2F1"
+      },
+      {
+        "type": "image_picker",
+        "id": "maindesktopimage",
+        "label": "Add Main Desktop Image Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "mainmobileimage",
+        "label": "Add Main Mobile Image Display"
+      },
+      {
+        "type": "textarea",
+        "id": "biginfotext",
+        "label": "Add Big Information Text Display",
+        "default": "Aurus <span>trunk</span>"
+      },
+      {
+        "type": "richtext",
+        "id": "smallinfotext",
+        "label": "Add Small Information Text Display",
+        "default": "<p>We reflect our own ideas that define an ideal occasion- from simple to traditional, from flamboyant to the whimsical, we have it all covered! Aurus appeals to the constantly evolving woman of today who seeks classic and timeless jewels. Jewels that are not very complicated or dictated by a trend.</p>"
+      },
+      {
+        "type": "text",
+        "id": "mainbtntext",
+        "label": "Add Main Button Text Display",
+        "default": "Make An Appointment"
+      },
+      {
+        "type": "url",
+        "id": "mainbtnlink",
+        "label": "Add Main Button Link Display",
+        "default": "/"
+      },
+      {
+        "type": "text",
+        "id": "bottomheadingtext",
+        "label": "Add Bottom Heading Text Display",
+        "default": "happening soon -"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "text",
+            "id": "infotext",
+            "label": "Add Information Text Display",
+            "default": "Heading"
+          },
+          {
+            "type": "url",
+            "id": "infolink",
+            "label": "Add Information Link Display",
+            "default": "/"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Index Images With Texts",
+        "blocks": [
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

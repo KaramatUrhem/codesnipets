@@ -1,0 +1,118 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "fba272a2-d98d-4d6f-af8a-c832d04ff0d4": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16686222115068__fba272a2-d98d-4d6f-af8a-c832d04ff0d4-1681125262585e4666-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Sizing chart"
+          }
+        },
+        "template--16686222115068__fba272a2-d98d-4d6f-af8a-c832d04ff0d4-1681125262585e4666-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16686222115068__fba272a2-d98d-4d6f-af8a-c832d04ff0d4-1681125262585e4666-0",
+        "template--16686222115068__fba272a2-d98d-4d6f-af8a-c832d04ff0d4-1681125262585e4666-1"
+      ],
+      "settings": {
+        "classname": "pages_header",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "ed5ac2c7-8150-44a0-bee2-105fe06d7c3f": {
+      "type": "size_chart_custom",
+      "disabled": true,
+      "blocks": {
+        "a88ef4d2-0fd0-4bd1-9737-e1aa1eab307d": {
+          "type": "size-chart-tab",
+          "settings": {
+            "Category-name": "Rings",
+            "sub-title-method-left": "method 1",
+            "main-title-left": "If you <span>have<\/span> a ring",
+            "description-data-left": "<p>Take a ring that fits you perfectly.<\/p>",
+            "image-frist-left": "shopify:\/\/shop_images\/image_54.png",
+            "description-image1-left": "<p>Measure the largest distance between the inner edges of ring to get the inner diameter in mm.<\/p>",
+            "image-second-left": "shopify:\/\/shop_images\/image_56.png",
+            "description-image2-left": "<p>Now you have the inner diameter of the ring, use the following chart to determine your size.<\/p>",
+            "sub-title-method-right": "method 2",
+            "main-title-right": "If you <span>don’t have<\/span> a ring",
+            "description-data-right": "<p>Wind a thread around your finger and cut it where the ends meet. You can also do this with a strip of thin paper.<\/p>",
+            "image-frist-right": "shopify:\/\/shop_images\/image_57.png",
+            "description-image1-right": "<p>Straighten it to measure on a ruler in mm.<\/p>",
+            "image-second-right": "shopify:\/\/shop_images\/image_59.png",
+            "description-image2-right": "<p>Now you have the circumference of the ring, use the following chart to determine your size.<\/p>",
+            "image-size-chart": "shopify:\/\/shop_images\/Group_1073713286.png"
+          }
+        },
+        "aa579f84-306b-4ec1-857b-413bfde41688": {
+          "type": "size-chart-tab",
+          "settings": {
+            "Category-name": "Loose Bracelet",
+            "sub-title-method-left": "method 1",
+            "main-title-left": "If you <span>have<\/span> a bracelet",
+            "description-data-left": "<p>Measure the length of the bracelet in inches.<\/p>",
+            "image-frist-left": "shopify:\/\/shop_images\/image_61.png",
+            "description-image1-left": "<p>Use the following chart to determine your bracelet size.<\/p>",
+            "description-image2-left": "",
+            "sub-title-method-right": "method 2",
+            "main-title-right": "If you <span>don’t have<\/span> a bracelet",
+            "description-data-right": "<p>Wind a thread around your wrist and cut it where the ends meet and add 1-2 cm for added comfort.<\/p>",
+            "image-frist-right": "shopify:\/\/shop_images\/image_61_1.png",
+            "description-image1-right": "<p>Measure the length of thread with a ruler and use the following chart to determine your bracelet size.<\/p>",
+            "image-second-right": "shopify:\/\/shop_images\/image_61_2.png",
+            "description-image2-right": "",
+            "image-size-chart": "shopify:\/\/shop_images\/Group_1073713423.png"
+          }
+        },
+        "a688caf3-b77b-4635-9f44-123e255bc4df": {
+          "type": "size-chart-tab",
+          "settings": {
+            "Category-name": "Oval Bracelet",
+            "sub-title-method-left": "method 1",
+            "main-title-left": "If you <span>have<\/span> a bracelet",
+            "description-data-left": "<p>Measure the length of the bracelet in inches.<\/p>",
+            "image-frist-left": "shopify:\/\/shop_images\/Group_1073713409.png",
+            "description-image1-left": "<p>Measure the length and breadth of bangle and use the following chart to determine your bracelet size.<\/p>",
+            "description-image2-left": "",
+            "sub-title-method-right": "method 2",
+            "main-title-right": "If you <span>don’t have<\/span> a bracelet",
+            "description-data-right": "<p>Wind a thread around your wrist and cut it where the ends meet and add 1-2 cm for added comfort.<\/p>",
+            "image-frist-right": "shopify:\/\/shop_images\/image_61_3.png",
+            "description-image1-right": "<p>Measure the length of thread with a ruler and use the following chart to determine your bracelet size.<\/p>",
+            "image-second-right": "shopify:\/\/shop_images\/image_61_4.png",
+            "description-image2-right": "",
+            "image-size-chart": "shopify:\/\/shop_images\/bracelet-table.png"
+          }
+        }
+      },
+      "block_order": [
+        "a88ef4d2-0fd0-4bd1-9737-e1aa1eab307d",
+        "aa579f84-306b-4ec1-857b-413bfde41688",
+        "a688caf3-b77b-4635-9f44-123e255bc4df"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "fba272a2-d98d-4d6f-af8a-c832d04ff0d4",
+    "ed5ac2c7-8150-44a0-bee2-105fe06d7c3f"
+  ]
+}

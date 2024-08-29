@@ -1,0 +1,325 @@
+{
+  "sections": {
+    "cf816632-0986-49ce-822c-d8d0ab92f706": {
+      "type": "article-banner-image-text-new",
+      "disabled": true,
+      "settings": {
+        "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_5945-min.jpg",
+        "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_6050-min.jpg",
+        "imageinfotext": "",
+        "maininfotext": "<p>Indian wedding jewelry is not just decorative but carries a deeper meaning, representing family traditions and cultural heritage. But how wonderful would it be for the bride to tell her own story through something that is a representation of her values and personality? This is where the growing trend of creating custom Indian wedding jewelry comes into play.<\/p>"
+      }
+    },
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>A beautiful Indian bride, adorned in her bridal jewelry, is a sight to behold. The sparkle and shimmer of the jewelry enhance the beauty of the outfit, adding to her radiance. Indian wedding jewelry is not just decorative but carries a deeper meaning, representing family traditions and cultural heritage. But how wonderful would it be for the bride to tell her own story through something that is a representation of her values and personality? This is where the growing trend of creating custom Indian wedding jewelry comes into play.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Custom-made_indian_wedding_necklace.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/Custom-made_indian_wedding_necklace.png",
+            "smallinfotext": ""
+          }
+        },
+        "e64625cd-b163-4634-bf5f-ee83676a29f3": {
+          "type": "texts",
+          "disabled": true,
+          "settings": {
+            "fullinfotext": "<p>The incomplete nature of this turban ornament, which is missing the standard jeweled front, reveals the technique of manufacture of most of the enameled and jeweled gold ornaments made under Mughal stylistic influence. They are not solid gold but hollow and filled with lac, a natural resin. The enameling would be completed before the lac was added, and the stones would then be set into the piece using Kundan – highly refined gold that can be pressed into place by the jeweler’s tools without using heat.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7",
+        "e64625cd-b163-4634-bf5f-ee83676a29f3"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/Custom-made_Indian_wedding_jewelry1.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Art of Personalizing Indian Wedding Jewelry<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Today's brides embrace their cultural heritage while also adding their unique flair to make their <a href=\"https:\/\/www.aurusjewels.com\/blogs\/news\/so-you-want-to-plan-an-unforgettable-indian-wedding\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/blogs\/news\/so-you-want-to-plan-an-unforgettable-indian-wedding\">Indian wedding celebrations <\/a>truly memorable. The trend of personalizing Indian wedding jewelry is largely driven by the desire to wear unique designs that reflect the bride’s individual style and preferences. The process of personalizing allows the brides to have a say in the design process, from selecting the type of metal and gemstones to incorporating meaningful symbols and motifs that hold special significance to them. This article serves as a guide to crafting a keepsake to cherish for a lifetime, encompassing key considerations.<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2": {
+          "type": "images",
+          "disabled": true,
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "smallinfotext": ""
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3"
+      ],
+      "settings": {
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Spark Your Creativity: Finding Inspiration for Custom Indian Wedding Jewelry",
+            "infotext": "<p>The beauty of customizing Indian wedding jewelry lies in the ability to create a unique piece that is tailored to the individual's tastes, preferences, and personality. Hence, the first phase of the process is the inspiration phase, where you can take inspiration from various sources that can help her draw a design. Nature, art, heritage, personal experiences—anything can serve as inspiration. You can create a mood board or draw a rough image of the design she wants, helping the jewelry designer create a piece of jewelry that is truly one-of-a-kind and reflects her unique identity.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Custom_indian_wedding_jewelry_inspiration.png",
+            "mobileimage": "shopify:\/\/shop_images\/Custom_indian_wedding_jewelry_inspiration.png",
+            "imagetext": ""
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Trust in the Expertise: Role of the Jewelry Designer in Customizing Indian Wedding Jewelry",
+            "infotext": "<p>Jewelry making is an art, and customizing Indian wedding jewelry is a collaborative effort with the jewelry designer. While the bride brings her vision and personal style to the table, the jewelry designer brings years of experience, technical skill, and an understanding of the cultural significance of bridal jewelry. It is essential to find a reputable jewelry designer with experience in creating custom pieces and a deep understanding of the craft. To find one, the bride can check online reviews, ask her friends and family, and look for certifications and accreditations. Take time to do the research to identify a jewelry designer who can help to bring the custom Indian wedding jewelry design to life!<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/custom_inidan_wedding_jewelry_designer1.png",
+            "mobileimage": "shopify:\/\/shop_images\/custom_inidan_wedding_jewelry_designer1.png",
+            "imagetext": ""
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "From Sketch to Shine: Designing Custom Indian Wedding Jewelry",
+            "infotext": "<p>Once a trusted jewelry designer is found, the process of designing custom Indian wedding jewelry begins. The first consultation is a thorough conversation describing the bride’s vision and preferences, along with the budget and timeline, to the jewelry designer. If the bride has images or a mood board, it becomes easier for them to understand the idea. They then set up a second meeting where they share sketches or digital renderings of the design, giving life to the bride’s imagination. If there is anything that needs changing, now is the time to speak. Once the design is finalized, the jewelry designer will begin the process of crafting the custom Indian wedding jewelry, moving ahead to select the materials to be used.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/custom_indian_wedding_jewelry_sketch.png",
+            "mobileimage": "shopify:\/\/shop_images\/custom_indian_wedding_jewelry_sketch.png",
+            "imagetext": ""
+          }
+        },
+        "bbfd85f5-c286-4e5c-beef-c67d409848c3": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Metal Matters: Selecting Materials for Indian Wedding Jewelry",
+            "infotext": "<p>Design finalization leads to material selection. Indian wedding jewelry looks opulent and eye-catching because of the precious metals used. The metals play a vital role in getting a refined and intricate design on the accessory. There are numerous options in metals to choose from, such as gold, silver, and platinum. Along with the metal, based on the design, choosing gemstones like diamonds, rubies, emeralds, etc. is also important. The jewelry designer can guide the bride to choose the right material as their expertise will help the bride to choose the ones that fit the design and budget while prioritizing high-quality ones that ensure longevity.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/custom_indian_wedding_jewelry_metal_selection.png",
+            "mobileimage": "shopify:\/\/shop_images\/custom_indian_wedding_jewelry_metal_selection.png",
+            "imagetext": ""
+          }
+        },
+        "0517b310-b32a-4397-907f-9e98d56666be": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "From Paper to Precious: Creating Custom Indian Wedding Jewelry",
+            "infotext": "<p>Here comes the final phase: the making of custom Indian wedding jewelry. The process typically involves casting the metal, setting stones, and polishing. The craftsmen will carefully set stones into the metal and polish the piece to enhance its shine, ensuring the final product meets your expectations! The jewelry designer will also provide specific care instructions based on the materials and design of the piece to help maintain its quality and longevity.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/WhatsApp_Image_2023-04-29_at_13_30_22_jpeg_e4bad92c-8db4-410b-b6b5-9a28b8dc7292.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/WhatsApp_Image_2023-04-29_at_13_30_22_jpeg_e4bad92c-8db4-410b-b6b5-9a28b8dc7292.jpg",
+            "imagetext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2",
+        "bbfd85f5-c286-4e5c-beef-c67d409848c3",
+        "0517b310-b32a-4397-907f-9e98d56666be"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "4c5e9829-38fd-4086-8e17-37ad69ad7a5a": {
+      "type": "article-mp4-video-banner-new",
+      "disabled": true,
+      "settings": {
+        "mp4videolink": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/93c6d4ac069841abb2fbdf1099ed9f1f.mp4"
+      }
+    },
+    "98705503-a4cc-42ae-8594-b45067388ab5": {
+      "type": "article-image-text-column-new",
+      "disabled": true,
+      "blocks": {
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "title": "<p><em>Diamond being prepared with silver foil before setting<\/em><\/p>",
+            "infotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "title": "<p><em>Diamonds being set<\/em><\/p>",
+            "infotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-2": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "title": "<p><em>Gold Kundan strip being tooled around the diamond<\/em><\/p>",
+            "infotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-3": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "title": "<p><em>Finished Kundan-technique earrings with embellished pearls<\/em><\/p>",
+            "infotext": "<p><em>Finished Kundan-technique earrings with embellished pearls<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-0",
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-1",
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-2",
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-3"
+      ],
+      "settings": {
+      }
+    },
+    "ebfabb35-f7e8-4376-8bc0-87436a379ea9": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16723671843068__ebfabb35-f7e8-4376-8bc0-87436a379ea9-1684396983c5d99030-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": ""
+          }
+        },
+        "template--16723671843068__ebfabb35-f7e8-4376-8bc0-87436a379ea9-1684396983c5d99030-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Creating custom Indian wedding jewelry is an exciting process that allows the bride to bring her dream design to life. At the end of the day, her wedding day is about celebrating her love, and customizing jewelry is a way to tell her unique story. With the right choices and people, creating custom Indian wedding jewelry can be a truly rewarding experience.<\/p><p>If you are a bride-to-be wanting to customize your Indian wedding jewelry, we understand that selecting the perfect jeweler to bring your vision to life can be a daunting task. That's why our experts are here to provide you with guidance and support throughout the entire process. Let us be your go-to resource, guiding you through the journey of creating bridal accessories that are uniquely you!<\/p>"
+          }
+        },
+        "template--16723671843068__ebfabb35-f7e8-4376-8bc0-87436a379ea9-1684396983c5d99030-2": {
+          "type": "images",
+          "disabled": true,
+          "settings": {
+            "smallinfotext": ""
+          }
+        },
+        "template--16723671843068__ebfabb35-f7e8-4376-8bc0-87436a379ea9-1684396983c5d99030-3": {
+          "type": "texts",
+          "disabled": true,
+          "settings": {
+            "fullinfotext": "<p>Ornate designs made with precious gemstones encrusted in 24K gold—said to have been born in the royal region of Rajasthan and flourished during the era of the Mughals, Kundan jewelry is perhaps one of the most, if not the most-loved jewelry styles in India, especially that of brides.<\/p><p>According to Bernadette Van Gelder's book Traditional Indian Jewelry—Beautiful People, the Kundan jewelry-making technique is perhaps the oldest technique for setting stones in jewelry using gold in the Indian tradition. According to the book, this technique was first mentioned in the Ain-i-Akbari, the third and final book of Akbarnama, the official account of Akbar's reign.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16723671843068__ebfabb35-f7e8-4376-8bc0-87436a379ea9-1684396983c5d99030-0",
+        "template--16723671843068__ebfabb35-f7e8-4376-8bc0-87436a379ea9-1684396983c5d99030-1",
+        "template--16723671843068__ebfabb35-f7e8-4376-8bc0-87436a379ea9-1684396983c5d99030-2",
+        "template--16723671843068__ebfabb35-f7e8-4376-8bc0-87436a379ea9-1684396983c5d99030-3"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "blocks": {
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#000000",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "cf816632-0986-49ce-822c-d8d0ab92f706",
+    "main",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "4c5e9829-38fd-4086-8e17-37ad69ad7a5a",
+    "98705503-a4cc-42ae-8594-b45067388ab5",
+    "ebfabb35-f7e8-4376-8bc0-87436a379ea9",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

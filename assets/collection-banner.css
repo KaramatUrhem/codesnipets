@@ -1,0 +1,9 @@
+.collection-banner .collection-hero__content {
+    align-items: center;
+    text-align: center;
+}
+.collection-banner .section-header__title {
+    font-weight: 500;
+    font-size: 50px;
+}
+.collection-hero__content:before{ background:#C1B3B3; opacity:0.2; }

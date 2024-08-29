@@ -1,0 +1,152 @@
+{%- if section.blocks.size > 0 -%}
+  <div class="Page_indian_family_jewels_info_meta_main_new">
+    <div class="Page_indian_family_jewels_info_meta_inner_new">
+      <div class="Page_indian_family_jewels_info_meta_mainloop_new">
+        {%- for block in section.blocks -%}          
+          {%- assign maininfoimages = 'main_info_images_' | append: forloop.index -%}
+          {%- assign maininfotitle = 'main_info_title_' | append: forloop.index -%}
+          {%- assign innerinfoimages = 'inner_info_images_' | append: forloop.index -%}
+          {%- assign innerinfotitle = 'inner_info_title_' | append: forloop.index -%}    
+          
+          <div class="Page_indian_family_jewels_info_meta_innerloop_new{% if block.settings.imageonright %} Page_indian_family_jewels_info_meta_innerloop_imageonright_new{% endif %}">
+            {%- for indianfamilyjewels in shop.metaobjects.indian_family_jewels.values -%}
+              {%- if indianfamilyjewels.redirect_page_url.value == request.path -%}
+                {%- if indianfamilyjewels[maininfoimages].value != blank or indianfamilyjewels[maininfotitle].value != blank or indianfamilyjewels[innerinfoimages].value != blank or indianfamilyjewels[innerinfotitle].value != blank -%}
+                  <div class="Page_indian_family_jewels_info_meta_innerloop_boxs_new">
+                  
+                    {%- if indianfamilyjewels[maininfoimages].value != blank or indianfamilyjewels[maininfotitle].value != blank -%}
+                      <div class="Page_indian_family_jewels_info_meta_innerloop_topboxs_new">
+                        {%- if indianfamilyjewels[maininfoimages].value != blank -%}
+                          <div class="Page_indian_family_jewels_info_meta_innerloop_topboxs_loopimage_new">
+                            <div class="swiper meta_slider_1">
+                              <div class="swiper-wrapper">
+                                {%- for mainvideosphotos in indianfamilyjewels[maininfoimages].value -%}
+                                  <div class="swiper-slide Page_indian_family_jewels_info_meta_innerloop_topboxs_image_new">
+                                    {%- if mainvideosphotos.sources[1].url contains '.mp4' or mainvideosphotos.sources[1].url contains '.MP4' -%}
+                                      <div class="Page_indian_family_jewels_info_meta_innerloop_topboxs_boxsimage_videoimage_new">
+                                        <video
+                                          id="Mp4Video-{{ block.id }}-main"
+                                          class="video-div"
+                                          data-type="mp4"
+                                          src="{{ mainvideosphotos.sources[1].url }}"
+                                          loop muted playsinline autoplay>
+                                        </video>
+                                      </div>
+                                    {%- else -%}
+                                      <div class="Page_indian_family_jewels_info_meta_innerloop_topboxs_boxsimage_videoimage_new">
+                                        {%- render 'image-element',
+                                          img: mainvideosphotos,
+                                          widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                                          classes: 'boxs_image_new',
+                                        -%}
+                                      </div>
+                                    {%- endif -%}
+                                  </div>
+                                {%- endfor -%}
+                              </div>
+                              <div class="swiper-button-prev">
+                                <svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M18 5 8 15l10 10z" fill="#B42327" fill-rule="evenodd"></path>
+                                </svg>
+                              </div>
+                              <div class="swiper-button-next">
+                                <svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="m12 5 10 10-10 10z" fill="#B42327" fill-rule="evenodd"></path>
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        {%- endif -%}                  
+                        {%- if indianfamilyjewels[maininfotitle].value != blank -%}
+                          <div class="Page_indian_family_jewels_info_meta_innerloop_topboxs_alltexts_new">
+                            {{ indianfamilyjewels[maininfotitle].value }}
+                          </div>
+                        {%- endif -%}
+                      </div>
+                    {%- endif -%}
+                  
+                    {%- if indianfamilyjewels[innerinfoimages].value != blank or indianfamilyjewels[innerinfotitle].value != blank -%}
+                      <div class="Page_indian_family_jewels_info_meta_innerloop_bottomboxs_new">
+                        {%- if indianfamilyjewels[innerinfoimages].value != blank -%}
+                          <div class="Page_indian_family_jewels_info_meta_innerloop_bottomboxs_loopimage_new">
+                            <div class="swiper meta_slider_2">
+                              <div class="swiper-wrapper">
+                                {%- for innervideosphotos in indianfamilyjewels[innerinfoimages].value -%}
+                                  <div class="swiper-slide Page_indian_family_jewels_info_meta_innerloop_bottomboxs_boxsimage_new">
+                                    {%- if innervideosphotos.sources[1].url contains '.mp4' or innervideosphotos.sources[1].url contains '.MP4' -%}
+                                      <div class="Page_indian_family_jewels_info_meta_innerloop_bottomboxs_boxsimage_videoimage_new">
+                                        <video
+                                          id="Mp4Video-{{ block.id }}-inner"
+                                          class="video-div"
+                                          data-type="mp4"
+                                          src="{{ innervideosphotos.sources[1].url }}"
+                                          loop muted playsinline autoplay>
+                                        </video>
+                                      </div>
+                                    {%- else -%}
+                                      <div class="Page_indian_family_jewels_info_meta_innerloop_bottomboxs_boxsimage_videoimage_new">
+                                        {%- render 'image-element',
+                                          img: innervideosphotos,
+                                          widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                                          classes: 'boxs_image_new',
+                                        -%}
+                                      </div>
+                                    {%- endif -%}
+                                  </div>
+                                {%- endfor -%}
+                              </div>
+                              <div class="swiper-button-prev">
+                                <svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M18 5 8 15l10 10z" fill="#B42327" fill-rule="evenodd"></path>
+                                </svg>
+                              </div>
+                              <div class="swiper-button-next">
+                                <svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="m12 5 10 10-10 10z" fill="#B42327" fill-rule="evenodd"></path>
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        {%- endif -%}                  
+                        {%- if indianfamilyjewels[innerinfotitle].value != blank -%}
+                          <div class="Page_indian_family_jewels_info_meta_innerloop_bottomboxs_alltexts_new">
+                            {{ indianfamilyjewels[innerinfotitle].value }}
+                          </div>
+                        {%- endif -%}
+                      </div>
+                    {%- endif -%} 
+                    
+                  </div>
+                {%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+          </div>
+        {%- endfor -%}
+      </div>
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+  {
+    "name": "Indian Family Jewels Info",
+    "class": "Page_indian_family_jewels_info_meta_new",
+    "settings": [
+      
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "checkbox",
+            "id": "imageonright",
+            "label": "Image On Right Side Display",
+            "default": false
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

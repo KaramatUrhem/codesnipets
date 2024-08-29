@@ -1,0 +1,147 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Renowned for its exquisite beauty and vibrant hues, Indian bridal jewelry is a mesmerizing embodiment of age-old traditions. The intricate designs and meticulous craftsmanship passed down through generations contribute to the timeless allure of these ornate pieces, making them not only accessories but also cherished heirlooms that carry the weight of history. Traditional techniques such as Filigree work on the base of precious metals and the use of gemstones further enhance the beauty of Indian bridal jewelry.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/2_597f1bd3-0318-44d2-b4ce-83c8c8453e8d.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/2_597f1bd3-0318-44d2-b4ce-83c8c8453e8d.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/abeer-pink-tourmaline-amethyst-and-diamond-necklace-for-women\/\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/abeer-pink-tourmaline-amethyst-and-diamond-necklace-for-women\/\"><em><strong>Abeer Necklace <\/strong><\/em><\/a><em>by Aurus<\/em><\/p>"
+          }
+        },
+        "75608e9b-30a3-4fbb-9780-62880f0cb391": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>A Splash of Color: Gemstones in Indian Bridal Jewelry<\/p>"
+          }
+        },
+        "7ffb60ee-b52e-497b-900f-6efbe3bb140c": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian bridal jewelry has long been synonymous with the dazzle of polki, the traditional uncut diamond style. The shimmering brilliance of polki has adorned brides for generations, creating an aura of grandeur and opulence. However, the world of traditional Indian bridal jewelry goes beyond polki, offering a diverse array of choices. Nestled among carefully woven designs, these gemstones are the driving force of the kaleidoscopic hues of Indian bridal jewelry. Today, we will take a deep dive into the enchanting world of gemstones, offering not only aesthetic beauty but also cultural and symbolic significance.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7",
+        "75608e9b-30a3-4fbb-9780-62880f0cb391",
+        "7ffb60ee-b52e-497b-900f-6efbe3bb140c"
+      ],
+      "settings": {
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Emeralds: The Green Elegance",
+            "infotext": "<p>Emeralds, with their lush green hues, have held a special place in Indian culture for centuries. Known as the \"stone of successful love,\" emeralds symbolize growth and hope, making them an ideal choice for Indian bridal jewelry. Beyond their cultural significance, emeralds exude a sense of elegance and opulence. From traditional chokers to contemporary statement pieces, emerald-studded Indian bridal jewelry adds a touch of regal allure to the ensemble. Their versatile color pairs beautifully with both gold and silver settings, making them a sought-after choice for those seeking a unique yet classic touch.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/3_309d6cee-854b-4c60-86df-99f8fd07411c.png",
+            "mobileimage": "shopify:\/\/shop_images\/3_309d6cee-854b-4c60-86df-99f8fd07411c.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/nargis-gold-emerald-tourmaline-and-diamond-necklace-for-women\/\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/nargis-gold-emerald-tourmaline-and-diamond-necklace-for-women\/\"><em><strong>Nargis Necklace<\/strong><\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Rubies: The Fiery Passion",
+            "infotext": "<p>Rubies, often referred to as the \"king of gemstones,\" are celebrated for their fiery red allure and timeless beauty. In the context of Indian weddings, these gems hold immense cultural significance, symbolizing power, and protection. Whether set in traditional gold designs or paired with diamonds for a contemporary twist, ruby-studded Indian bridal jewelry exudes an air of intense passion and sophistication. From necklaces that cascade like a waterfall of fire to intricate bangle sets, rubies add a touch of drama that perfectly complements the celebratory spirit of weddings.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/4_738a203c-d405-49a1-b827-3dc8d1feadbf.png",
+            "mobileimage": "shopify:\/\/shop_images\/4_738a203c-d405-49a1-b827-3dc8d1feadbf.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/samyukta-diamond-and-ruby-necklace\/\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/samyukta-diamond-and-ruby-necklace\/\"><em><strong>Samyukta Necklace<\/strong><\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Tanzanites: The Ethereal Purple",
+            "infotext": "<p>Tanzanites, with their mesmerizing violet-blue hues, have found a special place in Indian bridal jewelry. These exquisite gemstones, often adorning necklaces, earrings, and rings, symbolize elegance and sophistication. Tanzanites add a touch of modernity to traditional bridal ensembles, creating a perfect blend of tradition and contemporary aesthetics. Their alluring color complements the rich tapestry of Indian bridal attire, making them a coveted choice for brides seeking unique and captivating jewelry pieces to adorn themselves on their special day.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/5_3558a4ab-4e58-4c7b-85c4-1ad14215e6cc.png",
+            "mobileimage": "shopify:\/\/shop_images\/5_3558a4ab-4e58-4c7b-85c4-1ad14215e6cc.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/amaal-tanzanite-diamond-and-pearls-necklace\/\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/amaal-tanzanite-diamond-and-pearls-necklace\/\"><em><strong>Amaal Necklace<\/strong><\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "aa1b5a88-bd4d-48ff-af69-ed618d6851c8": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Tourmaline: The Radiant Hues",
+            "infotext": "<p>Tourmaline gemstones are celebrated for their astonishing range of colors, from electric blues to sunny yellows, making them a playful choice for those looking to add a pop of color. The use of tourmalines in Indian bridal jewelry, especially yellow tourmalines, is gaining popularity as they inject a burst of radiance into bridal ensembles. Whether used as the centerpiece of a pendant or as accents in a multi-gemstone piece, tourmalines bring an element of radiance and joy to bridal jewelry.<\/p><p>Yellow tourmalines, often associated with warmth and joy, can be incorporated into necklaces, bracelets, and rings, instantly infusing the jewelry set with a cheerful and lively vibe. The Chavi necklace is an excellent example of displaying the exquisite beauty that these gemstones offer. This exquisite piece of artistry narrates a tale of our cultural opulence through its meticulously handcrafted gold design. <\/p><p>Within a bed of monochrome Polki\/uncut diamonds, playful tourmalines of varying hues are interspersed, infusing a subtle yet charming playfulness into the necklace's inherent elegance.  The yellow tourmaline, meticulously faceted to enhance its brilliance, is securely held in a setting that allows light to dance through the gemstone, creating a captivating play of colors.<\/p><p>While polki jewelry continues to hold a special place in the hearts of many, the allure of unique gemstones is undeniably captivating. The colorful landscape of Indian bridal jewelry gemstones tells a story, each design is a work of art, and together they paint a vivid picture!<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/6_3ec3d1de-2bdc-4d5a-a6c4-219a2de9aa15.png",
+            "mobileimage": "shopify:\/\/shop_images\/6_3ec3d1de-2bdc-4d5a-a6c4-219a2de9aa15.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/roya-gold-diamond-emerald-and-yellow-tourmaline-choker-necklace\/\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/roya-gold-diamond-emerald-and-yellow-tourmaline-choker-necklace\/\"><em><strong>Roya Choker Necklace<\/strong><\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2",
+        "aa1b5a88-bd4d-48ff-af69-ed618d6851c8"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

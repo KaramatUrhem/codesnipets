@@ -1,0 +1,258 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "fba272a2-d98d-4d6f-af8a-c832d04ff0d4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16686222115068__fba272a2-d98d-4d6f-af8a-c832d04ff0d4-1681125262585e4666-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Materials"
+          }
+        },
+        "template--16686222115068__fba272a2-d98d-4d6f-af8a-c832d04ff0d4-1681125262585e4666-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>AURUS is soulful luxury. It is meant for everyday and forever!<br\/>We only work with high-quality, enduring materials, from precious metals to genuine gemstones.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686222115068__fba272a2-d98d-4d6f-af8a-c832d04ff0d4-1681125262585e4666-0",
+        "template--16686222115068__fba272a2-d98d-4d6f-af8a-c832d04ff0d4-1681125262585e4666-1"
+      ],
+      "settings": {
+        "classname": "",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "6f01bb0c-96e8-4e4d-94ba-61df99d0a646": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16718325317884__6f01bb0c-96e8-4e4d-94ba-61df99d0a646-1683617141e905bce7-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Precious metals",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/pf-a17d74fd--banner-aurus-1.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16718325317884__6f01bb0c-96e8-4e4d-94ba-61df99d0a646-1683617141e905bce7-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "89587db8-b461-46d9-b696-05b70b7b27e1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16718325317884__89587db8-b461-46d9-b696-05b70b7b27e1-16836172941e70e5d2-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The metal of royalty, gold has long been coveted for its reddish gold sheen and resistance to oxidation or corrosion. Although rare, gold is a highly malleable metallic element and is found throughout the world. Pure gold is very soft, so it's alloyed with other metals like copper, silver, and zinc to create the 14 karat gold that we use. This means that 14 out of 24 parts are gold, giving you the ideal balance of luxurious color, bright shine, and long-lasting strength. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718325317884__89587db8-b461-46d9-b696-05b70b7b27e1-16836172941e70e5d2-1"
+      ],
+      "settings": {
+        "classname": "",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "b4bb7ae6-d681-44c8-8fea-d75efd3913ba": {
+      "type": "text-and-image",
+      "settings": {
+        "classname": "",
+        "video_show": false,
+        "videourl": "",
+        "image": "shopify:\/\/shop_images\/pf-fd9b7be7--metal-aurus.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p><strong>14 Karat Gold :<\/strong> 14K gold with 58.4%(14 out of 24 parts) gives a subtle hue to the pieces and tightly holds and secures the diamonds and gemstones. It is appropriate for everyday-wear; scratches less and doesn’t bend or wear out easily.<br\/><\/p><p><strong>18 Karat Gold :<\/strong> purity though seldom used in our designs is also appropriate for everyday-wear but we prefer to use 14K gold for its strength in holding the gemstones in place.<br\/><\/p><p><strong>22 Karat Gold :<\/strong> 22K gold has 91.67% (22 out of 24 parts) purity and is mostly used in our designs that use the<em>kundan setting <\/em><a href=\"https:\/\/www.aurusjewels.in\/pages\/glossary\"><span style=\"text-decoration:underline\"><em>(see glossary<\/em><\/span><em>)<\/em><\/a>.<br\/><\/p><p><strong>24 Karat Gold :<\/strong> 24k gold has 99.9% purity, is technically a gold foil as it is the purest and hence the most malleable. It is only used in our designs that use the<em>kundan setting <\/em><a href=\"https:\/\/www.aurusjewels.in\/pages\/glossary\"><em>(<\/em><span style=\"text-decoration:underline\"><em>see glossary<\/em><\/span><em>)<\/em><\/a><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "c26816d0-5df6-4070-8384-b22fac8969fd": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16718325317884__c26816d0-5df6-4070-8384-b22fac8969fd-1683617141e905bce7-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Diamonds",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/pf-7be7b4c8--banner-aurus-2.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16718325317884__c26816d0-5df6-4070-8384-b22fac8969fd-1683617141e905bce7-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "403b342c-6093-4a3a-83eb-fa1394223dd3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16718325317884__403b342c-6093-4a3a-83eb-fa1394223dd3-16836172941e70e5d2-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The Four C's of Diamonds, Cut, Color, Clarity, and Carat, are the basics that are used to select and grade all diamonds.<br\/>The different cuts and colors of Diamonds we use are : <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718325317884__403b342c-6093-4a3a-83eb-fa1394223dd3-16836172941e70e5d2-1"
+      ],
+      "settings": {
+        "classname": "",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "49d988ab-b93e-48b9-a3e4-f3e892a1d736": {
+      "type": "text-and-image",
+      "settings": {
+        "classname": "",
+        "video_show": false,
+        "videourl": "",
+        "image": "shopify:\/\/shop_images\/pf-62da078f--di1.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p><strong>Brilliant-cut Diamond :<\/strong> Can you think of a better name for the sparkling look of the brilliant cut? With a precise arrangement of 57 facets, the brilliant cut is the benchmark for white diamonds. These stones represent the pinnacle of the gem cutter's art and bring unmatched brightness to any setting. Diamond is also a part of the Navratna Gemstones.<em>(For Navratna <\/em><a href=\"https:\/\/www.aurusjewels.in\/pages\/glossary\"><span style=\"text-decoration:underline\"><em>see glossary<\/em><\/span><em>)<\/em><\/a><br\/><br\/><\/p><p><strong>Rose-cut Diamond :<\/strong> A throwback to the centuries-old cut, the simple and stunning rose cut was the jeweler's cut of choice for hundreds of years. Unlike round brilliant cuts, the rose cut is flat on its bottom with a domed surface, giving any setting an architectural beauty and creating a more subtle and understated sparkle. It is usually round but sometimes oval too.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "08b3afd9-cb48-4f5e-92cc-166b42abc7e7": {
+      "type": "text-and-image",
+      "settings": {
+        "classname": "",
+        "video_show": false,
+        "videourl": "",
+        "image": "shopify:\/\/shop_images\/pf-62da078f--di1.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p><strong>Baguette-cut :<\/strong> Often used as accent stones, baguette-cut gemstones are long and rectangular with octagonal corners. A baguette-cut diamond will generally have less brilliance than a traditional brilliant cut. It became popular during the Art Deco era, which favoured straight, geometric patterns and forms. It is one of the more expensive diamond shapes as more of the stone is lost to create the shape than with other cuts.<br\/><\/p><p><strong>Marquise-cut Diamond :<\/strong> A modified brilliant cut, the Marquise cut looks a little like a football. Symmetry is critical to the marquise cut, and even a slight misalignment of the two end points or right and left sides can cause it to appear off-balance in jewellery design.<br\/><\/p><p><strong>Princess-cut Diamond :<\/strong> Betzalel Ambar and Israel Itzkowitz created the popular princess cut in 1980. A square cut, these diamonds are flexible and work well in nearly any ring style.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5caf6aba-2300-4fb5-aca3-9312028bf38e": {
+      "type": "text-and-image",
+      "settings": {
+        "classname": "",
+        "video_show": false,
+        "videourl": "",
+        "image": "shopify:\/\/shop_images\/pf-da078fa5--di-3.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p><strong>Champagne Diamond :<\/strong> Though white is the most famous, diamonds actually occur in lots of colors and champagne is one of our favorites. Naturally brown with a yellow tint, these diamonds add extra romance to our designs. Best of all, you get all the virtues of a natural diamond like superior hardness and incredible fire.<br\/><\/p><p><strong>Uncut Diamonds\/Polki\/Vilandi :<\/strong> A diamond that has few facets and appears to have little fire or brilliance. It refers to unpolished or rough diamonds. Polkis can be irregular in shape and are frequently used in the Indian setting technique of kundan.(which is essentially gold foil)-<em>for kundan <\/em><a href=\"https:\/\/www.aurusjewels.in\/pages\/glossary\"><em>(<\/em><span style=\"text-decoration:underline\"><em>see glossary<\/em><\/span><em>)<\/em><\/a><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "fba272a2-d98d-4d6f-af8a-c832d04ff0d4",
+    "6f01bb0c-96e8-4e4d-94ba-61df99d0a646",
+    "89587db8-b461-46d9-b696-05b70b7b27e1",
+    "b4bb7ae6-d681-44c8-8fea-d75efd3913ba",
+    "c26816d0-5df6-4070-8384-b22fac8969fd",
+    "403b342c-6093-4a3a-83eb-fa1394223dd3",
+    "49d988ab-b93e-48b9-a3e4-f3e892a1d736",
+    "08b3afd9-cb48-4f5e-92cc-166b42abc7e7",
+    "5caf6aba-2300-4fb5-aca3-9312028bf38e"
+  ]
+}

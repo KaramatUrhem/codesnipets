@@ -1,0 +1,131 @@
+{%- if section.settings.leftdesktopimage != blank or section.settings.Leftmobileimage != blank or section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.mainbtnlink != blank or section.settings.rightdesktopimage != blank or section.settings.rightmobileimage != blank -%}
+  <div class="Index_images_texts_images_main_new" style="background:{{ section.settings.mainbackcolor }}">
+    <div class="page-width">
+      <div class="Index_images_texts_images_inner_new">
+        <div class="Index_images_texts_images_leftrightboth_new">
+          {%- if section.settings.leftdesktopimage != blank or section.settings.Leftmobileimage != blank or section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.mainbtnlink != blank -%}
+            <div class="Index_images_texts_images_leftside_new">
+              {%- if section.settings.leftdesktopimage != blank or section.settings.Leftmobileimage != blank -%}
+                <div class="Index_images_texts_images_leftside_imagepart_new">
+                  {%- if section.settings.leftdesktopimage != blank -%}
+                    {%- render 'image-element',
+                      img: section.settings.leftdesktopimage,
+                      widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                      classes: 'desktop_image_new',
+                    -%}
+                  {%- endif -%}
+                  {%- if section.settings.Leftmobileimage != blank -%}
+                    {%- render 'image-element',
+                      img: section.settings.Leftmobileimage,
+                      widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                      classes: 'mobile_image_new',
+                    -%}
+                  {%- endif -%}
+                </div>
+              {%- endif -%}
+              {%- if section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.mainbtnlink != blank -%}
+                <div class="Index_images_texts_images_leftside_textspart_new">
+                  {%- if section.settings.biginfotext != blank -%}
+                    <div class="common_title_new">
+                      <h2>{{ section.settings.biginfotext }}</h2>
+                    </div>
+                  {%- endif -%}
+                  {%- if section.settings.smallinfotext != blank -%}
+                    {{ section.settings.smallinfotext }}
+                  {%- endif -%}
+                  {%- if section.settings.mainbtntext != blank and section.settings.mainbtnlink != blank -%}
+                    <a href="{{ section.settings.mainbtnlink }}">
+                      {{ section.settings.mainbtntext }}
+                    </a>
+                  {%- endif -%}
+                </div>
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+          {%- if section.settings.rightdesktopimage != blank or section.settings.rightmobileimage != blank -%}
+            <div class="Index_images_texts_images_rightside_new">
+              {%- if section.settings.rightdesktopimage != blank -%}
+                {%- render 'image-element',
+                  img: section.settings.rightdesktopimage,
+                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                  classes: 'desktop_image_new',
+                -%}
+              {%- endif -%}
+              {%- if section.settings.rightmobileimage != blank -%}
+                {%- render 'image-element',
+                  img: section.settings.rightmobileimage,
+                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                  classes: 'mobile_image_new',
+                -%}
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+        </div>
+      </div>
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Index Images Texts Images",
+    "class": "Index_images_texts_images_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#FFFFFF"
+      },
+      {
+        "type": "image_picker",
+        "id": "leftdesktopimage",
+        "label": "Add Left Desktop Image Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "Leftmobileimage",
+        "label": "Add Left Mobile Image Display"
+      },
+      {
+        "type": "textarea",
+        "id": "biginfotext",
+        "label": "Add Big Information Text Display",
+        "default": "An ode to <span>old-world design</span>"
+      },
+      {
+        "type": "richtext",
+        "id": "smallinfotext",
+        "label": "Add Small Information Text Display",
+        "default": "<p>Aurus is a brand that offers a refined sensibility of design with an enhanced experience of buying fine jewels. With uncompromising standards of craftsmanship, use of the finest materials and a founding philosophy of highest ethical standards, Aurus appeals to the constantly evolving woman of today who seeks classic and timeless jewels. Jewels that are not very complicated or dictated by a trend. Jewels that reflect a hint of contemporary to make it relevant today.</p>"
+      },
+      {
+        "type": "text",
+        "id": "mainbtntext",
+        "label": "Add Main Button Text Display",
+        "default": "Learn More"
+      },
+      {
+        "type": "url",
+        "id": "mainbtnlink",
+        "label": "Add Main Button Link Display",
+        "default": "/"
+      },
+      {
+        "type": "image_picker",
+        "id": "rightdesktopimage",
+        "label": "Add Right Desktop Image Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "rightmobileimage",
+        "label": "Add Right Mobile Image Display"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Index Images Texts Images"
+      }
+    ]
+  }
+{% endschema %}

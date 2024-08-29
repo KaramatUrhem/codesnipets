@@ -1,0 +1,103 @@
+{%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
+
+{% style %}
+  {% if section.settings.top_padding == false %}
+    .newsletter-{{ section.id }} .newsletter-section { padding-top: 0 !important; }
+  {% endif %}
+  {% if section.settings.bottom_padding == false %}
+    .newsletter-{{ section.id }} .newsletter-section { padding-bottom: 0 !important; }
+  {% endif %}
+{% endstyle %}
+
+<div class="index-section newsletter-container newsletter-{{ section.id }} color-scheme-{{ section.settings.color_scheme }} newsletter_section_main_new">
+  {%- if section.settings.color_scheme and section.settings.color_scheme != 'none' -%}
+    {%- render 'color-scheme-texture', color_scheme: section.settings.color_scheme -%}
+  {%- endif -%}
+
+  <div class="page-width text-{{ section.settings.align_text }}">
+    <div class="newsletter-section newsletter-section--image-{{ section.settings.image_position }} {% unless section.settings.image != blank %}newsletter-section--no-image{% endunless %}">
+      {%- if section.settings.svgiconpath != blank -%}
+        <div class="newsletter_section_svgiconpath_new">
+          <div class="newsletter_section_svgiconpath_rotate_new">
+            {{ section.settings.svgiconpath }}
+          </div>
+          <div class="newsletter_section_svgiconpath_fix_new">
+            <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M11.233 7.543L14.9064 1.65039L17.0491 6.01245L21.6407 10.9102L28.3752 15.1192L24.0304 16.908L16.743 24.0729L14.9064 28.588L13.2228 25.2208L9.85556 20.17L6.33525 17.6446L1.4375 15.1192L2.35583 14.2774L7.25358 11.8285L11.233 7.543Z" fill="#1C1C24"/>
+              <path d="M14.9063 0.808594C14.0645 4.0355 10.1922 11.3694 1.4375 14.8896" stroke="#1C1C24" stroke-linecap="round"/>
+              <path d="M14.9062 0.810547C15.748 4.03745 19.6203 11.3713 28.375 14.8916" stroke="#1C1C24" stroke-linecap="round"/>
+              <path d="M14.9102 28.5859C14.0684 25.4993 10.1961 18.4843 1.44141 15.1171" stroke="#1C1C24" stroke-linecap="round"/>
+              <path d="M14.9101 28.5879C15.7519 25.5013 19.6242 18.4863 28.3789 15.1191" stroke="#1C1C24" stroke-linecap="round"/>
+            </svg>
+          </div>
+        </div>
+      {%- endif -%}
+
+      {%- if section.blocks.size > 0 -%}
+        <div class="newsletter-section__content" style="display:flex;">
+          <div class="newsletter_section_leftpart_new">
+            {%- for block in section.blocks -%}
+              
+                {%- case block.type -%}
+                  {%- when '@app' -%}
+                    {% render block %}
+                  {%- when 'title' -%}
+                    {%- if block.settings.title != blank -%}
+                      <p class="{% if block.settings.heading_size != blank %}{{ block.settings.heading_size }}{% else %}h2{% endif %}">
+                        {{ block.settings.title | escape }}
+                      </p>
+                    {%- endif -%}
+                  {%- when 'text' -%}
+                    {%- if block.settings.text != blank -%}
+                      <div class="common_title_new">
+                        <h2>
+                          {{ block.settings.text }}
+                        </h2>
+                      </div>
+                    {%- endif -%}
+                  {%- when 'share_buttons' -%}
+                    {%- render 'social-sharing' -%}
+                {%- endcase -%}
+              
+            {%- endfor -%}
+          </div>
+          <div class="newsletter_section_rightpart_new">
+            {%- for block in section.blocks -%}
+              
+                {%- case block.type -%}
+                  {%- when 'form' -%}
+                    {%- render 'newsletter-form', section_id: section.id, snippet_context: 'section' -%}
+                    {%- if block.settings.formtext != blank -%}
+                      <div class="newsletter_section_formtext_new">
+                        {{ block.settings.formtext }}
+                      </div>
+                    {%- endif -%}
+                {%- endcase -%}
+              
+            {%- endfor -%}
+          </div>
+        </div>
+      {%- endif -%}
+      
+      {% if section.settings.image != blank %}
+        <div class="newsletter-section__image newsletter-section__image--{{ section.settings.image_width }}">
+          <div
+            class="image-wrap {% if section.settings.image_mask != 'none' %}svg-mask svg-mask--{{ section.settings.image_mask }}{% endif %}"
+            style="height: 0; padding-bottom: {{ 100 | divided_by: section.settings.image.aspect_ratio }}%;"
+          >
+            {%- render 'image-element',
+              img: section.settings.image,
+              sizeVariable: section.settings.image_width,
+              widths: '360, 540, 720, 1020',
+              classes: 'logo-bar__image',
+            -%}
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+
+
+

@@ -1,0 +1,277 @@
+{
+  "sections": {
+    "main": {
+      "type": "hero-banner",
+      "settings": {
+        "desk_img": "shopify:\/\/shop_images\/polki_classics.webp",
+        "mob_img": "shopify:\/\/shop_images\/polki_classics.webp",
+        "title": "Cocktail"
+      }
+    },
+    "adf07408-8319-4b84-8e73-fc3f98445f38": {
+      "type": "image-with-slider",
+      "blocks": {
+        "66b2de15-35d3-4a9b-954f-59532519a457": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "tilak-polki-gold-meenakari-choker-necklace",
+            "vertical_position": 40,
+            "horizontal_position": 50
+          }
+        },
+        "6a4f9a18-6cf8-44f2-8d1c-c1e5d0ec0110": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kanha-meenakari-gold-polki-necklace-for-women",
+            "vertical_position": 46,
+            "horizontal_position": 50
+          }
+        },
+        "7cddec08-1288-47c4-b139-cc5f085dacb2": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kalki-gold-and-polki-meenakari-torque-hasli-indian-wedding-necklace",
+            "vertical_position": 50,
+            "horizontal_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "66b2de15-35d3-4a9b-954f-59532519a457",
+        "6a4f9a18-6cf8-44f2-8d1c-c1e5d0ec0110",
+        "7cddec08-1288-47c4-b139-cc5f085dacb2"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 1<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/TARINI_BANNER_MOBILE.webp"
+      }
+    },
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7": {
+      "type": "image-with-slider",
+      "blocks": {
+        "eecb2efc-a9ff-427e-aae5-12f7df878959": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "aruna-gold-pearl-and-polki-necklace",
+            "vertical_position": 72,
+            "horizontal_position": 38
+          }
+        },
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "barkha-gold-ruby-and-emerald-earrings",
+            "vertical_position": 48,
+            "horizontal_position": 58
+          }
+        }
+      },
+      "block_order": [
+        "eecb2efc-a9ff-427e-aae5-12f7df878959",
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 2<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Untitled-1_47c395a1-9ce2-477f-b7ce-0666663d34a7.webp"
+      }
+    },
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f": {
+      "type": "image-with-slider",
+      "blocks": {
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "arohi-gold-uncut-diamond-and-gemstone-necklace",
+            "vertical_position": 52,
+            "horizontal_position": 46
+          }
+        },
+        "1426ef2b-97ee-46c4-b34f-5500d1abb429": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "chaitanya-jaisalmeri-multi-gemstone-necklace",
+            "vertical_position": 64,
+            "horizontal_position": 44
+          }
+        },
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "arunima-white-polki-stud-earrings",
+            "vertical_position": 28,
+            "horizontal_position": 30
+          }
+        }
+      },
+      "block_order": [
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7",
+        "1426ef2b-97ee-46c4-b34f-5500d1abb429",
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 3<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Reception_look_3_9d9942a0-85e9-4c58-80fb-0f86eae3b937.webp"
+      }
+    },
+    "048272ab-92be-4151-8d34-771368ba7445": {
+      "type": "image-with-slider",
+      "blocks": {
+        "f43fb081-2cd4-412e-8015-258efcb06a3c": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kanha-meenakari-gold-polki-necklace-for-women",
+            "vertical_position": 78,
+            "horizontal_position": 38
+          }
+        },
+        "b3be72d5-ee10-418b-838b-e602882613ea": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kanha-meenakari-polki-earrings",
+            "vertical_position": 40,
+            "horizontal_position": 60
+          }
+        },
+        "0f241206-c59e-43a2-9916-bfa241d0d6ab": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "aabha-gold-jadau-polki-strand-necklace",
+            "vertical_position": 70,
+            "horizontal_position": 38
+          }
+        }
+      },
+      "block_order": [
+        "f43fb081-2cd4-412e-8015-258efcb06a3c",
+        "b3be72d5-ee10-418b-838b-e602882613ea",
+        "0f241206-c59e-43a2-9916-bfa241d0d6ab"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 4<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Reception_look_7.webp"
+      }
+    },
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97": {
+      "type": "image-with-slider",
+      "blocks": {
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "tarika-diamond-and-pearl-choker",
+            "vertical_position": 44,
+            "horizontal_position": 36
+          }
+        },
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "rima-designer-diamond-ring",
+            "vertical_position": 72,
+            "horizontal_position": 38
+          }
+        }
+      },
+      "block_order": [
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb",
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 5<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Reception_look_5_d7513ee2-3882-4487-967a-e9bd788cce22.webp"
+      }
+    },
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96": {
+      "type": "image-with-slider",
+      "blocks": {
+        "cd89a8db-6af2-41be-ba3f-12f70780d661": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "mauktika-pearl-and-diamond-necklace",
+            "vertical_position": 70,
+            "horizontal_position": 54
+          }
+        },
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "tarika-gold-and-diamond-earrings",
+            "vertical_position": 48,
+            "horizontal_position": 32
+          }
+        },
+        "f11e2a6d-ade4-472f-9458-1946ba44cb02": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "arna-modern-indian-diamond-maangtika",
+            "vertical_position": 26,
+            "horizontal_position": 80
+          }
+        }
+      },
+      "block_order": [
+        "cd89a8db-6af2-41be-ba3f-12f70780d661",
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f",
+        "f11e2a6d-ade4-472f-9458-1946ba44cb02"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 6 <\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Reception_look_4_f4786a3f-0753-46b9-b875-8e0e4852dbd6.webp"
+      }
+    },
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3": {
+      "type": "image-with-slider",
+      "blocks": {
+        "9c38f691-d200-4556-af0b-bf95296ff2b3": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "chandni-emerald-and-diamond-chandbaali-earrings",
+            "vertical_position": 34,
+            "horizontal_position": 78
+          }
+        },
+        "6f171133-3b05-4c23-9974-179f0588152b": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "amara-diamond-emerald-and-ruby-choker-necklace",
+            "vertical_position": 58,
+            "horizontal_position": 60
+          }
+        }
+      },
+      "block_order": [
+        "9c38f691-d200-4556-af0b-bf95296ff2b3",
+        "6f171133-3b05-4c23-9974-179f0588152b"
+      ],
+      "disabled": true,
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 1<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Reception_look_6_ceb45d49-9320-4b49-a743-068efe8a396d.webp"
+      }
+    },
+    "60968cfd-0546-441d-b238-eb0579f7e796": {
+      "type": "image-with-slider",
+      "settings": {
+        "change_alignment": false,
+        "title": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "adf07408-8319-4b84-8e73-fc3f98445f38",
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7",
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f",
+    "048272ab-92be-4151-8d34-771368ba7445",
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97",
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96",
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3",
+    "60968cfd-0546-441d-b238-eb0579f7e796"
+  ]
+}

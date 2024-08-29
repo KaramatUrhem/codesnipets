@@ -1,0 +1,207 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Weddings are a beautiful journey filled with countless decisions and meticulous attention to detail. Among the myriad of choices, one aspect that often takes center stage is the look of the bride. From the dress to the jewelry, every aspect of the bridal look plays a crucial role in creating an unforgettable ensemble. Navigating the world of decisions and choosing a memorable ensemble can be overwhelming for any bride-to-be. That's why taking the help of a bridal stylist can make all the difference. <\/p><p>A bridal stylist is a professional who specializes in curating the perfect bridal look tailored to your unique personality, style, and wedding theme. However, it's essential for the bride to communicate her preferences and vision clearly, while also being open to the bridal stylist's suggestions and expertise. Hence, the significance of bridal styling etiquette cannot be overstated, as it plays a pivotal role in creating a harmonious and successful wedding day look.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Bridal_styling_etiquettes1.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Bridal_styling_etiquettes1.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        },
+        "394d491a-cef7-486b-aebb-23c634dfeabe": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>If you are a bride-to-be, adhering to bridal styling etiquettes is crucial in ensuring a seamless experience and allowing you to navigate the styling process with grace and confidence. By understanding and implementing the principles of bridal styling etiquette, you can effortlessly bring your vision to life while maintaining a harmonious and successful wedding day. A bridal stylist guides you through the process of creating an incredible ensemble for your special day. In this guide, we'll cover everything you need to know about the dos and don'ts of bridal styling etiquette of this incredible journey. So sit back, relax, and grab a cup of coffee as we dive in!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7",
+        "394d491a-cef7-486b-aebb-23c634dfeabe"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/Bridal_styling_etiquettes.jpg",
+        "backmobileimage": "shopify:\/\/shop_images\/Bridal_styling_etiquettes.jpg",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Do Communicate With Your Bridal Stylist",
+            "infotext": "<p>It is essential for you to communicate her vision clearly with the bridal stylist as it ensures that you look and feel your best on your big day. You must be open and honest about what you like and dislike, and should not hesitate to ask for advice or suggestions. Communication is a two-way street; so you must also listen carefully to the bridal stylist's recommendations and be willing to take them into consideration if necessary. Communicating clearly with the bridal stylist in a professional manner can help to achieve a picture-perfect wedding day look that will make memories last forever.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Bridal_styist_do1.png",
+            "mobileimage": "shopify:\/\/shop_images\/Bridal_styist_do1.png",
+            "imagetext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Don’t Overwhelm Yourself With Too Many Opinions",
+            "infotext": "<p>With so many options to choose from, It is common for brides to get overwhelmed. In such a situation, consulting with a bridal stylist could prove beneficial. Bridal stylists are professionals who pass key expertise in guiding brides through the wedding dress selection process. They understand the latest fashion trends, wedding themes, color coordination, and what works well for individual tastes and preferences. In addition, working with a bridal stylist can provide helpful advice on choosing jewelry based on recent trends and matching it with the dress. The stylist can bring an objective perspective to the table, and help manage stress levels!<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Bridal_styist_dont1.png",
+            "mobileimage": "shopify:\/\/shop_images\/Bridal_styist_dont1.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Do Schedule Bridal Styling Appointments in Advance",
+            "infotext": "<p>When it comes to scheduling appointments, book your slot with the bridal stylist well in advance. Professional bridal stylists take their time to understand your preferences and recommend suitable styles accordingly. Scheduling appointments for hair and makeup trials in advance will ensure that you get your desired look on the big day. It is recommended to schedule appointments a few months before the wedding date to avoid any scheduling conflicts and allow ample time for adjustments if necessary. By planning early and scheduling appointments in advance, you can enjoy a stress-free lead-up to your special day without any worries about last-minute bridal styling surprises.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Bridal_styist_do2.png",
+            "mobileimage": "shopify:\/\/shop_images\/Bridal_styist_do2.png",
+            "imagetext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        },
+        "2e486f8d-feac-4c48-90d9-1cb3972af76b": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Don’t Be Afraid to Voice Your Concerns",
+            "infotext": "<p>As a bride, it is important to feel comfortable and confident in your wedding dress. If you have any concerns or doubts about a particular style or fit, it is crucial that you speak up and voice your concerns to the stylist. Bridal stylists are professionals who are trained to listen to their client's needs and preferences. By expressing your opinions openly, you can work together with the bridal stylist to create an ensemble that not only looks beautiful but also makes you feel comfortable and confident.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Bridal_styist_dont2.png",
+            "mobileimage": "shopify:\/\/shop_images\/Bridal_styist_dont2.png",
+            "imagetext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        },
+        "d46ffc10-5e73-4f01-bd35-86fe6f91388e": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Do Consider Your Comfort",
+            "infotext": "<p>The wedding day is long, and one must not want to be stuck in an uncomfortable dress all day. Hence, when it comes to choosing your bridal ensemble, it is imperative to consider comfort. Consulting with a bridal stylist can provide professional guidance on what styles will complement your frame while also taking into account your individual preferences and needs. Additionally, make sure that the dress is comfortable enough for prolonged wear and allows you to move around freely without feeling constricted or weighed down. <\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Bridal_styist_dont3.png",
+            "mobileimage": "shopify:\/\/shop_images\/Bridal_styist_dont3.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "681fb42a-38eb-4dd4-8796-3788fa7eb4a0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Don’t Forget About the Wedding Theme and Venue",
+            "infotext": "<p>When planning your wedding, it is crucial not to forget about your wedding theme and venue. Working with a bridal stylist can greatly assist in ensuring that these elements are seamlessly incorporated into the overall aesthetic of the event. A professional bridal stylist can help navigate these important decisions and offer knowledgeable recommendations. They will consider factors such as seasonality, cultural influences, and personal preferences when selecting a theme and venue. Don't overlook these essential components when planning your wedding; enlist the expertise of a bridal stylist for an unforgettable event.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Aurus_Blog_1.png",
+            "mobileimage": "shopify:\/\/shop_images\/Aurus_Blog_1.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "5fa59961-3869-4de0-ad3c-1e46756b0ab3": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Do Bring Inspiration and Reference Images",
+            "infotext": "<p>When choosing the perfect wedding dress, it's important for you to bring inspiration and reference images to the bridal stylist. By providing reference images, you can better communicate your preferred style and aesthetic, helping the stylist make informed recommendations. Bringing inspiration to your appointments is the key to creating an efficient process that results in finding a dream dress without wasting time trying on styles that aren’t suitable.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Bridal_styist_do4.png",
+            "mobileimage": "shopify:\/\/shop_images\/Bridal_styist_do4.png",
+            "imagetext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        },
+        "ed21fd44-8ea9-4140-9292-40848e6b1615": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Don’t Ignore the Weather and the Season",
+            "infotext": "<p>Weather and season play a huge role in determining the success of the big day. It is essential to discuss these factors with your bridal stylist to ensure that you select appropriate wedding attire and accessories for the occasion. Your bridal stylist can help guide your choices based on their experience and expertise in dressing clients for different seasons and weather conditions so that you look your best while feeling comfortable all day long. A discussion about the weather and season helps you prepare for any situation on your special day.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Bridal_styist_dont4.png",
+            "mobileimage": "shopify:\/\/shop_images\/Bridal_styist_dont4.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2",
+        "2e486f8d-feac-4c48-90d9-1cb3972af76b",
+        "d46ffc10-5e73-4f01-bd35-86fe6f91388e",
+        "681fb42a-38eb-4dd4-8796-3788fa7eb4a0",
+        "5fa59961-3869-4de0-ad3c-1e46756b0ab3",
+        "ed21fd44-8ea9-4140-9292-40848e6b1615"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>A bridal stylist brings a wealth of experience and expertise to the table for bridal styling etiquette. With years of training and practical experience, they are able to provide guidance on what works best for you. Bridal stylists also have knowledge of current fashion trends, ensuring that you receive not only timeless but also fashionable advice when planning and selecting your wedding ensemble.<\/p><p>Discover the artistry of bridal styling with our seasoned experts, poised to elevate your wedding ensemble to new heights. Embrace timeless elegance while staying ahead of the fashion curve, as our knowledgeable bridal stylists guide you toward the perfect sartorial expression of your unique love story. Unveil the extraordinary, and make your dream wedding a reality with our unparalleled expertise.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1"
+      ],
+      "settings": {
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "Discover from the <span>curation<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "1683210261162571d3"
+  ]
+}

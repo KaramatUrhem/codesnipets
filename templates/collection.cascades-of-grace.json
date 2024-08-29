@@ -1,0 +1,106 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "53d8ab24-2922-49af-8cfa-a9f08d9f2a45": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Indulge in the magnificence of royalty, reimagined for the modern connoisseur with Cascades of Grace, a capsule collection reflecting the grandeur of India's royal past in a contemporary design language. The capsule features a special curation of cascading pearl necklaces, the adornment of choice of royalty, and favorites of style icons. Strands of pristine pearls, embellished with vibrant gemstones and glittering gold, come together to create wearable opulence.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-0",
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-1"
+      ],
+      "settings": {
+        "classname": "",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "382f433d-0451-456b-8ea0-1f0d914122a1": {
+          "type": "image_grid_item",
+          "settings": {
+            "desk_position": "6",
+            "mob_position": "6",
+            "image": "shopify:\/\/shop_images\/curate_the_wedding-3.webp",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link": ""
+          }
+        },
+        "bc684439-3546-4626-a905-1f3ecfeeca81": {
+          "type": "image_with_slider",
+          "settings": {
+            "desk_position": "9",
+            "mob_position": "8",
+            "change_alignment": false,
+            "title": "<p>Shop the<em> look<\/em><\/p>",
+            "image": "shopify:\/\/shop_images\/parvaniNecklace-Webp.webp",
+            "product_1": "parvani-gold-pearl-and-polki-indian-necklace",
+            "product_sample1_vertical_position": 62,
+            "product_sample1_horizontal_position": 58,
+            "product_2": "parvani-gold-pearl-and-polki-indian-wedding-earrings",
+            "product_sample2_vertical_position": 32,
+            "product_sample2_horizontal_position": 64,
+            "product_3": "",
+            "product_sample3_vertical_position": 54,
+            "product_sample3_horizontal_position": 52,
+            "product_4": "",
+            "product_sample4_vertical_position": 48,
+            "product_sample4_horizontal_position": 90
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 3,
+            "rows_per_page": 22,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "382f433d-0451-456b-8ea0-1f0d914122a1",
+        "bc684439-3546-4626-a905-1f3ecfeeca81",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "53d8ab24-2922-49af-8cfa-a9f08d9f2a45",
+    "main-collection"
+  ]
+}

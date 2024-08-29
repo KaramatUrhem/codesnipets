@@ -1,0 +1,155 @@
+{%- if section.settings.mainheadingtext != blank or section.settings.maininfotext != blank or section.settings.main_btn_link_1 != blank or section.settings.main_btn_link_2 != blank -%}
+  <div class="Page_indian_family_jewels_meta_main_new">
+    <div class="Page_indian_family_jewels_meta_inner_new">
+      <div class="Page_indian_family_jewels_meta_toppart_new">
+        {%- if section.settings.mainheadingtext != blank or section.settings.maininfotext != blank or section.settings.main_btn_link_1 != blank or section.settings.main_btn_link_2 != blank -%}
+          <div class="Page_indian_family_jewels_meta_leftside_new">
+            {%- if section.settings.mainheadingtext != blank or section.settings.maininfotext != blank -%}
+              <div class="Page_indian_family_jewels_meta_leftside_top_new">
+                <div class="Page_indian_family_jewels_meta_leftside_top_inner_new">
+                  {%- if section.settings.mainheadingtext != blank -%}
+                    <h2>{{ section.settings.mainheadingtext }}</h2>
+                  {%- endif -%}
+                  {%- if section.settings.maininfotext != blank -%}
+                    {{ section.settings.maininfotext }}
+                  {%- endif -%}
+                </div>
+              </div>
+            {%- endif -%}
+            {%- if section.settings.main_btn_link_1 != blank or section.settings.main_btn_link_2 != blank -%}
+              <div class="Page_indian_family_jewels_meta_leftside_bottom_new">
+                <div class="Page_indian_family_jewels_meta_leftside_bottom_inner_new">
+                  {%- if section.settings.main_btn_text_1 != blank and section.settings.main_btn_link_1 != blank -%}
+                    <div class="Page_indian_family_jewels_meta_leftside_bottombutton_new">
+                      <a href="{{ section.settings.main_btn_link_1 }}">
+                        {{ section.settings.main_btn_text_1 }} <svg width="31" height="24" viewBox="0 0 31 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_15_956)"><path d="M29.0185 12.0004H1.01953M29.0185 12.0004L19.0195 4M29.0185 12.0004L19.0195 20.0008" stroke="black"/></g><defs><clipPath id="clip0_15_956"><rect width="30" height="24" fill="white" transform="translate(0.0195312)"/></clipPath></defs></svg>
+                      </a>
+                    </div>
+                  {%- endif -%}
+                  {%- if section.settings.main_btn_text_2 != blank and section.settings.main_btn_link_2 != blank -%}
+                    <div class="Page_indian_family_jewels_meta_leftside_bottombutton_new">
+                      <a href="{{ section.settings.main_btn_link_2 }}">
+                        {{ section.settings.main_btn_text_2 }} <svg width="31" height="24" viewBox="0 0 31 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_15_956)"><path d="M29.0185 12.0004H1.01953M29.0185 12.0004L19.0195 4M29.0185 12.0004L19.0195 20.0008" stroke="black"/></g><defs><clipPath id="clip0_15_956"><rect width="30" height="24" fill="white" transform="translate(0.0195312)"/></clipPath></defs></svg>
+                      </a>
+                    </div>
+                  {%- endif -%}
+                </div>
+              </div>
+            {%- endif -%}
+          </div>
+        {%- endif -%}
+  
+        <div class="Page_indian_family_jewels_meta_rightside_new">
+          <div class="Page_indian_family_jewels_meta_allloops_new">
+            {%- for indianfamilyjewels in shop.metaobjects.ifj_overview_page.values -%}
+              {%- for indianfamilyjewels in indianfamilyjewels.order_ifj_jewels.value limit: 1 -%}
+                 {%- if indianfamilyjewels.image.value != blank or indianfamilyjewels.title.value != blank -%}
+                  <div class="Page_indian_family_jewels_meta_allloops_boxs_new">
+                    <a href="{{ indianfamilyjewels.redirect_page_url.value }}">
+                       {%- if indianfamilyjewels.image.value != blank -%}
+                        <div class="Page_indian_family_jewels_meta_allloops_imageboxs_new">
+                          {%- render 'image-element',
+                            img: indianfamilyjewels.image.value,
+                            widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                            classes: 'boxs_image_new',
+                          -%}
+                          <div class="Page_indian_family_jewels_meta_allloops_titleboxs_hover_new">{{ indianfamilyjewels.title.value }}</div>
+                        </div>
+                      {%- endif -%}
+                       {%- if indianfamilyjewels.title.value != blank -%}
+                        <div class="Page_indian_family_jewels_meta_allloops_titleboxs_new">
+                          <h3>{{ indianfamilyjewels.title.value }}</h3>
+                          <div class="Page_indian_family_jewels_meta_allloops_titleboxs_btn_hover_new">
+                             DISCOVER<svg width="31" height="24" viewBox="0 0 31 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_15_956)"><path d="M29.0185 12.0004H1.01953M29.0185 12.0004L19.0195 4M29.0185 12.0004L19.0195 20.0008" stroke="black"/></g><defs><clipPath id="clip0_15_956"><rect width="30" height="24" fill="white" transform="translate(0.0195312)"/></clipPath></defs></svg>
+                          </div>
+                        </div>
+                      {%- endif -%}
+                    </a>
+                  </div>
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endfor -%}
+          </div>
+        </div>
+      </div>
+
+      <div class="Page_indian_family_jewels_meta_bottompart_new">
+        <div class="Page_indian_family_jewels_meta_allloops_new">
+          {%- for indianfamilyjewels in shop.metaobjects.ifj_overview_page.values -%}
+            {%- for indianfamilyjewels in indianfamilyjewels.order_ifj_jewels.value offset: 1 -%}
+               {%- if indianfamilyjewels.image.value != blank or indianfamilyjewels.title.value != blank -%}
+                <div class="Page_indian_family_jewels_meta_allloops_boxs_new">
+                  <a href="{{ indianfamilyjewels.redirect_page_url.value }}">
+                     {%- if indianfamilyjewels.image.value != blank -%}
+                      <div class="Page_indian_family_jewels_meta_allloops_imageboxs_new">
+                        {%- render 'image-element',
+                          img: indianfamilyjewels.image.value,
+                          widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                          classes: 'boxs_image_new',
+                        -%}
+                        <div class="Page_indian_family_jewels_meta_allloops_titleboxs_hover_new">{{ indianfamilyjewels.title.value }}</div>
+                      </div>
+                    {%- endif -%}
+                     {%- if indianfamilyjewels.title.value != blank -%}
+                      <div class="Page_indian_family_jewels_meta_allloops_titleboxs_new">
+                        <h3>{{ indianfamilyjewels.title.value }}</h3>
+                        <div class="Page_indian_family_jewels_meta_allloops_titleboxs_btn_hover_new">
+                           DISCOVER<svg width="31" height="24" viewBox="0 0 31 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_15_956)"><path d="M29.0185 12.0004H1.01953M29.0185 12.0004L19.0195 4M29.0185 12.0004L19.0195 20.0008" stroke="black"/></g><defs><clipPath id="clip0_15_956"><rect width="30" height="24" fill="white" transform="translate(0.0195312)"/></clipPath></defs></svg>
+                        </div>
+                      </div>
+                    {%- endif -%}
+                  </a>
+                </div>
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endfor -%}
+        </div>
+      </div>
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+  {
+    "name": "Indian Family Jewels Meta",
+    "class": "Page_indian_family_jewels_meta_new",
+    "settings": [
+      {
+        "type": "text",
+        "id": "mainheadingtext",
+        "label": "Add Main Heading Text",
+        "default": "AN INTRODUCTION TO FAMILY JEWELS"
+      },
+      {
+        "type": "richtext",
+        "id": "maininfotext",
+        "label": "Add Main Information Text",
+        "default": "<p>‘Family Jewels: Indian Adornment Revealed’ is an effort to impart knowledge on the distinction of India’s precious jewellery, recognising many of its roots including tribal, agrarian, trade based or royal in nature.</p>"
+      },
+      {
+        "type": "text",
+        "id": "main_btn_text_1",
+        "label": "Add Main Button Text-1",
+        "default": "LEARN MORE"
+      },
+      {
+        "type": "url",
+        "id": "main_btn_link_1",
+        "label": "Add Main Button Link-1",
+        "default": "/"
+      },
+      {
+        "type": "text",
+        "id": "main_btn_text_2",
+        "label": "Add Main Button Text-2",
+        "default": "SUPPORT THIS INITIATIVE"
+      },
+      {
+        "type": "url",
+        "id": "main_btn_link_2",
+        "label": "Add Main Button Link-2",
+        "default": "/"
+      }
+    ]
+  }
+{% endschema %}

@@ -1,0 +1,53 @@
+{%- if product.metafields.custom.product_video_section_mp4_link != blank or product.metafields.custom.product_video_section_desktop_image != blank or product.metafields.custom.product_video_section_mobile_image != blank -%}
+  <div class="Product_metafield_video_main_new">
+    <div class="Product_metafield_video_inner_new">
+      <div class="Product_metafield_video_videoimage_new">
+        {%- if product.metafields.custom.product_video_section_mp4_link != blank -%}            
+          <div class="Product_metafield_video_fullvideo_new">
+            <video
+              id="Mp4Video-{{ section.id }}"
+              class="video-div"
+              data-type="mp4"
+              src="{{ product.metafields.custom.product_video_section_mp4_link }}"
+              loop muted playsinline autoplay>
+            </video>
+          </div>
+        {%- else -%}            
+          {%- if product.metafields.custom.product_video_section_desktop_image != blank or product.metafields.custom.product_video_section_mobile_image != blank -%}
+            <div class="Product_metafield_video_fullimage_new">
+              {%- if product.metafields.custom.product_video_section_desktop_image != blank -%}
+                {%- render 'image-element',
+                  img: product.metafields.custom.product_video_section_desktop_image,
+                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                  classes: 'desktop_image_new',
+                -%}
+              {%- endif -%}
+              {%- if product.metafields.custom.product_video_section_mobile_image != blank -%}
+                {%- render 'image-element',
+                  img: product.metafields.custom.product_video_section_mobile_image,
+                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                  classes: 'mobile_image_new',
+                -%}
+              {%- endif -%}
+            </div>
+          {%- endif -%}            
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Product Metafield Video",
+    "class": "Product_metafield_video_new",
+    "settings": [
+      
+    ],
+    "presets": [
+      {
+        "name": "Product Metafield Video"
+      }
+    ]
+  }
+{% endschema %}

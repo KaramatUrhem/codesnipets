@@ -1,0 +1,267 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Every person who’s into collecting timeless pieces of fine jewelry knows the raw charm of the polki or uncut diamond. The unfaceted diamond presented in its natural form carries a brilliance of its own, showcasing its untouched beauty. Polki sets the bar very high by adding an elegant touch to every ensemble. But apart from its raw beauty, polki is special for many other reasons. Let’s delve into the world of polki, understand their significance in Indian culture, and why they are an essential part of the world of Indian fine jewelry.<\/p><p><\/p>"
+          }
+        },
+        "51e63e76-8df5-447c-be73-f86fe37a70ba": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>But, What Is Polki?<\/p>"
+          }
+        },
+        "e64625cd-b163-4634-bf5f-ee83676a29f3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>For those who are new to this term, polki are diamonds in their natural form and are used without being cut or polished. Unlike traditional cut diamonds, polki diamonds retain their original form, preserving the unique characteristics and imperfections that make them truly one-of-a-kind.<\/p>"
+          }
+        },
+        "abac2a7d-74c8-47e3-abbb-2ae881df1989": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/black_polki_cover.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/black_polki_cover.png",
+            "smallinfotext": ""
+          }
+        },
+        "76972e63-243f-44e9-b798-c4c704383fa6": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>How Fine Jewelry and Polki Met<\/p>"
+          }
+        },
+        "ffc3b873-a9a9-4d0a-abf3-b0d96447b4f8": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Like many other techniques and types of jewelry, the origins of polki also take us back to the Mughal era. It is believed that it first appeared around 2500 years ago. The craftsmen of Bikaner specialized in creating fine jewelry using uncut diamonds and the skill quickly spread to the other regions of India. The Mughals gifted intricate designs and alluring enamel work, which added to the charm of the polki. <\/p>"
+          }
+        },
+        "fc131426-0f29-45b2-8573-21b1b94c0d1c": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/2_96ab4180-dc68-4d6d-9e7f-ef1b8afb91e0.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/2_96ab4180-dc68-4d6d-9e7f-ef1b8afb91e0.png",
+            "smallinfotext": "<p><em>Image courtesy: Wikimedia Commons<\/em><\/p>"
+          }
+        },
+        "abfdc6f5-df3d-41dc-a0d1-e880e851067c": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Fine jewelry made using polki carries a significant part of India’s history. The techniques and designs created by the craftsmen of Rajasthan inspire new innovations to this day and continue to embellish everyone and give their outfits a royal look.<\/p>"
+          }
+        },
+        "b4a3f6f8-7045-4664-a21a-56fe4d60975b": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>What’s the Difference?<\/p>"
+          }
+        },
+        "1d13ebf9-e62d-4b15-bffb-f3724a3ea1d5": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>You must be wondering whether cut or uncut, both are diamonds, right? Well, it’s not that simple. Let’s take a closer look at what differentiates the two. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "51e63e76-8df5-447c-be73-f86fe37a70ba",
+        "e64625cd-b163-4634-bf5f-ee83676a29f3",
+        "abac2a7d-74c8-47e3-abbb-2ae881df1989",
+        "76972e63-243f-44e9-b798-c4c704383fa6",
+        "ffc3b873-a9a9-4d0a-abf3-b0d96447b4f8",
+        "fc131426-0f29-45b2-8573-21b1b94c0d1c",
+        "abfdc6f5-df3d-41dc-a0d1-e880e851067c",
+        "b4a3f6f8-7045-4664-a21a-56fe4d60975b",
+        "1d13ebf9-e62d-4b15-bffb-f3724a3ea1d5"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/fine_jewelry_polki_necklace.png",
+        "backmobileimage": "shopify:\/\/shop_images\/fine_jewelry_polki_necklace.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Cut Diamonds",
+            "infotext": "<p>Cut diamonds are faceted into shapes to maximize their shine and brilliance. They are known for their brilliance and precise arrangement of facets that allow the light to enter the diamond, bounce off its walls and return to the viewer’s eye with maximum sparkle. For instance, the famous Hope Diamond which was extracted from the Kollur mine in India was initially 112 carats. Now the exquisite crystal is 45.52 carats after being cut. <\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/pexels-deepak-khirodwala-3865895.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/pexels-deepak-khirodwala-3865895.jpg",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Uncut Diamonds, a.k.a. Polki",
+            "infotext": "<p>Uncut diamonds, as the name suggests, are not significantly cut or shaped. They retain their natural shape and therefore feature a unique formation. This also gives the diamond a more rustic and organic appeal and adds to its individuality. As compared to cut diamonds, uncut diamonds create a distinct play of light which gives the crystal a subtle and natural sparkle. <\/p><p>Apart from the physical characteristics, the cultural significance and the use of uncut diamonds in traditional Indian fine jewelry make the crystal extra special. The raw and natural shine of polki has embellished Indian fine jewelry for centuries which surely makes it more remarkable.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/1_5cf6a09f-badf-4f13-9da7-a15719627b1d.png",
+            "mobileimage": "shopify:\/\/shop_images\/1_5cf6a09f-badf-4f13-9da7-a15719627b1d.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/kuhoo-parrot-bird-polki-ring\/\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/kuhoo-parrot-bird-polki-ring\/\"><em>Kuhoo Ring<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Polki, Kundan, and Jadau in Indian Fine Jewelry<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>When you enter the sparkling world of polki, you’ll hear the terms kundan and jadau frequently. Just to make sure you don’t get lost in the terminology, let’s clarify the difference between polki, kundan, and jadau.<\/p><p>Kundan is the 24-carat gold foil used to hold the diamond in place. The old technique also originated in Rajasthan during the Mughal era. The use of glass instead of polki is a common practice to reduce the cost. This kind of jewelry is also called kundan jewelry. <\/p><p>Jadau, on the other hand, is the traditional name given to the technique of setting gold foil around the polki or any other precious stone during the jewelry-making process.<\/p><p><\/p>"
+          }
+        },
+        "eba4a48a-40cb-4868-a1f5-f4b9f5648736": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Know Your Polki<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Now that you’re familiar with polki and its position in the world of Indian fine jewelry, let’s shed some light on the things you need to know before you buy exquisite pieces of Indian fine jewelry encrusted with these magnificent gemstones.<\/p><p>There are 3 grades of polki that define the levels of quality. The first is syndicate polki, which is the highest quality polki. This kind of polki undergoes a meticulous selection process and only the finest pieces are picked for crafting fine jewelry based on their clarity, cut, and color. <\/p>"
+          }
+        },
+        "41b811d9-1e31-4b45-bab0-e54a47acdf71": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/polki_fine_jewelry.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/polki_fine_jewelry.png",
+            "smallinfotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/gauhar-polki-and-pearl-long-haar-necklace\/\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/gauhar-polki-and-pearl-long-haar-necklace\/\"><em>Gauhar Necklace<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "891ad893-b24b-4414-aac0-81264a595457": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Next comes Zimbabwe-grade polki, which is sourced from the Zimbabwean mines of Africa. The final is <em>khilwas<\/em>, which is the lowest grade of polki. Generally, fillings are inserted into the slices of Khilwas polki to improve its shine and color. Necklaces that feature large pieces of polki are generally made using khilwas grade polki. <\/p>"
+          }
+        },
+        "a4f331cb-372c-4723-972e-e1e4d0e25b37": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Polki Fine Jewelry for Your Bridal Trousseau<\/p>"
+          }
+        },
+        "3277933e-808c-4179-8547-c51812b5df33": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Custom-made_Indian_wedding_jewelry1_d4f1d7b5-0cf7-40d1-81e3-9a56887e7f48.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/Custom-made_Indian_wedding_jewelry1_d4f1d7b5-0cf7-40d1-81e3-9a56887e7f48.png",
+            "smallinfotext": ""
+          }
+        },
+        "1470074e-3287-4869-9aac-68186a840f73": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Fine jewelry featuring magnificent uncut diamonds is a great pick for embellishing the bridal outfit for your big day. The raw luster of polki works well with all sorts of colors as well as other pieces of jewelry. Not only will it brighten up your bridal ensemble but will serve as a great piece of fine jewelry for your collection. And you can always repurpose your bridal jewelry and pair it with all sorts of outfits after your big day. So, it’s a win-win situation!<\/p><p>For instance, a necklace bejeweled with polki diamonds that carry an exquisite shine can easily become your statement piece. The piece, due to its neutral colors, will be easy to pair with all sorts of Indian ethnic outfits and other pieces of bridal jewelry. If you’re donning neutral or earthy shades, adding pearls to the design can work well.<\/p><p>Once you have your statement piece, you can construct the look based on it and pick pieces that fall under the same theme. Your fine jewelry pieces can have colorful gemstones along with polki to add some flavor to the look.<\/p><p><\/p>"
+          }
+        },
+        "128e6d92-fa56-4e47-a5e0-57604d39662f": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Taking Care of Your Polki Fine Jewelry<\/p>"
+          }
+        },
+        "472a85a0-5ba6-44af-8b7c-3a450679073a": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Your fine jewelry encrusted with polki can sometimes go black with time. To make sure its shine stays intact, there are some things you’ll need to keep in mind. But before that, let’s see why that happens.<\/p><p>The gold foil around the uncut diamonds is sometimes not fitted properly, leaving space for moisture to go in. When this happens, the oxidizes and turns grey. The empty space can also be filled with dust particles sometimes, which affects the shine of the polki.<\/p><p>To make sure this doesn’t happen to your fine jewelry, check the grade of polki before making the purchase. Avoid spraying perfumes or any other chemicals over your fine jewelry sets which contain polki or any other precious gemstones. While cleaning your fine jewelry, avoid using soap, water, and a toothbrush. This can fill the spaces with water and can scratch the surface of the uncut diamond. Instead, use an eraser. And to <a href=\"https:\/\/www.aurusjewels.com\/blogs\/news\/polki-jewelry-set-going-black\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/blogs\/news\/polki-jewelry-set-going-black\">avoid the blackening of polki<\/a>, make sure you store your fine jewelry pieces in an airtight container. <\/p>"
+          }
+        },
+        "b52fde8f-c013-4928-bb28-eb7b939f6914": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>That was your ultimate guide to understanding and buying fine jewelry pieces encrusted with precious polki diamonds. Not only will you be able to make a smart purchase with these tips but will also take proper care of your fine jewelry pieces. If you’re looking for polki jewelry made using the best quality materials to embellish your wedding outfit, you might want to take a look at <a href=\"https:\/\/www.aurusjewels.com\/\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/\">our collections<\/a>. <\/p><p>And if you need a hand styling your polki fine jewelry with your bridal outfit, our jewelry experts will be happy to help. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "eba4a48a-40cb-4868-a1f5-f4b9f5648736",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3",
+        "41b811d9-1e31-4b45-bab0-e54a47acdf71",
+        "891ad893-b24b-4414-aac0-81264a595457",
+        "a4f331cb-372c-4723-972e-e1e4d0e25b37",
+        "3277933e-808c-4179-8547-c51812b5df33",
+        "1470074e-3287-4869-9aac-68186a840f73",
+        "128e6d92-fa56-4e47-a5e0-57604d39662f",
+        "472a85a0-5ba6-44af-8b7c-3a450679073a",
+        "b52fde8f-c013-4928-bb28-eb7b939f6914"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

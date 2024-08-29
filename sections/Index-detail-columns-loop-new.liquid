@@ -1,0 +1,177 @@
+{%- if section.blocks.size > 0 -%}
+  <div class="Index_detail_columns_loop_main_new" style="background:{{ section.settings.mainbackcolor }}">
+    <div class="Index_detail_columns_loop_inner_new">
+      <div class="Index_detail_columns_loop_allloop_new">
+        {%- if section.settings.biginfotext != blank -%}
+          <div class="Index_detail_columns_loop_allloop_boxs_biginfotext_new">
+            <div class="common_title_new">
+              <h2>{{ section.settings.biginfotext }}</h2>
+            </div>
+          </div>
+        {%- endif -%}
+        <div class="swiper home_columns_slider">
+          <div class="swiper-wrapper">
+            {%- for block in section.blocks -%}
+              {%- if block.settings.desktopimage_1 != blank or block.settings.biginfotext != blank or block.settings.smallinfotext != blank or block.settings.authortext != blank or block.settings.citytext != blank or block.settings.btnlink != blank -%}
+                <div class="swiper-slide Index_detail_columns_loop_allloop_boxs_new">
+                  <div class="Index_detail_columns_loop_allloop_middle_main_new">
+                    {%- if block.settings.desktopimage_1 != blank -%}
+                      <div class="Index_detail_columns_loop_allloop_part_new Index_detail_columns_loop_allloop_imageboxs_new">
+                          {%- render 'image-element',
+                            img: block.settings.desktopimage_1,
+                            widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                            classes: '',
+                          -%}
+                      </div>
+                    {%- endif -%}
+                    <div class="Index_detail_columns_loop_allloop_part_new Index_detail_columns_loop_allloop_middle_new">
+                      {%- if block.settings.desktopimage_2 != blank -%}
+                        <div class="Index_detail_columns_loop_allloop_imageboxs_new">
+                            {%- render 'image-element',
+                              img: block.settings.desktopimage_2,
+                              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                              classes: '',
+                            -%}
+                        </div>
+                      {%- endif -%}
+                      {%- if block.settings.smallinfotext != blank or block.settings.authortext != blank or block.settings.citytext != blank or block.settings.btnlink != blank -%}
+                        <div class="Index_detail_columns_loop_allloop_textsboxs_new">
+                          {%- if  block.settings.smallinfotext != blank or block.settings.authortext != blank or block.settings.citytext != blank -%}
+                            <div class="Index_detail_columns_loop_allloop_textsboxs_title_new">
+                              {%- if section.settings.biginfotext != blank -%}
+                                <div class="common_title_new">
+                                  <h2>{{ section.settings.biginfotext }}</h2>
+                                </div>
+                              {%- endif -%}
+                              {%- if block.settings.smallinfotext != blank -%}
+                                {{ block.settings.smallinfotext }}
+                              {%- endif -%}  
+                              {%- if block.settings.authortext != blank -%}
+                                <h3>{{ block.settings.authortext }}</h3>
+                              {%- endif -%}
+                              {%- if block.settings.citytext != blank -%}
+                                <h4>{{ block.settings.citytext }}</h4>
+                              {%- endif -%}  
+                            </div>
+                          {%- endif -%}
+                          {%- if block.settings.btntext != blank and block.settings.btnlink != blank -%}
+                            <div class="Index_detail_columns_loop_allloop_textsboxs_button_new">
+                              <a href="{{ block.settings.btnlink }}" class="btn btn--inverse">
+                                {{ block.settings.btntext }}
+                              </a>
+                            </div>
+                          {%- endif -%}
+                        </div>
+                      {%- endif -%}
+                    </div>
+                    {%- if block.settings.desktopimage_3 != blank -%}
+                      <div class="Index_detail_columns_loop_allloop_part_new Index_detail_columns_loop_allloop_imageboxs_new">
+                          {%- render 'image-element',
+                            img: block.settings.desktopimage_3,
+                            widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                            classes: '',
+                          -%}
+                      </div>
+                    {%- endif -%}
+                  </div>
+                </div>
+              {%- endif -%}
+            {%- endfor -%}
+          </div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+      </div>
+    </div>  
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Index Detail Columns Loop",
+    "class": "Index_detail_columns_loop_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#FFFFFF"
+      },
+      {
+        "type": "textarea",
+        "id": "biginfotext",
+        "label": "Add Big Information Text Display",
+        "default": "Aurus <span>muse</span>"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "desktopimage_1",
+            "label": "Add Image 1"
+          },
+          {
+            "type": "image_picker",
+            "id": "desktopimage_2",
+            "label": "Add Image 2"
+          },
+          {
+            "type": "image_picker",
+            "id": "desktopimage_3",
+            "label": "Add Image 3"
+          },
+          {
+            "type": "richtext",
+            "id": "smallinfotext",
+            "label": "Add Small Information Text Display",
+            "default": "<p>The lovely Kanha in her custom made diamond and emerald jewelry for her engagement beautifully paired with pristine whites.</p>"
+          },
+          {
+            "type": "text",
+            "id": "authortext",
+            "label": "Add Author Text Display",
+            "default": "-Kanha Bakeri"
+          },
+          {
+            "type": "text",
+            "id": "citytext",
+            "label": "Add City Text Display",
+            "default": "Ahmedabad, India"
+          },
+          {
+            "type": "text",
+            "id": "btntext",
+            "label": "Add Button Text Display",
+            "default": "View More Muse"
+          },
+          {
+            "type": "url",
+            "id": "btnlink",
+            "label": "Add Button Link Display",
+            "default": "/"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Index Detail Columns Loop",
+        "blocks": [
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

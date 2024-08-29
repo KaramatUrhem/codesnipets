@@ -1,0 +1,148 @@
+{%- if section.settings.mainheadingtext != blank or section.blocks.size > 0 -%}
+  <div class="Index_custom_columns_loop_main_new" style="background:{{ section.settings.mainbackcolor }}">
+    <div class="page-width">
+      <div class="Index_custom_columns_loop_inner_new">
+        {%- if section.settings.mainheadingtext != blank -%}
+          <div class="common_title_new">
+            <h2>{{ section.settings.mainheadingtext }}</h2>
+          </div>
+        {%- endif -%}
+
+        {%- if section.blocks.size > 0 -%}
+          <div class="Index_custom_columns_loop_allloop_new">
+            <div class="swiper home_collection_slider">
+              <div class="swiper-wrapper">
+                {%- for block in section.blocks -%}
+                  {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank or block.settings.headingtext != blank or block.settings.infotext != blank or block.settings.btnlink != blank -%}
+                    <div class="swiper-slide Index_custom_columns_loop_allloop_boxs_new">
+                      <a href="{{ block.settings.btnlink }}">
+                        {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                          <div class="Index_custom_columns_loop_allloop_imageboxs_new">
+                            {%- if block.settings.desktopimage != blank -%}
+                              {%- render 'image-element',
+                                img: block.settings.desktopimage,
+                                widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                                classes: 'desktop_image_new',
+                              -%}
+                            {%- endif -%}
+                            {%- if block.settings.mobileimage != blank -%}
+                              {%- render 'image-element',
+                                img: block.settings.mobileimage,
+                                widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                                classes: 'mobile_image_new',
+                              -%}
+                            {%- endif -%}
+                          </div>
+                        {%- endif -%}
+                        {%- if block.settings.headingtext != blank or block.settings.infotext != blank or block.settings.btnlink != blank -%}
+                          <div class="Index_custom_columns_loop_allloop_textsboxs_new">
+                            {%- if block.settings.headingtext != blank -%}
+                              <div class="Index_custom_columns_loop_allloop_textsboxs_title_new">
+                                <h3>{{ block.settings.headingtext }}</h3>
+                              </div>
+                            {%- endif -%}
+                            {%- if block.settings.infotext != blank or block.settings.btnlink != blank -%}
+                              <div class="Index_custom_columns_loop_allloop_textsboxs_infos_new">
+                                {%- if block.settings.infotext != blank -%}
+                                  {{ block.settings.infotext }}
+                                {%- endif -%}
+                                {%- if block.settings.btntext != blank -%}
+                                  <div class="Index_custom_columns_loop_allloop_textsboxs_link_new">{{ block.settings.btntext }}</div>
+                                {%- endif -%}
+                              </div>
+                            {%- endif -%}
+                          </div>
+                        {%- endif -%}
+                      </a>
+                    </div>
+                  {%- endif -%}
+                {%- endfor -%}
+              </div>
+              <div class="swiper-button-next"></div>
+              <div class="swiper-button-prev"></div>
+            </div>
+          </div>
+        {%- endif -%}
+      </div>
+    </div>  
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Index Custom Columns Loop",
+    "class": "Index_custom_columns_loop_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#FFFFFF"
+      },
+      {
+        "type": "textarea",
+        "id": "mainheadingtext",
+        "label": "Add Main Heading Text Display",
+        "default": "Refined sensibility of design with an <br><span>enhanced experience</span> of buying fine jewels"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "desktopimage",
+            "label": "Add Desktop Image Display"
+          },
+          {
+            "type": "image_picker",
+            "id": "mobileimage",
+            "label": "Add Mobile Image Display"
+          },
+          {
+            "type": "text",
+            "id": "headingtext",
+            "label": "Add Heading Text Display",
+            "default": "Heading"
+          },
+          {
+            "type": "richtext",
+            "id": "infotext",
+            "label": "Add Information Text Display",
+            "default": "<p>The Rooh woman is a beautiful medley of contrasts: fiercely independent yet rooted in tradition.</p>"
+          },
+          {
+            "type": "text",
+            "id": "btntext",
+            "label": "Add Button Text Display",
+            "default": "Shop Collection"
+          },
+          {
+            "type": "url",
+            "id": "btnlink",
+            "label": "Add Button Link Display",
+            "default": "/"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Index Custom Columns Loop",
+        "blocks": [
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

@@ -1,0 +1,200 @@
+{
+  "sections": {
+    "main": {
+      "type": "hero-banner",
+      "settings": {
+        "desk_img": "shopify:\/\/shop_images\/8_To_10_Lacs.webp",
+        "mob_img": "shopify:\/\/shop_images\/8_To_10_Lacs.webp",
+        "title": "8 To 10 Lacs"
+      }
+    },
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3": {
+      "type": "image-with-slider",
+      "blocks": {
+        "9c38f691-d200-4556-af0b-bf95296ff2b3": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "maithli-gold-and-polki-emerald-drops-necklace",
+            "vertical_position": 60,
+            "horizontal_position": 38
+          }
+        },
+        "cb237581-2572-4f76-b700-6a917e00b45e": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "sanjna-chaand-gemstone-drops-earrings",
+            "vertical_position": 30,
+            "horizontal_position": 54
+          }
+        }
+      },
+      "block_order": [
+        "9c38f691-d200-4556-af0b-bf95296ff2b3",
+        "cb237581-2572-4f76-b700-6a917e00b45e"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 1<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_48_To_10_Lacs_copy_2.webp"
+      }
+    },
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f": {
+      "type": "image-with-slider",
+      "blocks": {
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "rano-gold-kundan-jadau-polki-choker-necklace",
+            "vertical_position": 60,
+            "horizontal_position": 72
+          }
+        },
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "rano-gold-and-pearl-wedding-bridal-earrings",
+            "vertical_position": 36,
+            "horizontal_position": 86
+          }
+        }
+      },
+      "block_order": [
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7",
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 2<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_5.webp"
+      }
+    },
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7": {
+      "type": "image-with-slider",
+      "blocks": {
+        "eecb2efc-a9ff-427e-aae5-12f7df878959": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "rewa-gold-jaisalmeri-gemstone-necklace",
+            "vertical_position": 64,
+            "horizontal_position": 42
+          }
+        },
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "vasundhara-yellow-and-green-gemstone-gold-baali-earrings",
+            "vertical_position": 22,
+            "horizontal_position": 32
+          }
+        },
+        "b71ad110-bc81-43e4-8d2b-1f0bf148f40b": {
+          "type": "sample_product",
+          "disabled": true,
+          "settings": {
+            "sample_product": "",
+            "vertical_position": 52,
+            "horizontal_position": 92
+          }
+        },
+        "920ef467-8a1e-415a-97d9-5296cab26b15": {
+          "type": "sample_product",
+          "disabled": true,
+          "settings": {
+            "sample_product": "",
+            "vertical_position": 8,
+            "horizontal_position": 80
+          }
+        }
+      },
+      "block_order": [
+        "eecb2efc-a9ff-427e-aae5-12f7df878959",
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0",
+        "b71ad110-bc81-43e4-8d2b-1f0bf148f40b",
+        "920ef467-8a1e-415a-97d9-5296cab26b15"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 3<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_6.webp"
+      }
+    },
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97": {
+      "type": "image-with-slider",
+      "blocks": {
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "malar-gold-polki-statement-necklace",
+            "vertical_position": 56,
+            "horizontal_position": 54
+          }
+        },
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "malar-gold-polki-statement-earrings",
+            "vertical_position": 4,
+            "horizontal_position": 12
+          }
+        }
+      },
+      "block_order": [
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb",
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 4<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_7.webp"
+      }
+    },
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96": {
+      "type": "image-with-slider",
+      "blocks": {
+        "cd89a8db-6af2-41be-ba3f-12f70780d661": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "arohi-gold-uncut-diamond-and-gemstone-necklace",
+            "vertical_position": 74,
+            "horizontal_position": 44
+          }
+        },
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "sanjna-chaand-gemstone-drops-earrings",
+            "vertical_position": 44,
+            "horizontal_position": 64
+          }
+        },
+        "f11e2a6d-ade4-472f-9458-1946ba44cb02": {
+          "type": "sample_product",
+          "disabled": true,
+          "settings": {
+            "sample_product": "meghna-gold-and-polki-jadau-necklace",
+            "vertical_position": 68,
+            "horizontal_position": 58
+          }
+        }
+      },
+      "block_order": [
+        "cd89a8db-6af2-41be-ba3f-12f70780d661",
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f",
+        "f11e2a6d-ade4-472f-9458-1946ba44cb02"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 5 <\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_8.webp"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3",
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f",
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7",
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97",
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96"
+  ]
+}

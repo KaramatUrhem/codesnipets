@@ -1,0 +1,131 @@
+{%- if section.blocks.size > 0 -%}
+  <div class="Product_custom_columns_main_new" style="background:{{ section.settings.mainbackcolor }}">
+    <div class="Product_custom_columns_inner_new">
+      <div class="Product_custom_columns_allloop_new">
+        {%- for block in section.blocks -%}
+          {%- if block.settings.maindesktopimage != blank or block.settings.mainmobileimage != blank or block.settings.mainheadingtext != blank or block.settings.biginfotext != blank or block.settings.smallinfotext != blank or block.settings.mainbtnlink != blank -%}
+            <div class="Product_custom_columns_allloop_boxs_new">
+              
+              {%- if block.settings.maindesktopimage != blank or block.settings.mainmobileimage != blank -%}
+                <div class="Product_custom_columns_allloop_imageboxs_new">
+                  {%- if block.settings.maindesktopimage != blank -%}
+                    {%- render 'image-element',
+                      img: block.settings.maindesktopimage,
+                      widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                      classes: 'desktop_image_new',
+                    -%}
+                  {%- endif -%}
+                  {%- if block.settings.mainmobileimage != blank -%}
+                    {%- render 'image-element',
+                      img: block.settings.mainmobileimage,
+                      widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                      classes: 'mobile_image_new',
+                    -%}
+                  {%- endif -%}
+                </div>
+              {%- endif -%}
+            
+              {%- if block.settings.mainheadingtext != blank or block.settings.biginfotext != blank or block.settings.smallinfotext != blank or block.settings.mainbtnlink != blank -%}
+                <div class="Product_custom_columns_allloop_textsboxs_new">
+                  {%- if block.settings.mainheadingtext != blank -%}
+                    <h4>{{ block.settings.mainheadingtext }}</h4>
+                  {%- endif -%}
+                  {%- if block.settings.biginfotext != blank -%}
+                    <h3>{{ block.settings.biginfotext }}</h3>
+                  {%- endif -%}
+                  {%- if block.settings.smallinfotext != blank -%}
+                    <h2>{{ block.settings.smallinfotext }}</h2>
+                  {%- endif -%}
+                  {%- if block.settings.mainbtntext != blank and block.settings.mainbtnlink != blank -%}
+                    <div class="Product_custom_columns_allloop_textsboxs_button_new">
+                      <a href="{{ block.settings.mainbtnlink }}" class="btn btn--inverse">
+                        {{ block.settings.mainbtntext }}
+                      </a>
+                    </div>
+                  {%- endif -%}
+                </div>
+              {%- endif -%}
+            
+            </div>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Product Custom Columns",
+    "class": "Product_custom_columns_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#FFFFFF"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "maindesktopimage",
+            "label": "Add Main Desktop Image Display"
+          },
+          {
+            "type": "image_picker",
+            "id": "mainmobileimage",
+            "label": "Add Main Mobile Image Display"
+          },
+          {
+            "type": "text",
+            "id": "mainheadingtext",
+            "label": "Add Main Heading Text Display",
+            "default": "Aurus Trunk"
+          },
+          {
+            "type": "richtext",
+            "id": "biginfotext",
+            "label": "Add Big Information Text Display",
+            "default": "<p>A private showing of your</p>"
+          },
+          {
+            "type": "richtext",
+            "id": "smallinfotext",
+            "label": "Add Small Information Text Display",
+            "default": "<p><em>favourite jewels</em></p>"
+          },
+          {
+            "type": "text",
+            "id": "mainbtntext",
+            "label": "Add Main Button Text Display",
+            "default": "Know More"
+          },
+          {
+            "type": "url",
+            "id": "mainbtnlink",
+            "label": "Add Main Button Link Display",
+            "default": "/"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Product Custom Columns",
+        "blocks": [
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

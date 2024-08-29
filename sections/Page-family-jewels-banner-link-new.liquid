@@ -1,0 +1,63 @@
+{%- if section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank -%}
+  <div class="Page_family_jewels_banner_link_main_new" style="background:{{ section.settings.mainbackcolor }};">
+    <div class="Page_family_jewels_banner_link_inner_new">
+      <div class="Page_family_jewels_banner_link_allimages_new">
+        {%- if section.settings.redirectlink != blank -%}
+          <a href="{{ section.settings.redirectlink }}">
+        {%- endif -%}
+            {%- if section.settings.maindesktopimage != blank -%}
+              {%- render 'image-element',
+                img: section.settings.maindesktopimage,
+                widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                classes: 'desktop_image_new',
+              -%}
+            {%- endif -%}
+            {%- if section.settings.mainmobileimage != blank -%}
+              {%- render 'image-element',
+                img: section.settings.mainmobileimage,
+                widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                classes: 'mobile_image_new',
+              -%}
+            {%- endif -%}
+        {%- if section.settings.redirectlink != blank -%}
+          </a>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Family Jewels Banner Link",
+    "class": "Page_family_jewels_banner_link_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#FFFFFF"
+      },
+      {
+        "type": "image_picker",
+        "id": "maindesktopimage",
+        "label": "Add Main Desktop Image Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "mainmobileimage",
+        "label": "Add Main Mobile Image Display"
+      },
+      {
+        "type": "url",
+        "id": "redirectlink",
+        "label": "Add Redirect Link Display"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Family Jewels Banner Link"
+      }
+    ]
+  }
+{% endschema %}

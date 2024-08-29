@@ -1,0 +1,485 @@
+{
+  "sections": {
+    "e8240e53-1d59-43a3-a32d-de0cbfba86b8": {
+      "type": "Index-slideshow-new",
+      "blocks": {
+        "template--16686221918460__e8240e53-1d59-43a3-a32d-de0cbfba86b8-1678456432f2b8f698-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "A wonderful world of grace, <br>grandeur\n<span>and colours<\/span> <br>",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "shopify:\/\/collections\/cascades-of-grace",
+            "link_text_2": "Discover",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/ragini_necklace_banner.webp",
+            "image_mobile": "shopify:\/\/shop_images\/ragini_necklace_mob.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221918460__e8240e53-1d59-43a3-a32d-de0cbfba86b8-1678456432f2b8f698-0"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "62ab1716-dc0b-4b80-842c-1ea6ae6fffb5": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "class_name": "home-video-hero",
+        "title": "A wonderful world of grace, <br>grandeur <span> and colours<\/span><br>",
+        "title_size": 40,
+        "subheading": "",
+        "link_text": "Discover",
+        "link": "shopify:\/\/collections\/cascades-of-grace",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-left",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/69b9c10d7568491f9ed1c4ea690828bf.mp4",
+        "video_url_mobile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/73e16fc6955d4718ba4642ba8b3aace7.mp4",
+        "overlay_opacity": 0,
+        "section_height": "750px",
+        "mobile_height": "auto"
+      }
+    },
+    "2ba94065-3e9f-45bc-8a9f-0d791e11b1ea": {
+      "type": "Index-icons-texts-columns-new",
+      "blocks": {
+        "template--16686221918460__2ba94065-3e9f-45bc-8a9f-0d791e11b1ea-16784274481de1f767-0": {
+          "type": "information",
+          "settings": {
+            "svgiconpath": "shopify:\/\/shop_images\/Group_1073712543_1_0bbba4f9-c3e4-4406-86cb-50b5f760291d.png",
+            "title": "<p>\"The extensive selection at Aurus promises an intimate, one-of-a-kind experience—the joy of being a bride, the way you like it...\"<\/p>"
+          }
+        },
+        "8095852e-cea8-46aa-895a-f9b38f677fa6": {
+          "type": "information",
+          "settings": {
+            "svgiconpath": "shopify:\/\/shop_images\/logo-2-Artboard-2-copy-2.png",
+            "title": "<p>\"Opulent emeralds spell luxury for a day function, be it the mehendi ceremony or the wedding. Rich brocade, grand jewellery...\"<\/p>"
+          }
+        },
+        "ce823ffe-eb40-4ff2-8593-da8d011b7107": {
+          "type": "information",
+          "settings": {
+            "svgiconpath": "shopify:\/\/shop_images\/logo-2-Artboard-2-copy.png",
+            "title": "<p>\"Ahmedabad-based fine jewellery brand Aurus Jewels, creates timeless ornaments with an inherent heirloom-like quality....\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221918460__2ba94065-3e9f-45bc-8a9f-0d791e11b1ea-16784274481de1f767-0",
+        "8095852e-cea8-46aa-895a-f9b38f677fa6",
+        "ce823ffe-eb40-4ff2-8593-da8d011b7107"
+      ],
+      "settings": {
+        "mainbackcolor": "#f6f2f1"
+      }
+    },
+    "c81318e8-7b40-4e3f-b280-648b437c4159": {
+      "type": "Index-images-texts-images-new",
+      "settings": {
+        "mainbackcolor": "#ffffff",
+        "leftdesktopimage": "shopify:\/\/shop_images\/homepage_mobile.webp",
+        "Leftmobileimage": "shopify:\/\/shop_images\/homepage.webp",
+        "biginfotext": "<span>Cascades of Grace <\/span>",
+        "smallinfotext": "<p>Indulge in the magnificence of royalty, reimagined for the modern connoisseur with Cascades of Grace, a capsule collection reflecting the grandeur of India's royal past in a contemporary design language. The capsule features a special curation of cascading pearl necklaces, the adornment of choice of royalty, and favorites of style icons. Strands of pristine pearls, embellished with vibrant gemstones and glittering gold, come together to create wearable opulence.<\/p>",
+        "mainbtntext": "Discover",
+        "mainbtnlink": "shopify:\/\/collections\/cascades-of-grace",
+        "rightdesktopimage": "shopify:\/\/shop_images\/homepage_about_collection_Desktop.webp",
+        "rightmobileimage": "shopify:\/\/shop_images\/homepage_about_collection_Mobile.webp"
+      }
+    },
+    "5ed7cfc4-eed8-451c-bf18-5d8178895caf": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "classname": "homepage_video_text",
+        "video_show": true,
+        "videourl": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/590a3ea8768c4ed2b23a53a9dc87f764.mp4",
+        "image": "shopify:\/\/shop_images\/final_revised_aurus_teaser.00_00_13_17.Still001.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Aurus Amdavad Trail",
+        "text": "<p>Aurus Amdavad Trail - an experience curated to share the pulse of this 600 year old lived city for 30 special guests from the creative community, from all over the country. Join us as we relive this unfiltered experience steeped in our culture, while exploring the flavours of our streets and the warmth of our traditions.<br\/><br\/>Discover glimpses of Amdavad’s soul right, right from a specially curated heritage walk to a night of garba, a beautiful afternoon of discussing Indian Family Jewels with three custodians of legacy and also indulging in an immersive exhibit titled Nafees, that put a spotlight on the nuances in the art of jewelry making. This trail in Amdavad, the city we call home, is an homage to our roots, and a celebration of the city’s legacy and ours.<\/p>",
+        "button_label": "Experience",
+        "button_link": "shopify:\/\/blogs\/news\/the-amdavad-trail-experiencing-the-jewel-of-a-city-in-its-most-unfiltered-essence",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": false
+      }
+    },
+    "eb748eeb-4656-4f2d-af8b-95819114586f": {
+      "type": "Index-custom-columns-loop-new",
+      "blocks": {
+        "06c44244-8da9-49fd-9c75-f4ea29032b1c": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/homepage_mood_image_desktop_3a.webp",
+            "mobileimage": "shopify:\/\/shop_images\/homepage_mood_mobile_3a.webp",
+            "headingtext": "Indyra",
+            "infotext": "<p>Whimsical mix of flamboyance, colour and style. <\/p>",
+            "btntext": "Discover",
+            "btnlink": "shopify:\/\/collections\/indyra"
+          }
+        },
+        "template--16686221918460__eb748eeb-4656-4f2d-af8b-95819114586f-16784292857686fd67-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/homepage_mood_image_desktop_4.webp",
+            "mobileimage": "shopify:\/\/shop_images\/homepage_mood_mobile_4.webp",
+            "headingtext": "Benaras",
+            "infotext": "<p>Culture|Tradition|Opulence<\/p>",
+            "btntext": "Discover",
+            "btnlink": "shopify:\/\/collections\/benaras"
+          }
+        },
+        "template--16686221918460__eb748eeb-4656-4f2d-af8b-95819114586f-16784292857686fd67-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/homepage_mood_image_desktop_2a.webp",
+            "mobileimage": "shopify:\/\/shop_images\/homepage_mood_mobile_2.webp",
+            "headingtext": "Rooh",
+            "infotext": "<p>Refined minimalism with a hint of nostalgia<\/p>",
+            "btntext": "Discover",
+            "btnlink": "shopify:\/\/collections\/rooh"
+          }
+        },
+        "template--16686221918460__eb748eeb-4656-4f2d-af8b-95819114586f-16784292857686fd67-2": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/homepage_mood_image_desktop_1.webp",
+            "mobileimage": "shopify:\/\/shop_images\/homepage_mood_mobile_1.webp",
+            "headingtext": "Tuscany",
+            "infotext": "<p>A tale of dreams, romance and elegance<\/p>",
+            "btntext": "Discover",
+            "btnlink": "shopify:\/\/collections\/tuscany"
+          }
+        }
+      },
+      "block_order": [
+        "06c44244-8da9-49fd-9c75-f4ea29032b1c",
+        "template--16686221918460__eb748eeb-4656-4f2d-af8b-95819114586f-16784292857686fd67-1",
+        "template--16686221918460__eb748eeb-4656-4f2d-af8b-95819114586f-16784292857686fd67-0",
+        "template--16686221918460__eb748eeb-4656-4f2d-af8b-95819114586f-16784292857686fd67-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "mainbackcolor": "#ffffff",
+        "mainheadingtext": "An object of permanence that  <br>\n<span>transcends the boundaries of time and age<\/span>"
+      }
+    },
+    "c356279c-512b-44fc-8439-345b8b6f60f8": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "a-palace-rose",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "4894df8d-a512-4c36-a473-5048cc50a7ea": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "",
+        "customClass": "",
+        "title": "Featured <span> favourites<\/span>",
+        "home_featured_products": "homepage-products",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "57fc0ae7-4621-46a5-a875-9d81403b93bb": {
+      "type": "Index-banner-overlay-text-new",
+      "settings": {
+        "mainbackcolor": "#f6f2f1",
+        "maindesktopimage": "shopify:\/\/shop_images\/banner_wedding-2.webp",
+        "mainmobileimage": "shopify:\/\/shop_images\/banner_wedding-2-2_mobile.webp",
+        "mainheadingtext": "The Aurus Bride",
+        "biginfotext": "Wedding jewelry-",
+        "smallinfotext": "<p>an extension of your personality<\/p>",
+        "mainbtntext": "",
+        "mainbtnlink": ""
+      }
+    },
+    "7ee47ada-f86d-43c8-966d-f2e5e1fab6c6": {
+      "type": "Index-images-texts-images-new",
+      "settings": {
+        "mainbackcolor": "#ffffff",
+        "leftdesktopimage": "shopify:\/\/shop_images\/Aurus_Website_2_for_desktop_webpArtboard_1_copy_8.webp",
+        "Leftmobileimage": "shopify:\/\/shop_images\/Website_2_mobile_for_webpArtboard_1_copy_8.webp",
+        "biginfotext": "An ode to <span>old-world design<\/span>",
+        "smallinfotext": "<p>Aurus is a brand that offers a refined sensibility of design with an enhanced experience of buying fine jewels. With uncompromising standards of craftsmanship, use of the finest materials and a founding philosophy of highest ethical standards, Aurus appeals to the constantly evolving woman of today who seeks classic and timeless jewels. Jewels that are not very complicated or dictated by a trend. Jewels that reflect a hint of contemporary to make it relevant today.<\/p>",
+        "mainbtntext": "Learn More",
+        "mainbtnlink": "shopify:\/\/pages\/about-aurus",
+        "rightdesktopimage": "shopify:\/\/shop_images\/desktop_homepage.webp",
+        "rightmobileimage": "shopify:\/\/shop_images\/mobile_homepage.webp"
+      }
+    },
+    "22eef391-a32e-41ab-873b-06814aaeea12": {
+      "type": "Index-detail-columns-loop-new",
+      "blocks": {
+        "template--16686221918460__22eef391-a32e-41ab-873b-06814aaeea12-16784401447816603f-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage_1": "shopify:\/\/shop_images\/Rectangle_6080-min.jpg",
+            "desktopimage_2": "shopify:\/\/shop_images\/Rectangle_6079-min.jpg",
+            "desktopimage_3": "shopify:\/\/shop_images\/Rectangle_6081-min.jpg",
+            "smallinfotext": "<p>The lovely Kanha in her custom made diamond and emerald jewelry for her engagement beautifully paired with pristine whites.<\/p>",
+            "authortext": "-Kanha Bakeri",
+            "citytext": "Ahmedabad, India",
+            "btntext": "View More Muse",
+            "btnlink": "\/"
+          }
+        },
+        "template--16686221918460__22eef391-a32e-41ab-873b-06814aaeea12-16784401447816603f-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage_1": "shopify:\/\/shop_images\/Rectangle_6080-min.jpg",
+            "desktopimage_2": "shopify:\/\/shop_images\/Rectangle_6079-min.jpg",
+            "desktopimage_3": "shopify:\/\/shop_images\/Rectangle_6081-min.jpg",
+            "smallinfotext": "<p>The lovely Kanha in her custom made diamond and emerald jewelry for her engagement beautifully paired with pristine whites.<\/p>",
+            "authortext": "-Kanha Bakeri",
+            "citytext": "Ahmedabad, India",
+            "btntext": "View More Muse",
+            "btnlink": "\/"
+          }
+        },
+        "template--16686221918460__22eef391-a32e-41ab-873b-06814aaeea12-16784401447816603f-2": {
+          "type": "information",
+          "settings": {
+            "desktopimage_1": "shopify:\/\/shop_images\/Rectangle_6080-min.jpg",
+            "desktopimage_2": "shopify:\/\/shop_images\/Rectangle_6079-min.jpg",
+            "desktopimage_3": "shopify:\/\/shop_images\/Rectangle_6081-min.jpg",
+            "smallinfotext": "<p>The lovely Kanha in her custom made diamond and emerald jewelry for her engagement beautifully paired with pristine whites.<\/p>",
+            "authortext": "-Kanha Bakeri",
+            "citytext": "Ahmedabad, India",
+            "btntext": "View More Muse",
+            "btnlink": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221918460__22eef391-a32e-41ab-873b-06814aaeea12-16784401447816603f-0",
+        "template--16686221918460__22eef391-a32e-41ab-873b-06814aaeea12-16784401447816603f-1",
+        "template--16686221918460__22eef391-a32e-41ab-873b-06814aaeea12-16784401447816603f-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "mainbackcolor": "#ffffff",
+        "biginfotext": "Aurus <span>muse<\/span>"
+      }
+    },
+    "ff55a9a2-a21e-4947-807e-9f4e2de968b3": {
+      "type": "Index-images-with-texts-new",
+      "settings": {
+        "imageonleft": false,
+        "mainbackcolor": "#f6f2f1",
+        "maindesktopimage": "shopify:\/\/shop_images\/Aurus_Website_2_for_desktop_webpArtboard_1_copy_26.webp",
+        "mainmobileimage": "shopify:\/\/shop_images\/Website_2_mobile_for_webpArtboard_1_copy_26.webp",
+        "biginfotext": "The Aurus <span>boutique<\/span>",
+        "smallinfotext": "<p>We reflect our own ideas that define an ideal occasion- from simple to traditional, from flamboyant to the whimsical, we have it all covered! Aurus appeals to the constantly evolving woman of today who seeks classic and timeless jewels. Jewels that are not very complicated or dictated by a trend.<\/p>",
+        "mainbtntext": "Book An Appointment",
+        "mainbtnlink": "https:\/\/wa.me\/message\/7WGG6ZYHZSKXO1",
+        "bottomheadingtext": "happening soon -"
+      }
+    },
+    "2dfe0034-4b7a-407a-85a3-32e4c53d40d3": {
+      "type": "Index-images-with-texts-new",
+      "blocks": {
+        "template--16686221918460__2dfe0034-4b7a-407a-85a3-32e4c53d40d3-16784377490b8a6e2b-0": {
+          "type": "information",
+          "settings": {
+            "infotext": "Bangalore",
+            "infolink": "\/"
+          }
+        },
+        "template--16686221918460__2dfe0034-4b7a-407a-85a3-32e4c53d40d3-16784377490b8a6e2b-1": {
+          "type": "information",
+          "settings": {
+            "infotext": "Chennai",
+            "infolink": "\/"
+          }
+        },
+        "template--16686221918460__2dfe0034-4b7a-407a-85a3-32e4c53d40d3-16784377490b8a6e2b-2": {
+          "type": "information",
+          "settings": {
+            "infotext": "Hyderabad",
+            "infolink": "\/"
+          }
+        },
+        "template--16686221918460__2dfe0034-4b7a-407a-85a3-32e4c53d40d3-16784377490b8a6e2b-3": {
+          "type": "information",
+          "settings": {
+            "infotext": "Mumbai",
+            "infolink": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221918460__2dfe0034-4b7a-407a-85a3-32e4c53d40d3-16784377490b8a6e2b-0",
+        "template--16686221918460__2dfe0034-4b7a-407a-85a3-32e4c53d40d3-16784377490b8a6e2b-1",
+        "template--16686221918460__2dfe0034-4b7a-407a-85a3-32e4c53d40d3-16784377490b8a6e2b-2",
+        "template--16686221918460__2dfe0034-4b7a-407a-85a3-32e4c53d40d3-16784377490b8a6e2b-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "imageonleft": true,
+        "mainbackcolor": "#f6f2f1",
+        "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_5762-min.jpg",
+        "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_6074-min.jpg",
+        "biginfotext": "Aurus <span>trunk<\/span>",
+        "smallinfotext": "<p>We are bringing you a curated experience. A private showing of your favourite jewels! Aurus appeals to the constantly evolving woman of today who seeks classic and timeless jewels. Jewels that are not very complicated or dictated by a trend.<\/p>",
+        "mainbtntext": "Make An Appointment",
+        "mainbtnlink": "\/",
+        "bottomheadingtext": "happening soon -"
+      }
+    },
+    "c8e97647-ee57-4c0a-8173-5fff6f6ea924": {
+      "type": "Index-texts-images-loops-new",
+      "blocks": {
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Aurus_Website_2_for_desktop_webpArtboard_1_copy_34.webp",
+            "mobileimage": "shopify:\/\/shop_images\/Website_2_mobile_for_webpArtboard_1_copy_34.webp",
+            "smallinfotext": "",
+            "infotext": "<p>\"I ABSOLUTELY love it. It is stunning. I loved wearing the pieces and so many people asked me about it. Can’t wait to get more stuff from you. 💖\"<\/p>",
+            "authortext": "- Malvika Mehta",
+            "btntext": "Read More Testimonials",
+            "btnlink": "shopify:\/\/pages\/reviews"
+          }
+        },
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Aurus_Website_2_for_desktop_webpArtboard_1_copy_35.webp",
+            "mobileimage": "shopify:\/\/shop_images\/Website_2_mobile_for_webpArtboard_1_copy_35.webp",
+            "smallinfotext": "",
+            "infotext": "<p>\"I love the intricacies of each piece I own - and how it brings my face to life! I feel happy, confident, and most importantly, like myself even though everyone expected me to be a ‘bride’. I also read the reviews and how your jewelry looks on normal people!\"<\/p>",
+            "authortext": "- Bani Bains",
+            "btntext": "Read More Testimonials",
+            "btnlink": "shopify:\/\/pages\/reviews"
+          }
+        },
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-2": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Aurus_Website_2_for_desktop_webpArtboard_1_copy_37.webp",
+            "mobileimage": "shopify:\/\/shop_images\/Website_2_mobile_for_webpArtboard_1_copy_36.webp",
+            "smallinfotext": "",
+            "infotext": "<p>\"I wore the Poulomi Earrings at my function! My family made the purchase, but I fell in love with the earrings! ❤️\"<\/p>",
+            "authortext": "- Ayushi Agnihotri",
+            "btntext": "Read More Testimonials",
+            "btnlink": "shopify:\/\/pages\/reviews"
+          }
+        },
+        "0c8e1f00-c503-41a9-b8bf-b39b8cd190a8": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Aurus_Website_2_for_desktop_webpArtboard_1_copy_36.webp",
+            "mobileimage": "shopify:\/\/shop_images\/Website_2_mobile_for_webpArtboard_1_copy_37.webp",
+            "smallinfotext": "",
+            "infotext": "<p>\"The lovely bride Tanisha with her mum Vinita. Both wearing their Aurus for Tanisha's wedding!\"<\/p>",
+            "authortext": "",
+            "btntext": "Read More Testimonials",
+            "btnlink": "shopify:\/\/pages\/reviews"
+          }
+        },
+        "79c74b29-bc5f-4e94-9889-2c7949cf42cf": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Aurus_Website_2_for_desktop_webpArtboard_1_copy_38.webp",
+            "mobileimage": "shopify:\/\/shop_images\/Website_2_mobile_for_webpArtboard_1_copy_38.webp",
+            "smallinfotext": "",
+            "infotext": "<p>\"I got this beautiful piece from you for my Mehendi function. I LOVED IT! Thank you again. Cannot wait to shop more from your collection!! I live in the US so I was unable to come to your store in Ahmedabad to physically see and try the jewellery. I fell in love just by looking at pictures so one of my relatives video called from your store and we just bought it. I wanted this exact set and it went perfectly with my entire look ♥️\"<\/p>",
+            "authortext": "- Siddhi Rathi",
+            "btntext": "Read More Testimonials",
+            "btnlink": "shopify:\/\/pages\/reviews"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-0",
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-1",
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-2",
+        "0c8e1f00-c503-41a9-b8bf-b39b8cd190a8",
+        "79c74b29-bc5f-4e94-9889-2c7949cf42cf"
+      ],
+      "settings": {
+        "mainbackcolor": "#ffffff",
+        "biginfotext": "Hear from <span>them!<\/span>"
+      }
+    },
+    "0d9bf31f-afc7-42dd-9bae-2472e1b0604e": {
+      "type": "Index-img-overlay-texts-2-new",
+      "disabled": true,
+      "settings": {
+        "mainbackcolor": "#f6f2f1",
+        "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_6083-min.jpg",
+        "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_6075-min.jpg",
+        "biginfotext": "Introduction to <span>indian family jewels<\/span>",
+        "smallinfotext": "<p>‘Family Jewels: Indian Adornment Revealed’ is an effort to impart knowledge on the distinction of India’s precious jewellery, recognising many of its roots including tribal, agrarian, trade based or royal.<\/p>",
+        "mainbtntext": "Know More",
+        "mainbtnlink": "\/"
+      }
+    },
+    "08e74861-1388-4758-b42e-8a3b2f41270b": {
+      "type": "Index-latests-blogs-posts-new",
+      "settings": {
+        "title": "Our <span>journal<\/span>",
+        "blog": "news",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    }
+  },
+  "order": [
+    "e8240e53-1d59-43a3-a32d-de0cbfba86b8",
+    "62ab1716-dc0b-4b80-842c-1ea6ae6fffb5",
+    "2ba94065-3e9f-45bc-8a9f-0d791e11b1ea",
+    "c81318e8-7b40-4e3f-b280-648b437c4159",
+    "5ed7cfc4-eed8-451c-bf18-5d8178895caf",
+    "eb748eeb-4656-4f2d-af8b-95819114586f",
+    "c356279c-512b-44fc-8439-345b8b6f60f8",
+    "4894df8d-a512-4c36-a473-5048cc50a7ea",
+    "57fc0ae7-4621-46a5-a875-9d81403b93bb",
+    "7ee47ada-f86d-43c8-966d-f2e5e1fab6c6",
+    "22eef391-a32e-41ab-873b-06814aaeea12",
+    "ff55a9a2-a21e-4947-807e-9f4e2de968b3",
+    "2dfe0034-4b7a-407a-85a3-32e4c53d40d3",
+    "c8e97647-ee57-4c0a-8173-5fff6f6ea924",
+    "0d9bf31f-afc7-42dd-9bae-2472e1b0604e",
+    "08e74861-1388-4758-b42e-8a3b2f41270b"
+  ]
+}

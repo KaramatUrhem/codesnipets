@@ -1,0 +1,181 @@
+{%- if section.blocks.size > 0 or section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.infotext != blank or section.settings.authortext != blank or section.settings.btnlink != blank -%}
+  <div class="Index_texts_images_loops_main_new" style="background:{{ section.settings.mainbackcolor }}">
+    <div class="Index_texts_images_loops_inner_new">
+      {%- if section.settings.biginfotext != blank -%}
+        <div class="Index_texts_images_loops_biginfotext_new">
+          <div class="common_title_new">
+            <h2>{{ section.settings.biginfotext }}</h2>
+          </div>
+        </div>
+      {%- endif -%}
+
+      {%- if section.blocks.size > 0 or section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.infotext != blank or section.settings.authortext != blank or section.settings.btnlink != blank -%}
+        <div class="Index_texts_images_loops_leftrightboth_new">
+          
+          {%- if section.blocks.size > 0 -%}
+            <div class="Index_texts_images_loops_leftside_main_new slider-for">
+              {%- for block in section.blocks -%}
+                <div class="Index_texts_images_loops_leftside_main_inner_new">
+                  <div class="Index_texts_images_loops_leftside_new">
+                    {%- if section.settings.biginfotext != blank -%}
+                      <div class="common_title_new">
+                        <h2>{{ section.settings.biginfotext }}</h2>
+                      </div>
+                    {%- endif -%}
+                    {%- if block.settings.smallinfotext != blank -%}
+                      <h3>{{ block.settings.smallinfotext }}</h3>
+                    {%- endif -%}
+                    {%- if block.settings.infotext != blank -%}
+                      {{ block.settings.infotext }}
+                    {%- endif -%}
+                    {%- if block.settings.authortext != blank -%}
+                      <h4>{{ block.settings.authortext }}</h4>
+                    {%- endif -%}
+                    {%- if block.settings.btntext != blank and block.settings.btnlink != blank -%}
+                      <div class="Index_texts_images_loops_leftside_button_new">
+                        <a href="{{ block.settings.btnlink }}" class="btn">
+                          {{ block.settings.btntext }}
+                        </a>
+                      </div>
+                    {%- endif -%}
+                  </div>
+                  {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                    <div class="Index_texts_images_loops_leftside_main_right_new Index_texts_images_loops_rightside_imageboxs_new">
+                      {%- if block.settings.desktopimage != blank -%}
+                        {%- render 'image-element',
+                          img: block.settings.desktopimage,
+                          widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                          classes: 'desktop_image_new',
+                        -%}
+                      {%- endif -%}
+                      {%- if block.settings.mobileimage != blank -%}
+                        {%- render 'image-element',
+                          img: block.settings.mobileimage,
+                          widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                          classes: 'mobile_image_new',
+                        -%}
+                      {%- endif -%}
+                    </div>
+                  {%- endif -%}
+                </div>
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
+          
+  
+          {%- if section.blocks.size > 0 -%}
+            <div class="Index_texts_images_loops_rightside_new slider-nav">
+              {%- for block in section.blocks -%}
+                {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                  <div>
+                    <div class="Index_texts_images_loops_rightside_imageboxs_new">
+                      {%- if block.settings.desktopimage != blank -%}
+                        {%- render 'image-element',
+                          img: block.settings.desktopimage,
+                          widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                          classes: 'desktop_image_new',
+                        -%}
+                      {%- endif -%}
+                      {%- if block.settings.mobileimage != blank -%}
+                        {%- render 'image-element',
+                          img: block.settings.mobileimage,
+                          widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                          classes: 'mobile_image_new',
+                        -%}
+                      {%- endif -%}
+                    </div>
+                  </div>
+                {%- endif -%}
+              {%- endfor -%}  
+            </div>
+          {%- endif -%}  
+        </div>
+      {%- endif -%}
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Index Texts Images Loops",
+    "class": "Index_texts_images_loops_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#FFFFFF"
+      },
+      {
+        "type": "textarea",
+        "id": "biginfotext",
+        "label": "Add Big Information Text Display",
+        "default": "Hear from <span>them!</span>"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "desktopimage",
+            "label": "Add Desktop Image Display"
+          },
+          {
+            "type": "image_picker",
+            "id": "mobileimage",
+            "label": "Add Mobile Image Display"
+          },
+          {
+            "type": "richtext",
+            "id": "smallinfotext",
+            "label": "Add Small Information Text Display",
+            "default": "<p>It is classic, wearable and balances traditional and contemporary styles.</p>"
+          },
+          {
+            "type": "richtext",
+            "id": "infotext",
+            "label": "Add Information Text Display",
+            "default": "<p>Seen on our Surbhi, our pearl-based choker and beautifully handcrafted baalis worked in gold, embellished with uncut diamonds finished with citrine and pink tourmaline.</p>"
+          },
+          {
+            "type": "text",
+            "id": "authortext",
+            "label": "Add Author Text Display",
+            "default": "- Surbhi Sethi"
+          },
+          {
+            "type": "text",
+            "id": "btntext",
+            "label": "Add Button Text Display",
+            "default": "Read More Reviews"
+          },
+          {
+            "type": "url",
+            "id": "btnlink",
+            "label": "Add Button Link Display",
+            "default": "/"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Index Texts Images Loops",
+        "blocks": [
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

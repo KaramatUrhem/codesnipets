@@ -1,0 +1,469 @@
+{%- liquid
+  assign number_of_comments = article.comments_count
+  if comment.status == 'pending'
+    assign number_of_comments = article.comments_count | plus: 1
+  endif
+-%}
+
+<div class="article_template_main_new">
+  <div class="article_template_inner_new">
+    <div class="article_template_alltexts_new">
+      <div class="article_template_alltexts_fulltitle_new">
+        <h1>{{ article.title }}</h1>
+      </div>
+      <div class="article_template_alltexts_datetime_new">
+        {%- if section.settings.blog_show_date -%}
+          <div class="article_template_alltexts_date_new">
+            <span>Published:</span> {{ article.published_at | date: "%a, %b %d, %Y" }}
+          </div>
+        {%- endif -%}
+        {% if article.metafields.custom.reading_time != blank %}
+        <div class="article_template_alltexts_date_new">
+            <span class="read_placement">Reading Time:</span> {{ article.metafields.custom.reading_time }}
+        </div> 
+        {% endif %}
+      </div>
+    </div>
+    
+    {%- if section.settings.backdesktopimage != blank or section.settings.backmobileimage != blank or section.settings.image_hero -%}
+      <div class="article_template_allimage_new">
+        {%- if section.settings.backdesktopimage != blank or section.settings.backmobileimage != blank -%}
+          {%- if section.settings.backdesktopimage != blank -%}
+            {%- render 'image-element',
+              img: section.settings.backdesktopimage,
+              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+              classes: 'desktop_image_new',
+            -%}
+          {%- endif -%}
+          {%- if section.settings.backmobileimage != blank -%}
+            {%- render 'image-element',
+              img: section.settings.backmobileimage,
+              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+              classes: 'mobile_image_new',
+            -%}
+          {%- endif -%}
+        {%- else -%}
+          {%- if section.settings.image_hero and article.image -%}
+            {%- render 'image-element',
+              img: article.image,
+              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048'
+            -%}
+          {%- endif -%}  
+        {%- endif -%}
+      </div>
+    {%- endif -%}
+    
+    {%- if section.blocks.size > 0 -%}
+      <div class="article_template_allblocks_new">
+        {%- for block in section.blocks -%}
+          <div class="article_template_allblocks_inner_new" {{ block.shopify_attributes }}>
+            {%- case block.type -%}
+              {%- when 'article_content' -%}
+                {%- if article.content != blank -%}
+                  <div class="article__body rte">
+                    {{ article.content }}
+                  </div>
+                {%- endif -%}
+              {%- when 'heading' -%}
+                {%- if block.settings.headingtext != blank -%}
+                  <div class="article_template_allblocks_headinginner_new">
+                    <h3>{{ block.settings.headingtext }}</h3>
+                  </div>
+                {%- endif -%}  
+              {%- when 'images' -%}
+                {%- if block.settings.maindesktopimage != blank or block.settings.mainmobileimage != blank or block.settings.smallinfotext != blank -%}
+                  <div class="article_template_allblocks_imagesinner_new">
+                    {%- if block.settings.maindesktopimage != blank or block.settings.mainmobileimage != blank -%}
+                      <div class="article_template_allblocks_imagesinner_images_new">
+                        {%- if block.settings.maindesktopimage != blank -%}
+                          {%- render 'image-element',
+                            img: block.settings.maindesktopimage,
+                            widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                            classes: 'desktop_image_new',
+                          -%}
+                        {%- endif -%}
+                        {%- if block.settings.mainmobileimage != blank -%}
+                          {%- render 'image-element',
+                            img: block.settings.mainmobileimage,
+                            widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                            classes: 'mobile_image_new',
+                          -%}
+                        {%- endif -%}
+                      </div>
+                    {%- endif -%}
+                    {%- if block.settings.smallinfotext != blank -%}
+                      <div class="article_template_allblocks_imagesinner_texts_new">
+                        {{ block.settings.smallinfotext }}
+                      </div>
+                    {%- endif -%}
+                  </div>
+                {%- endif -%}
+              {%- when 'texts' -%}
+                {%- if block.settings.fullinfotext != blank -%}
+                  <div class="article_template_allblocks_textsinner_new">
+                    {{ block.settings.fullinfotext }}
+                  </div>
+                {%- endif -%}
+            {%- endcase -%}  
+          </div>
+        {%- endfor -%}  
+      </div>
+    {%- endif -%}
+    
+    {%- if section.settings.social_sharing_blog -%}
+      <div class="article_template_allsocial_new">
+        <div class="article_template_allsocial_title_new">share:</div>
+        {%- render 'social-sharing', share_title: article.title, share_permalink: article.url, share_image: article.image -%}
+      </div>
+    {%- endif -%}
+  </div>
+
+  {%- comment -%}
+  
+  {%- if section.settings.image_hero and article.image -%}
+    <div class="article_template_herobanner_new">
+      <div class="collection-hero">
+        {% comment %} Full width image so don't need to adjust sizes attribute, fallback is 100vw {% endcomment %}
+        {%- render 'image-element',
+          img: article.image,
+          classes: 'collection-hero__image image-fit',
+        -%}
+    
+        <div class="collection-hero__content">
+          <div class="page-width">
+            <header class="section-header section-header--hero">
+              <div class="section-header__shadow">
+                {%- render 'breadcrumbs' -%}
+                {%- if section.settings.blog_show_date or article.tags.size > 0 or articles.comments_count > 0 -%}
+                  <div class="article__date">
+                    {%- if section.settings.blog_show_tags and article.tags.size > 0 -%}
+                      {%- for tag in article.tags -%}
+                        {% if tag contains "_" %}{%- assign tag_starts_with = tag | slice: 0 -%}{% if tag_starts_with == "_" %}{% if tag_count %}{%- assign tag_count = tag_count | minus: 1 | at_least: 0 -%}{% endif %}{% continue %}{% endif %}{% endif %}
+                        <a href="{{ blog.url }}/tagged/{{ tag | handle }}">{{ tag }}</a> &middot;
+                      {%- endfor -%}
+                    {%- endif -%}
+                    {%- if section.settings.blog_show_comments and article.comments_count > 0 -%}
+                      <a href="#comments">
+                        {{ 'blogs.comments.with_count' | t: count: number_of_comments }}
+                      </a> &middot;
+                    {%- endif -%}
+                    {%- if section.settings.blog_show_date -%}
+                      {{ article.published_at | time_tag: format: 'month_day_year' }}
+                    {%- endif -%}
+                  </div>
+                {%- endif -%}
+    
+                <h1 class="section-header__title">
+                  {{ article.title }}
+                </h1>
+    
+                {%- if section.settings.blog_show_author -%}
+                  <div class="article__author">by {{ article.author }}</div>
+                {%- endif -%}
+              </div>
+            </header>
+          </div>
+        </div>
+      </div>
+    </div>
+  {%- endif -%}
+
+  <div class="article_template_alldetails_new">
+    <div class="page-width page-width--narrow page-content">
+      <article class="article">
+        {%- unless section.settings.image_hero and article.image -%}
+          {%- render 'breadcrumbs' -%}
+    
+          <header class="section-header">
+            {%- if section.settings.blog_show_date or article.tags.size > 0 or articles.comments_count > 0 -%}
+              <div class="article__date">
+                {%- if section.settings.blog_show_tags and article.tags.size > 0 -%}
+                  {%- for tag in article.tags -%}
+                    {% if tag contains "_" %}{%- assign tag_starts_with = tag | slice: 0 -%}{% if tag_starts_with == "_" %}{% if tag_count %}{%- assign tag_count = tag_count | minus: 1 | at_least: 0 -%}{% endif %}{% continue %}{% endif %}{% endif %}
+                    <a href="{{ blog.url }}/tagged/{{ tag | handle }}">{{ tag }}</a> &middot;
+                  {%- endfor -%}
+                {%- endif -%}
+                {%- if section.settings.blog_show_comments and article.comments_count > 0 -%}
+                  <a href="#comments">
+                    {{ 'blogs.comments.with_count' | t: count: number_of_comments }}
+                  </a> &middot;
+                {%- endif -%}
+                {%- if section.settings.blog_show_date -%}
+                  {{ article.published_at | time_tag: format: 'month_day_year' }}
+                {%- endif -%}
+              </div>
+            {%- endif -%}
+            <h1 class="section-header__title">{{ article.title }}</h1>
+            {%- if section.settings.blog_show_author -%}
+              <div class="article__author">by {{ article.author }}</div>
+            {%- endif -%}
+          </header>
+        {%- endunless -%}
+    
+        <div class="article__body rte">
+          {{ article.content }}
+        </div>
+    
+        {%- if section.settings.social_sharing_blog -%}
+          {%- render 'social-sharing', share_title: article.title, share_permalink: article.url, share_image: article.image -%}
+        {%- endif -%}
+    
+        {%- if blog.comments_enabled? -%}
+    
+          {%- if number_of_comments > 0 -%}
+            <hr class="hr--large">
+            <h3>{{ 'blogs.comments.with_count' | t: count: number_of_comments }}</h3>
+            <hr class="hr--small hr--clear">
+          {%- endif -%}
+    
+          {%- paginate article.comments by 5 -%}
+            <div id="comments">
+              {%- if comment and comment.errors == blank -%}
+                <hr class="hr--small hr--clear">
+                <p class="note note--success">
+                  {%- if blog.moderated? -%}
+                    {{ 'blogs.comments.success_moderated' | t }}
+                  {%- else -%}
+                    {{ 'blogs.comments.success' | t }}
+                  {%- endif -%}
+                </p>
+              {%- endif -%}
+    
+              {%- if number_of_comments > 0 -%}
+                <ul class="no-bullets">
+                  {%- if comment.status == 'pending' -%}
+                    <li id="Comment-{{ comment.id }}" class="article__comment">
+                      {%- render 'comment', comment: comment -%}
+                    </li>
+                  {%- endif -%}
+    
+                  {%- for comment in article.comments -%}
+                    <li id="Comment-{{ comment.id }}" class="article__comment">
+                      {%- render 'comment', comment: comment -%}
+                    </li>
+    
+                    {%- unless forloop.last -%}
+                      <li><hr class="hr--clear"></li>
+                    {%- endunless -%}
+                  {%- endfor -%}
+                </ul>
+    
+                {%- if paginate.pages > 1 -%}
+                  {%- render 'pagination', paginate: paginate, hash: '#comments' -%}
+                {%- endif -%}
+    
+              {%- endif -%}
+    
+              <hr class="hr--large">
+    
+              <header class="section-header{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}">
+                <h3 class="section-header__title">{{ 'blogs.comments.title' | t }}</h3>
+              </header>
+    
+              <div class="form-vertical">
+                {%- form 'new_comment', article -%}
+    
+                  {{ form.errors | default_errors }}
+    
+                  <div class="grid grid--small">
+                    <div class="grid__item medium-up--one-half">
+                      <label for="CommentAuthor">{{ 'blogs.comments.name' | t }}</label>
+                      <input required class="input-full{% if form.errors contains 'author' %} error{% endif %}" type="text" name="comment[author]" id="CommentAuthor" value="{{ form.author }}" autocapitalize="words">
+                    </div>
+                    <div class="grid__item medium-up--one-half">
+                      <label for="CommentEmail">{{ 'blogs.comments.email' | t }}</label>
+                      <input required class="input-full{% if form.errors contains 'email' %} error{% endif %}" type="email" name="comment[email]" id="CommentEmail" value="{{ form.email }}" autocorrect="off" autocapitalize="off">
+                    </div>
+                  </div>
+    
+                  <label for="CommentBody">{{ 'blogs.comments.message' | t }}</label>
+                  <textarea required class="input-full{% if form.errors contains 'body' %} error{% endif %}" name="comment[body]" id="CommentBody">{{ form.body }}</textarea>
+    
+                  {%- if blog.moderated? -%}
+                    <p><small>{{ 'blogs.comments.moderated' | t }}</small></p>
+                  {%- endif -%}
+    
+                  <button type="submit" class="btn btn--secondary">
+                    {{ 'blogs.comments.post' | t }}
+                  </button>
+    
+                  {% comment %}
+                    Remove the following three lines of code to remove the note
+                    about being protected by Google's reCAPTCHA service.
+                    By removing it, the small reCAPTCHA widget will appear in the
+                    bottom right corner of the page.
+                  {% endcomment %}
+                  {{ 'shopify.online_store.spam_detection.disclaimer_html' | t }}
+    
+                {%- endform -%}
+              </div>
+    
+            </div>
+          {%- endpaginate -%}
+        {%- endif -%}
+    
+        <hr class="hr--large">
+      </article>
+    
+      <div class="text-center">
+        <a href="{{ blog.url }}" class="btn return-link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-left" viewBox="0 0 50 15"><path d="M50 5.38v4.25H15V15L0 7.5 15 0v5.38z"/></svg> {{ 'blogs.article.back_to_blog' | t: title: blog.title }}</a>
+      </div>
+    </div>
+  </div>
+
+  {%- endcomment -%}          
+</div>
+        
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "articleBody": {{ article.content | strip_html | json }},
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ shop.url | append: article.url | json }}
+  },
+  "headline": {{ article.title | json }},
+  {% if article.excerpt != blank %}
+    "description": {{ article.excerpt | strip_html | json }},
+  {% endif %}
+  {% if article.image %}
+    {% assign image_size = article.image.width | append: 'x' %}
+    "image": [
+      {{ article | img_url: image_size | prepend: "https:" | json }}
+    ],
+  {% endif %}
+  "datePublished": {{ article.published_at | date: '%Y-%m-%dT%H:%M:%SZ' | json }},
+  "dateModified": {{ article.updated_at | date: '%Y-%m-%dT%H:%M:%SZ' | json }},
+  "dateCreated": {{ article.created_at | date: '%Y-%m-%dT%H:%M:%SZ' | json }},
+  "author": {
+    "@type": "Person",
+    "name": {{ article.author | json }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    {% if page_image %}
+      {% assign image_size = page_image.width | append: 'x' %}
+      "logo": {
+        "@type": "ImageObject",
+        "height": {{ page_image.height | json }},
+        "url": {{ page_image | img_url: image_size | prepend: "https:" | json }},
+        "width": {{ page_image.width | json }}
+      },
+    {% endif %}
+    "name": {{ shop.name | json }}
+  }
+}
+</script>
+
+{% schema %}
+{
+  "name": "Article Template",
+  "class": "article_template_new",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "backdesktopimage",
+      "label": "Add Background Desktop Image"
+    },
+    {
+      "type": "image_picker",
+      "id": "backmobileimage",
+      "label": "Add Background Mobile Image"
+    },
+    {
+      "type": "checkbox",
+      "id": "image_hero",
+      "label": "t:sections.article-template.settings.image_hero.label",
+      "info": "t:sections.article-template.settings.image_hero.info",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_tags",
+      "label": "t:sections.article-template.settings.blog_show_tags.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_date",
+      "label": "t:sections.article-template.settings.blog_show_date.label",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_comments",
+      "label": "t:sections.article-template.settings.blog_show_comments.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_author",
+      "label": "t:sections.article-template.settings.blog_show_author.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "social_sharing_blog",
+      "label": "t:sections.article-template.settings.social_sharing_blog.label",
+      "default": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "article_content",
+      "name": "Article Content",
+      "limit": 1
+    },
+    {
+      "type": "images",
+      "name": "Images",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "maindesktopimage",
+          "label": "Add Main Desktop Image Display"
+        },
+        {
+          "type": "image_picker",
+          "id": "mainmobileimage",
+          "label": "Add Main Mobile Image Display"
+        },
+        {
+          "type": "richtext",
+          "id": "smallinfotext",
+          "label": "Add Small Information Text Display",
+          "default": "<p><em>Source and image courtesy: Victoria and Albert Museum</em></p>"
+        }
+      ]
+    },
+    {
+      "type": "texts",
+      "name": "Texts",
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "fullinfotext",
+          "label": "Add Full Information Text Display",
+          "default": "<p><strong>Ornate designs made with precious gemstones encrusted in 24K gold—said to have been born in the royal region of Rajasthan and flourished during the era of the Mughals, Kundan jewelry is perhaps one of the most, if not the most-loved jewelry styles in India, especially that of brides.</strong></p><p>According to Bernadette Van Gelder's book Traditional Indian Jewelry—Beautiful People, the Kundan jewelry-making technique is perhaps the oldest technique for setting stones in jewelry using gold in the Indian tradition. According to the book, this technique was first mentioned in the Ain-i-Akbari, the third and final book of Akbarnama, the official account of Akbar's reign.</p>"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "name": "Heading",
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "headingtext",
+          "label": "Add Heading Text Display",
+          "default": "<p>Different forms of ghat, some already filled with wax</p>"
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": ["footer", "header", "custom.popups"]
+  }
+}
+{% endschema %}

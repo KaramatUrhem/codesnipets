@@ -1,0 +1,67 @@
+{%- if section.settings.mp4videolink != blank or section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank -%}
+  <div class="Product_metafield_video_main_new article_mp4_video_banner_main_new">
+    <div class="Product_metafield_video_inner_new">
+      <div class="Product_metafield_video_videoimage_new">
+        {%- if section.settings.mp4videolink != blank -%}
+          <div class="Product_metafield_video_fullvideo_new">
+            <video
+              id="Mp4Video-{{ section.id }}"
+              class="video-div"
+              data-type="mp4"
+              src="{{ section.settings.mp4videolink }}"
+              loop muted playsinline autoplay>
+            </video>
+          </div>
+        {%- else -%}            
+          {%- if section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank -%}
+            <div class="Index_images_with_texts_rightside_new">
+              {%- if section.settings.maindesktopimage != blank -%}
+                {%- render 'image-element',
+                  img: section.settings.maindesktopimage,
+                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                  classes: 'desktop_image_new',
+                -%}
+              {%- endif -%}
+              {%- if section.settings.mainmobileimage != blank -%}
+                {%- render 'image-element',
+                  img: section.settings.mainmobileimage,
+                  widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                  classes: 'mobile_image_new',
+                -%}
+              {%- endif -%}
+            </div>
+          {%- endif -%}            
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Article MP4 Video Banner",
+    "class": "article_mp4_video_banner_new",
+    "settings": [
+      {
+        "type": "textarea",
+        "id": "mp4videolink",
+        "label": "Add MP4 Video Link Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "maindesktopimage",
+        "label": "Add Main Desktop Image Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "mainmobileimage",
+        "label": "Add Main Mobile Image Display"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Article MP4 Video Banner"
+      }
+    ]
+  }
+{% endschema %}

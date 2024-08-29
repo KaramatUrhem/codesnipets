@@ -1,0 +1,106 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "4d18ea0a-1f50-4e24-bdc9-4de9f54bff86": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16718487322876__4d18ea0a-1f50-4e24-bdc9-4de9f54bff86-16836690409ee85dd0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "'Rani no' Pitaaro"
+          }
+        },
+        "template--16718487322876__4d18ea0a-1f50-4e24-bdc9-4de9f54bff86-16836690409ee85dd0-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>A curated mix bag of treasures that tell and weave stories of queens and princesses<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718487322876__4d18ea0a-1f50-4e24-bdc9-4de9f54bff86-16836690409ee85dd0-0",
+        "template--16718487322876__4d18ea0a-1f50-4e24-bdc9-4de9f54bff86-16836690409ee85dd0-1"
+      ],
+      "settings": {
+        "classname": "",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "382f433d-0451-456b-8ea0-1f0d914122a1": {
+          "type": "image_grid_item",
+          "settings": {
+            "desk_position": "6",
+            "mob_position": "6",
+            "image": "shopify:\/\/shop_images\/Pitaro_f9aced59-ef04-41ed-833f-a8a60e156e07.webp",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link": "#"
+          }
+        },
+        "bc684439-3546-4626-a905-1f3ecfeeca81": {
+          "type": "image_with_slider",
+          "settings": {
+            "desk_position": "9",
+            "mob_position": "8",
+            "change_alignment": false,
+            "title": "<p>Shop the<em> look<\/em><\/p>",
+            "image": "shopify:\/\/shop_images\/pitaro.webp",
+            "product_1": "rewa-gold-pearl-and-polki-indian-choker-necklace",
+            "product_sample1_vertical_position": 56,
+            "product_sample1_horizontal_position": 58,
+            "product_2": "shaheen-gold-and-un-cut-diamond-necklace",
+            "product_sample2_vertical_position": 72,
+            "product_sample2_horizontal_position": 52,
+            "product_3": "kanha-meenakari-gold-polki-necklace-for-women",
+            "product_sample3_vertical_position": 60,
+            "product_sample3_horizontal_position": 38,
+            "product_4": "kalki-gold-and-polki-meenakari-torque-hasli-indian-wedding-necklace",
+            "product_sample4_vertical_position": 66,
+            "product_sample4_horizontal_position": 90
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 3,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "382f433d-0451-456b-8ea0-1f0d914122a1",
+        "bc684439-3546-4626-a905-1f3ecfeeca81",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "4d18ea0a-1f50-4e24-bdc9-4de9f54bff86",
+    "main-collection"
+  ]
+}

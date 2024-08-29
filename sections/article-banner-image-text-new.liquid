@@ -1,0 +1,76 @@
+{%- if section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank or section.settings.imageinfotext != blank or section.settings.maininfotext != blank -%}
+  <div class="article_banner_image_text_main_new">
+    <div class="article_banner_image_text_inner_new">
+      {%- if section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank -%}
+        <div class="article_banner_image_text_allimages_new">
+          {%- if section.settings.maindesktopimage != blank -%}
+            {%- render 'image-element',
+              img: section.settings.maindesktopimage,
+              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+              classes: 'desktop_image_new',
+            -%}
+          {%- endif -%}
+          {%- if section.settings.mainmobileimage != blank -%}
+            {%- render 'image-element',
+              img: section.settings.mainmobileimage,
+              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+              classes: 'mobile_image_new',
+            -%}
+          {%- endif -%}
+        </div>
+      {%- endif -%}
+      {%- if section.settings.imageinfotext != blank or section.settings.maininfotext != blank -%}
+        <div class="page-width">
+          <div class="article_banner_image_text_alltexts_new">
+            {%- if section.settings.imageinfotext != blank -%}
+              <div class="article_banner_image_text_alltexts_imagetext_new">
+                {{ section.settings.imageinfotext }}
+              </div>
+            {%- endif -%}
+            {%- if section.settings.maininfotext != blank -%}
+              <div class="article_banner_image_text_alltexts_infotext_new">
+                {{ section.settings.maininfotext }}
+              </div>
+            {%- endif -%}
+          </div>
+        </div>
+      {%- endif -%}
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+  {
+    "name": "Article Banner Image Text",
+    "class": "article_banner_image_text_new",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "maindesktopimage",
+        "label": "Add Main Desktop Image Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "mainmobileimage",
+        "label": "Add Main Mobile Image Display"
+      },
+      {
+        "type": "richtext",
+        "id": "imageinfotext",
+        "label": "Add Image Information Text Display",
+        "default": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder</em></p>"
+      },
+      {
+        "type": "richtext",
+        "id": "maininfotext",
+        "label": "Add Main Information Text Display",
+        "default": "<p>Kundan jewelry has been a tradition for over centuries now and is still practiced today. It is clearly a testament to all the goldsmiths who have kept this traditional stone-setting technique alive on the Indian subcontinent.</p><p><strong>Brilliantly colored gemstones and addorsed tiger claws nestle together to form the strikingly shaped pendants of a nineteenth-century Indian necklace. The use of tiger claws as symbols of power and protection is an ancient motif in India, seen also in gold pendants from ninth-century Java and other regions of Asia. The technique of this necklace is that of Kundan, whereby stones are held in place by pure, pressed gold.</strong></p>"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Article Banner Image Text"
+      }
+    ]
+  }
+{% endschema %}

@@ -1,0 +1,235 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p><strong>Ornate designs made with precious gemstones encrusted in 24K gold—said to have been born in the royal region of Rajasthan and flourished during the era of the Mughals, Kundan jewelry is perhaps one of the most, if not the most-loved jewelry styles in India, especially that of brides.<\/strong><\/p><p>According to Bernadette Van Gelder's book Traditional Indian Jewelry—Beautiful People, the Kundan jewelry-making technique is perhaps the oldest technique for setting stones in jewelry using gold in the Indian tradition. According to the book, this technique was first mentioned in the Ain-i-Akbari, the third and final book of Akbarnama, the official account of Akbar's reign.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_5787-min.jpg",
+            "smallinfotext": "<p><em>Source and image courtesy: Victoria and Albert Museum<\/em><\/p>"
+          }
+        },
+        "e64625cd-b163-4634-bf5f-ee83676a29f3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>The incomplete nature of this turban ornament, which is missing the standard jeweled front, reveals the technique of manufacture of most of the enameled and jeweled gold ornaments made under Mughal stylistic influence. They are not solid gold but hollow and filled with lac, a natural resin. The enameling would be completed before the lac was added, and the stones would then be set into the piece using Kundan – highly refined gold that can be pressed into place by the jeweler’s tools without using heat.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7",
+        "e64625cd-b163-4634-bf5f-ee83676a29f3"
+      ],
+      "settings": {
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Rolling mill to achieve a length of thin ribbon",
+            "infotext": "<p>Kundan is unmixed gold that is beaten in lengths to form a flat strip. The strips are rolled up around a small flat iron bar (10 cm long and 2.5 cm wide) and worked until each wire overlaps and joins the other after some preparation (heating, cooling, washing, and drying). The end result is pure gold foil, free of any alloying metal.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6084_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6086-min.jpg",
+            "imagetext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Kundan ribbons ready for use",
+            "infotext": "<p>After folding multiple times, the Kundan ribbon (ranging in thickness from 4mm to 7mm) is ready to be divided into small pieces and used. It must be handled with extreme caution and must not be touched by hand to prevent impurities from mixing with the metal. According to goldsmiths, the ability to create high-quality Kundan is the first and most important virtue of their trade.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6084_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6086-min.jpg",
+            "imagetext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Different shapes put together",
+            "infotext": "<p>The sophisticated Kundan technique enables gemstones of any size or shape to be set into intricate designs. Sometimes, before the entire stone-setting process begins, gold-smiths might fill the hollow frame, known as ghat, with different objects of varying shapes grouped together to form the object. Another option is to let the shape of the gemstone define the ghat's shame.<\/p><p>Since earlier times, certain shapes have influenced the jewelry-making tradition. Squares, triangles, and circles are the most common shapes.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6084_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6086-min.jpg",
+            "imagetext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2"
+      ],
+      "settings": {
+        "mainheadingtext": "The intricate art of kundan jewelry<br> making- a closer look!"
+      }
+    },
+    "4c5e9829-38fd-4086-8e17-37ad69ad7a5a": {
+      "type": "article-mp4-video-banner-new",
+      "settings": {
+        "mp4videolink": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/93c6d4ac069841abb2fbdf1099ed9f1f.mp4"
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Different forms of ghat, some already filled with wax<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>The ghat is first filled with wax before setting the stone to strengthen the high-karat gold frame. The wax, along with lead, helps support the gold in larger artifacts. The color may lose luster and turn dark over time.<\/p><p>Extra space is allowed for inserting Kundan foil, which is bent over the rim of the gold ghat and serves as a support for the small gold ribbons that hold the gemstone securely in place. Because pure gold is malleable in a cold state, no welding is required. Extra layers of Kundan are applied around the stone, raising the rim slightly above the stone. The Kundan rim can be left plain or adorned with decorative patterns.<\/p><p>Because the stone is mounted in a closed setting, light only enters the stone from the top in Kundan-set jewelry. To maximize brilliance, the stone is tightly wrapped in a shiny metal foil known as daank, which must be made separately for each stone. Originally, the daank was also made of gold, but nowadays silver foil is used with colorless stones such as diamonds, white sapphires, rock crystals, and so on.<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "smallinfotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Joban (red—laal joban, green—hari joban, blue—neel joban) is a colored metallic foil used for colored stones such as ruby, emerald, and sapphire. Like the wax, the foil beneath the stone can also fade or lose color. Scholars use the color shift to determine the time period during which the jewelry piece could have been created.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3"
+      ],
+      "settings": {
+      }
+    },
+    "98705503-a4cc-42ae-8594-b45067388ab5": {
+      "type": "article-image-text-column-new",
+      "blocks": {
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "title": "<p><em>Diamond being prepared with silver foil before setting<\/em><\/p>",
+            "infotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "title": "<p><em>Diamonds being set<\/em><\/p>",
+            "infotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-2": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "title": "<p><em>Gold Kundan strip being tooled around the diamond<\/em><\/p>",
+            "infotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-3": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "title": "<p><em>Finished Kundan-technique earrings with embellished pearls<\/em><\/p>",
+            "infotext": "<p><em>Finished Kundan-technique earrings with embellished pearls<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-0",
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-1",
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-2",
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-3"
+      ],
+      "settings": {
+      }
+    },
+    "cf816632-0986-49ce-822c-d8d0ab92f706": {
+      "type": "article-banner-image-text-new",
+      "settings": {
+        "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_5945-min.jpg",
+        "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_6050-min.jpg",
+        "imageinfotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>",
+        "maininfotext": "<p>Kundan jewelry has been a tradition for over centuries now and is still practiced today. It is clearly a testament to all the goldsmiths who have kept this traditional stone-setting technique alive on the Indian subcontinent.<\/p><p><strong>Brilliantly colored gemstones and addorsed tiger claws nestle together to form the strikingly shaped pendants of a nineteenth-century Indian necklace. The use of tiger claws as symbols of power and protection is an ancient motif in India, seen also in gold pendants from ninth-century Java and other regions of Asia. The technique of this necklace is that of Kundan, whereby stones are held in place by pure, pressed gold.<\/strong><\/p>"
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "4c5e9829-38fd-4086-8e17-37ad69ad7a5a",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "98705503-a4cc-42ae-8594-b45067388ab5",
+    "cf816632-0986-49ce-822c-d8d0ab92f706",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

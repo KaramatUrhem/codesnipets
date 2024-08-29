@@ -1,0 +1,58 @@
+{
+  "sections": {
+    "main": {
+      "type": "Page-indian-family-jewels-info-meta-new",
+      "blocks": {
+        "f75635f1-5833-4293-adf3-0a9ebc0e9a2c": {
+          "type": "information",
+          "settings": {
+            "imageonright": false
+          }
+        },
+        "2f438b0b-ec5f-4470-9cc8-ccf75ed11ca5": {
+          "type": "information",
+          "settings": {
+            "imageonright": true
+          }
+        },
+        "9c71155d-81f9-4fb6-a752-fafd39c7d3f7": {
+          "type": "information",
+          "settings": {
+            "imageonright": false
+          }
+        },
+        "544d38c7-edd1-467d-a585-662f35113ef7": {
+          "type": "information",
+          "settings": {
+            "imageonright": true
+          }
+        },
+        "4e6be09d-0988-4f32-8fed-c52a1461cb75": {
+          "type": "information",
+          "settings": {
+            "imageonright": false
+          }
+        }
+      },
+      "block_order": [
+        "f75635f1-5833-4293-adf3-0a9ebc0e9a2c",
+        "2f438b0b-ec5f-4470-9cc8-ccf75ed11ca5",
+        "9c71155d-81f9-4fb6-a752-fafd39c7d3f7",
+        "544d38c7-edd1-467d-a585-662f35113ef7",
+        "4e6be09d-0988-4f32-8fed-c52a1461cb75"
+      ],
+      "settings": {
+      }
+    },
+    "bc668337-5da7-438b-8a08-542e5215debe": {
+      "type": "Page-indian-family-jewels-loop-meta-new",
+      "settings": {
+        "mainbackcolor": "#000000"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bc668337-5da7-438b-8a08-542e5215debe"
+  ]
+}

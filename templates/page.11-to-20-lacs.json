@@ -1,0 +1,263 @@
+{
+  "sections": {
+    "main": {
+      "type": "hero-banner",
+      "settings": {
+        "desk_img": "shopify:\/\/shop_images\/11_To_20_Lacs.webp",
+        "mob_img": "shopify:\/\/shop_images\/11_To_20_Lacs.webp",
+        "title": "11 To 20 Lacs"
+      }
+    },
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3": {
+      "type": "image-with-slider",
+      "blocks": {
+        "57d7f913-6c04-4770-abed-1cf341363e2a": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "padmaja-long-diamond-earrings",
+            "vertical_position": 42,
+            "horizontal_position": 50
+          }
+        },
+        "9c38f691-d200-4556-af0b-bf95296ff2b3": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "tarika-diamond-and-pearl-choker",
+            "vertical_position": 64,
+            "horizontal_position": 38
+          }
+        }
+      },
+      "block_order": [
+        "57d7f913-6c04-4770-abed-1cf341363e2a",
+        "9c38f691-d200-4556-af0b-bf95296ff2b3"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 1<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_411_To_20_Lacs_copy_3.webp"
+      }
+    },
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f": {
+      "type": "image-with-slider",
+      "blocks": {
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "jheel-antique-diamonds-emerlads-necklace",
+            "vertical_position": 44,
+            "horizontal_position": 48
+          }
+        },
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "jheel-antique-diamond-earrings",
+            "vertical_position": 20,
+            "horizontal_position": 66
+          }
+        }
+      },
+      "block_order": [
+        "1fb2891c-b58f-4ec8-9dc8-9dd3c37664d7",
+        "7a2e4c6b-a9bd-4881-9c1d-181a61e17eb7"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 2<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_Aurus_1shop_the_look_copy_2_16da14d3-a383-47d9-898c-cecbd685e363.webp"
+      }
+    },
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7": {
+      "type": "image-with-slider",
+      "blocks": {
+        "eecb2efc-a9ff-427e-aae5-12f7df878959": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "manushi-gold-ariya-tinmaniya-jaisalmeri-necklace",
+            "vertical_position": 70,
+            "horizontal_position": 60
+          }
+        },
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "indrani-kundan-and-tourmaline-earrings",
+            "vertical_position": 8,
+            "horizontal_position": 76
+          }
+        }
+      },
+      "block_order": [
+        "eecb2efc-a9ff-427e-aae5-12f7df878959",
+        "fc3eb992-b05a-41f1-85e6-71acee982cc0"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 3<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_13.webp"
+      }
+    },
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97": {
+      "type": "image-with-slider",
+      "blocks": {
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "hoor-tourmaline-and-gold-necklace",
+            "vertical_position": 50,
+            "horizontal_position": 30
+          }
+        },
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "rano-gold-and-pearl-wedding-bridal-earrings",
+            "vertical_position": 34,
+            "horizontal_position": 8
+          }
+        }
+      },
+      "block_order": [
+        "f867e63c-545c-47b4-b7f7-2adee9ce07cb",
+        "241ed50f-1d7e-4df4-aed1-ea2ba60dfbd6"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "<p><em>look 4<\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_10.webp"
+      }
+    },
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96": {
+      "type": "image-with-slider",
+      "blocks": {
+        "cd89a8db-6af2-41be-ba3f-12f70780d661": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "bela-white-kundan-gold-necklace",
+            "vertical_position": 48,
+            "horizontal_position": 42
+          }
+        },
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "bela-white-kundan-gold-earrings",
+            "vertical_position": 14,
+            "horizontal_position": 48
+          }
+        }
+      },
+      "block_order": [
+        "cd89a8db-6af2-41be-ba3f-12f70780d661",
+        "696205d2-5d43-4aa6-9318-e31a4bb6bd9f"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "<p><em>look 5 <\/em><\/p>",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_15.webp"
+      }
+    },
+    "43071ac2-d57a-4ff7-ad82-120fb80686e4": {
+      "type": "image-with-slider",
+      "blocks": {
+        "ac820d31-da20-4c61-bedb-c6bd99a4fe38": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "kaliganthi-gold-and-ruby-bridal-necklace",
+            "vertical_position": 76,
+            "horizontal_position": 34
+          }
+        },
+        "49ef1b30-0bf8-404a-8166-56df945baa62": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "sampada-indian-gold-jhumka-earrings",
+            "vertical_position": 30,
+            "horizontal_position": 18
+          }
+        }
+      },
+      "block_order": [
+        "ac820d31-da20-4c61-bedb-c6bd99a4fe38",
+        "49ef1b30-0bf8-404a-8166-56df945baa62"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_11.webp"
+      }
+    },
+    "1d225b57-60de-4b54-9a77-d69e940e17e3": {
+      "type": "image-with-slider",
+      "blocks": {
+        "fbda6135-e9d0-4e03-8191-5de27af2bbc1": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "amara-diamond-emerald-and-ruby-choker-necklace",
+            "vertical_position": 56,
+            "horizontal_position": 60
+          }
+        },
+        "17cd6361-d843-4816-8019-32f3d04f1431": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "chaaru-gold-diamond-ruby-and-emerald-earrings",
+            "vertical_position": 20,
+            "horizontal_position": 74
+          }
+        }
+      },
+      "block_order": [
+        "fbda6135-e9d0-4e03-8191-5de27af2bbc1",
+        "17cd6361-d843-4816-8019-32f3d04f1431"
+      ],
+      "settings": {
+        "change_alignment": false,
+        "title": "",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_16.webp"
+      }
+    },
+    "79be4a5a-30f9-4660-8d77-1739936ba032": {
+      "type": "image-with-slider",
+      "blocks": {
+        "fea45956-2b78-4dc0-ab67-b7b4654aada6": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "saira-wedding-gold-and-tourmaline-necklace-for-women",
+            "vertical_position": 58,
+            "horizontal_position": 34
+          }
+        },
+        "140ba7d9-8dc5-4ec7-a7bf-453f3bdd429f": {
+          "type": "sample_product",
+          "settings": {
+            "sample_product": "ananya-gold-and-polki-jadau-jhumka-earrings",
+            "vertical_position": 14,
+            "horizontal_position": 74
+          }
+        }
+      },
+      "block_order": [
+        "fea45956-2b78-4dc0-ab67-b7b4654aada6",
+        "140ba7d9-8dc5-4ec7-a7bf-453f3bdd429f"
+      ],
+      "settings": {
+        "change_alignment": true,
+        "title": "",
+        "image": "shopify:\/\/shop_images\/Shop_the_look_set_2Artboard_17.webp"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "59c882fe-a061-4dc2-ba80-3ae20b3ffae3",
+    "9576ff1e-2a54-4a35-8fbb-b1c4cd29fd0f",
+    "3e44e4a2-ec3e-41ae-840e-2a3272a592e7",
+    "81caa79a-1a2f-436c-92dd-1945c1f9fb97",
+    "0ba05076-c6a5-4b50-bb68-ea39b7749b96",
+    "43071ac2-d57a-4ff7-ad82-120fb80686e4",
+    "1d225b57-60de-4b54-9a77-d69e940e17e3",
+    "79be4a5a-30f9-4660-8d77-1739936ba032"
+  ]
+}

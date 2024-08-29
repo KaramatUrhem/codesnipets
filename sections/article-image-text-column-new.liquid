@@ -1,0 +1,108 @@
+{%- if section.blocks.size > 0 -%}
+  <div class="article_image_text_column_main_new">
+    <div class="page-width">
+      <div class="article_image_text_column_inner_new">
+        <div class="article_image_text_column_allloop_new">
+          {%- for block in section.blocks -%}
+            {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank or block.settings.title != blank or block.settings.infotext != blank -%}
+              <div class="article_image_text_column_allloop_boxs_new">
+                <div class="article_image_text_column_allloop_textsboxs_mobile_new">
+                  {%- if block.settings.title != blank -%}
+                    <h3>{{ block.settings.title }}</h3>
+                  {%- endif -%}
+                </div>
+                {%- if block.settings.desktopimage != blank or block.settings.mobileimage != blank -%}
+                  <div class="article_image_text_column_allloop_imageboxs_new">
+                    {%- if block.settings.desktopimage != blank -%}
+                      {%- render 'image-element',
+                        img: block.settings.desktopimage,
+                        widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                        classes: 'desktop_image_new',
+                      -%}
+                    {%- endif -%}
+                    {%- if block.settings.mobileimage != blank -%}
+                      {%- render 'image-element',
+                        img: block.settings.mobileimage,
+                        widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                        classes: 'mobile_image_new',
+                      -%}
+                    {%- endif -%}
+                  </div>
+                {%- endif -%}
+                {%- if block.settings.title != blank or block.settings.infotext != blank -%}
+                  <div class="article_image_text_column_allloop_textsboxs_new">
+                    {%- if block.settings.title != blank -%}
+                      <h3>{{ block.settings.title }}</h3>
+                    {%- endif -%}
+                    {%- if block.settings.infotext != blank -%}
+                      {{ block.settings.infotext }}
+                    {%- endif -%}
+                  </div>
+                {%- endif -%}
+              </div>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      </div>
+    </div>
+  </div>
+{%- endif -%}  
+
+{% schema %}
+  {
+    "name": "Article Image Text Column",
+    "class": "article_image_text_column_new",
+    "settings": [
+      
+    ],
+    "blocks": [
+      {
+        "type": "information",
+        "name": "Information",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "desktopimage",
+            "label": "Add Desktop Image Display"
+          },
+          {
+            "type": "image_picker",
+            "id": "mobileimage",
+            "label": "Add Mobile Image Display"
+          },
+          {
+            "type": "richtext",
+            "id": "title",
+            "label": "Add Heading Text Display",
+            "default": "<p><em>Lorem Ipsum is simply dummy text.</em></p>"
+          },
+          {
+            "type": "richtext",
+            "id": "infotext",
+            "label": "Add Information Text Display",
+            "default": "<p><em>Lorem Ipsum is simply dummy text.</em></p>"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Article Image Text Column",
+        "blocks": [
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          },
+          {
+            "type": "information"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

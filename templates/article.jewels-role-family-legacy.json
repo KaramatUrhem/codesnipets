@@ -1,0 +1,176 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>From the glimmering sparkle of gold to the intricate craftsmanship of precious gemstones, Indian wedding jewelry holds a profound significance in the rich tapestry of Indian culture. Beyond mere adornments, these intricate pieces are treasured heirlooms that carry the weight of family traditions and legacies. For generations, the exquisite jewelry worn during Indian weddings has served as a tangible link connecting the past, present, and future, symbolizing the timeless bond between families and the enduring values they hold dear. Today we delve into the captivating world of Indian wedding jewelry and explore its integral role in building and preserving cherished family traditions and legacies.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/akhil-pawar-Ys52rPvPbpU-unsplash.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/akhil-pawar-Ys52rPvPbpU-unsplash.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/Role_of_Indian_wedding_jewelry_in_family_legacy.jpg",
+        "backmobileimage": "shopify:\/\/shop_images\/Role_of_Indian_wedding_jewelry_in_family_legacy.jpg",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Enchanting Tapestry of Indian Wedding Jewelry<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian wedding jewelry weaves a captivating tale of tradition, opulence, and symbolism. Every piece of jewelry adorning an Indian bride on her special day holds profound significance, reflecting her culture, heritage, and personal style. From the resplendent necklaces cascading down her neck to the intricately designed earrings gracing her ears, each element is carefully selected to enhance her beauty and create an aura of elegance. Adorned with precious gemstones, such as diamonds, rubies, emeralds, and sapphires, traditional Indian wedding jewelry embodies a timeless allure, infusing the celebration with an air of grandeur. Whether it's the magnificent mang tikka, or the mesmerizing Jhumkas, Indian wedding jewelry is a breathtaking amalgamation of craftsmanship, tradition, and love, weaving together the threads of a memorable and cherished union.<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/2_4aeb3a5d-d9f2-4fb0-ae0f-9fbc45f2a3d1.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/2_4aeb3a5d-d9f2-4fb0-ae0f-9fbc45f2a3d1.png",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "a25a96b5-0b88-4037-840a-bd8c5a1a4d51": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Glittering Voyage of Indian Wedding Jewelry Through Time<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>As one delves into the historical perspective of Indian wedding jewelry, a captivating journey unfolds, spanning centuries of artistry, cultural exchange, and regional diversity. Indian jewelry has a rich history that can be traced back to ancient civilizations, where the mastery of goldsmiths and gemstone artisans flourished. Influenced by various dynasties, invasions, and trade routes, Indian wedding jewelry evolved into a captivating fusion of styles, materials, and techniques. <\/p>"
+          }
+        },
+        "51feae4a-b93f-40ac-b613-510aa49c7adf": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/1_b25b5567-f83c-46e2-807f-fb83c1fba927.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/1_b25b5567-f83c-46e2-807f-fb83c1fba927.png",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "ea52aa3a-2cd6-4109-ad91-706a2f4d4ad1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>From the intricate Kundan work of the Mughal era to the elaborate temple jewelry of the South, every region boasts its distinct aesthetic, showcasing the cultural tapestry of India. Jewelry in India has always been more than mere adornment; it has been a symbol of status, wealth, and heritage. Passed down through generations, these exquisite pieces embody the legacy of families and the traditions they hold dear. Today, Indian wedding jewelry continues to enchant the world with its timeless beauty and the stories it carries, reflecting the glorious past while embracing the allure of the present.<\/p><p><\/p>"
+          }
+        },
+        "3cb3c8f0-3952-455a-adc7-657ff034dc3e": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Cultural Splendor of Indian Wedding Jewelry<\/p>"
+          }
+        },
+        "5f8ee680-ce19-4656-b6f8-e50a90c87300": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian jewelry holds immense cultural significance and plays a vital role in various aspects of Indian life. In weddings and important ceremonies, jewelry adorns the bride, symbolizing her beauty, wealth, and social status. Beyond its aesthetic appeal, jewelry is believed to possess spiritual and protective qualities, with specific gemstones thought to bring luck, and prosperity, and ward off negative energies. Each piece of jewelry carries deep cultural meanings. The mangal sutra represents marital commitment, while the bangles symbolize marriage and fertility. Nose rings hold cultural and traditional values, signifying womanhood and marital status. Indian jewelry, with its intricate craftsmanship and symbolic significance, is an integral part of Indian culture, connecting people to their heritage and traditions.<\/p><p><\/p>"
+          }
+        },
+        "60c344f2-c137-453c-a135-a3744731efe6": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Radiance Across Generations of Indian Wedding Jewelry<\/p>"
+          }
+        },
+        "c94564de-d555-4f71-81fd-c20ab218f234": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/raj-rana--7arhYAUEOg-unsplash.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/raj-rana--7arhYAUEOg-unsplash.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        },
+        "579c2904-28f2-4085-b736-bd71a541e79d": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Passing down jewelry through generations is a cherished practice within Indian families, symbolizing the essence of love and tradition. These heirloom pieces hold deep sentimental value, connecting present generations to their ancestors and preserving the family's legacy. Each piece tells a unique story, representing milestones, cultural heritage, and shared experiences. The act of gifting and inheriting jewelry strengthens family bonds and fosters a sense of belonging. As these precious adornments are passed from one generation to the next, they become timeless treasures, serving as tangible reminders of familial connections and the enduring beauty of traditions.<\/p><p>Indian wedding jewelry is not merely an accessory but a symbol of love, commitment, and the celebration of a lifelong union, making it an essential element of every Indian wedding.  It holds a significant place in the rich tapestry of family traditions and legacies. It serves as a tangible symbol of love, commitment, and cultural heritage, passed down through generations.<\/p><p>From exquisite craftsmanship to the precious gemstones that adorn these intricate pieces, Indian wedding jewelry embodies the essence of celebration, unity, and timeless beauty. As families come together to celebrate their joyous occasions, the jewelry becomes a cherished heirloom, connecting past, present, and future. It is through these dazzling ornaments that families continue to forge their unique identities, preserving their cultural roots and building a lasting legacy for generations to come.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2",
+        "a25a96b5-0b88-4037-840a-bd8c5a1a4d51",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3",
+        "51feae4a-b93f-40ac-b613-510aa49c7adf",
+        "ea52aa3a-2cd6-4109-ad91-706a2f4d4ad1",
+        "3cb3c8f0-3952-455a-adc7-657ff034dc3e",
+        "5f8ee680-ce19-4656-b6f8-e50a90c87300",
+        "60c344f2-c137-453c-a135-a3744731efe6",
+        "c94564de-d555-4f71-81fd-c20ab218f234",
+        "579c2904-28f2-4085-b736-bd71a541e79d"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

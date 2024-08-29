@@ -1,0 +1,87 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "7f997495-674c-42ed-99c7-0e14248bf628": {
+          "type": "article_content",
+          "settings": {
+          }
+        },
+        "cabf42f1-8521-4c13-995f-e1d6e04c5ae1": {
+          "type": "texts",
+          "disabled": true,
+          "settings": {
+            "fullinfotext": "<p><strong>Ornate designs made with precious gemstones encrusted in 24K gold—said to have been born in the royal region of Rajasthan and flourished during the era of the Mughals, Kundan jewelry is perhaps one of the most, if not the most-loved jewelry styles in India, especially that of brides.<\/strong><\/p><p>According to Bernadette Van Gelder's book Traditional Indian Jewelry—Beautiful People, the Kundan jewelry-making technique is perhaps the oldest technique for setting stones in jewelry using gold in the Indian tradition. According to the book, this technique was first mentioned in the Ain-i-Akbari, the third and final book of Akbarnama, the official account of Akbar's reign.<\/p>"
+          }
+        },
+        "72efa139-7756-4a2c-a717-a4b3e7d700f1": {
+          "type": "texts",
+          "disabled": true,
+          "settings": {
+            "fullinfotext": "<p>When traveling for a destination wedding, it's important to choose Indian wedding jewelry that is travel-friendly. Opting for compact and sturdy pieces will make transportation easier and reduce the risk of damage. Consider jewelry that can be easily stored and won't take up much space in your luggage. Pieces like stud earrings, pendant necklaces, or delicate bracelets can be versatile options that can complement various outfits without taking up too much room.<\/p><p>By taking into account the climate, location, and travel-friendly aspects of your destination wedding, you can select the perfect jewelry that will not only enhance your bridal look but also withstand the conditions and make your special day even more memorable. Confused about which jewelry pieces to choose for your destination wedding? Read along for tips to help you make the right decisions!<\/p><p><\/p>"
+          }
+        },
+        "d976ec7d-a0c6-408a-8335-96002406db3b": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian bridal jewelry has long been synonymous with the dazzle of polki, the traditional uncut diamond style. The shimmering brilliance of polki has adorned brides for generations, creating an aura of grandeur and opulence. However, the world of traditional Indian bridal jewelry goes beyond polki, offering a diverse array of choices. Nestled among carefully woven designs, these gemstones are the driving force of the kaleidoscopic hues of Indian bridal jewelry. Today, we will take a deep dive into the enchanting world of gemstones, offering not only aesthetic beauty but also cultural and symbolic significance.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "7f997495-674c-42ed-99c7-0e14248bf628",
+        "cabf42f1-8521-4c13-995f-e1d6e04c5ae1",
+        "72efa139-7756-4a2c-a717-a4b3e7d700f1",
+        "d976ec7d-a0c6-408a-8335-96002406db3b"
+      ],
+      "settings": {
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "01810fce-ede0-4b59-9dd7-f7fabf7d4627": {
+      "type": "article-featured-collect-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "16832099456cd17fbf": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "01810fce-ede0-4b59-9dd7-f7fabf7d4627",
+    "16832099456cd17fbf"
+  ]
+}

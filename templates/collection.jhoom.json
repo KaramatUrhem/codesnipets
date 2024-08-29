@@ -1,0 +1,106 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "4d18ea0a-1f50-4e24-bdc9-4de9f54bff86": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16718487322876__4d18ea0a-1f50-4e24-bdc9-4de9f54bff86-16836690409ee85dd0-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "template--16718487322876__4d18ea0a-1f50-4e24-bdc9-4de9f54bff86-16836690409ee85dd0-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Our favorite time of the year, an unmistakable buzz in the air, an echoing energy. Every corner transforms into a riot of colors and a symphony of texture, forms, and paraphernalia—and it is time to revel in our finest. Immerse in the magic of the moment with “Jhoom,” our all-new festive collection for the season.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718487322876__4d18ea0a-1f50-4e24-bdc9-4de9f54bff86-16836690409ee85dd0-0",
+        "template--16718487322876__4d18ea0a-1f50-4e24-bdc9-4de9f54bff86-16836690409ee85dd0-1"
+      ],
+      "settings": {
+        "classname": "",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "382f433d-0451-456b-8ea0-1f0d914122a1": {
+          "type": "image_grid_item",
+          "settings": {
+            "desk_position": "6",
+            "mob_position": "6",
+            "image": "shopify:\/\/shop_images\/homepage__mob_2.webp",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link": "#"
+          }
+        },
+        "bc684439-3546-4626-a905-1f3ecfeeca81": {
+          "type": "image_with_slider",
+          "settings": {
+            "desk_position": "9",
+            "mob_position": "8",
+            "change_alignment": false,
+            "title": "<p>Shop the<em> look<\/em><\/p>",
+            "image": "shopify:\/\/shop_images\/Ayat_variant_-2.webp",
+            "product_1": "ayat-pearl-and-polki-uncut-diamond-necklace",
+            "product_sample1_vertical_position": 62,
+            "product_sample1_horizontal_position": 56,
+            "product_2": "gul-polki-multi-gemstone-gold-jhumka-earrings",
+            "product_sample2_vertical_position": 42,
+            "product_sample2_horizontal_position": 68,
+            "product_3": "",
+            "product_sample3_vertical_position": 54,
+            "product_sample3_horizontal_position": 52,
+            "product_4": "",
+            "product_sample4_vertical_position": 48,
+            "product_sample4_horizontal_position": 90
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 3,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "382f433d-0451-456b-8ea0-1f0d914122a1",
+        "bc684439-3546-4626-a905-1f3ecfeeca81",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "4d18ea0a-1f50-4e24-bdc9-4de9f54bff86",
+    "main-collection"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Planning a wedding is an exhilarating journey filled with dreams, emotions, and countless decisions. From selecting the perfect venue to finding the ideal dress, each detail contributes to creating a day that reflects your unique style and vision. While you may have dreamed about your wedding dress since you were a little girl, finding the perfect dress and putting together the ideal bridal look can be a daunting task. Wouldn't it be relieving to have a helping hand in handling this tough task? That’s where a bridal stylist comes in. With their expertise and a keen eye for fashion, a bridal stylist can be an invaluable addition to your wedding team. Here is how having a bridal stylist can make all the difference on your special day.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Indian_bride.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/Indian_bride.png",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/Why_you_need_a_bridal_stylist.jpg",
+        "backmobileimage": "shopify:\/\/shop_images\/Why_you_need_a_bridal_stylist.jpg",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Turning Dreams Into Reality",
+            "infotext": "<p>Planning a wedding involves numerous decisions, from selecting the venue to finalizing the guest list. Amidst all the chaos, it's easy to lose sight of your vision for your bridal look. A bridal stylist acts as your personal guide, helping you articulate your style preferences and translating them into a cohesive, stunning ensemble. They listen to your ideas, consider your personality and body type, and work towards creating a look that perfectly aligns with your dream wedding.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/pexels-spora-weddings-15699219.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/pexels-spora-weddings-15699219.jpg",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Navigating the Fashion Maze",
+            "infotext": "<p>Bridal fashion is a world of its own, with countless designers, styles, fabrics, and trends to choose from. It can be overwhelming to navigate this vast landscape on your own. A bridal stylist is well-versed in the ever-changing bridal fashion industry. They have in-depth knowledge about the latest trends, emerging designers, and timeless classics. They stay updated with the newest collections and can narrow down the choices based on your preferences, saving you precious time and effort.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/pexels-lara-jameson-8886954.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/pexels-lara-jameson-8886954.jpg",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Access to Exclusive Resources",
+            "infotext": "<p>Working with a bridal stylist opens doors to exclusive resources and opportunities. They have connections with reputable bridal boutiques, designers, and industry professionals. This means you get access to a wider range of options, including dresses that may not be available to the general public. Bridal stylists also have the ability to secure appointments, prioritize your needs, and provide personalized attention. Their network and relationships can make your bridal shopping experience truly exceptional.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/pexels-skylar-kang-6044261.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/pexels-skylar-kang-6044261.jpg",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "fc82e9e9-f628-4732-b909-a7f78a0e2ffc": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Creating a Cohesive Look",
+            "infotext": "<p>From the wedding dress to the accessories, a bridal stylist will ensure that every element of your bridal ensemble harmonizes seamlessly. They will take into consideration your dress, hairstyle, makeup, jewelry, and even the overall wedding theme to create a cohesive and visually appealing look. By paying attention to even the most minor details, such as the color palette, fabric textures, and silhouette, a stylist will curate a comprehensive and polished bridal look that leaves a lasting impression.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Aurus_Blog_2_07950407-b3e8-4eec-a9e6-1d112593f2f5.png",
+            "mobileimage": "shopify:\/\/shop_images\/Aurus_Blog_2_07950407-b3e8-4eec-a9e6-1d112593f2f5.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "a43abec2-561e-4227-95c3-26453b84582d": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Finding the Perfect Fit",
+            "infotext": "<p>One of the most valuable skills a bridal stylist possesses is their ability to find the perfect fit for each bride. They understand that everybody is unique and work closely with you to accentuate your best features while ensuring comfort. They have an eye for detail, suggesting alterations, modifications, or customizations that will make your dress fit like a glove. A bridal stylist will help you avoid any fashion faux pas and ensure that your dress flatters you, giving you the confidence to shine on your big day.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/pexels-michael-burrows-7147610.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/pexels-michael-burrows-7147610.jpg",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "ef36bb3c-0dd4-4bb5-b1de-2f8dfa979216": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Your Wedding Day Ally",
+            "infotext": "<p>Weddings can be emotionally charged events, filled with nerves, excitement, and a touch of anxiety. A bridal stylist is not only a fashion stylist but also a trusted ally who understands the importance of emotional support during this special time. They can provide a calming presence, offering reassurance and encouragement. From calming pre-wedding jitters to ensuring every detail of your ensemble is flawless, a bridal stylist's guidance can boost your confidence and allow you to fully immerse yourself in the joy of your wedding day.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/pexels-liza-summer-6383164.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/pexels-liza-summer-6383164.jpg",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "2b2c958a-1eb7-4823-9ab7-758785d7873c": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Relieving the Burden",
+            "infotext": "<p>Wedding planning can be stressful, and the pressure to look impeccable can add to the anxiety. By hiring a bridal stylist, you offload a significant portion of the responsibility onto an experienced professional. They take care of the logistical aspects, such as coordinating fittings, managing timelines, and handling alterations, so you can focus on enjoying your engagement and other wedding preparations. With a bridal stylist by your side, you can trust that your bridal look is in capable hands, allowing you to relax and savor the joy of the journey.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/pexels-spora-weddings-15698373.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/pexels-spora-weddings-15698373.jpg",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2",
+        "fc82e9e9-f628-4732-b909-a7f78a0e2ffc",
+        "a43abec2-561e-4227-95c3-26453b84582d",
+        "ef36bb3c-0dd4-4bb5-b1de-2f8dfa979216",
+        "2b2c958a-1eb7-4823-9ab7-758785d7873c"
+      ],
+      "settings": {
+        "mainheadingtext": "Style Shapeshifter: The Transformative Influence of a Bridal Stylist"
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>With their discerning eye and impeccable taste, let a bridal stylist weave elegance into every detail. Embrace perfection and let your dreams take flight by enlisting a bridal stylist's mastery on your momentous day. Let your journey to breathtaking beauty begin, reach out to us for expert help on acing your accessorizing game!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "blocks": {
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#000000",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

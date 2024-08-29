@@ -1,0 +1,365 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Aurus Amdavad Trail—an experience curated to share the pulse of this 600-year-old lived city for 30 special guests from the creative community, from all over the country. Join us as we relive this unfiltered experience steeped in our culture while exploring the flavors of our streets and the warmth of our traditions.<\/p><p>Discover glimpses of Amdavad’s soul right, right from a specially curated heritage walk to a night of garba, a beautiful afternoon of discussing Indian Family Jewels with three custodians of legacy and also indulging in an immersive exhibit titled Nafees, that put a spotlight on the nuances in the art of jewelry making.<\/p><p>This trail in Amdavad, the city we call home, is an homage to our roots, and a celebration of the city’s legacy and ours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/Ahmedabad_View.png",
+        "backmobileimage": "shopify:\/\/shop_images\/Ahmedabad_View.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "The Kansa Thali Experience",
+            "infotext": "<p>Our journey began with a symphony of flavors at a traditional Gujarati Thali dinner, perhaps the most balanced meal among all Indian cuisines. Authenticity echoed through the air as the guests savored each morsel, discovering the art of relishing a thali, not just as a meal, but as a cultural experience. Amidst casual conversations, connections bloomed like flowers in spring.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Dinner_table.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Dinner_table.jpg",
+            "imagetext": "<p><em>Image Courtesy: Eeshan Kashyap<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "The Heritage Walk",
+            "infotext": "<p>As the dawn of the next day broke, we set forth on an early morning custom heritage city tour specially designed just for this group through the old city, a kaleidoscope of history unfolding. Our guests experienced the glory of the 600-year-old lived city in a walking tour. Marvels drawing influences from Hindu, Islamic, and Jain cultures; the intricate wooden architecture of its old residential neighborhoods, known as \"havelis\"; the gated residential main streets called \"pols\"—there were many awe-inspiring discoveries to be made. The journey culminated at the House of MG with a sumptuous breakfast, from where we set on for the next adventure at Deewanji Ni Haveli, a 300-year-old traditional haveli restored to regain its lost glory into a cultural center.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/5_50e6a3e2-3319-40f0-92c3-620faee2c360.png",
+            "mobileimage": "shopify:\/\/shop_images\/5_50e6a3e2-3319-40f0-92c3-620faee2c360.png",
+            "imagetext": ""
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Indian Family Jewels: A Panel Discussion",
+            "infotext": "<p>Within the haveli's timeless walls, the day unfolded, providing a series of never-like-before experiences, starting with an immersive and insightful talk where three celebrated custodians of legacy—Jayshree Lalbhai of the Lalbhai lineage, Umang Hutheesing, the current scion of the Hutheesing lineage, and Princess Mrinalini Kumari of Lunavada—shared personal stories about their family jewels.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/6_1f28f44c-e259-4b21-ad07-05c8108a4333.png",
+            "mobileimage": "shopify:\/\/shop_images\/6_1f28f44c-e259-4b21-ad07-05c8108a4333.png",
+            "imagetext": "<p><em>Starting from right: Jayshree Lalbhai, Umang Hutheesing, and Princess Mrinalini Kumari of Lunavada in conversation, narrating personal stories about their family jewels.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "163622d9-209e-44c3-bfe1-bf7145ab92e8": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16978255249660__163622d9-209e-44c3-bfe1-bf7145ab92e8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Nafees: Nuances in the Art of Jewelry Making<\/p>"
+          }
+        },
+        "template--16978255249660__163622d9-209e-44c3-bfe1-bf7145ab92e8-texts-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>In the next chapter of our odyssey, an exhibit unveiled the alchemy of fine jewelry making. Titled Nafees, it took the guests on a visually immersive journey that showcased some of the nuances of jewelry-making that we incorporate into our pieces, which elevate the piece to the extraordinary.<\/p><p>They experienced the magic of gemstones and pearls, the <em>sukshma <\/em>hero of jewelry; the beauty of the nuances of the <em>ghat <\/em>(the gold framework into which the stones are set); the <em>adaa <\/em>in different elements stringing such as <em>fungar<\/em>—tiny gold cups cradling pearls topped with enamel beads, <em>laria<\/em>—minute units where seed pearls dance on small gold wires, gracefully culminating in enamel beads at their feet, <em>pirai<\/em>—stringing together seed pearls and\/or stone beads to either border a unit or be suspended, giving movement to the piece; and the nuances that go when assembling a piece of jewelry (adding a <em>gaadi <\/em>behind a choker, for example).<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16978255249660__163622d9-209e-44c3-bfe1-bf7145ab92e8-heading-1",
+        "template--16978255249660__163622d9-209e-44c3-bfe1-bf7145ab92e8-texts-1"
+      ],
+      "settings": {
+      }
+    },
+    "98705503-a4cc-42ae-8594-b45067388ab5": {
+      "type": "article-image-text-column-new",
+      "blocks": {
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/1_de7d4c3f-a894-47b5-bde6-efcd095a8c51.png",
+            "mobileimage": "shopify:\/\/shop_images\/1_de7d4c3f-a894-47b5-bde6-efcd095a8c51.png",
+            "title": "",
+            "infotext": ""
+          }
+        },
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/4_db1952c6-a1fa-42b4-9427-624b03b421eb.png",
+            "mobileimage": "shopify:\/\/shop_images\/4_db1952c6-a1fa-42b4-9427-624b03b421eb.png",
+            "title": "",
+            "infotext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-0",
+        "template--16686221689084__98705503-a4cc-42ae-8594-b45067388ab5-1679556719b0c670b6-1"
+      ],
+      "settings": {
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "2eb08949-5730-4816-8d3e-2843ea5ea386": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Multi-sensory Jewelry Showcase<\/p>"
+          }
+        },
+        "faa8dcdb-cc84-43e0-8244-52d0e301d469": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>After bearing witness to the extraordinary nuances of jewelry making, our guests headed over to a curated multi-sensory showcase of our jewelry, where they could see those nuances in play in our signature fine jewelry, while also trying on some of their favorites from the collections. A sumptuous lunch followed, the conversations lingering like the aroma of spices in the air.<\/p><p>A sumptuous lunch followed, the conversations lingering like the aroma of spices in the air. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "2eb08949-5730-4816-8d3e-2843ea5ea386",
+        "faa8dcdb-cc84-43e0-8244-52d0e301d469"
+      ],
+      "settings": {
+      }
+    },
+    "7cf1cc04-f1a0-4226-9809-599169da8eb8": {
+      "type": "article-image-text-column-new",
+      "blocks": {
+        "template--16978255249660__7cf1cc04-f1a0-4226-9809-599169da8eb8-information-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/3_94a8c443-2e3f-4cd4-9a6e-febe7a1bd1be.png",
+            "mobileimage": "shopify:\/\/shop_images\/3_94a8c443-2e3f-4cd4-9a6e-febe7a1bd1be.png",
+            "title": "",
+            "infotext": ""
+          }
+        },
+        "template--16978255249660__7cf1cc04-f1a0-4226-9809-599169da8eb8-information-2": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/2_6bafab37-45eb-4c11-836f-7f97b2a5ef8b.png",
+            "mobileimage": "shopify:\/\/shop_images\/2_6bafab37-45eb-4c11-836f-7f97b2a5ef8b.png",
+            "title": "",
+            "infotext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16978255249660__7cf1cc04-f1a0-4226-9809-599169da8eb8-information-1",
+        "template--16978255249660__7cf1cc04-f1a0-4226-9809-599169da8eb8-information-2"
+      ],
+      "settings": {
+      }
+    },
+    "0affd270-1968-4a2b-af54-ffa8b663a57f": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16978255249660__0affd270-1968-4a2b-af54-ffa8b663a57f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Garba Night<\/p>"
+          }
+        },
+        "template--16978255249660__0affd270-1968-4a2b-af54-ffa8b663a57f-texts-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>As the day gently unfolded, relaxation beckoned, preparing everyone for the crescendo of the night—Garba under the stars. The dance started with everybody playing garba in unison on the timeless songs sung in a magical voice by the live orchestra; and who can forget Dakla, arguably the most iconic garba song of the day that makes everybody forget the soreness in the feet and forces even the reluctant ones to join the dance! Oh, what a night it was! Magical. Energetic. Unforgettable. A memory etched in the collective soul of our celebration.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16978255249660__0affd270-1968-4a2b-af54-ffa8b663a57f-heading-1",
+        "template--16978255249660__0affd270-1968-4a2b-af54-ffa8b663a57f-texts-1"
+      ],
+      "settings": {
+      }
+    },
+    "3acac21b-dea0-459f-aadd-88cce94b4a25": {
+      "type": "article-image-text-column-new",
+      "blocks": {
+        "template--16978255249660__3acac21b-dea0-459f-aadd-88cce94b4a25-information-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/7_1ebf3dea-1bb0-402f-ba64-f2906337e6b9.png",
+            "mobileimage": "shopify:\/\/shop_images\/7_1ebf3dea-1bb0-402f-ba64-f2906337e6b9.png",
+            "title": "",
+            "infotext": ""
+          }
+        },
+        "template--16978255249660__3acac21b-dea0-459f-aadd-88cce94b4a25-information-2": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/8_87840800-6f21-4917-af67-0a70238ab7b7.png",
+            "mobileimage": "shopify:\/\/shop_images\/8_87840800-6f21-4917-af67-0a70238ab7b7.png",
+            "title": "",
+            "infotext": ""
+          }
+        },
+        "template--16978255249660__3acac21b-dea0-459f-aadd-88cce94b4a25-information-3": {
+          "type": "information",
+          "disabled": true,
+          "settings": {
+            "title": "<p><em>Lorem Ipsum is simply dummy text.<\/em><\/p>",
+            "infotext": "<p><em>Lorem Ipsum is simply dummy text.<\/em><\/p>"
+          }
+        },
+        "template--16978255249660__3acac21b-dea0-459f-aadd-88cce94b4a25-information-4": {
+          "type": "information",
+          "disabled": true,
+          "settings": {
+            "title": "<p><em>Lorem Ipsum is simply dummy text.<\/em><\/p>",
+            "infotext": "<p><em>Lorem Ipsum is simply dummy text.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16978255249660__3acac21b-dea0-459f-aadd-88cce94b4a25-information-1",
+        "template--16978255249660__3acac21b-dea0-459f-aadd-88cce94b4a25-information-2",
+        "template--16978255249660__3acac21b-dea0-459f-aadd-88cce94b4a25-information-3",
+        "template--16978255249660__3acac21b-dea0-459f-aadd-88cce94b4a25-information-4"
+      ],
+      "settings": {
+      }
+    },
+    "45a26bcd-88d7-4e39-a2d7-942fe86a06f2": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "2291db07-c3c7-4e45-aff2-d6105a940f67": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Gufa and the Pichwai Gallery<\/p>"
+          }
+        },
+        "template--16978255249660__45a26bcd-88d7-4e39-a2d7-942fe86a06f2-texts-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>We had the fortune of visiting the Hussain-Doshi marvel, the Amdavad Ni Gufa, and having it to ourselves for almost an hour, and setting our eyes on the unreal Kamal Chowk, a reconstructed, and re-imagined pre-Mughal period mandapa originally crafted by the skilled stone artisans of Patan, now converted into a contemporary display space for Pichwais and miniatures from Amit Ambalal’s collection.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "2291db07-c3c7-4e45-aff2-d6105a940f67",
+        "template--16978255249660__45a26bcd-88d7-4e39-a2d7-942fe86a06f2-texts-1"
+      ],
+      "settings": {
+      }
+    },
+    "d2488e1c-7cb4-4460-b02d-5c95300358fb": {
+      "type": "article-image-text-column-new",
+      "blocks": {
+        "template--16978255249660__d2488e1c-7cb4-4460-b02d-5c95300358fb-information-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Aurus_Blog_2_c96d116b-85a0-4316-ac65-c4a3f356653d.png",
+            "mobileimage": "shopify:\/\/shop_images\/Aurus_Blog_2_c96d116b-85a0-4316-ac65-c4a3f356653d.png",
+            "title": "",
+            "infotext": "<p><em>Inside Amdavad Ni Gufa, serenely lit up with the morning sunlight<\/em><\/p>"
+          }
+        },
+        "template--16978255249660__d2488e1c-7cb4-4460-b02d-5c95300358fb-information-2": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Kamal_Chowk.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Kamal_Chowk.jpg",
+            "title": "",
+            "infotext": "<p><em>A glimpse of the unreal beauty of Kamal Chowk<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16978255249660__d2488e1c-7cb4-4460-b02d-5c95300358fb-information-1",
+        "template--16978255249660__d2488e1c-7cb4-4460-b02d-5c95300358fb-information-2"
+      ],
+      "settings": {
+      }
+    },
+    "de9fd382-48d8-4ba1-b39b-3e7fad1c8903": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16978255249660__de9fd382-48d8-4ba1-b39b-3e7fad1c8903-texts-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>In the quiet aftermath of our journey through Ahmedabad's cultural tapestry, a profound connection lingers. As the event concluded we stood on the precipice of a collective memory—a shared experience that transcends time, bound by the threads of Ahmedabad's soul.<\/p><p><em>Feature image: Ahmedabad's aerial view. Image courtesy: Robert Stephens through AD.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16978255249660__de9fd382-48d8-4ba1-b39b-3e7fad1c8903-texts-1"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "163622d9-209e-44c3-bfe1-bf7145ab92e8",
+    "98705503-a4cc-42ae-8594-b45067388ab5",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "7cf1cc04-f1a0-4226-9809-599169da8eb8",
+    "0affd270-1968-4a2b-af54-ffa8b663a57f",
+    "3acac21b-dea0-459f-aadd-88cce94b4a25",
+    "45a26bcd-88d7-4e39-a2d7-942fe86a06f2",
+    "d2488e1c-7cb4-4460-b02d-5c95300358fb",
+    "de9fd382-48d8-4ba1-b39b-3e7fad1c8903",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

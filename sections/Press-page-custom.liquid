@@ -1,0 +1,1124 @@
+<div class="page-press">
+<div class="page-width">
+
+
+{%- for block in section.blocks -%}
+  {%- case block.type -%}
+  {%- when 'image-logo-div-section' -%}
+    <div class="image-logo-div">
+       
+      <div class="big-image-text">
+       {% if block.settings.image-banner-size != blank %}
+          <div class="main-image">
+            <img class="image-banner-size" src="{{ block.settings.image-banner-size | img_url: 'master' }}">
+          </div>
+        {% endif %}
+      
+        <div class="description-logo">
+          <div class="description-image">
+           {%- if block.settings.image-title != blank -%}
+              <h2 class="image-title">{{ block.settings.image-title }}</h2>
+            {%- endif -%}
+      
+            {%- if block.settings.image-description != blank -%}
+              <p class="image-description">{{ block.settings.image-description | strip_html }}</p>
+            {%- endif -%}
+          </div>
+      
+          {%- if block.settings.des-logo-size != blank -%}
+              <div class="image-des-logo">
+                 <img class="des-logo-size" src="{{block.settings.des-logo-size | img_url: 'master'}}">
+              </div>
+          {%- endif -%}
+      
+        </div>
+      </div>
+      <div class="logo-tetx">
+        <div class="frist-logo-box border-bottom-box">
+             {%- if block.settings.frist-box-logo != blank -%}
+                <img class="box-logo-size" src="{{block.settings.frist-box-logo | img_url: 'master'}}">
+             {%- endif -%}
+      
+             {%- if block.settings.frist-logo-description != blank -%}
+                <p class="logo-description">{{ block.settings.frist-logo-description | strip_html }}</p>
+             {%- endif -%}
+      
+             {%- if block.settings.frist-Read-more-btn != blank -%}
+                  <a href="{{  block.settings.frist-Read-more-url }}" class="readmore-btn">{{ block.settings.frist-Read-more-btn }}</a>
+             {%- endif -%}
+        </div>
+        <div class="second-logo-box border-bottom-box">
+           {%- if block.settings.second-box-logo != blank -%}
+              <img class="box-logo-size" src="{{block.settings.second-box-logo | img_url: 'master'}}">
+           {%- endif -%}
+      
+            {%- if block.settings.second-logo-description != blank -%}
+              <p class="logo-description">{{ block.settings.second-logo-description | strip_html }}</p>
+            {%- endif -%}
+      
+            {%- if block.settings.second-Read-more-btn != blank -%}
+              <a href="{{  block.settings.second-Read-more-url }}" class="readmore-btn">{{ block.settings.second-Read-more-btn }}</a>
+            {%- endif -%}
+        </div>
+        <div class="third-logo-box border-bottom-box">
+          {%- if block.settings.third-box-logo != blank -%}
+             <img class="box-logo-size" src="{{block.settings.third-box-logo | img_url: 'master'}}">
+          {%- endif -%}
+      
+          {%- if block.settings.third-logo-description != blank -%}
+              <p class="logo-description">{{ block.settings.third-logo-description | strip_html }}</p>
+          {%- endif -%}
+      
+          {%- if block.settings.third-Read-more-btn != blank -%}
+              <a href="{{  block.settings.third-Read-more-url }}" class="readmore-btn">{{ block.settings.third-Read-more-btn }}</a>
+          {%- endif -%}
+      
+        </div>
+      </div>
+    </div>
+
+
+
+  
+  {%- when 'grid-main-div-section' -%}
+    <div class="grid-main-div">
+      <div class="grid-image-logo-text">
+        <div class="frist-grid-content">
+           {%- if block.settings.frist-image-size-grid != blank -%}
+              <img class="image-size-grid" src="{{block.settings.frist-image-size-grid | img_url: 'master'}}">
+           {%- endif -%}
+        
+           {%- if block.settings.frist-logo-size-grid != blank -%}
+              <img class="logo-size-grid" src="{{block.settings.frist-logo-size-grid | img_url: 'master'}}">
+           {%- endif -%}
+    
+           {%- if block.settings.frist-main-title != blank -%}
+              <h2 class="grid-title">{{ block.settings.frist-main-title }}</h2>
+           {%- endif -%}
+    
+           {%- if block.settings.frist-main-description != blank -%}
+              <p class="grid-description">{{ block.settings.frist-main-description | strip_html }}</p>
+           {%- endif -%}
+    
+           {%- if block.settings.frist-grid-read-btn != blank -%}
+              <a href="{{ block.settings.frist-grid-read-btn-url }}" class="readmore-btn">{{ block.settings.frist-grid-read-btn }}</a>
+           {%- endif -%}
+        </div>
+    
+        {%- if block.settings.second-image-size-grid != blank or block.settings.second-logo-size-grid != blank or block.settings.second-main-title != blank or block.settings.second-main-description != blank or block.settings.second-grid-read-btn != blank -%}
+          <div class="grid-border"></div>
+        {%- endif -%}
+        
+          <div class="frist-grid-content {% if block.settings.second-logo-size-grid == blank %} center-big-image {% endif %}">
+            {%- if block.settings.second-image-size-grid != blank -%}
+                <img class="image-size-grid" src="{{block.settings.second-image-size-grid | img_url: 'master'}}">
+             {%- endif -%}
+          
+             {%- if block.settings.second-logo-size-grid != blank -%}
+                <img class="logo-size-grid" src="{{block.settings.second-logo-size-grid | img_url: 'master'}}">
+             {%- endif -%}
+      
+             {%- if block.settings.second-main-title != blank -%}
+                <h2 class="grid-title">{{ block.settings.second-main-title }}</h2>
+             {%- endif -%}
+      
+             {%- if block.settings.second-main-description != blank -%}
+                <p class="grid-description">{{ block.settings.second-main-description | strip_html }}</p>
+             {%- endif -%}
+      
+             {%- if block.settings.second-grid-read-btn != blank -%}
+                <a href="{{ block.settings.second-grid-read-btn-url }}" class="readmore-btn">{{ block.settings.second-grid-read-btn }}</a>
+             {%- endif -%}
+          </div>
+        
+    
+        {%- if block.settings.third-image-size-grid != blank or block.settings.third-logo-size-grid != blank or block.settings.third-main-title != blank or block.settings.third-main-description != blank or block.settings.third-grid-read-btn != blank -%}
+          <div class="grid-border"></div>
+        {%- endif -%}
+        
+          <div class="frist-grid-content">
+             {%- if block.settings.third-image-size-grid != blank -%}
+                <img class="image-size-grid" src="{{block.settings.third-image-size-grid | img_url: 'master'}}">
+             {%- endif -%}
+          
+             {%- if block.settings.third-logo-size-grid != blank -%}
+                <img class="logo-size-grid" src="{{block.settings.third-logo-size-grid | img_url: 'master'}}">
+             {%- endif -%}
+      
+             {%- if block.settings.third-main-title != blank -%}
+                <h2 class="grid-title">{{ block.settings.third-main-title }}</h2>
+             {%- endif -%}
+      
+             {%- if block.settings.third-main-description != blank -%}
+                <p class="grid-description">{{ block.settings.third-main-description | strip_html }}</p>
+             {%- endif -%}
+      
+             {%- if block.settings.third-grid-read-btn != blank -%}
+                <a href="{{ block.settings.third-grid-read-btn-url }}" class="readmore-btn">{{ block.settings.third-grid-read-btn }}</a>
+             {%- endif -%}
+          </div>
+        
+      </div>
+    
+      {% if 
+        block.settings.frist-grid-logo-description != blank or block.settings.frist-grid-logo-description != blank or block.settings.frist-grid-readmore-text != blank or
+        block.settings.second-logo-grid != blank or block.settings.second-grid-logo-description != blank or block.settings.second-grid-readmore-text != blank or
+        block.settings.thrid-logo-grid != blank or block.settings.thrid-grid-logo-description != blank or block.settings.thrid-grid-readmore-text != blank
+      %}
+        <div class="logo-description-btn">
+          {% if block.settings.frist-grid-logo-description != blank or block.settings.frist-grid-logo-description != blank or block.settings.frist-grid-readmore-text != blank %}
+            <div class="frist-logo-grid-content">
+              {%- if block.settings.frist-logo-grid != blank -%}
+                <img class="grid-logo-size" src="{{block.settings.frist-logo-grid | img_url: 'master'}}">
+              {%- endif -%}
+        
+              {%- if block.settings.frist-grid-logo-description != blank -%}
+                <p class="grid-logo-description">{{ block.settings.frist-grid-logo-description | strip_html }}</p>
+              {%- endif -%}
+        
+              {%- if block.settings.frist-grid-readmore-text != blank -%}
+                <a href="{{ block.settings.frist-grid-readmore-url }}" class="readmore-btn">{{ block.settings.frist-grid-readmore-text }}</a>
+              {%- endif -%}
+            </div>
+          {% endif %}
+    
+          {% if block.settings.second-logo-grid != blank or block.settings.second-grid-logo-description != blank or block.settings.second-grid-readmore-text != blank %}
+            <div class="grid-logo-border"></div>
+          {% endif %}
+        
+            <div class="frist-logo-grid-content">
+             {%- if block.settings.second-logo-grid != blank -%}
+                <img class="grid-logo-size" src="{{block.settings.second-logo-grid | img_url: 'master'}}">
+              {%- endif -%}
+        
+              {%- if block.settings.second-grid-logo-description != blank -%}
+                <p class="grid-logo-description">{{ block.settings.second-grid-logo-description | strip_html }}</p>
+              {%- endif -%}
+        
+              {%- if block.settings.second-grid-readmore-text != blank -%}
+                <a href="{{ block.settings.second-grid-readmore-url }}" class="readmore-btn">{{ block.settings.second-grid-readmore-text }}</a>
+              {%- endif -%}
+            </div>
+          
+    
+          {% if block.settings.thrid-logo-grid != blank or block.settings.thrid-grid-logo-description != blank or block.settings.thrid-grid-readmore-text != blank %}
+            <div class="grid-logo-border second-border"></div>
+          {% endif %}
+        
+            <div class="frist-logo-grid-content">
+            {%- if block.settings.thrid-logo-grid != blank -%}
+                <img class="grid-logo-size" src="{{block.settings.thrid-logo-grid | img_url: 'master'}}">
+              {%- endif -%}
+        
+              {%- if block.settings.thrid-grid-logo-description != blank -%}
+                <p class="grid-logo-description">{{ block.settings.thrid-grid-logo-description | strip_html }}</p>
+              {%- endif -%}
+        
+              {%- if block.settings.thrid-grid-readmore-text != blank -%}
+                <a href="{{ block.settings.thrid-grid-readmore-url }}" class="readmore-btn">{{ block.settings.thrid-grid-readmore-text }}</a>
+              {%- endif -%}
+            </div>
+          
+        </div>
+      {% endif %}
+    </div>
+
+    {%- when 'logo-after-image-section' -%}
+      <div class="logo-after-image-section">
+         <div class="image-logo-div2">
+        <div class="big-image-text big-image-text2"">
+         {%- if block.settings.Main-image-logo-section != blank -%}
+            <div class="main-image">
+              <img class="image-banner-size" src="{{block.settings.Main-image-logo-section | img_url: 'master'}}">
+            </div>
+          {%- endif -%}
+    
+    
+          
+          <div class="description-logo">
+            <div class="description-image">
+           {%- if block.settings.main-image-titlee != blank -%}
+              <h2 class="image-title">{{ block.settings.main-image-titlee }}</h2>
+            {%- endif -%}
+            {%- if block.settings.main-image-descriptionss != blank -%}
+              <p class="image-description">{{ block.settings.main-image-descriptionss | strip_html }}</p>
+            {%- endif -%}
+            </div>
+             {%- if block.settings.des-logo != blank -%}
+              <div class="image-des-logo">
+                 <img class="des-logo-size" src="{{block.settings.des-logo | img_url: 'master'}}">
+              </div>
+            {%- endif -%}
+          </div>
+        </div>
+          
+        <div class="logo-tetx2">
+          <div class="frist-logo-box">
+             {%- if block.settings.left-image-small != blank -%}
+                <img class="image-size-grid" src="{{block.settings.left-image-small | img_url: 'master'}}">
+             {%- endif -%}
+        
+              {%- if block.settings.left-logo != blank -%}
+                  <img class="box-logo-size2" src="{{block.settings.left-logo | img_url: 'master'}}">
+              {%- endif -%}
+    
+            {%- if block.settings.left-logo-titlee != blank -%}
+              <h2 class="image-title box-logo-font">{{ block.settings.left-logo-titlee }}</h2>
+            {%- endif -%}
+        
+             {%- if block.settings.logo-image-descriptionss != blank -%}
+                <p class="logo-description">{{ block.settings.logo-image-descriptionss | strip_html }}</p>
+             {%- endif -%}
+        
+             {%- if block.settings.logo-image-readmore-text != blank -%}
+                <a href="{{ block.settings.logo-image-readmore-url }}" class="readmore-btn">{{ block.settings.logo-image-readmore-text }}</a>
+            {%- endif -%}
+          </div>
+          <div class="second-logo-box2">
+              {%- if block.settings.second-left-logo != blank -%}
+                  <img class="box-logo-size2" src="{{block.settings.second-left-logo | img_url: 'master'}}">
+              {%- endif -%}
+        
+             {%- if block.settings.second-logo-image-descriptionss != blank -%}
+                <p class="logo-description">{{ block.settings.second-logo-image-descriptionss | strip_html }}</p>
+             {%- endif -%}
+        
+            {%- if block.settings.second-logo-image-readmore-text != blank -%}
+              <a href="{{ block.settings.second-logo-image-readmore-url }}" class="readmore-btn">{{ block.settings.second-logo-image-readmore-text }}</a>
+           {%- endif -%}
+          </div>
+        </div>
+      </div>
+      </div>
+    {%- endcase -%}
+    {%- endfor -%}
+</div>
+</div>
+{% schema %}
+{
+"name": "Press Page Section",
+"settings": [
+],
+  "blocks": [
+      {
+                "type": "image-logo-div-section",
+                "name": "Right Image With Logo",
+                "settings": [
+                  {
+                      "type": "image_picker",
+                      "id": "image-banner-size",
+                      "label": "Main Image Banner"
+                    },
+                  {
+                    "type": "text",
+                    "id": "image-title",
+                    "label": "Image Title"
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "image-description",
+                    "label": "Image Description"
+                  },
+                  {
+                      "type": "image_picker",
+                      "id": "des-logo-size",
+                      "label": "Description Logo"
+                  },
+                  {
+                      "type": "image_picker",
+                      "id": "frist-box-logo",
+                      "label": "Right Frist Logo"
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "frist-logo-description",
+                    "label": "Right Frist logo Description"
+                  },
+                  {
+                    "type": "text",
+                    "id": "frist-Read-more-btn",
+                    "label": "Right Frist Read More Text"
+                  },
+                  {
+                    "type": "url",
+                    "id": "frist-Read-more-url",
+                    "label": "Right Frist Read More URL"
+                  },
+                  {
+                      "type": "image_picker",
+                      "id": "second-box-logo",
+                      "label": "Right Second Logo"
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "second-logo-description",
+                    "label": "Right Second logo Description"
+                  },
+                  {
+                    "type": "text",
+                    "id": "second-Read-more-btn",
+                    "label": "Right Second Read More Text"
+                  },
+                  {
+                    "type": "url",
+                    "id": "second-Read-more-url",
+                    "label": "Right Second Read More URL"
+                  },
+                  {
+                      "type": "image_picker",
+                      "id": "third-box-logo",
+                      "label": "Right Third Logo"
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "third-logo-description",
+                    "label": "Right Third logo Description"
+                  },
+                  {
+                    "type": "text",
+                    "id": "third-Read-more-btn",
+                    "label": "Right Third Read More Text"
+                  },
+                  {
+                    "type": "url",
+                    "id": "third-Read-more-url",
+                    "label": "Right Third Read More URL"
+                  }
+                ]
+              },
+              {
+                "type": "grid-main-div-section",
+                "name": "Logo And Description",
+                "settings": [
+                   {
+                      "type": "image_picker",
+                      "id": "frist-image-size-grid",
+                      "label": "Frist Main Image"
+                  },
+                   {
+                      "type": "image_picker",
+                      "id": "frist-logo-size-grid",
+                      "label": "Frist Logo"
+                  },
+                   {
+                    "type": "text",
+                    "id": "frist-main-title",
+                    "label": "Frist Main Title"
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "frist-main-description",
+                    "label": "Frist Description"
+                  },
+                  {
+                    "type": "text",
+                    "id": "frist-grid-read-btn",
+                    "label": "Frist Read More Text"
+                  },
+                   {
+                    "type": "url",
+                    "id": "frist-grid-read-btn-url",
+                    "label": "Frist Read URL"
+                  },
+                  {
+                      "type": "image_picker",
+                      "id": "second-image-size-grid",
+                      "label": "Second Main Image"
+                  },
+                   {
+                      "type": "image_picker",
+                      "id": "second-logo-size-grid",
+                      "label": "Second Logo"
+                  },
+                   {
+                    "type": "text",
+                    "id": "second-main-title",
+                    "label": "Second Main Title"
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "second-main-description",
+                    "label": "Second Description"
+                  },
+                  {
+                    "type": "text",
+                    "id": "second-grid-read-btn",
+                    "label": "Second Read More Text"
+                  },
+                   {
+                    "type": "url",
+                    "id": "second-grid-read-btn-url",
+                    "label": "Second Read URL"
+                  },
+                  {
+                      "type": "image_picker",
+                      "id": "third-image-size-grid",
+                      "label": "Third Main Image"
+                  },
+                   {
+                      "type": "image_picker",
+                      "id": "third-logo-size-grid",
+                      "label": "Third Logo"
+                  },
+                   {
+                    "type": "text",
+                    "id": "third-main-title",
+                    "label": "Third Main Title"
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "third-main-description",
+                    "label": "Third Description"
+                  },
+                  {
+                    "type": "text",
+                    "id": "third-grid-read-btn",
+                    "label": "Third Read More Text"
+                  },
+                   {
+                    "type": "url",
+                    "id": "third-grid-read-btn-url",
+                    "label": "Third Read URL"
+                  },
+                   {
+                      "type": "image_picker",
+                      "id": "frist-logo-grid",
+                      "label": "Frist Logo Grid "
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "frist-grid-logo-description",
+                    "label": "Frist Grid Logo Description"
+                  },
+                  {
+                    "type": "text",
+                    "id": "frist-grid-readmore-text",
+                    "label": "Frist Grid Readmore Text"
+                  },
+                   {
+                    "type": "url",
+                    "id": "frist-grid-readmore-url",
+                    "label": "Frist Grid Readmore URL"
+                  },
+                    {
+                      "type": "image_picker",
+                      "id": "second-logo-grid",
+                      "label": "Second Logo Grid "
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "second-grid-logo-description",
+                    "label": "Second Grid Logo Description"
+                  },
+                  {
+                    "type": "text",
+                    "id": "second-grid-readmore-text",
+                    "label": "Second Grid Readmore Text"
+                  },
+                   {
+                    "type": "url",
+                    "id": "second-grid-readmore-url",
+                    "label": "Second Grid Readmore URL"
+                  },
+                    {
+                      "type": "image_picker",
+                      "id": "thrid-logo-grid",
+                      "label": "Thrid Logo Grid "
+                  },
+                  {
+                    "type": "richtext",
+                    "id": "thrid-grid-logo-description",
+                    "label": "Thrid Grid Logo Description"
+                  },
+                  {
+                    "type": "text",
+                    "id": "thrid-grid-readmore-text",
+                    "label": "Thrid Grid Readmore Text"
+                  },
+                   {
+                    "type": "url",
+                    "id": "thrid-grid-readmore-url",
+                    "label": "Thrid Grid Readmore URL"
+                  }
+                ]
+              },
+              {
+                "type": "logo-after-image-section",
+                "name": "Left Image With Logo",
+                "settings": [
+                   {
+                      "type": "image_picker",
+                      "id": "Main-image-logo-section",
+                      "label": "Main image"
+                  },
+                   {
+                      "type": "text",
+                      "id": "main-image-titlee",
+                      "label": "Main image Title"
+                  },
+                  {
+                      "type": "richtext",
+                      "id": "main-image-descriptionss",
+                      "label": "Main image Description"
+                  },
+                   {
+                      "type": "image_picker",
+                      "id": "des-logo",
+                      "label": "Description Main Logo"
+                  },
+                   {
+                      "type": "image_picker",
+                      "id": "left-image-small",
+                      "label": "Left Image Small"
+                  },
+                   {
+                      "type": "image_picker",
+                      "id": "left-logo",
+                      "label": "Left Logo"
+                  },
+                  {
+                      "type": "text",
+                      "id": "left-logo-titlee",
+                      "label": "Logo Title"
+                  },
+                   {
+                      "type": "richtext",
+                      "id": "logo-image-descriptionss",
+                      "label": "Logo Image Descriptions"
+                  },
+                   {
+                      "type": "text",
+                      "id": "logo-image-readmore-text",
+                      "label": "Logo Image Readmore Text"
+                  },
+                   {
+                      "type": "url",
+                      "id": "logo-image-readmore-url",
+                      "label": "Logo Image Readmore URL"
+                  },
+
+
+
+                  {
+                      "type": "image_picker",
+                      "id": "second-left-logo",
+                      "label": "Second Left Logo"
+                  },
+                   {
+                      "type": "richtext",
+                      "id": "second-logo-image-descriptionss",
+                      "label": "Second Logo Image Descriptions"
+                  },
+                   {
+                      "type": "text",
+                      "id": "second-logo-image-readmore-text",
+                      "label": "Second Logo Image Readmore Text"
+                  },
+                   {
+                      "type": "url",
+                      "id": "second-logo-image-readmore-url",
+                      "label": "Second Logo Image Readmore URL"
+                  }
+                 
+                ]
+              }
+],
+"presets": [
+{
+"name": "Press Page Section"
+}
+]
+}
+{% endschema %}
+
+
+<style>
+
+
+
+.grid-logo-border{
+    border-LEFT: 1px solid rgba(28, 28, 36, 0.3);
+    height: 197px;
+  margin: 0px 97px 0px 69px;
+}
+.grid-border {
+    border-LEFT: 1px solid rgba(28, 28, 36, 0.3);
+    height: 491px;
+    margin: 0px 46px;
+}
+  .second-border{
+     margin: 0px 69px 0px 97px;
+}
+.image-logo-div2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row-reverse;
+    margin: 50px auto 80px;
+}
+img.image-size-grid {
+    max-width: 341px;
+    width: 100%;
+    margin: auto;
+}
+img.box-logo-size2 {
+/*     max-width: 233px;
+    width: 100%; */
+  margin: 15px auto 0px;
+    width: auto !important;
+    max-height: none !important;
+    max-width: none !important;
+    height: 44px;
+    text-align: center;
+}
+.logo-tetx2 {
+    width: 100%;
+    max-width: 326px;
+    margin: 0;
+    text-align: center;
+}
+.second-logo-box2 {
+    padding-top: 14px;
+    border-top: 1px solid rgba(28, 28, 36, 0.3);
+    margin-top: 28px;
+}
+.image-logo-div2{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+img.grid-logo-size {
+/*     max-width: 184px;
+    width: 100%;
+    margin: auto; */
+      width: auto !important;
+    max-height: none !important;
+    max-width: none !important;
+    margin: 0 auto;
+    height: 34px;
+    text-align: center;
+}
+p.grid-logo-description {
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #1C1C24;
+    margin: 13px 0px;
+}
+.logo-description-btn {
+    display: flex;
+    align-items: center;
+        border-bottom: 1px solid rgba(28, 28, 36, 0.3);
+
+}
+.frist-logo-grid-content {
+    max-width: 294px;
+    width: 100%;
+    margin: 50px auto 116px;
+    text-align: center;
+}
+p.grid-description {
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #1C1C24;
+    max-width: 326px;
+ margin: 0 auto 13px;
+}
+h2.grid-title {
+    font-family: 'Cormorant Garamond';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #1C1C24;
+    max-width: 255px;
+    margin: 0 auto 6px;
+}
+img.logo-size-grid {
+    max-width: 91px;
+    width: 100%;
+    margin: 26px auto 24px;
+}
+.grid-image-logo-text {
+    display: flex;
+    align-items: center;
+        padding: 50px 0px;
+    border-bottom: 1px solid rgba(28, 28, 36, 0.3);
+}
+.frist-grid-content {
+    max-width: 341px;
+    width: 100%;
+    margin: auto;
+        text-align: center;
+}
+  .image-logo-div {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    border-bottom: 1px solid rgba(28, 28, 36, 0.3);
+}
+
+  .logo-tetx {
+    width: 100%;
+    max-width: 326px;
+    margin: 0;
+}
+  img.image-banner-size {
+    max-width: 856px;
+    width: 100%;
+ 
+}
+  img.box-logo-size {
+/*     max-width: 233px;
+    width: 100%; */
+        width: auto !important;
+    max-height: none !important;
+    max-width: none !important;
+    height: 36px;
+    text-align: center;
+}
+  .description-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 18px;
+        margin-bottom: 50px;
+}
+.image-des-logo {
+    max-width: 139px;
+    margin: 0;
+    width: 100%;
+}
+  .description-image {
+    max-width: 502px;
+    margin: auto auto auto 0;
+}
+.second-logo-box {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid rgba(28, 28, 36, 0.3);
+    margin-bottom: 25px;
+    border-top: 1px solid rgba(28, 28, 36, 0.3);
+    margin-top: 28px;
+}
+p.logo-description {
+    max-width: 315px;
+    margin-bottom: 13px;
+}
+h2.image-title {
+    font-family: 'Cormorant Garamond';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    color: #1C1C24;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p.image-description {
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 120%;
+    color: #1C1C24;
+    margin-top: 4px;
+}
+p.logo-description {
+    max-width: 315px;
+    margin-bottom: 12px;
+    margin-top: 13px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #1C1C24;
+}
+a.readmore-btn {
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #1C1C24;
+}
+
+   @media only screen and (min-width: 991px){
+       .big-image-text2 {
+    width: 100%!IMPORTANT;
+    max-width: 856px!IMPORTANT;
+    margin: auto 0px auto auto!IMPORTANT;
+    position: relative!IMPORTANT;
+}
+       .big-image-text {
+    width: 100%;
+    max-width: 856px;
+       margin: auto auto auto 0px;
+        position: relative;
+}
+     .big-image-text2:before {
+    display: block!IMPORTANT;
+    border-left: 1px solid rgba(28, 28, 36, 0.3)!IMPORTANT;
+    content: ''!IMPORTANT;
+    position: absolute!IMPORTANT;
+    LEFT:-46px!IMPORTANT;
+    height: 647PX!IMPORTANT;
+}
+     .big-image-text:before {
+    display: block;
+    border-left: 1px solid rgba(28, 28, 36, 0.3);
+    content: '';
+    position: absolute;
+    right:-46px;
+    height: 535px;
+}
+   }
+  @media only screen and (max-width: 990px){
+    .grid-logo-border {
+    margin-bottom: 15px!important;
+      margin-top: 8px!important;
+}
+    .center-big-image .grid-description {
+    margin-bottom: 0px;
+}
+    .image-logo-div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+          padding-bottom: 30px;
+      align-items: center;
+}
+    .border-bottom-box {
+    text-align: center;
+}
+    img.box-logo-size {
+    margin: auto;
+}
+    .grid-image-logo-text {
+    flex-direction: column;
+}
+    .grid-border {
+    border-top: 1px solid rgba(28, 28, 36, 0.3);
+     height: 0px; 
+}
+    .logo-description-btn {
+    flex-direction: column;
+      margin-top: -15px;
+}
+    .grid-logo-border {
+      border-left: none;
+       border-bottom: 1px solid rgba(28, 28, 36, 0.3);
+    width: 100%;
+          height: 0px;
+          max-width: 306px;
+      margin-bottom: 9px;
+    margin-top: 2px;
+}
+    .frist-logo-grid-content {
+    margin: 15px auto;
+}
+    .image-logo-div2 {
+       flex-direction: column-reverse;
+          margin: 30px auto 55px;
+      align-items: center;
+}
+.page-press .page-width {
+    padding: 0 24px!important;
+}
+    h2.image-title {
+    font-size: 18px;
+    line-height: 22px;
+}
+    p.image-description {
+    font-size: 13px;
+    line-height: 16px;
+    margin-top: 6px;
+}
+    .image-des-logo {
+    max-width: 88px;
+}
+    .description-image {
+    max-width: 240px;
+}
+    .description-logo {
+    margin-top: 10px;
+    padding-bottom: 24px;
+    border-bottom: 0.8px solid rgba(28, 28, 36, 0.3);
+    margin-bottom: 24px;
+}
+    .logo-tetx {
+    max-width: 306px;
+    margin: auto;
+}
+    p.logo-description {
+    font-size: 13px;
+    line-height: 15px;
+    max-width: 278px;
+    margin: 6px auto 13px;
+}
+    a.readmore-btn {
+    font-size: 13px;
+    line-height: 16px;
+}
+    .second-logo-box {
+    padding-top: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgba(28, 28, 36, 0.3);
+    margin-bottom: 24px;
+    border-top: 1px solid rgba(28, 28, 36, 0.3);
+    margin-top: 17px;
+}
+    .grid-image-logo-text {
+    padding: 30px 0px 0px;
+      border-bottom: none;
+}
+    img.image-size-grid {
+    max-width: 366px;
+}
+    .frist-grid-content {
+    max-width: 366px;
+      border-bottom: 0.8px solid rgba(28, 28, 36, 0.3);
+    padding-bottom: 22px;
+    margin-bottom: 30px!important;
+}
+    img.logo-size-grid {
+    max-width: 90px;
+    margin: 15px auto 13px;
+}
+    h2.grid-title {
+    margin: 0 auto 10px;
+}
+    p.grid-description {
+    font-size: 13px;
+    line-height: 15px;
+}
+    p.grid-logo-description {
+    font-size: 13px;
+    line-height: 15px;
+    margin: 13px auto;
+    max-width: 278px;
+}
+    .logo-tetx2 {
+    width: 100%;
+    max-width: 366px;
+    margin: auto;
+    text-align: center;
+}
+    .second-logo-box2 {
+    padding-top: 8px;
+    margin-top: 24px;
+          width: 306px;
+    margin: 17px auto 0px;
+}
+  .big-image-text2 {
+    border-top: 0.8px solid rgba(28, 28, 36, 0.3);
+    margin-top: 17px;
+    padding-top: 24px;
+}
+    .big-image-text2 .description-logo {
+    border-bottom: none;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+  }
+  .page-press .page-width {
+    padding: 0px;
+    max-width: 1288px;
+    margin: 0 auto;
+}
+.center-big-image {
+    max-width: 423px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+  .center-big-image .image-size-grid {
+    max-width: 423px;
+    width: 100%;
+    margin: auto;
+}
+ .center-big-image  h2.grid-title {
+    margin: 8px auto 10px;
+}
+.box-logo-font{
+    font-family: 'Cormorant Garamond'!important;
+font-style: italic!important;
+font-weight: 600!important;
+font-size: 16px!important;
+line-height: 19px!important;
+text-align: center!important;
+color: #1C1C24!important;
+    max-width: 255px!important;
+    margin: 6px auto!important;
+  }
+   
+  @media(max-width:1130px) and (min-width:1000px){
+.grid-logo-border {
+    margin: 0px 40px 0px 40px!important;
+}
+    .page-press .page-width {
+    padding: 0 20px;
+}
+    .big-image-text2 {
+    max-width: 644px!IMPORTANT;
+}
+    .logo-tetx2 {
+    width: 100%;
+    max-width: 258px;
+    margin: 0 20px;
+}
+    .logo-tetx {
+    width: 100%;
+    max-width: 258px;
+    margin: 0 20px;
+}
+    .big-image-text {
+    max-width: 644px;
+}
+    p.logo-description {
+    max-width: 315px;
+    margin-bottom: 5px;
+    margin-top: 13px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    color: #1C1C24;
+}
+    .big-image-text:before {
+    right: -46px;
+    height: 440px;
+}
+    .big-image-text2:before {
+    right: -46px;
+    height: 570px!important;
+}
+    a.readmore-btn{font-size: 12px;
+    line-height: 15px;
+}
+   .second-logo-box {
+    padding-top: 23px;
+    padding-bottom: 17px;
+    margin-bottom: 25px;
+    margin-top: 19px;
+}
+    img.box-logo-size {
+    height: 26px;
+}
+  }
+</style>

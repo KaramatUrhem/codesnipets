@@ -1,0 +1,17 @@
+{% layout none %}
+
+{%- paginate collection.products by 23 -%}
+    <div data-scroll-to>
+    {% render 'collection-grid',
+        collection: collection,
+        items: collection.products,
+        per_row: 3,
+    %}
+
+        <div class="load-more-btn" id="collection-ajaxinate-pagination">
+            {% if paginate.pages > paginate.current_page %}
+                <a href="{{ paginate.next.url }}" class="custom-button btn" id="loadMoreBtn">load more</a>
+            {% endif %}  
+        </div>
+    </div>
+{%- endpaginate -%}

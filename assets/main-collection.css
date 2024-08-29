@@ -1,0 +1,198 @@
+.main-collection {
+    padding-top: 24px;
+}
+.template-collection .page-content--top{ padding-top:20px; }
+.main-collection .collection-main-grid{ margin:0; }
+.main-collection .grid__item--sidebar {
+    position: unset;
+    top: 10px;
+    max-height: unset;
+    overflow-y: unset;
+    width: 100%;
+    padding-left: 0;
+}
+.main-collection .grid__item--content {
+    padding-left: 0;
+    width: 100%;
+}
+.main-collection .collection-grid__wrapper .grid__item {
+    margin-bottom: 24px;
+    padding-left: 23px;
+}
+.main-collection .collection-filter select {
+    border: 0;
+    height: auto;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: right;
+    padding: 0 35px 0 10px;
+    width: 100%;
+}
+.main-collection .collection-filter__item {
+    margin-bottom: 0;
+}
+.main-collection .collection-sidebar__group .collapsible-trigger-btn {
+    text-align: left;
+    padding: 0;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+}
+.main-collection .tag-list--active-tags {
+    display: flex;
+    grid-gap: 8px;
+}
+.main-collection .tag-list--active-tags .tag {
+    margin-bottom: 0;
+}
+.main-collection .collapsible-trigger-btn svg {
+    width: 12px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.main-collection .collection-sidebar__group {
+    margin-bottom: 0;
+    border: 0;
+    padding-top: 0;
+}
+.main-collection .filter-form {
+    display: flex;
+    margin: 0 -20px;
+}
+.main-collection .collection-sidebar {
+    padding-right: 0;
+    margin-bottom: 0;
+}
+.main-collection .collection-sidebar__group--top {
+    padding: 0 20px;
+    max-width: fit-content;
+}
+.main-collection .collection-sidebar__group .collapsible-content__inner {
+    padding-bottom: 0;
+}
+.main-collection .collapsible-content__inner .no-bullets {
+    margin-bottom: 0;
+}
+.main-collection .collection-sidebar-grid {
+    display: none;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+.main-collection .collection-filter {
+    flex: 1;
+    align-items: flex-start;
+}
+.main-collection .collection-filter.has-active-filter {
+    align-items: flex-end;
+}
+.main-collection .collection-filter__item--sort {
+    margin-right: -10px;
+}
+.main-collection .pagination {
+    display: none;
+}
+.main-collection .tag--remove {
+    width: fit-content;
+}
+.main-collection .tag--remove .btn {
+    padding: 6px 14px;
+    text-transform: capitalize;
+}
+.main-collection .tag--remove .icon {
+    right: 2px;
+    top: 10px;
+    width: 15px;
+    height: 15px;
+}
+.main-collection .collection-grid__wrapper .grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-collection .load-more-btn {
+    padding: 60px 0;
+    display: flex;
+    justify-content: center;
+}
+.main-collection #loadMoreBtn.btn-loading {
+    pointer-events: none;
+}
+.main-collection .collapsible-content {
+    position: absolute;
+    z-index: 99;
+    background-color: #fff;
+    padding: 15px 12px;
+    box-sizing: content-box;
+}
+
+@media screen and (max-width: 1279px) {
+    .main-collection .collection-main-grid {
+        margin: 0;
+    }
+}
+@media screen and (max-width: 991px) {
+    .main-collection .grid-product__title {
+        margin-bottom: 6px;
+    }
+    .main-collection .collection-main-grid {
+        margin: 0;
+    }
+    .main-collection .collection-sidebar {
+        display: block !important;
+    }
+    .main-collection .collection-filter__item--drawer {
+        display: none;
+    }
+    .main-collection .collection-filter {
+        justify-content: flex-end;
+    }
+}
+@media screen and (max-width: 768px) {
+    .main-collection {
+        padding-top: 20px;
+    }
+    .image-with-slider {
+        margin-top: 12px;
+        margin-bottom: 30px !important;
+    }
+    .main-collection .collection-grid__wrapper .grid__item {
+        margin-bottom: 18px;
+        padding-left: 12px;
+    }
+    .main-collection .collection-grid__wrapper .grid {
+        margin-left: -12px;
+    }
+    .main-collection .collection-sidebar__group .collapsible-trigger-btn {
+        font-size: 16px;
+    }
+    .main-collection .collapsible-trigger-btn svg {
+        width: 10px;
+        margin-left: 8px;
+        margin-top: 3px;
+    }
+    .main-collection .collection-sidebar__group--top {
+        padding: 0 5px;
+    }
+    .main-collection .filter-form {
+        margin: 0 -5px;
+    }
+    .main-collection .tag-list label {
+        font-size: 15px;
+    }
+    .main-collection .collection-filter select {
+        font-size: 16px !important;
+        padding: 0 30px 0 10px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+    .main-collection .collection-filter__item--sort {
+        flex: 1;
+    }
+    .main-collection .tag__checkbox {
+        padding-left: 22px;
+    }
+    .main-collection .load-more-btn {
+        padding: 32px 0;
+    }
+}

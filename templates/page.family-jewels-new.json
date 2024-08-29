@@ -1,0 +1,206 @@
+{
+  "sections": {
+    "main": {
+      "type": "Page-family-jewels-template-new",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "8f38e893-0dc7-4c8d-ba79-b7503b6a5222": {
+      "type": "Page-family-jewels-banner-text-new",
+      "settings": {
+        "mainbackcolor": "#cccccc",
+        "maindesktopimage": "shopify:\/\/shop_images\/family-desktop-banner.jpg",
+        "mainmobileimage": "shopify:\/\/shop_images\/family-mobile-banner.jpg",
+        "mainheadingtext": "Indian Family Jewels",
+        "maininfotext": "<p>A digital public resource of the distinct jewellery of India, Through information and personal stories<\/p>"
+      }
+    },
+    "abd655ac-34db-43b1-8fb5-a65937795802": {
+      "type": "Page-family-jewels-banner-link-new",
+      "settings": {
+        "mainbackcolor": "#ffffff",
+        "maindesktopimage": "shopify:\/\/shop_images\/fullbanner.jpg",
+        "redirectlink": ""
+      }
+    },
+    "a42410d0-330a-41b5-b2f5-8c99868a0a3c": {
+      "type": "Page-family-jewels-image-texts-new",
+      "settings": {
+        "imageonright": false,
+        "mainbackcolor": "#ffffff",
+        "maindesktopimage": "shopify:\/\/shop_images\/map-image.jpg",
+        "mainmobileimage": "shopify:\/\/shop_images\/map-image.jpg",
+        "mainheadingtext": "An Introduction To Family Jewels",
+        "maininfotext": "<p>The kasunala is a necklace made by stringing identical coins ver closely, often engraved with motifs and is an important part of the wedding trousseau. it became popular during the period of roman trade. the necklace is one of the most striking examples of ornaments serving as an instrument of saving.<\/p><p>The kasunala is a necklace made by stringing identical coins ver closely, often engraved with motifs and is an important part of the wedding trousseau. it became popular during the period of roman trade. the necklace is one of the most striking examples of ornaments serving as an instrument of saving.<\/p>"
+      }
+    },
+    "f4f93723-b041-42c6-8a65-037f43824c4e": {
+      "type": "Page-family-jewels-collections-new",
+      "blocks": {
+        "template--16712372388092__f4f93723-b041-42c6-8a65-037f43824c4e-1682516377ab7a8e4f-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/collimage11-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/collimage11-min.jpg",
+            "title": "Stories",
+            "btntext": "Load More",
+            "btnlink": "\/"
+          }
+        },
+        "template--16712372388092__f4f93723-b041-42c6-8a65-037f43824c4e-1682516377ab7a8e4f-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/collimage22.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/collimage22.jpg",
+            "title": "Jewels",
+            "btntext": "Load More",
+            "btnlink": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--16712372388092__f4f93723-b041-42c6-8a65-037f43824c4e-1682516377ab7a8e4f-0",
+        "template--16712372388092__f4f93723-b041-42c6-8a65-037f43824c4e-1682516377ab7a8e4f-1"
+      ],
+      "settings": {
+        "mainbackcolor": "#ffffff"
+      }
+    },
+    "5fd3a233-e17c-40cc-b903-069887066dc9": {
+      "type": "Page-family-jewels-image-loops-new",
+      "blocks": {
+        "template--16712372388092__5fd3a233-e17c-40cc-b903-069887066dc9-168251810947967c15-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6085.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6085.jpg",
+            "redirectlink": ""
+          }
+        },
+        "template--16712372388092__5fd3a233-e17c-40cc-b903-069887066dc9-168251810947967c15-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6084.png",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6084.png",
+            "redirectlink": ""
+          }
+        },
+        "8a4128f7-523f-4d70-96f8-ae983ce24285": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6086.png",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6086.png",
+            "redirectlink": ""
+          }
+        },
+        "e1c30b74-3c6d-4f6a-ba59-1d238a771ae2": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6087.png",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6087.png",
+            "redirectlink": ""
+          }
+        },
+        "9002dd2c-7227-45c1-8d3a-2a53b793b20b": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6084.png",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6084.png",
+            "redirectlink": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16712372388092__5fd3a233-e17c-40cc-b903-069887066dc9-168251810947967c15-0",
+        "template--16712372388092__5fd3a233-e17c-40cc-b903-069887066dc9-168251810947967c15-1",
+        "8a4128f7-523f-4d70-96f8-ae983ce24285",
+        "e1c30b74-3c6d-4f6a-ba59-1d238a771ae2",
+        "9002dd2c-7227-45c1-8d3a-2a53b793b20b"
+      ],
+      "settings": {
+        "mainbackcolor": "#ffffff",
+        "mainheadingtext": "Discover Necklaces Of India",
+        "maininfotext": "<p>Explore the latest story and jewels we uncover<\/p>"
+      }
+    },
+    "52b9b850-fec1-44dc-9a6b-9ab5718fdab3": {
+      "type": "Page-family-jewels-column-loop-new",
+      "blocks": {
+        "template--16712372388092__52b9b850-fec1-44dc-9a6b-9ab5718fdab3-168257608924a5ea6c-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Untitled-1_1.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Untitled-1_1.jpg",
+            "headingtext": "Style",
+            "infotext": "<p>Rorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit.<\/p>",
+            "redirectlink": ""
+          }
+        },
+        "template--16712372388092__52b9b850-fec1-44dc-9a6b-9ab5718fdab3-168257608924a5ea6c-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Untitled-1_2.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Untitled-1_2.jpg",
+            "headingtext": "Style",
+            "infotext": "<p>Rorem ipsum dolor sit amet, ectetur adipiscing elit.<\/p>",
+            "redirectlink": ""
+          }
+        },
+        "18b0e09c-a514-440f-a55c-b3357525ad0e": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Untitled-1_4.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Untitled-1_4.jpg",
+            "headingtext": "Style",
+            "infotext": "<p>Rorem ipsum dolor sit amet, ectetur adipiscing elit.<\/p>",
+            "redirectlink": ""
+          }
+        },
+        "80f7aefd-029c-49c3-a9f4-f21d17077c7f": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Untitled-1_3.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Untitled-1_3.jpg",
+            "headingtext": "Style",
+            "infotext": "<p>Rorem ipsum dolor sit amet, ectetur adipiscing elit.<\/p>",
+            "redirectlink": ""
+          }
+        },
+        "22b257e3-724e-47ad-93ea-333fd75ecfa6": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/Untitled-1_5.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Untitled-1_5.jpg",
+            "headingtext": "Style",
+            "infotext": "<p>Rorem ipsum dolor sit amet, ectetur adipiscing elit.<\/p>",
+            "redirectlink": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16712372388092__52b9b850-fec1-44dc-9a6b-9ab5718fdab3-168257608924a5ea6c-0",
+        "template--16712372388092__52b9b850-fec1-44dc-9a6b-9ab5718fdab3-168257608924a5ea6c-1",
+        "18b0e09c-a514-440f-a55c-b3357525ad0e",
+        "80f7aefd-029c-49c3-a9f4-f21d17077c7f",
+        "22b257e3-724e-47ad-93ea-333fd75ecfa6"
+      ],
+      "settings": {
+        "mainbackcolor": "#ffffff",
+        "mainheadingtext": "The Talk Of The Week",
+        "maininfotext": "<p>Explore the letest story and jewels we uncover<\/p>",
+        "mainbtntext": "Load More",
+        "mainbtnlink": "\/"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8f38e893-0dc7-4c8d-ba79-b7503b6a5222",
+    "abd655ac-34db-43b1-8fb5-a65937795802",
+    "a42410d0-330a-41b5-b2f5-8c99868a0a3c",
+    "f4f93723-b041-42c6-8a65-037f43824c4e",
+    "5fd3a233-e17c-40cc-b903-069887066dc9",
+    "52b9b850-fec1-44dc-9a6b-9ab5718fdab3"
+  ]
+}

@@ -1,0 +1,18 @@
+{%- if linklists[block.settings.menu].links.size > 0 -%}
+  {%- if block.settings.show_footer_title -%}
+    <p class="h4 footer__title small--hide">
+      {{ linklists[block.settings.menu].title }}
+    </p>
+  {%- endif -%}
+  <div>
+    <div class="collapsible-content__inner">
+      <div class="footer__collapsible">
+        <ul class="no-bullets site-footer__linklist">
+          {%- for link in linklists[block.settings.menu].links -%}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+  </div>
+{%- endif -%}

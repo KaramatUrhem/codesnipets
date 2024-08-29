@@ -1,0 +1,280 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Welcome to a vibrant world of multicultural weddings, where love transcends boundaries and traditions blend together in a tapestry of captivating beauty! In this joyous celebration of unity, the bride takes center stage, adorned with resplendent jewelry that tells a story as unique as her journey. Jewelry, in all its opulence and intricacy, plays a pivotal role in this enchanting narrative. Beyond its aesthetic appeal, jewelry serves as a powerful tool to represent and showcase culture, acting as a gateway to unfamiliar worlds and an introduction to people from diverse backgrounds.  A bridal stylist, with their discerning eye and artistic flair, transforms this amalgamation into a masterpiece that reflects the bride's individuality while honoring her cultural background.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/0_2.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/0_2.png",
+            "smallinfotext": "<p><em>Image courtesy: Stories by Joseph Radhik<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/2_b3306c67-419c-432a-9923-15a54a392146.png",
+        "backmobileimage": "shopify:\/\/shop_images\/2_b3306c67-419c-432a-9923-15a54a392146.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>The Enchanting Role of a Bridal Stylist <\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>India is a land of unparalleled cultural diversity, with each region boasting its unique traditions, customs, and art forms. Jewelry, in particular, holds significant cultural and symbolic value in India and is deeply intertwined with the country's heritage. Multicultural weddings are a beautiful tapestry woven from various cultural backgrounds, each with its own set of customs, symbols, and traditions. Multicultural weddings are a beautiful tapestry woven from various cultural backgrounds, each with its own set of customs, symbols, and traditions. The amalgamation of these diverse elements requires careful consideration and an astute understanding of the cultural significance behind them. A bridal stylist plays a vital role in bridging the gap between different traditions and creating a cohesive and visually stunning jewelry ensemble.<\/p><p>Guided by a profound understanding of fashion trends, fabrics, and silhouettes, the bridal stylist creates an effortless bond between tradition and modernity, creating a harmonious symphony of timeless grace and contemporary allure. Amidst the kaleidoscope of traditions at a multicultural wedding, a bridal stylist weaves together the tapestry of cultural aesthetics, personal style, and individual preferences. With each delicate adjustment and heartfelt reassurance, they become not just a fashion stylist but a trusted confidante, embracing every bride's aspirations with grace and empathy. Their expertise in curating ensembles that reflect the uniqueness of each bride, while respecting the rich heritage of multiple cultures, becomes an essential ingredient in crafting unforgettable memories.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1"
+      ],
+      "settings": {
+      }
+    },
+    "56dd66a3-6342-4ead-8915-ae318c160665": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16733615522044__56dd66a3-6342-4ead-8915-ae318c160665-1686290671ad4dc1e8-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Multicultural Weddings and the Bridal Stylist Bonanza<\/p>"
+          }
+        },
+        "template--16733615522044__56dd66a3-6342-4ead-8915-ae318c160665-1686290671ad4dc1e8-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Multicultural weddings, in particular, require attention to detail to ensure that the traditional customs and dress codes of both families are respected. A bridal stylist guides the bride through the process of selecting appropriate attire and with their expertise and experience, they also assist in selecting the right bridal jewelry to complement the overall look. When it comes to multicultural weddings, they navigate the intricacies of different cultures and traditions with ease. They can advise the bride on how to incorporate traditional jewelry from her culture and also how to tastefully integrate pieces from her partner's culture. Here is how they bring their magical touch to the world of jewelry at a multicultural wedding.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16733615522044__56dd66a3-6342-4ead-8915-ae318c160665-1686290671ad4dc1e8-0",
+        "template--16733615522044__56dd66a3-6342-4ead-8915-ae318c160665-1686290671ad4dc1e8-1"
+      ],
+      "settings": {
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Understanding Cultural Significance",
+            "infotext": "<p>The role of a bridal stylist begins with understanding the bride's vision, cultural background, and overall wedding theme. Each cultural background brings a unique set of customs and a rich cultural heritage that forms the foundation of a multicultural wedding. Bridal stylists research and educate themselves about different traditions, symbols, and meanings associated with jewelry. This knowledge allows them to choose jewelry pieces that are not only aesthetically pleasing but also hold symbolic value in different cultures, ensuring they select pieces that honor and respect each culture involved. By doing so, the bridal stylist helps create a harmonious fusion of cultures.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/1_0af41e8e-28a0-452d-bfba-488983d9eb3a.png",
+            "mobileimage": "shopify:\/\/shop_images\/1_0af41e8e-28a0-452d-bfba-488983d9eb3a.png",
+            "imagetext": "<p><em>Image courtesy: Pinterest<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Collaborating With the Bride",
+            "infotext": "<p>A bridal stylist's expertise lies in curating a diverse collection of jewelry that encompasses the cultural heritage of the couple. They source jewelry from various regions and traditions, selecting pieces that range from classic and traditional to contemporary and modern. By presenting a wide array of options, the stylist allows the bride to choose jewelry that reflects her individuality while still honoring her cultural roots.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/2_f0d52655-2118-45aa-8a07-d5cf07d48e8e.png",
+            "mobileimage": "shopify:\/\/shop_images\/2_f0d52655-2118-45aa-8a07-d5cf07d48e8e.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Curating a Diverse Collection",
+            "infotext": "<p>A bridal stylist's expertise lies in curating a diverse collection of jewelry that encompasses the cultural heritage of the couple. They source jewelry from various regions and traditions, selecting pieces that range from classic and traditional to contemporary and modern. By presenting a wide array of options, the stylist allows the bride to choose jewelry that reflects her individuality while still honoring her cultural roots.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Aurus_Blog_1_cb5578ac-6e86-4121-b34c-a0886a584108.png",
+            "mobileimage": "shopify:\/\/shop_images\/Aurus_Blog_1_cb5578ac-6e86-4121-b34c-a0886a584108.png",
+            "imagetext": ""
+          }
+        },
+        "5f749d23-77bc-4740-ae45-a1450938d2c4": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Matching Jewelry With Attire",
+            "infotext": "<p>One of the crucial responsibilities of a bridal stylist is to ensure that the chosen jewelry complements the bride's wedding attire. They consider the color palette, fabric, and style of the bridal ensemble to select jewelry pieces that enhance its overall appeal. Whether it's coordinating gold jewelry with a traditional red lehenga or incorporating intricate silver pieces with a white wedding gown, the stylist's expertise ensures a seamless and harmonious blend.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/5_69dd8eba-8935-4852-a191-714c041fdeab.png",
+            "mobileimage": "shopify:\/\/shop_images\/5_69dd8eba-8935-4852-a191-714c041fdeab.png",
+            "imagetext": "<p><em>Image courtesy: Pinterest<\/em><\/p>"
+          }
+        },
+        "67f8ae1b-8f49-4eb3-8565-7c90e01d32c6": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Adapting to Changing Trends",
+            "infotext": "<p>While cultural heritage is of utmost importance, a bridal stylist also stays updated with the latest Indian bridal jewelry trends. They possess a keen eye for fashion and are aware of contemporary styles that can be incorporated into traditional jewelry. This adaptability allows them to strike a balance between cultural authenticity and modern aesthetics, ensuring that the bride's jewelry selection is both timeless and fashionable.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/4_e1b0a628-be0f-4361-b86a-939cb081a909.png",
+            "mobileimage": "shopify:\/\/shop_images\/4_e1b0a628-be0f-4361-b86a-939cb081a909.png",
+            "imagetext": "<p><em>Image courtesy: Pinterest<\/em><\/p>"
+          }
+        },
+        "d47e2dbf-2be7-4df1-a53e-76730c3f6418": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Coordinating With Other Wedding Vendors",
+            "infotext": "<p>Collaboration with other wedding vendors, such as the hair and makeup artist, photographer, and event planner, is crucial for a seamless wedding experience. A bridal stylist collaborates with a team of professionals to ensure the bride's jewelry perfectly enhances her ensemble and complements the wedding theme, resulting in stunning visuals that are captured in beautiful photographs. This collaborative effort creates a cohesive aesthetic and enhances the couple's wedding memories.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/6_3e5a5dd6-3f81-4a2c-960b-3679085f8d26.png",
+            "mobileimage": "shopify:\/\/shop_images\/6_3e5a5dd6-3f81-4a2c-960b-3679085f8d26.png",
+            "imagetext": "<p><em>Image courtesy: Unsplash<\/em><\/p>"
+          }
+        },
+        "2a1f7978-c4f7-48ac-88d0-4eac671b1647": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Ensuring Comfort and Wearability",
+            "infotext": "<p>Apart from aesthetics, a bridal stylist understands the importance of comfort and wearability when it comes to jewelry selection. They consider factors such as weight, durability, and ease of movement to ensure that the bride feels comfortable and confident throughout the wedding day. By suggesting suitable jewelry styles and materials, they strike a balance between beauty and practicality.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Bridal_styist_dont3.png",
+            "mobileimage": "shopify:\/\/shop_images\/Bridal_styist_dont3.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "8baafb2e-aa76-4295-a8bd-50b17cad1d20": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Working Within Budget Constraints",
+            "infotext": "<p>Budget considerations play a crucial role in any wedding planning process, and jewelry is no exception. A skilled bridal stylist respects the couple's budget and works within its limitations to find the best options. They explore a range of choices, from high-end boutiques to local jewelers to source jewelry that meets the couple's requirements while maintaining quality and authenticity.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/3_14d8be04-742a-4192-ac9f-91aa1440d1ab.png",
+            "mobileimage": "shopify:\/\/shop_images\/3_14d8be04-742a-4192-ac9f-91aa1440d1ab.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "2e2e496c-c8ea-426f-9490-3945deb7ef1d": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Customization and Bespoke Jewelry",
+            "infotext": "<p>In some cases, brides may wish to incorporate unique elements or personal touches into their jewelry. A bridal stylist can connect them with skilled artisans who can create custom pieces that honor their cultural heritage and reflect their individuality. This personalized approach ensures that the jewelry becomes an exquisite and meaningful representation of the bride's journey.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/WhatsApp_Image_2023-04-29_at_13_30_24_jpeg.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/WhatsApp_Image_2023-04-29_at_13_30_24_jpeg.jpg",
+            "imagetext": "<p><em>Nargis Necklace by Aurus<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2",
+        "5f749d23-77bc-4740-ae45-a1450938d2c4",
+        "67f8ae1b-8f49-4eb3-8565-7c90e01d32c6",
+        "d47e2dbf-2be7-4df1-a53e-76730c3f6418",
+        "2a1f7978-c4f7-48ac-88d0-4eac671b1647",
+        "8baafb2e-aa76-4295-a8bd-50b17cad1d20",
+        "2e2e496c-c8ea-426f-9490-3945deb7ef1d"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "9e08dc37-d22c-4cb7-8b0f-42859197bc1e": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16733615522044__9e08dc37-d22c-4cb7-8b0f-42859197bc1e-1686290671ad4dc1e8-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>With their expertise, the role of a bridal stylist in jewelry selection for a multicultural wedding is undeniably crucial. They can guide brides toward finding the perfect pieces that reflect their unique heritage and personal style. A bridal stylist ensures that every bride feels radiant and confident on her special day. If you're ready to embark on a memorable journey of discovering exquisite jewelry for your multicultural wedding, reach out to our skilled bridal stylists today. Let us help you curate a jewelry collection that will leave everyone in awe and create unforgettable memories for a lifetime.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16733615522044__9e08dc37-d22c-4cb7-8b0f-42859197bc1e-1686290671ad4dc1e8-1"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "blocks": {
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#000000",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "56dd66a3-6342-4ead-8915-ae318c160665",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "9e08dc37-d22c-4cb7-8b0f-42859197bc1e",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

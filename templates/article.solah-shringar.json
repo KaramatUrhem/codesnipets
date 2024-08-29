@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>The Indian bride is the epitome of grace, elegance, and beauty. Her attire and traditional Indian bridal jewelry catch every eye and leave a lasting impression on everyone. While her wedding outfit accentuates her best features, her Indian bridal jewelry adds a subtle shine and a touch of sophistication to her entire look. But there’s more to her outfit and jewelry than meets the eye. The Indian bride's appearance is a testament to the rich heritage and tradition of Indian weddings and includes 16 traditional adornments known as the Solah Shringar.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Aurus_Blog_2.png",
+            "mainmobileimage": "shopify:\/\/shop_images\/Aurus_Blog_2.png",
+            "smallinfotext": "<p><em>Image courtesy: Museum of Art and Photography, Bengaluru<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/2_dbee8dde-15af-40a2-bf44-30eba76d9b86.png",
+        "backmobileimage": "shopify:\/\/shop_images\/2_dbee8dde-15af-40a2-bf44-30eba76d9b86.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Solah Shringar: The 16 Steps of Adornment of Indian Bridal Jewelry<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>As per tradition, the Indian bride embellishes herself with 16 adornments on her wedding day. These adornments are called Solah Shringar. This ritual has been practiced since ancient times and is an integral part of bridal preparations.<\/p><p>The story behind the Solah Shringar features Rati, the wife of Kamdev, the Hindu god of love. Rati engaged in severe penance to appease Goddess Lakshmi. She was then blessed with the 16 adornments from Lakshmi and wore them to impress and marry Kamdev. <\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Kama_Rati.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Kama_Rati.jpg",
+            "smallinfotext": "<p><em>Kama (left) with Rati on a temple wall of Chennakesava Temple, Belur, India<\/em><\/p><p><em>Source and image courtesy: Wikimedia Commons<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Each of the 16 adornments holds a special significance and is chosen to complement the bride's wedding attire. It is an integral part of Indian bridal jewelry and is seen as a way to honor and celebrate the bride's beauty. Let’s take a closer look at what these 16 adornments are.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-1",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3"
+      ],
+      "settings": {
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Sindoor",
+            "infotext": "<p>The first adornment is <em>Sindoor<\/em>, also known as <em>kumkum <\/em>or vermillion. Sindoor holds a special place as it marks the beginning of a woman’s new journey as a bride. Sindoor is applied by the groom on the forehead between the hair partition of the bride. The bride then continues to wear sindoor throughout her married life.<\/p><p>The use of Sindoor can be traced back to Harrapan civilizations, where married women wore sindoor to keep other men away. Hindu scriptures also mention the use of sindoor by the Hindu goddesses Radha and Sita.  <\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/1_69df1732-ec32-441b-9d74-6e32db5f5105.png",
+            "mobileimage": "shopify:\/\/shop_images\/1_69df1732-ec32-441b-9d74-6e32db5f5105.png",
+            "imagetext": "<p><em>Image courtesy: Wikimedia Commons<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Keshapasharachana",
+            "infotext": "<p>We now focus on the ‘Kesh’, or hair. The Indian bride embellishes her hair using fragrant flowers and glittering headpieces. Traditionally, the bride made three braids that represented three holy rivers, Ganga, Yamuna, and Saraswati, and the trinity of the Hindu gods Brahma, Vishnu, and Mahesh. The fragrance of flowers keeps the bride fresh throughout the day and her Indian bridal jewelry embellishes her hairdo, adding another layer of elegance and beauty to her overall look.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/2_9ea2437d-b556-4d31-b53b-4d8f066e70a6.png",
+            "mobileimage": "shopify:\/\/shop_images\/2_9ea2437d-b556-4d31-b53b-4d8f066e70a6.png",
+            "imagetext": "<p><em>Image courtesy: Sonam Kapoor via Vogue<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Maangtika",
+            "infotext": "<p>We all know about the maangtika and its significance in Indian bridal jewelry. But to know why maangtika is an integral part of the solah shringar, we have to dig deeper.<\/p><p>The part of the forehead where the maangtika rests is believed to be the home of <em>Ajna Chakra<\/em> or the third eye. When the bride wears the piece of Indian bridal jewelry on her special day, she is believed to be connected with her third eye and has the ability to control her emotions and activate her knowledge, wisdom, courage, and willpower.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/4_d8cba5db-ce69-4daa-b3aa-c38162305260.png",
+            "mobileimage": "shopify:\/\/shop_images\/4_d8cba5db-ce69-4daa-b3aa-c38162305260.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/vermilion-gold-and-pearl-polki-maangtika\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/vermilion-gold-and-pearl-polki-maangtika\"><em>Vermilion Maangtika<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "95e99398-8265-4f59-8333-6b454dcca24b": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Bindi",
+            "infotext": "<p>The bindi also takes us to the third eye. Bindi comes from the Sanskrit word <em>bindu<\/em>, which means ‘point’ or ‘dot’. The bindi is closely associated with improving concentration and retaining energy. It is one of the most popular adornments worn by the Indian bride and is known internationally. It is an integral part of a woman’s bridal trousseau and surely helps her create an unforgettable wedding day look. <\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/3_60e76a9e-8464-4f12-96f2-5306d3155507.png",
+            "mobileimage": "shopify:\/\/shop_images\/3_60e76a9e-8464-4f12-96f2-5306d3155507.png",
+            "imagetext": "<p><em>Image courtesy: Mere Pix Media<\/em><\/p>"
+          }
+        },
+        "4a45bfe8-6459-4c74-a7e3-f017c7ff914a": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Kohl or Kajal",
+            "infotext": "<p>From the forehead, we move to the eyes. <em>Kohl, kajal, surma, kanmashi, kaadige, kaatuka,<\/em> and <em>kan mai<\/em> are some names for one of the oldest natural beauty products in the world. Kajal accentuates the eyes of the bride and is believed to ward off the evil eye in various cultures. The darkening around the eyes also protects the wearer from the harsh rays of the sun. <\/p><p>Kajal is an essential element of the solah shringar and makes the eyes look more prominent. It is undoubtedly a beautiful way to enhance the natural beauty of the bride. <\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/5_efdf9778-99cf-45d3-b25d-10a8aed55bd4.png",
+            "mobileimage": "shopify:\/\/shop_images\/5_efdf9778-99cf-45d3-b25d-10a8aed55bd4.png",
+            "imagetext": "<p><em>Image courtesy: Art-chives<\/em><\/p>"
+          }
+        },
+        "0bfbae1f-fb66-460a-ae0c-97561e6cac39": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Karn Phool or Earrings",
+            "infotext": "<p>A wedding day look cannot be completed without a set of dangling earrings. Karn Phool is a Sanskrit term that translates to ‘flower of the ears’ and is an essential part of the solah shringar.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/6_cd737593-03bb-42f7-9e1a-dc94fe84ad28.png",
+            "mobileimage": "shopify:\/\/shop_images\/6_cd737593-03bb-42f7-9e1a-dc94fe84ad28.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/navya-gold-polki-pearl-and-gemstone-drops-earrings\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/navya-gold-polki-pearl-and-gemstone-drops-earrings\"><em>Navya Earrings<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "c3fe3300-3876-488f-acd4-3ceb39c74ad4": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Nath",
+            "infotext": "<p>The nose ring is another beautiful element of the Indian bride’s attire and is a symbol of valor, fertility, and spirituality. The large nose rings hooked onto the hair with a chain take the bride a step closer to creating her ideal look. It is one of the most ethnic elements of Indian bridal jewelry and a wedding day look is surely incomplete without it. <\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/7_ba4dd466-c17d-4da0-b077-1e240d894e24.png",
+            "mobileimage": "shopify:\/\/shop_images\/7_ba4dd466-c17d-4da0-b077-1e240d894e24.png",
+            "imagetext": "<p><em>Image courtesy: Museum of Art and Photography, Bengaluru<\/em><\/p>"
+          }
+        },
+        "5eec30b6-6d0c-42c3-bc49-70ba40dc08c5": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Haar or Necklace",
+            "infotext": "<p>The one thing that brings the whole look together is the necklace. Necklaces are said to represent safety and abundance and are believed to help the wearer control their emotions better. Some necklaces feature specific motifs or gemstones that are believed to bring good luck and ward off evil spirits. The traditional Indian bride can be seen adorned in layers of necklaces that complement her bridal outfit and all other pieces of jewelry. A bridal necklace set is an integral part of Indian bridal jewelry, given that it is the centerpiece of the entire look.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/8_426a782f-b991-43e8-b625-ace44c4965cb.png",
+            "mobileimage": "shopify:\/\/shop_images\/8_426a782f-b991-43e8-b625-ace44c4965cb.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/saira-wedding-gold-and-tourmaline-necklace-for-women\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/saira-wedding-gold-and-tourmaline-necklace-for-women\"><em>Saira Necklace<\/em><\/a><em> by Aurus<\/em><\/p>"
+          }
+        },
+        "3126940b-6546-4e91-9b77-8cfb5bf910d4": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Bajuband",
+            "infotext": "<p>This element of traditional Indian bridal jewelry is worn on the upper arm. The bajuband is believed to keep evil spirits away and protects the wearer. The Indian bride can embellish her wedding outfit with all sorts of armbands that are encrusted with diamonds and other colorful gemstones.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/9_f7f3ada5-981a-4ade-b0c4-4fd44096abe2.png",
+            "mobileimage": "shopify:\/\/shop_images\/9_f7f3ada5-981a-4ade-b0c4-4fd44096abe2.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/barkha-gold-ruby-and-emerald-earrings\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/barkha-gold-ruby-and-emerald-earrings\"><em>Barkha Necklace<\/em><\/a><em> by Aurus repurposed as Bajuband <\/em><\/p>"
+          }
+        },
+        "00beef42-bb55-474f-891c-04d157e50f66": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Bangles, Bracelets, Choodiyan",
+            "infotext": "<p>We probably don’t need to weigh in on this one because there are enough Bollywood songs to tell you <a href=\"https:\/\/www.aurusjewels.com\/blogs\/news\/how-to-style-your-bracelets-and-bangles-to-perfection\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/blogs\/news\/how-to-style-your-bracelets-and-bangles-to-perfection\">how vital bangles and bracelets are<\/a> when it comes to creating the perfect bridal look.<\/p><p>Bangles and the Indian bride are inseparable. They’re a part of traditional Indian bridal jewelry that a woman always wears. It is believed that bangles and bracelets bring health, luck, and prosperity to the wearer and are more than a jewelry item or accessory for the traditional Indian woman. There are various wedding ceremonies related to bangles and bracelets across cultures that show us their significance in Indian culture. <br\/><\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/14.png",
+            "mobileimage": "shopify:\/\/shop_images\/14.png",
+            "imagetext": ""
+          }
+        },
+        "a70e10b8-afc1-4c69-9069-e4f94cdb6642": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Hathphool and Aarsi",
+            "infotext": "<p>The hathphool is a clever mix of a bangle and a ring. Bringing the best of both together, this element of traditional Indian bridal jewelry embellishes the hand and wrist of the bride. The interesting crossover of the two pieces surely adds more flavor to the wedding day look. <br\/>A thumb ring known as <em>Aarsi<\/em> is also worn by some brides. Aarsi contains a small mirror. This mirror allows the bride to catch a glimpse of the groom since she is covered in a veil and cannot see the groom’s face.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/11.png",
+            "mobileimage": "shopify:\/\/shop_images\/11.png",
+            "imagetext": "<p><a href=\"https:\/\/www.aurusjewels.com\/products\/neeti-colourful-gemstones-gold-polki-hathphool\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/neeti-colourful-gemstones-gold-polki-hathphool\"><em>Neeti Hathphool <\/em><\/a><em>by Aurus<\/em><\/p>"
+          }
+        },
+        "866a001d-1399-45cb-85a7-0d71b776ee7a": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Mehndi",
+            "infotext": "<p><a href=\"https:\/\/www.aurusjewels.com\/blogs\/news\/the-art-of-mehndi-celebrating-love-and-beauty-in-indian-weddings\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/blogs\/news\/the-art-of-mehndi-celebrating-love-and-beauty-in-indian-weddings\">Henna, commonly known as mehndi<\/a>, is undoubtedly one of the most amusing parts of a traditional Indian wedding. It is believed that mehndi brings good luck and joy to the bride. The darkness of the mehndi represents the strength of the bond between the bride and the groom. The mehndi ceremony is held before the wedding day and includes the bride’s family members and friends getting intricate designs made on their hands. The solah shringar of the bride is incomplete without her hands and feet embellished with beautiful mehndi designs that add to her overall wedding day look.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/10_5cd545bf-3655-46c9-9e9a-f0942e2a3e09.png",
+            "mobileimage": "shopify:\/\/shop_images\/10_5cd545bf-3655-46c9-9e9a-f0942e2a3e09.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "f4b3300c-136c-4ebb-8e08-2c69651435f2": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Kamarband",
+            "infotext": "<p>The use of the kamarband, or waistband, is scarce in  North Indian weddings but it is an important part of a South Indian bride’s trousseau.  The piece of Indian bridal jewelry is adorned with gemstones and is used to accentuate the female’s body and keep her bridal saree in place.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/12.png",
+            "mobileimage": "shopify:\/\/shop_images\/12.png",
+            "imagetext": "<p><em>Image courtesy: india.com<\/em><\/p>"
+          }
+        },
+        "d2cd0ba9-5e9c-4065-83d3-5cc9049dae3e": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Anklets and Toe Rings",
+            "infotext": "<p>Commonly known as <em>payal and bichhu<\/em>, these elements of traditional Indian bridal jewelry embellish the feet of the bride. Payals can be recognized by the beautiful chime sounds they make whenever the bride walks. Toe rings are seen as a sign of marriage and a bride wears them until the death of her husband.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/15.png",
+            "mobileimage": "shopify:\/\/shop_images\/15.png",
+            "imagetext": ""
+          }
+        },
+        "a4cec337-d7ce-46a3-b9f5-2b14b3089db8": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Itar",
+            "infotext": "<p>Itar is the perfume that a bride applies to freshen her aura and stay fragrant throughout her special day. <\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/13.png",
+            "mobileimage": "shopify:\/\/shop_images\/13.png",
+            "imagetext": "<p><em>Image courtesy: Pinterest<\/em><\/p>"
+          }
+        },
+        "5dc3b5e9-1e80-4218-b72c-8a6cd2b88ef6": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Wedding Outfit",
+            "infotext": "<p>Finally, the one thing that clubs every element together and brings the bride’s imagination to life is the wedding outfit. The traditional Indian bride wore the classic red wedding outfit but with the <a href=\"https:\/\/www.aurusjewels.com\/blogs\/news\/evolution-of-indian-weddings\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/blogs\/news\/evolution-of-indian-weddings\">evolution of Indian weddings<\/a>, other colors have started to take center stage as well.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/16.png",
+            "mobileimage": "shopify:\/\/shop_images\/16.png",
+            "imagetext": "<p><em>Image courtesy: Pinterest<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2",
+        "95e99398-8265-4f59-8333-6b454dcca24b",
+        "4a45bfe8-6459-4c74-a7e3-f017c7ff914a",
+        "0bfbae1f-fb66-460a-ae0c-97561e6cac39",
+        "c3fe3300-3876-488f-acd4-3ceb39c74ad4",
+        "5eec30b6-6d0c-42c3-bc49-70ba40dc08c5",
+        "3126940b-6546-4e91-9b77-8cfb5bf910d4",
+        "00beef42-bb55-474f-891c-04d157e50f66",
+        "a70e10b8-afc1-4c69-9069-e4f94cdb6642",
+        "866a001d-1399-45cb-85a7-0d71b776ee7a",
+        "f4b3300c-136c-4ebb-8e08-2c69651435f2",
+        "d2cd0ba9-5e9c-4065-83d3-5cc9049dae3e",
+        "a4cec337-d7ce-46a3-b9f5-2b14b3089db8",
+        "5dc3b5e9-1e80-4218-b72c-8a6cd2b88ef6"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "06b0bbbb-1d7c-4c3a-acd2-e4b842a75a86": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16730636648700__06b0bbbb-1d7c-4c3a-acd2-e4b842a75a86-16857152463541dce1-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Now that you know all 16 elements of the solah shringar, you might want to go through your trousseau once to see how many you have. You can always visit our website to shop for <a href=\"https:\/\/www.aurusjewels.com\/pages\/wedding-day\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/pages\/wedding-day\">Indian bridal jewelry<\/a>. And if you need a hand styling it all, you can get in touch with us and schedule your styling consultation today.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16730636648700__06b0bbbb-1d7c-4c3a-acd2-e4b842a75a86-16857152463541dce1-1"
+      ],
+      "settings": {
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "blocks": {
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#000000",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "06b0bbbb-1d7c-4c3a-acd2-e4b842a75a86",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

@@ -1,0 +1,1831 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "c7d41cc4-f8b3-40c2-b8df-61eb3b57f1c8": {
+      "type": "rich-text",
+      "blocks": {
+        "36c3c9a8-8482-4a2d-b0d6-16abfec0982e": {
+          "type": "heading",
+          "settings": {
+            "title": "Hear from <span>them!<\/span>"
+          }
+        }
+      },
+      "block_order": [
+        "36c3c9a8-8482-4a2d-b0d6-16abfec0982e"
+      ],
+      "settings": {
+        "classname": "pages_header",
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "reviews": {
+      "type": "reviews",
+      "blocks": {
+        "text_block_TKKbxH": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled_design.jpg",
+            "image_align_text": "center",
+            "title": "Anusha Bhave",
+            "text": "<p>Anusha Bhave looking stunning in her <a href=\"https:\/\/www.aurusjewels.com\/products\/revati-wedding-diamond-and-gold-necklace-for-women\" target=\"_blank\"><span style=\"text-decoration:underline\"><em><strong>Revati Necklace<\/strong><\/em><\/span><\/a> and <a href=\"https:\/\/www.aurusjewels.com\/products\/mira-gold-polki-and-gemstones-earrings\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/mira-gold-polki-and-gemstones-earrings\"><em><strong>Mira Earrings<\/strong><\/em><\/a><br\/><\/p>",
+            "location": "USA"
+          }
+        },
+        "dc960d4a-3b41-453b-9574-a8e28857ed44": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Aurus_Neha_Raval_Chitra_Studs_1.jpg",
+            "image_align_text": "center",
+            "title": "Neha Raval",
+            "text": "<p>Wore my <a href=\"https:\/\/www.aurusjewels.com\/products\/chitra-gold-diamond-emerald-and-blue-enamel-earring-studs\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/chitra-gold-diamond-emerald-and-blue-enamel-earring-studs\">Chitra Earrings<\/a> finally ❤❤  Fell in love with them once again!<br\/><\/p>",
+            "location": "Illinois, USA"
+          }
+        },
+        "text_block_ph7Lhy": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Aurus_Cheenu_Rana_Verma.jpg",
+            "image_align_text": "center",
+            "title": "Cheenu Rana Verma",
+            "text": "<p>Absolutely loved the <a href=\"https:\/\/www.aurusjewels.com\/products\/shaheen-gold-polki-and-pearl-necklace\/\" target=\"_blank\"><span style=\"text-decoration:underline\">Shaheen Pearl Necklace<\/span><\/a>! Got a lot of compliments. 🙏🏻I am looking forward to more purchaces in the future. 🫶🏻Chandigarh, IndiCheenu Rana Vermaa<\/p>",
+            "location": "Chandigarh, India"
+          }
+        },
+        "text_block_rB6KCW": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Aurus_Jaina_Lalbhai.jpg",
+            "image_align_text": "center",
+            "title": "Jaina Lalbhai",
+            "text": "<p>The graceful Jaina Lalbhai in custom Aurus tukdi necklace and maangtika, handcrafted in gold and dressed in polki and other precious gemstones.<br\/><\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "5d10e85c-a170-4a7d-8e80-e1800a0351fd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Aurus_Himani_Mehta_1.jpg",
+            "image_align_text": "center",
+            "title": "Himani Mehta",
+            "text": "<p>My mom loved the <a href=\"https:\/\/www.aurusjewels.com\/products\/laguna-blue-and-green-gemstone-baali-earrings\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/products\/laguna-blue-and-green-gemstone-baali-earrings\">Laguna Earrings<\/a>. Thank you for ensuring they reached us in time. Have been ordering from Moi and Aurus for a while and we all love the unique designs!<br\/><\/p>",
+            "location": "Bengaluru, India"
+          }
+        },
+        "391bf278-2f0a-4a71-b8ce-680398140ac4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Aurus_Snehal_Prabhu_Haydari_Necklace.jpg",
+            "image_align_text": "center",
+            "title": "Snehal Prabhu",
+            "text": "<p>Thanks for the beautiful <a href=\"https:\/\/www.aurusjewels.com\/products\/haydari-blue-and-green-polki-gold-necklace\" target=\"_blank\">Haydari Necklace<\/a>. I was more than happy to wear it!<br\/><\/p>",
+            "location": "Mumbai, India"
+          }
+        },
+        "3fa2130d-d650-432c-a60e-655ba3d28592": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Surbhi_Sethi_2_d3d51913-c212-42a8-8759-bbca8739a199.webp",
+            "image_align_text": "center",
+            "title": "Surbhi Sethi",
+            "text": "<p>The stunning Surbhi in our pearl-based choker necklace and baalis handcrafted in gold, embellished with uncut diamonds\/polki, and finished with citrine and pink tourmaline.<\/p>",
+            "location": "Delhi, India"
+          }
+        },
+        "text_block_jn4AqK": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG-20240216-WA0021.jpg",
+            "image_align_text": "center",
+            "title": "Alpa Raiyani",
+            "text": "<p>It was fabulous! Especially the way you explain every craft and piece. Each piece is unique in its own way. The craftsmanship, the quality of the stones, and the way you handle everything traditionally—you are restoring our antique art; that is the whole beauty of it.<br\/><\/p>",
+            "location": "Amedabad, India"
+          }
+        },
+        "text_block_VXDfNV": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Aurus_Arthi_Mayura_Necklace.jpg",
+            "image_align_text": "center",
+            "title": "Arthi",
+            "text": "<p>I am totally in love with the <a href=\"https:\/\/www.aurusjewels.com\/products\/mayura-pearl-and-multi-gemstone-necklace\">Mayura Necklace<\/a>. Thank you so much. 😊<br\/><\/p>",
+            "location": "Coimbatore, India"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_TKKbxH",
+        "dc960d4a-3b41-453b-9574-a8e28857ed44",
+        "text_block_ph7Lhy",
+        "text_block_rB6KCW",
+        "5d10e85c-a170-4a7d-8e80-e1800a0351fd",
+        "391bf278-2f0a-4a71-b8ce-680398140ac4",
+        "3fa2130d-d650-432c-a60e-655ba3d28592",
+        "text_block_jn4AqK",
+        "text_block_VXDfNV"
+      ],
+      "custom_css": [
+        ".index-section {margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "8db76425-39a6-4115-8a69-65d5ad77a005": {
+      "type": "reviews",
+      "blocks": {
+        "32c4bb13-d326-4016-92b9-7100c4db2bb9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Rectangle_6105.jpg",
+            "image_align_text": "center",
+            "title": "Sulochana Puri",
+            "text": "<p>The lovely Sulochana in our classic Kadambari Necklace, crafted in gold with uncut diamonds\/polki and emerald drops.<\/p>",
+            "location": "Delhi, India"
+          }
+        },
+        "b71f97b6-912f-4c0d-914e-5db962fe16aa": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Rectangle_6106.png",
+            "image_align_text": "center",
+            "title": "Chavi Tandon",
+            "text": "<p>With an eye for detailing and perfection in their craft, Aurus is making beautiful jewelry pieces, some of which I proudly treasure. Their team is extremely efficient and patient in helping long-distance clients like me to choose just the perfect pieces that are truly a reflection of our personality.<\/p>",
+            "location": "Allahabad, India"
+          }
+        },
+        "9088ed08-e24d-4292-ab9c-a46d442a9f93": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Rectangle_6107.png",
+            "image_align_text": "center",
+            "title": "Sujana Sridharan",
+            "text": "<p>Absolutely loved my Deccani Navratna Neckalce and how well it went with my outfit! ❤️<\/p>",
+            "location": "Chennai, India"
+          }
+        },
+        "470cb238-a5ae-40dc-8f1b-c002de8b2ecc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Rectangle_6111.png",
+            "image_align_text": "center",
+            "title": "Ayushi Agnihotri",
+            "text": "<p>I wore the Poulomi Earrings at my function! My family made the purchase, but I fell in love with the earrings! ❤️<\/p>",
+            "location": "Chandigarh, India"
+          }
+        },
+        "72f3a141-8a37-4a0d-b714-e47827e4cf0d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Siddhi_Rathi_9aeef2aa-9702-4206-b16f-4da5c929f021.jpg",
+            "image_align_text": "center",
+            "title": "Siddhi Rathi",
+            "text": "<p>I got this beautiful piece from you for my Mehendi function, and I LOVED IT! Thank you again. I cannot wait to shop more from your collection! I live in the US, so I was unable to come to your store in Ahmedabad to physically see and try the jewelry. I fell in love with it just by looking at the pictures so one of my relatives video-called from your store, and we just bought it. I wanted this exact set, and it perfectly matched my entire look! ♥️<\/p>",
+            "location": "California, United States"
+          }
+        },
+        "041274ed-f693-4456-8ce2-baf9f39eb5c2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Tanisha_Bhatt_17.jpg",
+            "image_align_text": "bottom",
+            "title": "Tanisha Bhatt",
+            "text": "<p>The lovely bride Tanisha in her custom-made Aurus designs for her wedding.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "6f811b42-5309-499a-8899-efb114f5f10f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_align_text": "center",
+            "title": "Poorna Nayak",
+            "text": "<p>I love jewelry that has a good design, looks beautiful, and has been made artfully. As they say, “A thing of beauty is a joy forever.” Now, I own such a piece and love the detailing and fine work. Also, online requires a lot of transparency, and I like that all your materials are displayed on the website. I never knew what a glass-filled ruby was, but if that's what is used, it's mentioned.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "db2e4dea-0bfd-4c74-a3a3-fb97f50c0d3e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Jaina_Lalbhai_7192885e-2f1c-46c8-9048-ff2d808b0dc6.jpg",
+            "image_align_text": "center",
+            "title": "Jaina Lalbhai",
+            "text": "<p>The gorgeous Jaina glowing in our beautifully handcrafted Jaisalmeri necklace.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "93a8f147-6e77-441b-b920-14a1bc4fd540": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Malvika_Mehta_1_ece9360e-87b2-4d3d-b5d7-32a399d8c1f2.jpg",
+            "image_align_text": "top",
+            "title": "Malvika Mehta",
+            "text": "<p>I ABSOLUTELY love it! It is stunning. I loved wearing the pieces, and so many people asked me about it. I can’t wait to get more stuff from you. 💖<\/p>",
+            "location": "Delhi, India"
+          }
+        },
+        "66eae683-ab18-42b4-9671-64a286b7d3ab": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Shikha_Saxena.jpg",
+            "image_align_text": "center",
+            "title": "Shikha Saxena",
+            "text": "<p>Sikha's lovely daughter in her Aurus favorites, beautifully paired with her outfit for Diwali!<\/p>",
+            "location": "Lucknow, India"
+          }
+        },
+        "eb69357d-5d5a-4765-b050-4d60e7937f7a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Nipa_Patel.jpg",
+            "image_align_text": "center",
+            "title": "Nipa Patel",
+            "text": "<p>The graceful Nipa wearing our Kaveri Choker Necklace and Amodini Earrings for her wedding, crafted using uncut diamonds\/polki and pearls with hints of pink.<\/p>",
+            "location": "Virginia, United States"
+          }
+        },
+        "9076f0cb-aabd-4d78-90c6-9fd713b5be8e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Kanha_Bakeri_013bde07-b46a-4617-90ad-495652b4da53.jpg",
+            "image_align_text": "center",
+            "title": "Kanha Bakeri",
+            "text": "<p>The lovely Kanha in her custom-made diamond and emerald jewelry for her engagement, beautifully paired with pristine whites.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "a6a59822-2313-46eb-a69d-ec9986e23ba9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Alankrita_Rao-2.webp",
+            "image_align_text": "center",
+            "title": "Alankrita Rao",
+            "text": "<p>Seen on Alankrita, our Nitya Jaisalmeri Necklace—a one-of-a-kind handcrafted neckpiece embellished with uncut diamonds.<\/p>",
+            "location": "Hyderabad, India"
+          }
+        },
+        "1f9a0cc7-a624-45fc-a224-8eaad14af464": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Janki Patel",
+            "text": "<p>After following Aurus and Moi on social media for a while, it became very clear to me that there was something special here. In an online world with so many choices often leading to confusion, I was keen on finding the right designer and craftsmanship that suited me and my personality. I quickly realized Aurus was the one for me and made it a point to visit the studio during my Ahmedabad visit recently. After meeting the team and the owner-designer herself along with her husband, it was obvious that jewelry was their extreme passion and not just a commercial business. The creativity, quality, and energy were quite evident within just a few minutes of our meeting. I liked every piece that the team showed me, and it became difficult to choose. Aurus and Moi blend the modern with traditional styles, bringing forward timeless classics with a contemporary feel, that can be enjoyed by women of all ages and generations.<\/p>",
+            "location": "New York, United States"
+          }
+        },
+        "49d34d31-38d9-4c13-885d-e0f47dcf565b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled-2.webp",
+            "image_align_text": "center",
+            "title": "Amina Saeed",
+            "text": "<p>I have a deep connection and love for traditional stuff, and I appreciate intricate, thoughtful pieces. When it comes to jewelry, there are many options in Dubai, but I find it quite hard to like something of my interest. I saw an image of one of your jewelry pieces on Instagram, and it intrigued me to look your brand up in detail. I appreciate the NAFASAT of the work done and decided to reach out to you. Puja has done a wonderful job designing the pieces.<\/p>",
+            "location": "Dubai"
+          }
+        },
+        "b2f8cf02-48cc-46c2-a673-cfedcfbaa8ce": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ambika_Sandur_d67719ee-b73c-4fa8-94e7-de4ff2dc479f.webp",
+            "image_align_text": "center",
+            "title": "Ambika Sandur",
+            "text": "<p>The lovely Ambika in our Jaisalmeri necklace, a one-of-a-kind handcrafted neckpiece embellished with uncut diamonds, effortlessly styled with a gorgeous pastel green organza saree.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "f305e656-3fea-41d5-a3b4-d25d15ff4e04": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Neha_Sharma.webp",
+            "image_align_text": "center",
+            "title": "Neha Sharma",
+            "text": "<p>Taking a moment to appreciate and revel in the heritage, craft, and textiles of our country, like the double ikat silk and beautiful handcrafted Haydari neckpiece I'm wearing.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "a92406cb-b921-4af7-900f-e0d77b5d88e2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Urvi_Hadaliya.webp",
+            "image_align_text": "center",
+            "title": "Urvi Hadaliya",
+            "text": "<p>Added one more to my collection from Aurus, and it is just amazing! I adore all your pieces and getting them one by one. I already have some and am looking forward to many more. You guys are the go-to solution for my jewelry shopping!<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "0d154c2d-9797-44dd-a690-ef2c1f556233": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Vineeta_Garg.webp",
+            "image_align_text": "center",
+            "title": "Vineeta Garg",
+            "text": "<p>I came across AURUS sometime during COVID and started following them. I was literally in love with their designs. In fact, I messaged them and asked if they ever came for exhibitions in Lucknow. But at that time, they were not doing so. And I thought that if ever I went to Ahmedabad, then I would buy from them. But luckily, they hosted the Aurus Trunk show right before Diwali this year. I went with my sister-in-law, thinking of buying a pair of earrings to go with one of my vintage neckpieces. But I fell in love with the Ratna Necklace; I absolutely adored it. I bought it and placed an order for a matching set of earrings. I wanted Jhumkas specifically. They made the earrings and sent them to me; they were absolutely beautiful! They really know their craft. The Jhumkas look so stunning, gorgeous, and magnificent—I don't know what to say, but it's one of my favorite sets. I've worn it a couple of times since I got it, and I've got so many compliments! I'm looking forward to buying more stuff from them. And I would recommend Aurus to everyone.<\/p>",
+            "location": "Lucknow, India"
+          }
+        },
+        "3b94f346-9fdf-4839-a26e-e96d98f38de6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/virushi_shah.webp",
+            "image_align_text": "center",
+            "title": "Virushi Shah",
+            "text": "<p>The pretty Virushi, a one-of-a-kind- necklace embellished with polki and a cluster of various colored gemstones.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "a7299740-5772-4654-8457-a34e29b03d14": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Soumya_Sunil.webp",
+            "image_align_text": "center",
+            "title": "Soumya Sunil",
+            "text": "<p>The lovely Soumya in our Mayura Necklace on her wedding anniversary!<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "cd7e1734-1489-4de3-9a73-92bb0f659c98": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/vinita_bhatt.webp",
+            "image_align_text": "center",
+            "title": "Vinita Bhatt",
+            "text": "<p>The lovely bride Tanisha with her mum Vinita. Both wearing their Aurus for Tanisha's wedding!<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "04491fa0-d14f-4c37-bf50-737d07c93185": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Mala_Kesari.webp",
+            "image_align_text": "center",
+            "title": "Mala Kesari",
+            "text": "<p>The sweetest Mala was accompanied by her husband and her sister, who planned a trip to Ahmedabad, to visit us, all the way from Delhi. Her husband goes on to say, \"Our daughter told us about Aurus, and demanded we visit you in Ahmedabad and we had the best experience at your store\".<\/p>",
+            "location": "Delhi, India"
+          }
+        },
+        "b8305c21-0006-4c77-8cfd-5bd4ec1ba44a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Mansi.webp",
+            "image_align_text": "center",
+            "title": "Mansi Prajapati",
+            "text": "<p>Seen on Mansi, our Kumud Gold Baalis, a one-of-a-kind handcrafted earrings finished with rubies and pearls.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "a902b6fb-c11c-40b7-adaa-e497a981f64d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Garima_Satija_3.jpg",
+            "image_align_text": "center",
+            "title": "Garima Satija",
+            "text": "<p>For me Aurus was all about the detailing they have done in their designs. The historical pieces they have reinvented for our generation to wear, that is what caught my attention about Aurus.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "0d5d40d1-b8fb-4be1-8561-dd55aa0e66e4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Shubha Rajeev",
+            "text": "<p>Received the Pihu Necklace today and got struck by the beauty and craftsmanship of design. It felt like I am holding a dream in my hands, I wonder how will I be able to wear this jewel. Thank you so much for this!<\/p>",
+            "location": "Singapore"
+          }
+        },
+        "f61f1fcc-8b1d-489d-9f1d-51181c997122": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Deepna_Nandiga.webp",
+            "image_align_text": "center",
+            "title": "Deepna Nandiga",
+            "text": "<p>The lovely Deepna shared her favorite moments from her wedding in our Lavanya Choker and Malar Earrings.<\/p>",
+            "location": "California, USA"
+          }
+        },
+        "5255faac-cac9-4eaa-9dd3-0f0e286e85bc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Shalvi_Munshaw.webp",
+            "image_align_text": "center",
+            "title": "Shalvi Munshaw",
+            "text": "<p>Seen on Shalvi, our Pankh Necklace crafted with gem-encrusted pair of peacocks paired with her vintage paithani patola.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "77c3dde4-1799-49db-9cae-c673c23b1cd5": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/rupa_patel.webp",
+            "image_align_text": "center",
+            "title": "Rupa Patel",
+            "text": "<p>Seen on Rupa, our Brinda Choker one-of-a-kind handcrafted piece is embellished with uncut diamonds, suspended with chains paired with our Malar Earrings for a family wedding.<\/p>",
+            "location": "Baroda, India"
+          }
+        },
+        "02c4c9b4-7b20-4c2f-b042-8d9d8b671be6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/suji_balaji.webp",
+            "image_align_text": "center",
+            "title": "Suji Balaji",
+            "text": "<p>I was searching for something on Pinterest and I stumbled upon the Kalgi Earrings, I then visited your website and all the designs were beautiful - I was amazed to see how each design is handcrafted to finesse. It became my dream to own an Aurus design, and I bought the Kalgi Earrings. Whenever I go for any functions I wear it and people ask me about it. It is now my favourite amongst all my jewellery.<\/p>",
+            "location": "Coimbatore, India"
+          }
+        },
+        "933b3f75-dba9-4a40-8fbc-a79a1c47d132": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Maitri_Patel.webp",
+            "image_align_text": "center",
+            "title": "Maitri Patel",
+            "text": "<p>The lovely bride Maitri in our Farida Choker and Vasundhara Earrings for her pre wedding function. She goes on to say, \"The jewels were a surprise planned by her super sweet mon Yogita all the way from India\".<\/p>",
+            "location": "Illinois, USA"
+          }
+        },
+        "9da61b8d-e770-49c8-b4bb-b5215fc30726": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Saidarshini_Hanumanthappa.webp",
+            "image_align_text": "center",
+            "title": "Saidarshini Hanumanthappa",
+            "text": "<p>Seen on Saidarshini, our Kumud Gold Baalis for Diwali celebrations.<\/p>",
+            "location": "Pennsylvania, United States"
+          }
+        },
+        "e2b81021-9e82-4946-95f7-bccf4681e93c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Nandini_Nadig2.webp",
+            "image_align_text": "center",
+            "title": "Nandini Nadig",
+            "text": "<p>Seen on Nandini, our Niyati Choker, Mehreen Ring and Aabha Earrings at a wedding.<\/p>",
+            "location": "California, United States"
+          }
+        },
+        "555d290a-bc7a-4416-8c0d-fe1b7d8521a8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Suhitha_Shetty.webp",
+            "image_align_text": "center",
+            "title": "Suhitha Shetty",
+            "text": "<p>Seen on Suhitha, our Rewa Jaisalmeri Necklace, a one-of-a-kind handcrafted neckpiece with carefully thought of colors put against each other.<\/p>",
+            "location": "Pune, India"
+          }
+        },
+        "83ce2aad-0a82-4844-9b78-157fcf7331d2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Kruthika_Bharatraj.webp",
+            "image_align_text": "center",
+            "title": "Kruthika Bharatraj",
+            "text": "<p>I discovered Aurus on Instagram. I think Upasana Konidela had worn a piece made by Aurus. I don't like wearing jewelry that had usual emeralds and rubies what caught my attention was the different colour stones you guys worked with. Your website, your marketing, your communication with me gave me confidence. I love it! 💖<\/p>",
+            "location": "South Carolina, USA"
+          }
+        },
+        "e6243636-2d48-4d31-838e-c22a0ac35aa2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Jaina_Patel.webp",
+            "image_align_text": "center",
+            "title": "Jaina Patel",
+            "text": "<p>Thank you for the beautiful jewelry! It is beautiful, I appreciate you sending everything on time 😊Everyone loved everything about the jewelry. Got lots of compliments!<\/p>",
+            "location": "Pennsylvania, USA"
+          }
+        },
+        "2fb675d7-33c1-438f-8e35-7bc95e2cc008": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Cintia_Pino_Soorya_Choker.jpg",
+            "image_align_text": "center",
+            "title": "Cintia Pino",
+            "text": "<p>Seen on Cintia our Soorya Choker at a friend's wedding. She goes on to say, 'Aurus designs are beautiful, the craftsmanship has a genuine artisanal non-industrial look and feel.'<\/p>",
+            "location": "Geneva, Switzerland"
+          }
+        },
+        "d1eebb30-9fc5-4963-9087-0a6a03109f7a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Bani_Bains.webp",
+            "image_align_text": "center",
+            "title": "Bani Bains",
+            "text": "<p>Hi I’m Bani, I love the intricacies of each piece I own - and how it brings my face to life! I feel happy, confident, and most importantly, like myself even though everyone expected me to be a ‘bride’. I also read the reviews and how your jewelry looks on normal people!<\/p>",
+            "location": "Gurgaon, Haryana"
+          }
+        },
+        "028b352d-4b9a-47bd-b130-3479f1101b0e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Mukul_Khajanchi.webp",
+            "image_align_text": "center",
+            "title": "Mukul Khajanchi",
+            "text": "<p>I was myself quite shocked that I made this purchase virtually.. I wanted something stunning to wear and get made as a memory for my brother’s wedding; and I wanted it to be a combination of diamonds, rubies, emeralds & pearls; what caught my attention was the beautiful design on Instagram.. I just couldn't find any such beautiful design elsewhere. Speaking over the video call, looking through some of your other designs, the craftsmanship, and attention to detail instilled confidence in me. The whole process was seamless, including the payment and delivery. Once I received the necklace and earrings, I was even more mesmerized about how beautiful it turned out in reality. I feel like a queen wearing it, have already received so many compliments and I am hoping this will be a heirloom piece my next generations will be able to cherish as well!<\/p>",
+            "location": "New York, USA"
+          }
+        },
+        "6659b852-63ef-44ce-91a4-7d6555b789e8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Evanka_Thimmaiah.webp",
+            "image_align_text": "center",
+            "title": "Evanka Thimmaiah",
+            "text": "<p>Evanka Thimmaiah(Daughter) -I absolutely loved the unique design and gem combination that the designers at aurus had curated to give me the most elegant piece of jewellery for my occasion. Tina Thimmaiah(Mother)I had always visualised a unique and elegant set for my daughter’s first piece of jewellery and I found the perfect piece in Aurus. Aurus has beautiful jewellery.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "e7a833ef-8662-41d4-b72e-9a045cb1eb5d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Archana_Vonipenti.webp",
+            "image_align_text": "center",
+            "title": "Archana Vonipenti",
+            "text": "<p>I am following AURUS since a year and I always knew it was a genuine company. I noticed your feature in Vogue. To be honest, I was scared to order online but I took the chance and it worked out. I love the choker and got a ton of compliments already so enjoying it a lot right now.<\/p>",
+            "location": "Michigan, USA"
+          }
+        },
+        "7d4be18a-f1ab-4eb3-b3b4-581ff3d09f3f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Shilpa_rai.webp",
+            "image_align_text": "center",
+            "title": "Shilpa rai",
+            "text": "<p>So my mother-in-law was over the moon. She said she has no words and she literally did not have words - I could only hear a thrilled voice! She said the beauty of the piece is indescribable and was so grateful to have such a beauty.<\/p>",
+            "location": "San Ramon, USA"
+          }
+        },
+        "35400a00-1a8e-4e66-9b18-fa165ac8a049": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Tanisha_Bhatt_2.jpg",
+            "image_align_text": "center",
+            "title": "Tanisha Bhatt",
+            "text": "<p>The beautiful Tanisha in our Ankur Choker paired with the lehenga she hand-painted for her Mehendi 💖<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "c9ade5c9-34e5-4de2-8aa8-d38f103df66c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Riya.webp",
+            "image_align_text": "center",
+            "title": "Riya",
+            "text": "<p>As seen on Riya, our Madhuri necklace is an unmistakable piece worked in layers of gold and verdant emeralds.<\/p>",
+            "location": "Indore, Madhya Pradesh"
+          }
+        },
+        "5820b3f4-be2a-4a53-a512-5b3ebb1367a1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sonia_Sethi.webp",
+            "image_align_text": "center",
+            "title": "Sonia Sethi",
+            "text": "<p>Seen on Sonia's mother, our Nitya Jaisalmeri Necklace worn for a family wedding.<\/p>",
+            "location": "USA"
+          }
+        },
+        "af5aab01-ed23-4c70-ab74-bfb71f87865a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Urvi_Hadaliya_35c97667-f883-4117-bb07-d391866e9d30.jpg",
+            "image_align_text": "center",
+            "title": "Urvi Hadaliya",
+            "text": "<p>Hey there, Thanks for the amazing piece. It is just what I wanted and hoped it to be. It just made my special day more special. I honestly adore your all the pieces, u know what something - everyday 2-3 times I check your profile and ask my husband that I want these pieces yaar… 😜 Will definitely come again and do more shopping 🤩. Thank u once again for making my day so so so special.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "27887cf2-b64b-4955-9fa8-c8893d073588": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sanjana_Reddy.webp",
+            "image_align_text": "center",
+            "title": "Sanjana Reddy",
+            "text": "<p>Seen on Sanjana, our signature Vasundhara Earrings crafted with uncut diamonds\/polki and emerald and citrine drops.<\/p>",
+            "location": "Hyderabad, India"
+          }
+        },
+        "62e68083-f6af-4d7a-9631-11ff0675988b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Shilpa_Rai_2.webp",
+            "image_align_text": "bottom",
+            "title": "Shilpa Rai",
+            "text": "<p>Seen on Shilpa rai, our Rewa Jaisalmeri and Vasundhara earrings.<\/p>",
+            "location": "San Ramon, USA"
+          }
+        },
+        "0a4db80e-a530-455c-b482-952982283412": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Roselind_Jones.webp",
+            "image_align_text": "center",
+            "title": "Roselind Jones",
+            "text": "<p>Wore this stunning neckpiece to a wedding reception ♥️<\/p>",
+            "location": "United Kingdom"
+          }
+        },
+        "af3ee638-0138-41a6-9b0f-2d95a565d9d7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Pooja_Patel.webp",
+            "image_align_text": "center",
+            "title": "Pooja Patel",
+            "text": "<p>Seen on Pooja, our Farida Choker and Vasundhara Earrings at a family wedding.<\/p>",
+            "location": "California, USA"
+          }
+        }
+      },
+      "block_order": [
+        "32c4bb13-d326-4016-92b9-7100c4db2bb9",
+        "b71f97b6-912f-4c0d-914e-5db962fe16aa",
+        "9088ed08-e24d-4292-ab9c-a46d442a9f93",
+        "470cb238-a5ae-40dc-8f1b-c002de8b2ecc",
+        "72f3a141-8a37-4a0d-b714-e47827e4cf0d",
+        "041274ed-f693-4456-8ce2-baf9f39eb5c2",
+        "6f811b42-5309-499a-8899-efb114f5f10f",
+        "db2e4dea-0bfd-4c74-a3a3-fb97f50c0d3e",
+        "93a8f147-6e77-441b-b920-14a1bc4fd540",
+        "66eae683-ab18-42b4-9671-64a286b7d3ab",
+        "eb69357d-5d5a-4765-b050-4d60e7937f7a",
+        "9076f0cb-aabd-4d78-90c6-9fd713b5be8e",
+        "a6a59822-2313-46eb-a69d-ec9986e23ba9",
+        "1f9a0cc7-a624-45fc-a224-8eaad14af464",
+        "49d34d31-38d9-4c13-885d-e0f47dcf565b",
+        "b2f8cf02-48cc-46c2-a673-cfedcfbaa8ce",
+        "f305e656-3fea-41d5-a3b4-d25d15ff4e04",
+        "a92406cb-b921-4af7-900f-e0d77b5d88e2",
+        "0d154c2d-9797-44dd-a690-ef2c1f556233",
+        "3b94f346-9fdf-4839-a26e-e96d98f38de6",
+        "a7299740-5772-4654-8457-a34e29b03d14",
+        "cd7e1734-1489-4de3-9a73-92bb0f659c98",
+        "04491fa0-d14f-4c37-bf50-737d07c93185",
+        "b8305c21-0006-4c77-8cfd-5bd4ec1ba44a",
+        "a902b6fb-c11c-40b7-adaa-e497a981f64d",
+        "0d5d40d1-b8fb-4be1-8561-dd55aa0e66e4",
+        "f61f1fcc-8b1d-489d-9f1d-51181c997122",
+        "5255faac-cac9-4eaa-9dd3-0f0e286e85bc",
+        "77c3dde4-1799-49db-9cae-c673c23b1cd5",
+        "02c4c9b4-7b20-4c2f-b042-8d9d8b671be6",
+        "933b3f75-dba9-4a40-8fbc-a79a1c47d132",
+        "9da61b8d-e770-49c8-b4bb-b5215fc30726",
+        "e2b81021-9e82-4946-95f7-bccf4681e93c",
+        "555d290a-bc7a-4416-8c0d-fe1b7d8521a8",
+        "83ce2aad-0a82-4844-9b78-157fcf7331d2",
+        "e6243636-2d48-4d31-838e-c22a0ac35aa2",
+        "2fb675d7-33c1-438f-8e35-7bc95e2cc008",
+        "d1eebb30-9fc5-4963-9087-0a6a03109f7a",
+        "028b352d-4b9a-47bd-b130-3479f1101b0e",
+        "6659b852-63ef-44ce-91a4-7d6555b789e8",
+        "e7a833ef-8662-41d4-b72e-9a045cb1eb5d",
+        "7d4be18a-f1ab-4eb3-b3b4-581ff3d09f3f",
+        "35400a00-1a8e-4e66-9b18-fa165ac8a049",
+        "c9ade5c9-34e5-4de2-8aa8-d38f103df66c",
+        "5820b3f4-be2a-4a53-a512-5b3ebb1367a1",
+        "af5aab01-ed23-4c70-ab74-bfb71f87865a",
+        "27887cf2-b64b-4955-9fa8-c8893d073588",
+        "62e68083-f6af-4d7a-9631-11ff0675988b",
+        "0a4db80e-a530-455c-b482-952982283412",
+        "af3ee638-0138-41a6-9b0f-2d95a565d9d7"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "7239bf6d-9241-4ae9-973a-e41bd667351b": {
+      "type": "reviews",
+      "blocks": {
+        "bad4f80f-b1a8-4e03-972a-8949d75d5096": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Nisha_Naryanan.webp",
+            "image_align_text": "center",
+            "title": "Nisha Narayanan",
+            "text": "<p>Seen on Nisha Narayan our Mayura Necklace, strung on lines of pearls offers a multitude of rich colours with an array of materials such as polki, rubies, pearls and amethyst and hessonite drops-all finished to perfection.<\/p>",
+            "location": "New Delhi, India"
+          }
+        },
+        "f166ba20-4279-4777-9b71-b591ec991abd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ann_Prometheus.webp",
+            "image_align_text": "center",
+            "title": "Ann Prometheus",
+            "text": "<p>I love love loooovved the piece that your team so patiently curated for me. It went so gorgeously with my outfit.. I had everyone who asked me surprised when I explained to them that all of the selection process was done online! And the quality of the necklace unparalleled to any that I saw in any physical store ❤️☺️❤️<\/p>",
+            "location": "California, United States"
+          }
+        },
+        "b3bf57e2-b70d-48cf-8ba3-6cf7485cecdc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Prathyusha_Jonna.webp",
+            "image_align_text": "center",
+            "title": "Prathyusha Jonna",
+            "text": "<p>Thank you for sending on time. Really loved the earrings it’s fab🥰 Packaging looks awesome 👏 Well packed. The finishing and design spot on!!<\/p>",
+            "location": "Virginia, United States"
+          }
+        },
+        "1590f937-d6a7-4f08-a197-df3a1717c4a4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Urjita_Bhalani_Baroda.jpg",
+            "image_align_text": "center",
+            "title": "Urjita Bhalani",
+            "text": "<p>Thank you for this masterpiece! It looks beautiful. I found AURUS online, and I am so glad I did. The jewelry has such fine intricate design and an awesome finesse. So comfy to wear as well. Worth it ☺️<\/p>",
+            "location": "Baroda, Gujarat"
+          }
+        },
+        "a66aa9fd-c714-44f5-be94-e5e46ba9d653": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sermsiri_Caton.webp",
+            "image_align_text": "center",
+            "title": "Sermsiri Caton",
+            "text": "<p>Seen on Sermsiri, our Mogra Earrings a one-of-a-kind handcrafted earrings revisiting the Pachhikaam technique of making jewelry.<\/p>",
+            "location": "Austin, USA"
+          }
+        },
+        "7c542ced-6ec5-4b5a-a21f-cb52b97af0c2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Neha_sharma_ahmedbad.webp",
+            "image_align_text": "center",
+            "title": "Neha Sharma",
+            "text": "<p>Seen on Neha, our Aar choker and Poulomi Earrings.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "e0f7993e-bac1-41a4-991f-87d95a02013a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Anjana_Survesh.webp",
+            "image_align_text": "center",
+            "title": "Anjana Survesh",
+            "text": "<p>Looks beautiful!! I was a little specifically if the earring will look as pretty as it was in the picture. But it looks even more beautiful in real. Thank you so much<\/p>",
+            "location": "Coimbatore"
+          }
+        },
+        "71b63fea-b019-43f9-83da-0e955226e21a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Jaya_Taurani.webp",
+            "image_align_text": "center",
+            "title": "Jaya Taurani",
+            "text": "<p>I love the jewelry Aurus does. It is classic, wearable and balances traditional and contemporary styles. I have always received compliments when wearing your jewelry and I am so amazed by the customer service - always helpful. Truly love wearing it because you can see the passion of the people creating it! I love it sooo much. It’s my favorite piece of jewelry. I layer it all the time, and get so many compliments ❤️ I wish you guys were in Bombay!!!<\/p>",
+            "location": "Mumbai, India"
+          }
+        },
+        "d57ac820-75f0-4777-ac01-b976761dc64c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Riya_patel_8525149f-b56d-4dbb-a349-2fe601cdde06.webp",
+            "image_align_text": "center",
+            "title": "Riya Patel",
+            "text": "<p>Thanks for the earrings. They look pretty! ♥️<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "f302bba4-63a7-4011-a859-a8196ea2fb27": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Shannon_Grewal.webp",
+            "image_align_text": "center",
+            "title": "Shannon Grewal",
+            "text": "<p>The designs I received are gorgeous!!!! 😭 You guys are the best. I can’t wait to build my collection from you guys!!<\/p>",
+            "location": "Los Angeles, United States"
+          }
+        },
+        "e714bf2d-2c07-474c-851b-6f0c02f6be2e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Divjyot.webp",
+            "image_align_text": "center",
+            "title": "Divjyot Singh",
+            "text": "<p>The lovely Divjyot wearing our Matsya Earrings for Diwali, beautifully paired with her blue suit! <\/p>",
+            "location": "California, USA"
+          }
+        },
+        "deeabfed-8045-4478-b3b7-5b4046de9f8c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Krishna_Kanimerakala.webp",
+            "image_align_text": "center",
+            "title": "Krishna Kanimerakala",
+            "text": "<p>Today I received both the earrings and the ring 💍. The ring is exactly like the picture, but earrings are way more prettier than on the website. I loved them 🥰 🥰. Can’t wait to were them! Now looking forward to  my next purchase. 😊😆<\/p>",
+            "location": "Los Angeles, United States"
+          }
+        },
+        "afe61b8c-eba0-4d62-a8b3-17294780fb49": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Alankrita_Rao-2.webp",
+            "image_align_text": "center",
+            "title": "Alankrita Rao",
+            "text": "<p>A signature collection! I've been exploring your designs for one year, and wearing them feels like heaven! They are much more beautiful than seen in pictures 😊. Thank you, they are just PERFECT!<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "d218adc5-f2cd-4ff6-bbf7-db47968eae5f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Priyadharshini_Rajarathinam.webp",
+            "image_align_text": "center",
+            "title": "Priyadharshini Rajarathinam",
+            "text": "<p>Convey my big hugs and thanks to the creator of Aurus. I can’t wait to try out all your collections out there!<\/p>",
+            "location": "Hougang Central, Singapore"
+          }
+        },
+        "bd60e14d-b93f-401a-a8f7-1db497e74536": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Anushka_Polki_Choker_Ann_Prometheus_3.jpg",
+            "image_align_text": "center",
+            "title": "Ann Prometheus",
+            "text": "<p>I just opened the box today and the necklace is sooo gorgeous!!! I am absolutely mind-blown by the craftsmanship and quality!! The pictures don’t do justice to the piece; it’s stunning!! Thank you so soo much for making this process so easy! Can’t wait to wear it. ❤️❤️❤️<\/p>",
+            "location": "California, United States"
+          }
+        },
+        "4e0c9342-2c94-4d80-af63-36467e738e25": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sahana_Prasad.webp",
+            "image_align_text": "center",
+            "title": "Sahana Prasad",
+            "text": "<p>A signature collection! I've been exploring your designs for one year, and wearing them feels like heaven! They are much more beautiful than seen in pictures 😊. Thank you, they are just PERFECT!<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "ed6fd411-114d-4f09-bf07-9cdff84f57c3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sailatha_Bathula.webp",
+            "image_align_text": "center",
+            "title": "Sailatha Bathula",
+            "text": "<p>Wore Aurus for the auspicious occasion of Vinayaka Chavithi. ☺️<\/p><p>Seen on her: our Deccani Choker Necklace<\/p>",
+            "location": "North Carolina, United States"
+          }
+        },
+        "a6944d5e-f9b0-4c01-88a5-6daac1a23848": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sailaja_Abburi2.webp",
+            "image_align_text": "center",
+            "title": "Sailaja Abburi",
+            "text": "<p>I love it! I’m the Aurus version of the \"Lays—no one can eat just one\" and am planning what my next purchases from you guys will be. ♥️♥️ Also wore the Nritya Earrings today. Love them!<\/p>",
+            "location": "California, United States"
+          }
+        },
+        "3512865b-127b-4a62-b9c2-3dc4b9ce8f26": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ambika_Sandur_2.webp",
+            "image_align_text": "center",
+            "title": "Ambika Sandur",
+            "text": "<p>The graceful Ambika in our Jaisalmeri Necklace, a one-of-a-kind handcrafted neckpiece embellished with uncut diamonds\/polki.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "1a5452b0-fa6b-4d2d-9bf1-271061229d5f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Jinen.webp",
+            "image_align_text": "center",
+            "title": "Jinen Thakkar",
+            "text": "<p>A modern twist on traditional jewelry, the jewelry instilled confidence as soon as I received it!<\/p>",
+            "location": "Rhode Island, United States"
+          }
+        },
+        "fa581aa9-4fde-4210-9bed-b2fc47a54359": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Nandini_Nadig.webp",
+            "image_align_text": "center",
+            "title": "Nandini Nadig",
+            "text": "<p>The lovely Nandini wearing our Soorya Choker Necklace, a pearl-based necklace crafted in gold with an exquisitely detailed centre unit, a frame of pavé-set diamonds details a palette of yellow citrine and brilliant-cut diamonds.<\/p>",
+            "location": "California, United States"
+          }
+        },
+        "6c84075a-4e27-4743-b6a6-63de6d117a72": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ritu_Sharma.webp",
+            "image_align_text": "center",
+            "title": "Ritu Sharma",
+            "text": "<p>Seen on Ritu: our classic Ira Ring handcrafted in gold and finished with pearls and brilliant-cut diamonds.<\/p>",
+            "location": "New Jersey, United States"
+          }
+        },
+        "7cc9c802-2e0e-4119-b009-8aac14ece76f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Aanal_Shah.jpg",
+            "image_align_text": "center",
+            "title": "Aanal Shah",
+            "text": "<p>We created a bespoke trousseau deeply rooted in tradition, crafted in gold and embellished with uncut diamodns\/polki and pearls for Aanal for her wedding day!<\/p>",
+            "location": "Vadodara, India"
+          }
+        },
+        "2329a3da-2754-4f8f-8444-af475692f253": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Hema_Chavali.webp",
+            "image_align_text": "center",
+            "title": "Hema Chavali",
+            "text": "<p>Loved every bit of it and got a lot of compliments for the necklace. Thank you so much! 😍🤗<\/p>",
+            "location": "Texas, United States"
+          }
+        },
+        "b5a8eeb7-f608-4614-ae57-d675459acac6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Anayat_Samra.webp",
+            "image_align_text": "center",
+            "title": "Anayat Samra",
+            "text": "<p>The beautiful Anayat in our Farida Choker Necklace and Vasundhara Earrings for a family wedding. <\/p>",
+            "location": "Jalandar, India"
+          }
+        },
+        "ee755392-e1ef-4a5c-9845-291c4ad85b4d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Shaivali_Shah.webp",
+            "image_align_text": "center",
+            "title": "Shaivali Shah",
+            "text": "<p>For Shaivali, who lives in NYC, we created a classic trousseau with uncut diamonds, a signature hint of color, and pearls, for her wedding day, sangeet, and reception looks.<\/p>",
+            "location": "New York, United States"
+          }
+        },
+        "c1eef33d-e336-4609-8dc3-64ed256ffb0e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Stefi Baum",
+            "text": "<p>I usually do not buy fine jewelry, but this was a special gift from my husband after many years of marriage, as I never had an engagement ring, or anniversary ring. The ring finally made its way to me as a present from my husband, and it was beautiful. I feel loved when I wear your jewelry.<\/p>",
+            "location": "Arizona, United States"
+          }
+        },
+        "0ab0f5f4-5129-49b0-8676-11b1989f00e9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Tithi_Ghosh.webp",
+            "image_align_text": "center",
+            "title": "Tithi Ghosh",
+            "text": "<p>The lovely Tithi in our one-of-a-kind revival capsule, crafted with an array of natural gemstones suspended from units holding uncut diamonds\/polki set in gold, all strung on a strand of pearls interspersed with emerald and tourmaline gemstones.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "4a5b193d-6b4f-402f-83bf-356d77161da5": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Kanisha_Shah_1_8ddc92ee-2595-4e9c-8a74-a4cce79d2b79.jpg",
+            "image_align_text": "center",
+            "title": "Kanisha Shah",
+            "text": "<p>For Kanisha, we created a trousseau deeply rooted in tradition, crafted in gold with uncut diamonds\/polki, emeralds, gold balls and pearls for her wedding day, and reception looks.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "fa398c5a-70f7-4fa4-adc1-d374cd907f11": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sailaja_Abburi.webp",
+            "image_align_text": "center",
+            "title": "Sailaja Abburi",
+            "text": "<p>Seen on Sailaja: our Kaveri Choker Necklace crafted with uncut diamonds\/polki and pearls with hints of pink.<\/p>",
+            "location": "California, United States"
+          }
+        },
+        "83b06860-1d41-4f82-ad01-5663abb1628a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Pavni_Patel.webp",
+            "image_align_text": "center",
+            "title": "Pavni Patel",
+            "text": "<p>Seen on Pavni: our Panjshir Necklace and Earrings, which reflect luxury and timelessness through pearls and gemstones with the contrast of deep green emeralds against the rich red enamel.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "65f84b91-cd6e-43bc-8dde-6f8e93dd7bd4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Nrithika_Sridharan.webp",
+            "image_align_text": "center",
+            "title": "Nrithika Sridharan",
+            "text": "<p>The gorgeous Nrithika in our Ankur Choker Necklace, crafted with uncut diamonds\/polki and finished with emeralds and pearls, for a Diwali function.<\/p>",
+            "location": "Chennai, India"
+          }
+        },
+        "34af2b35-da19-46a6-a7a6-51d6ea35f12d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Garima Satija",
+            "text": "<p>Jewelry, to me, is a very personal space. Some collectible pieces are very grand and are for select occasions, and I think one of my daughters will get this.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "63481fec-187d-45ea-949b-f4acb89dcbb3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Shraddha Kapoor",
+            "text": "<p>@shraddhakapoor How gorgeous are the pieces from Aurus!😍 Really amazing!<\/p>",
+            "location": "Mumbai, India"
+          }
+        },
+        "498ab919-b9d1-4b29-aa05-240642321f1d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Priya.jpg",
+            "image_align_text": "center",
+            "title": "Priya Jhaveri",
+            "text": "<p>We created a classic trousseau for Priya for her reception day, crafted in gold with brilliant-cut diamonds and pearls, and finished with rich blue-enamel detailing.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "08439cc0-b049-4abe-83ed-ff3515166b28": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Mishthi Kapoor",
+            "text": "<p>This was a gift for my mother, and she is obsessed!!! 😍 She loved the workmanship and the effort you put in to make it work for her! She is ready to go shopping for more! Thank you, guys! Many more orders coming. <\/p>",
+            "location": "California, USA"
+          }
+        },
+        "6fd564ec-c652-446d-b70e-d2664140f66e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Mansi_Parikh.webp",
+            "image_align_text": "center",
+            "title": "Mansi Parikh",
+            "text": "<p>We created a classic trousseau for Mansi for her reception day, crafted in gold with brilliant-cut diamonds and emeralds, and finished with ruby drops for her reception day.<\/p>",
+            "location": "Seattle, United States"
+          }
+        },
+        "8e948157-4be2-4ec0-a702-073d83900869": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Neha_Sharma-2.webp",
+            "image_align_text": "center",
+            "title": "Neha Sharma",
+            "text": "<p>The Haydari Necklace from AURUS (isn’t the name beautiful)—again from a brand I love, not just for what they make, but also the people behind the brand. So, I tell you: it’s always the people, the feelings, the impression they leave on you, and the overall experience that is much more precious and valuable rather than the actual product.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "7ba4bae4-8dc9-4030-a9ed-aac026214d4a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Roshni_Parikh.webp",
+            "image_align_text": "center",
+            "title": "Roshni Parikh",
+            "text": "<p>The gorgeous Roshni in our Aar Choker Necklace, embellished with a star-shaped uncut diamonds\/polki motif on a bed of pearls with scattered tourmalines, and finished with “chaand” elements and gemstone beads.<\/p>",
+            "location": "Mumbai, India"
+          }
+        },
+        "2567bbf2-bca0-45d5-b9c9-b12d4c825cf9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Virajini Ghate",
+            "text": "<p>I've been a working professional for a long time in the rather boring and serious profession of banking, yet, I am very interested in Art, and that includes beautiful jewelry and patterns, colors, and designs, which is what attracted me to Aurus. The designs are a combination of colors and patterns, and most importantly, they are contemporary, yet traditional. The best part about Aurus is the transparency which I like very much, and the ease of purchasing online.<\/p>",
+            "location": "Dubai, UAE"
+          }
+        },
+        "473940e1-b14c-47f3-bd3c-602c6952e91b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Divya.jpg",
+            "image_align_text": "center",
+            "title": "Divya Datla",
+            "text": "<p>Finally received my jewelry, and all the items look exactly as pictured. Thank you so much!<\/p>",
+            "location": "Texas, United States"
+          }
+        },
+        "b51dc5ff-a449-44bd-bfa2-f999cf2d5c10": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ayushi_mehta.webp",
+            "image_align_text": "center",
+            "title": "Ayushi Mehta",
+            "text": "<p>The lovely bride, Ayushi, wearing our Deccani Navaratna Necklace with customized Navaratna Hathphool and Earrings for her wedding day.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "fc3ac0e8-8352-4a24-8726-313f91a3cfaa": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Anar_Patel_42c8cdca-1c10-4ee0-98f4-a2e74e078cec.jpg",
+            "image_align_text": "center",
+            "title": "Anar Patel",
+            "text": "<p>Anar in our Sitaara Earrings proving that there's beauty to simplicity!<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "1ae2bc06-285d-494c-8131-c300bfa0109e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ramya_Ramji.webp",
+            "image_align_text": "center",
+            "title": "Ramya Ramji",
+            "text": "<p>Seen on Ramya is our version of the tiger claw amulet, worked in gold on a nephrite base and embellished with uncut diamonds, gemstones, and enamel.<\/p>",
+            "location": "Hyderabad, India"
+          }
+        },
+        "f851ab49-2a4e-4f3d-b669-f3a6f7f18ec5": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Poornima_Rajendran.webp",
+            "image_align_text": "center",
+            "title": "Poornima Rajendran",
+            "text": "<p>A young mom to a hyper daughter, an image consultant, an entrepreneur and a nature enthusiast. As a woman, I am challenged in all aspects of life & taking life with a positive mindset helps me progress & grow. The design & craftsmanship that go into making fine jewelry are what matter the most. I have come across various pearl choker designs from different brands, but once I saw your post on social media, I realized it was a unique design that caught my attention. Well, this is the first time I am buying a piece of jewelry online, and I gained the confidence by looking at the Instagram follower base and the quick and genuine response to my queries. Sales and post-sales services were excellent. I feel elegant and confident when I wear this piece. I have tried multiple styles around this jewelry, and I must say, it's a show stopper.<\/p>",
+            "location": "Bangalore, India"
+          }
+        },
+        "10c6a0c1-4ac5-43cb-9c67-f214a1e84872": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Kanha_Bakeri2.webp",
+            "image_align_text": "center",
+            "title": "Kanha Bakeri",
+            "text": "<p>Seen on Kanha: a custom-made Satlada Necklace embellished with uncut diamonds\/polki, finished with Ruby and Emerald, interspersed with pearls.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "a8c9d523-ed2e-498f-9641-ecd9712386bd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Jyothi_Rajamannar.webp",
+            "image_align_text": "center",
+            "title": "Jyothi Rajamannar",
+            "text": "<p>Seen on Jyothi: our Nitya Jaisalmeri Necklace, inspired by the necklaces worn by the Jaisalmeri royals in the past—a vibrant long necklace handcrafted in gold.<\/p>",
+            "location": "New York, USA"
+          }
+        },
+        "4aee42ba-1ff2-40d3-a7e7-f8fb5f18ab34": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Smita_Ithape_2.jpg",
+            "image_align_text": "center",
+            "title": "Smita Ithape",
+            "text": "<p>Yet again, your creativity, support, packaging & shipping has exceeded my expectations. Loved the necklace and Emerald bracelet; I'm very pleased with the elegant femininity and timeless classic design. As Diwali is around the corner, your jewelry is already filling my heart with excitement. Aurus is a very trustworthy brand. I'm looking forward to buy more.<\/p>",
+            "location": "Washington, United States"
+          }
+        },
+        "623239fc-048b-478b-82e9-45f7ee6258fe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Karishma_Swali.jpg",
+            "image_align_text": "center",
+            "title": "Karishma Swali",
+            "text": "<p>Received both pieces and absolutely love them! They are so perfect and perfectly in time too. Thank you so much! Please thank Puja and the whole team for this beauty. ❤️❤️❤️<\/p>",
+            "location": "Mumbai, India"
+          }
+        },
+        "b91985fd-40b0-4c6d-8c29-2358011cbef1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Padmalakshmi.webp",
+            "image_align_text": "center",
+            "title": "Padma Lakshmi",
+            "text": "<p>The gorgeous Padma Lakshmi in our classic Indus Revival Necklace.<\/p>",
+            "location": ""
+          }
+        }
+      },
+      "block_order": [
+        "bad4f80f-b1a8-4e03-972a-8949d75d5096",
+        "f166ba20-4279-4777-9b71-b591ec991abd",
+        "b3bf57e2-b70d-48cf-8ba3-6cf7485cecdc",
+        "1590f937-d6a7-4f08-a197-df3a1717c4a4",
+        "a66aa9fd-c714-44f5-be94-e5e46ba9d653",
+        "7c542ced-6ec5-4b5a-a21f-cb52b97af0c2",
+        "e0f7993e-bac1-41a4-991f-87d95a02013a",
+        "71b63fea-b019-43f9-83da-0e955226e21a",
+        "d57ac820-75f0-4777-ac01-b976761dc64c",
+        "f302bba4-63a7-4011-a859-a8196ea2fb27",
+        "e714bf2d-2c07-474c-851b-6f0c02f6be2e",
+        "deeabfed-8045-4478-b3b7-5b4046de9f8c",
+        "afe61b8c-eba0-4d62-a8b3-17294780fb49",
+        "d218adc5-f2cd-4ff6-bbf7-db47968eae5f",
+        "bd60e14d-b93f-401a-a8f7-1db497e74536",
+        "4e0c9342-2c94-4d80-af63-36467e738e25",
+        "ed6fd411-114d-4f09-bf07-9cdff84f57c3",
+        "a6944d5e-f9b0-4c01-88a5-6daac1a23848",
+        "3512865b-127b-4a62-b9c2-3dc4b9ce8f26",
+        "1a5452b0-fa6b-4d2d-9bf1-271061229d5f",
+        "fa581aa9-4fde-4210-9bed-b2fc47a54359",
+        "6c84075a-4e27-4743-b6a6-63de6d117a72",
+        "7cc9c802-2e0e-4119-b009-8aac14ece76f",
+        "2329a3da-2754-4f8f-8444-af475692f253",
+        "b5a8eeb7-f608-4614-ae57-d675459acac6",
+        "ee755392-e1ef-4a5c-9845-291c4ad85b4d",
+        "c1eef33d-e336-4609-8dc3-64ed256ffb0e",
+        "0ab0f5f4-5129-49b0-8676-11b1989f00e9",
+        "4a5b193d-6b4f-402f-83bf-356d77161da5",
+        "fa398c5a-70f7-4fa4-adc1-d374cd907f11",
+        "83b06860-1d41-4f82-ad01-5663abb1628a",
+        "65f84b91-cd6e-43bc-8dde-6f8e93dd7bd4",
+        "34af2b35-da19-46a6-a7a6-51d6ea35f12d",
+        "63481fec-187d-45ea-949b-f4acb89dcbb3",
+        "498ab919-b9d1-4b29-aa05-240642321f1d",
+        "08439cc0-b049-4abe-83ed-ff3515166b28",
+        "6fd564ec-c652-446d-b70e-d2664140f66e",
+        "8e948157-4be2-4ec0-a702-073d83900869",
+        "7ba4bae4-8dc9-4030-a9ed-aac026214d4a",
+        "2567bbf2-bca0-45d5-b9c9-b12d4c825cf9",
+        "473940e1-b14c-47f3-bd3c-602c6952e91b",
+        "b51dc5ff-a449-44bd-bfa2-f999cf2d5c10",
+        "fc3ac0e8-8352-4a24-8726-313f91a3cfaa",
+        "1ae2bc06-285d-494c-8131-c300bfa0109e",
+        "f851ab49-2a4e-4f3d-b669-f3a6f7f18ec5",
+        "10c6a0c1-4ac5-43cb-9c67-f214a1e84872",
+        "a8c9d523-ed2e-498f-9641-ecd9712386bd",
+        "4aee42ba-1ff2-40d3-a7e7-f8fb5f18ab34",
+        "623239fc-048b-478b-82e9-45f7ee6258fe",
+        "b91985fd-40b0-4c6d-8c29-2358011cbef1"
+      ],
+      "custom_css": [
+        ".index-section {margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "11c622f9-a4e1-49e8-ac69-e698fdf1c577": {
+      "type": "reviews",
+      "blocks": {
+        "7431c8bd-aacc-447f-a66a-b5a7545fdb92": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Niyati_Mohak.webp",
+            "image_align_text": "center",
+            "title": "Niyati Mehta",
+            "text": "<p>Seen on Niyati: our Nitya Jaiselmeri Necklace, a one-of-a-kind handcrafted neckpiece with carefully thought-out colors put against each other.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "ad6f7f4b-3cf5-4330-9f94-12cffc82dd8e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Aparna_Kanduri.webp",
+            "image_align_text": "center",
+            "title": "Aparna Kanduri",
+            "text": "<p>My husband gifted me these uncut diamond earrings for my birthday. They are absolutely gorgeous—so contemporary, yet so traditional. Thank you so much for such a beautiful piece of jewelry. I enjoyed wearing them, and I hope to wear them multiple times, with both Indian and Western outfits.<\/p>",
+            "location": "San Jose, California"
+          }
+        },
+        "be57b37e-ca25-4b9d-8e2a-9b00bada795d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Sripriya Ponnapalli",
+            "text": "<p>It’s beautiful, and I love the metal box it was packaged in too. I discovered you through Instagram. Love the aesthetic and timelessness of your pieces. As an Indian living abroad, shopping online brings me access to many things I wouldn’t normally have. Thanks again!<\/p>",
+            "location": "Palo Alto, California"
+          }
+        },
+        "ac80d4a6-5425-4b05-90ba-6dcb0c61516b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Shalini Kacker",
+            "text": "<p>I received my gorgeous neckpiece, and I loved it so much! 😍😍 Thank you for creating such pieces of absolute beauty. 🧡🤗<\/p>",
+            "location": "New Delhi, India"
+          }
+        },
+        "2e5f8a5d-df99-4551-b8d5-6f48505a4644": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Riya_Kumbhani.webp",
+            "image_align_text": "center",
+            "title": "Riya Kumbhani",
+            "text": "<p>Seen on Riya is an intricately handcrafted set comprising a necklace, chaandbalis, and a maangtika, all worked in gold with a hint of color.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "2c253a60-6fcb-4185-9d4e-6d2a5c658549": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Suhitha_Shetty2.webp",
+            "image_align_text": "center",
+            "title": "Suhitha Shetty",
+            "text": "<p>The elegant Suhitha in one of our Indus Revival Necklaces.<\/p>",
+            "location": "Pune, India"
+          }
+        },
+        "1fe46311-145d-4d81-b923-1f22fcd872fa": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Prasanna Bhaskar",
+            "text": "<p>Thanks for the lovely piece. It is just what I hoped it to be. Reminds me of these little jewelry trinkets I would find in my grandmother's trunk. The studs which have lost the screw, and the pendant that doesn’t have a chain. And I always wanted to bring them all altogether in one piece that brought back her memories. Unfortunately, my grandma passed and the trinkets went many ways. This piece reminds me of what it could have been. Was so well-packed. Thank you for making this happen. I can make your signature piece MY OWN.<\/p>",
+            "location": "Hong Kong, China"
+          }
+        },
+        "140017c2-8ef2-4127-b342-32b4577e4508": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Archana_Vonipenti.webp",
+            "image_align_text": "center",
+            "title": "Archana Vonipenti",
+            "text": "<p>I am an Instagram addict and follow a lot of Indian fashion brands, and I liked some of the jewelry I saw in your account and started following since last year. I do not wear much jewelry, but as years went by, I realized I gravitated towards timeless and classic pieces. So even if I have few, I make sure what I buy is something I can pass down for years. And hence my love for diamonds, pearls, and precious stones. Since I followed you on Instagram for a year, I knew it was a genuine company. I also noticed you were featured in Vogue India. To be honest, I was scared to order online, but I took the chance, and it worked out. I love the choker and got a ton of compliments already, so enjoying it a lot right now.<\/p>",
+            "location": "IndiaMichigan, USA"
+          }
+        },
+        "462bfcd8-e9c3-4d8d-b5f5-473c070c9490": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Vandana Berjis Desai",
+            "text": "<p>I am so glad I found you! I have been wearing the Ariya necklace and all the other jewels I bought from you, and love them! Always a pleasure to see what you all are up to.<\/p>",
+            "location": "Mumbai, India"
+          }
+        },
+        "47447879-0e99-4602-b192-23e2d83e5c56": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Amita_Gavirneni.webp",
+            "image_align_text": "center",
+            "title": "Amita Gavirneni",
+            "text": "<p>Seen on Amita: our vibrant Rewa Jaisalmeri Necklace, handcrafted in gold with rows of uncut diamonds\/polki and gemstone-studded elements.<\/p>",
+            "location": "California, USA"
+          }
+        },
+        "7ffbef73-4ec5-454f-b981-103b94d416be": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Kanisha_Shah.webp",
+            "image_align_text": "center",
+            "title": "Kanisha Shah",
+            "text": "<p>The elegant Kanisha in a vibrant, bespoke necklace, handcrafted in gold and skillfully studded with brilliant-cut diamonds and emerald drops.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "ef022af6-7e8f-41e0-932a-a488f2f3ef1a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Toral_Vora.webp",
+            "image_align_text": "center",
+            "title": "Toral Vora",
+            "text": "<p>Seen on Toral: our classic Sanyuj Bracelet paired with our Heer Earrings<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "dd287f22-4ba9-442a-b02a-9b7d2f691afd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Anushka_Sheth.webp",
+            "image_align_text": "center",
+            "title": "Anushka Sheth",
+            "text": "<p>The pretty Anushka in our one-of-a-kind Indus Revival Necklace—a multitude of rich colors with an array of the finest materials and intricately embellished units.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "db648efb-2299-4883-ba73-67988cb4b4ae": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Chetna_Shah.webp",
+            "image_align_text": "center",
+            "title": "Chetna Shah",
+            "text": "<p>Seen on Chetna: our bespoke colorful choker and Jaisalmeri Necklace.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "d85acf98-9912-4ef1-9187-46d183179c99": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Anu.webp",
+            "image_align_text": "center",
+            "title": "Anu Upadhyayula",
+            "text": "<p>The lovely Anu in a bespoke Emerald and uncut diamonds\/polki pendant necklace for her baby shower.<\/p>",
+            "location": "Chennai, India"
+          }
+        },
+        "28b355a1-9373-4b39-b993-2c218b7b4083": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Khevna_Joshi.jpg",
+            "image_align_text": "center",
+            "title": "Khevna Joshi",
+            "text": "<p>Seen on Khevna: an exquisitely handcrafted cocktail ring, worked in gold and beautifully lined with diamonds.<\/p>",
+            "location": "Chicago, United States"
+          }
+        },
+        "aa6010c5-e114-42c4-98d5-4ea43b647da9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Puneet_Jay_Khanija.webp",
+            "image_align_text": "center",
+            "title": "Puneet Jay Khanija",
+            "text": "<p>Seen on Puneet: our one-of-a-kind earrings are handcrafted in gold, and embellished with an array of precious gemstones, gold balls, and enameled capsules.<\/p>",
+            "location": "Dubai, UAE"
+          }
+        },
+        "87f4ce48-4e73-4bbb-b6d6-e393d39f1a3a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Mahima_Pandya.webp",
+            "image_align_text": "center",
+            "title": "Mahima Pandya",
+            "text": "<p>The elegant Mahima in one of our one-of-a-kind handcrafted necklaces with carefully thought-out colors put  against each other.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "b8e5523d-f9eb-4eb8-bfb0-0a95d0d3e101": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Megha_Amin.jpg",
+            "image_align_text": "center",
+            "title": "Megha Amin",
+            "text": "<p>Seen on Megha: our one-of-a-kind Indus Revival Necklace—a multitude of rich colors with an array of fine materials and intricately designed units.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "743e45c6-d0b1-452c-b68d-754b3f5cd106": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/devika.webp",
+            "image_align_text": "center",
+            "title": "Devika Advani",
+            "text": "<p>The gorgeous Devika in our classic tourmaline chandbaalis and maang tikka.<\/p>",
+            "location": "Toronto, Canada"
+          }
+        },
+        "30297fa2-3343-4a91-b49a-2a1b19dce434": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Purva_Vasa_Damani.webp",
+            "image_align_text": "center",
+            "title": "Purva Vasa Damani",
+            "text": "<p>Seen on Purva: our statement Kaliganthi necklace, handcrafted in gold.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "25acd15a-db32-4eb3-91a8-f754e91384db": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_align_text": "center",
+            "title": "Nisha Kundnani",
+            "text": "<p>Luxury is a feeling, unrushed. The new idiom: Make it small but significant. The meaning of true luxury is not about how much we own; it's about how well we live. To live well, we need certainty and assurance, and that comes with owning less meaningful products. This a true testament to that idea of discreet luxury and beauty in Indian jewelry made timeless with an edge of refinement. The beauty of Aurus jewelry is that it's so wearable. You may buy around the wedding, but it fits the ideology that you don't need special occasions to wear jewelry.<\/p>",
+            "location": "Bridelan"
+          }
+        },
+        "71f98bdd-46a9-4601-b585-9cc5d831b395": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sharanya_Rajan.webp",
+            "image_align_text": "center",
+            "title": "Sharanya RajanSan",
+            "text": "<p>Seen on Sharanya: our one-of-a-kind necklace and earrings, featuring a stunning silhouette set with an elaborate center bordered with brilliant-cut diamonds.<\/p>",
+            "location": "Francisco, California"
+          }
+        },
+        "13e123aa-5fd2-466c-9b1b-5f8644a786f7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Arpana_Parikh_Patel.jpg",
+            "image_align_text": "center",
+            "title": "Arpana Parikh Patel",
+            "text": "<p>Seen on Arpana: our emerald tassel necklace, crafted in gold and skillfully studded with diamond and emerald detailing.<\/p>",
+            "location": "New York, United States"
+          }
+        },
+        "f5132fd0-9db1-47b9-89a1-92e0cb357bd6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/divya_patel.webp",
+            "image_align_text": "center",
+            "title": "Divya Patel",
+            "text": "<p>Seen on Divya: our statement Kaliganthi Necklace is handcrafted in gold, featuring uncut diamonds\/polki with ruby and pearl elements, and matched perfectly with a classic pair of our gold jhumkas.<\/p>",
+            "location": "Florida, United States"
+          }
+        },
+        "d77243e9-5a1b-4cce-a6e7-e9deaf0c5947": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Charanya_Ramkumar.webp",
+            "image_align_text": "center",
+            "title": "Charanya Ramkumar",
+            "text": "<p>I follow several blogs on Instagram, and that is how I found Aurus. I looked at the page and found several pieces that were unique and never seen before. I fell in love with a pair of diamond danglers, a style that I had been looking for, and the price seemed reasonable as well. I was very apprehensive about ordering something online from India since I am in the US, but I still took a chance and placed an order. It was very impressive that Aurus quoted me a price including taxes etc. upfront, so there were no hidden fees. I have also reached out to several big jewelry companies in India, and none of them have been as easy to deal with or as responsive as Aurus. My order was on my doorstep within the time promised, and the process was seamless, to say the least. I am already a repeat customer since I have just ordered another unique piece from them and will be glad to pass these heirloom pieces on to my daughter. Thank you for a wonderful experience, Aurus!<\/p>",
+            "location": "California, USA"
+          }
+        },
+        "c5e2ae2f-c865-4a13-a8bb-6ed59c844b31": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Binita_Patel.jpg",
+            "image_align_text": "center",
+            "title": "Binita Patel",
+            "text": "<p>Seen on Binita Patel: a bespoke necklace embellished with pearls and precious stones with the contrast of deep green emeralds.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "9236353e-84e7-47d0-bbfe-c083a782b7c4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Devja_Parikh.jpg",
+            "image_align_text": "center",
+            "title": "Devja Parikh",
+            "text": "<p>Seen on Devya: a one-of-a-kind diamond necklace embellished with pearls and brilliant-cut diamonds.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "06702813-f90c-4246-837d-ca32f3bfa5cb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ananya_Shah_and_Aarti_Shah.jpg",
+            "image_align_text": "center",
+            "title": "Ananya Shah",
+            "text": "<p>The mother-daughter duo Aarti Shah and Ananya Shah in a bespoke pearl necklace and our signature pearl carpet choker respectively.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "758f949e-dff0-4eff-9c73-c4af0c539b44": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Apeksha_Dugar.jpg",
+            "image_align_text": "center",
+            "title": "Apeksha Dugar",
+            "text": "<p>Seen on Apeksha: a classic pair of jhumka earrings worked in gold. The earrings feature a floral motif stud that stays cozily attached to your ear while layers of jhumka dangle from it.<\/p>",
+            "location": "Melbourne, Australia"
+          }
+        },
+        "9f424f97-44b4-4a6d-939a-9103a8dd3e0f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Jeepsi_Patel.jpg",
+            "image_align_text": "center",
+            "title": "Jeepsi Patel",
+            "text": "<p>Seen on Jeepsi: a classic bracelet skillfully studded with brilliant-cut diamonds,<\/p>",
+            "location": "New York, United States"
+          }
+        },
+        "482a53f3-5075-4b0c-879a-bdd32384fc65": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled-4.webp",
+            "image_align_text": "center",
+            "title": "Anupriya Gopalka",
+            "text": "<p>The lovely Anupriya in our classic all-white diamond earrings—a pair of asymmetric earrings fitted with brilliant-cut diamonds and pearls.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "b41fac87-8ec3-42fa-9e0c-99aaae17684e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Shanaya_Patel.webp",
+            "image_align_text": "center",
+            "title": "Shanaya Patel",
+            "text": "<p>The stunning Shanaya in our Javli Haar and Pavni Earrings for her wedding.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "d761c88c-fe1d-41c8-bf6c-ce29c9f8d5b4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Kanha_Bakeri2.webp",
+            "image_align_text": "center",
+            "title": "Kanha Bakeri",
+            "text": "<p>The pretty Kanha Bakeri in her bespoke Aurus from 2015.<\/p>",
+            "location": "Ahmedabad, India"
+          }
+        },
+        "2267edbd-b172-4a3f-97f1-c7e680ad99a7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Anjana_Sinha.webp",
+            "image_align_text": "center",
+            "title": "Anjana Sinha",
+            "text": "<p>Seen on Anjana: our one-of-a-kind Rewa Necklace and bespoke earrings.<\/p><h6><\/h6>",
+            "location": "San Jose, California"
+          }
+        },
+        "0b1850a3-fb18-4d9b-b25e-f3ca360671bc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Miloni.webp",
+            "image_align_text": "center",
+            "title": "Miloni",
+            "text": "<p>Seen on Miloni: a bespoke necklace embellished with rubies surrounded with brilliant-cut diamonds and finished with pearl drops.<\/p>",
+            "location": "India"
+          }
+        },
+        "2debc0ff-eba7-4a85-9e9c-0eff82af8212": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled-3.webp",
+            "image_align_text": "center",
+            "title": "Anima Bajpai Dubey",
+            "text": "<p>I wore my Midori Earrings at the office today - me and my coworkers are just in AWE.❤️<\/p>",
+            "location": "Chicago, United States"
+          }
+        }
+      },
+      "block_order": [
+        "7431c8bd-aacc-447f-a66a-b5a7545fdb92",
+        "ad6f7f4b-3cf5-4330-9f94-12cffc82dd8e",
+        "be57b37e-ca25-4b9d-8e2a-9b00bada795d",
+        "ac80d4a6-5425-4b05-90ba-6dcb0c61516b",
+        "2e5f8a5d-df99-4551-b8d5-6f48505a4644",
+        "2c253a60-6fcb-4185-9d4e-6d2a5c658549",
+        "1fe46311-145d-4d81-b923-1f22fcd872fa",
+        "140017c2-8ef2-4127-b342-32b4577e4508",
+        "462bfcd8-e9c3-4d8d-b5f5-473c070c9490",
+        "47447879-0e99-4602-b192-23e2d83e5c56",
+        "7ffbef73-4ec5-454f-b981-103b94d416be",
+        "ef022af6-7e8f-41e0-932a-a488f2f3ef1a",
+        "dd287f22-4ba9-442a-b02a-9b7d2f691afd",
+        "db648efb-2299-4883-ba73-67988cb4b4ae",
+        "d85acf98-9912-4ef1-9187-46d183179c99",
+        "28b355a1-9373-4b39-b993-2c218b7b4083",
+        "aa6010c5-e114-42c4-98d5-4ea43b647da9",
+        "87f4ce48-4e73-4bbb-b6d6-e393d39f1a3a",
+        "b8e5523d-f9eb-4eb8-bfb0-0a95d0d3e101",
+        "743e45c6-d0b1-452c-b68d-754b3f5cd106",
+        "30297fa2-3343-4a91-b49a-2a1b19dce434",
+        "25acd15a-db32-4eb3-91a8-f754e91384db",
+        "71f98bdd-46a9-4601-b585-9cc5d831b395",
+        "13e123aa-5fd2-466c-9b1b-5f8644a786f7",
+        "f5132fd0-9db1-47b9-89a1-92e0cb357bd6",
+        "d77243e9-5a1b-4cce-a6e7-e9deaf0c5947",
+        "c5e2ae2f-c865-4a13-a8bb-6ed59c844b31",
+        "9236353e-84e7-47d0-bbfe-c083a782b7c4",
+        "06702813-f90c-4246-837d-ca32f3bfa5cb",
+        "758f949e-dff0-4eff-9c73-c4af0c539b44",
+        "9f424f97-44b4-4a6d-939a-9103a8dd3e0f",
+        "482a53f3-5075-4b0c-879a-bdd32384fc65",
+        "b41fac87-8ec3-42fa-9e0c-99aaae17684e",
+        "d761c88c-fe1d-41c8-bf6c-ce29c9f8d5b4",
+        "2267edbd-b172-4a3f-97f1-c7e680ad99a7",
+        "0b1850a3-fb18-4d9b-b25e-f3ca360671bc",
+        "2debc0ff-eba7-4a85-9e9c-0eff82af8212"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c7d41cc4-f8b3-40c2-b8df-61eb3b57f1c8",
+    "reviews",
+    "8db76425-39a6-4115-8a69-65d5ad77a005",
+    "7239bf6d-9241-4ae9-973a-e41bd667351b",
+    "11c622f9-a4e1-49e8-ac69-e698fdf1c577"
+  ]
+}

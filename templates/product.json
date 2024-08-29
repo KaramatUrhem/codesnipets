@@ -1,0 +1,316 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "e98d4723-19ec-4e05-8f95-41f47eccab1f": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "fb1a0a4f-b733-423c-b7b5-4c2fc4c86372": {
+          "type": "call_chat",
+          "settings": {
+            "wpchat": "https:\/\/wa.me\/message\/7WGG6ZYHZSKXO1",
+            "details": "Have questions? We are here for you, chat with us."
+          }
+        },
+        "c27b2adc-3dd1-4405-b416-8136ea922aa8": {
+          "type": "tab",
+          "settings": {
+            "title": "Details",
+            "content": "",
+            "textcontent": "{{ product.metafields.custom.product_details }}",
+            "page": ""
+          }
+        },
+        "06cc9697-c4d6-4205-83b6-6592f9622e59": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Sizing chart",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "textcontent": "",
+            "page": ""
+          }
+        },
+        "cfc5a718-1b3d-469a-ad0e-8f0e1907590d": {
+          "type": "tab",
+          "settings": {
+            "title": "Material details",
+            "content": "",
+            "textcontent": "{{ product.metafields.custom.product_materials }}",
+            "page": ""
+          }
+        },
+        "4cb8c3ba-f6ec-4df3-9063-405fc00caf57": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping",
+            "content": "<p>We promise to delivery an exquisite handcrafted fine jewelry piece made with uncompromising quality. Every product is designed and created as an heirloom to be held for generations.<br\/><br\/>Our usual delivery timeline depending on the design will be 30-45 business days. This includes time taken for production and delivery to your home with the exception of a design being readily available. We take care of all clearances and duties involved in the shipment. <br\/><\/p><p><a href=\"\/pages\/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\"><strong>Learn more<\/strong><\/a><\/p>",
+            "textcontent": "",
+            "page": ""
+          }
+        },
+        "132836ab-29b7-453a-b12f-a195317c89cc": {
+          "type": "tab",
+          "settings": {
+            "title": "Concierge",
+            "content": "<p>Experience a personalized conversation tailored to your every need by our in-house design and concierge team. Choosing your first Aurus piece or the perfect piece to add to your collection, to curating your wedding jewels and providing in-store or virtual appointments, we’re always here to help.<br\/><br\/><a href=\"\/pages\/contact-us\" target=\"_blank\" title=\"Contact us\"><strong>Contact Us<\/strong><\/a><\/p>",
+            "textcontent": "",
+            "page": ""
+          }
+        },
+        "82198d1e-14ea-4e97-8da3-0d3571b4136b": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Customisation",
+            "content": "",
+            "textcontent": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "description",
+        "e98d4723-19ec-4e05-8f95-41f47eccab1f",
+        "buy_buttons",
+        "fb1a0a4f-b733-423c-b7b5-4c2fc4c86372",
+        "c27b2adc-3dd1-4405-b416-8136ea922aa8",
+        "06cc9697-c4d6-4205-83b6-6592f9622e59",
+        "cfc5a718-1b3d-469a-ad0e-8f0e1907590d",
+        "4cb8c3ba-f6ec-4df3-9063-405fc00caf57",
+        "132836ab-29b7-453a-b12f-a195317c89cc",
+        "82198d1e-14ea-4e97-8da3-0d3571b4136b"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "7b7c5ed0-e403-43ba-99bb-4d295ea96d85": {
+      "type": "Index-icons-texts-columns-new",
+      "blocks": {
+        "template--16686221918460__2ba94065-3e9f-45bc-8a9f-0d791e11b1ea-16784274481de1f767-0": {
+          "type": "information",
+          "settings": {
+            "svgiconpath": "shopify:\/\/shop_images\/Group_1073712543_1_0bbba4f9-c3e4-4406-86cb-50b5f760291d.png",
+            "title": "<p>\"The extensive selection at Aurus promises an intimate, one-of-a-kind experience—the joy of being a bride, the way you like it...\"<\/p>"
+          }
+        },
+        "8095852e-cea8-46aa-895a-f9b38f677fa6": {
+          "type": "information",
+          "settings": {
+            "svgiconpath": "shopify:\/\/shop_images\/logo-2-Artboard-2-copy-2.png",
+            "title": "<p>\"Opulent emeralds spell luxury for a day function, be it the mehendi ceremony<br\/>or the wedding.\"<\/p>"
+          }
+        },
+        "ce823ffe-eb40-4ff2-8593-da8d011b7107": {
+          "type": "information",
+          "settings": {
+            "svgiconpath": "shopify:\/\/shop_images\/logo-2-Artboard-2-copy.png",
+            "title": "<p>\"Ahmedabad-based fine jewellery brand Aurus Jewels, creates timeless ornaments with an inherent heirloom-like quality....\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221918460__2ba94065-3e9f-45bc-8a9f-0d791e11b1ea-16784274481de1f767-0",
+        "8095852e-cea8-46aa-895a-f9b38f677fa6",
+        "ce823ffe-eb40-4ff2-8593-da8d011b7107"
+      ],
+      "settings": {
+        "mainbackcolor": "#f6f2f1"
+      }
+    },
+    "f08e7b7a-a187-4b2a-8871-bfcc568cafd6": {
+      "type": "Product-metafield-video-new",
+      "settings": {
+      }
+    },
+    "547adcfe-a62b-49f7-8e2d-9c6f6dff0dec": {
+      "type": "Index-texts-images-loops-new",
+      "blocks": {
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-0": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/review_111_Artboard_1_copy_34.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/review_mobile_2_Artboard_1_copy_34.jpg",
+            "smallinfotext": "",
+            "infotext": "<p>\"I ABSOLUTELY love it. It is stunning. I loved wearing the pieces and so many people asked me about it. Can’t wait to get more stuff from you. 💖\"<\/p>",
+            "authortext": "- Malvika Mehta",
+            "btntext": "",
+            "btnlink": "\/"
+          }
+        },
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-1": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/review_Artboard_1_copy_35_9ba543c1-2246-48ea-bbb7-e3b9631efe2b.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/review_mobile_2_Artboard_1_copy_35.jpg",
+            "smallinfotext": "",
+            "infotext": "<p>\"I love the intricacies of each Aurus piece I own and how they bring my face to life! I feel happy, confident, and most importantly, like myself even though everyone expected me to be a ‘bride’. I also read the reviews and how your jewelry looks on normal people!\"<\/p>",
+            "authortext": "- Bani Bains",
+            "btntext": "",
+            "btnlink": "\/"
+          }
+        },
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-2": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/review_Artboard_1_copy_37_c9bf221f-6626-4c15-9cb4-db40a605a89a.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/review_mobile_2_Artboard_1_copy_36.jpg",
+            "smallinfotext": "",
+            "infotext": "<p>\"I wore the Poulomi Earrings at my function! My family made the purchase, but I fell in love with the earrings! ❤️\"<\/p>",
+            "authortext": "- Ayushi Agnihotri",
+            "btntext": "",
+            "btnlink": "\/"
+          }
+        },
+        "0c8e1f00-c503-41a9-b8bf-b39b8cd190a8": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/review_Artboard_1_copy_36_650142cd-bfa9-4827-9d3c-1ba0568155b2.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/review_mobile_2_Artboard_1_copy_37.jpg",
+            "smallinfotext": "",
+            "infotext": "<p>\"The lovely bride Tanisha with her mum Vinita, both wearing their Aurus for Tanisha's wedding!\"<\/p>",
+            "authortext": "",
+            "btntext": "",
+            "btnlink": "\/"
+          }
+        },
+        "79c74b29-bc5f-4e94-9889-2c7949cf42cf": {
+          "type": "information",
+          "settings": {
+            "desktopimage": "shopify:\/\/shop_images\/review_Artboard_1_copy_38_c13798a9-fb23-4c2c-b404-e4512fd5328c.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/review_mobile_2_Artboard_1_copy_38.jpg",
+            "smallinfotext": "",
+            "infotext": "<p>\"I got this beautiful piece from you for my Mehendi function. I LOVED IT! Thank you again. Cannot wait to shop more from your collection! I live in the US, so I was unable to come to your store in Ahmedabad to physically see and try the jewelry. I fell in love [with it] just by looking at [the] pictures, so one of my relatives video called from your store and we just bought it. I wanted this exact set and it went perfectly with my entire look. ♥️\"<\/p>",
+            "authortext": "- Siddhi Rathi",
+            "btntext": "",
+            "btnlink": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-0",
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-1",
+        "template--16686221918460__c8e97647-ee57-4c0a-8173-5fff6f6ea924-1678446081f2fa946c-2",
+        "0c8e1f00-c503-41a9-b8bf-b39b8cd190a8",
+        "79c74b29-bc5f-4e94-9889-2c7949cf42cf"
+      ],
+      "settings": {
+        "mainbackcolor": "#ffffff",
+        "biginfotext": "Hear from <span>them!<\/span>"
+      }
+    },
+    "da8b5c50-a270-4f48-9de0-f5717e435618": {
+      "type": "Product-custom-columns-new",
+      "disabled": true,
+      "blocks": {
+        "template--16686222246140__da8b5c50-a270-4f48-9de0-f5717e435618-167851589840ba57ac-0": {
+          "type": "information",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "mainheadingtext": "Aurus Trunk",
+            "biginfotext": "<p>A private showing of your<\/p>",
+            "smallinfotext": "<p>favourite jewels<\/p>",
+            "mainbtntext": "Know More",
+            "mainbtnlink": "\/"
+          }
+        },
+        "template--16686222246140__da8b5c50-a270-4f48-9de0-f5717e435618-167851589840ba57ac-1": {
+          "type": "information",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_6084_1_-min.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_6086-min.jpg",
+            "mainheadingtext": "Aurus Boutique",
+            "biginfotext": "<p>The legacy of Indian design with a<\/p>",
+            "smallinfotext": "<p>contemporary flair<\/p>",
+            "mainbtntext": "Book An Appointment",
+            "mainbtnlink": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686222246140__da8b5c50-a270-4f48-9de0-f5717e435618-167851589840ba57ac-0",
+        "template--16686222246140__da8b5c50-a270-4f48-9de0-f5717e435618-167851589840ba57ac-1"
+      ],
+      "settings": {
+        "mainbackcolor": "#ffffff"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "title": "You may also <span>like<\/span>",
+        "view_url": "shopify:\/\/collections\/all",
+        "related_count": 4,
+        "products_per_row": 4
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7b7c5ed0-e403-43ba-99bb-4d295ea96d85",
+    "f08e7b7a-a187-4b2a-8871-bfcc568cafd6",
+    "547adcfe-a62b-49f7-8e2d-9c6f6dff0dec",
+    "da8b5c50-a270-4f48-9de0-f5717e435618",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

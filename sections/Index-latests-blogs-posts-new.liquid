@@ -1,0 +1,170 @@
+{%- assign blog = blogs[section.settings.blog] -%}
+
+<div class="Index_latests_blogs_posts_main_new">
+  <div class="page-width">
+    <div class="Index_latests_blogs_posts_inner_new">
+      {%- if section.settings.title != blank -%}
+        <div class="common_title_new">
+          <h2>{{ section.settings.title }}</h2>
+        </div>
+      {%- endif -%}
+
+      <div class="Index_latests_blogs_posts_details_new">
+        {%- unless blog.empty? or blog.articles.size == 0 -%}    
+          <div class="swiper home_blog_slider">
+            <div class="swiper-wrapper">
+              {%- for article in blog.articles limit: section.settings.post_limit -%}
+                <div class="swiper-slide">
+                  <div class="Index_latests_blogs_posts_boxs_new {% cycle 'Index_latests_blogs_posts_1_new', 'Index_latests_blogs_posts_2_new', 'Index_latests_blogs_posts_3_new', 'Index_latests_blogs_posts_4_new', 'Index_latests_blogs_posts_5_new', 'Index_latests_blogs_posts_6_new' %}">
+                    {%- render 'article-grid-item',
+                      blog: blog,
+                      article: article,
+                      grid_item_width: 'medium-up--one-third',
+                      per_row: '3',
+                      image_size: section.settings.blog_image_size
+                    -%}
+                  </div>
+                </div>
+              {%- endfor -%}
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+          </div>    
+        {%- else -%}    
+          <div class="grid grid--uniform">
+            {%- for i in (1..section.settings.post_limit) -%}
+              <div class="grid__item medium-up--one-third" data-aos="row-of-3">
+                <div class="grid">
+                  <div class="grid__item small--one-third">
+                    <a href="#" class="article__grid-image">
+                      {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+                    </a>
+                  </div>
+                  <div class="grid__item small--two-thirds">
+                    <div class="article__grid-meta">
+                      {%- if section.settings.blog_show_date or article.tags.size > 0 or articles.comments_count > 0 -%}
+                        <div class="article__date">
+                          {%- if section.settings.blog_show_comments and article.comments_count > 0 -%}
+                            <a href="#">3 comments</a> &middot;
+                          {%- endif -%}
+                          {%- if section.settings.blog_show_date -%}
+                            Jul 17, {{ 'now' | date: "%Y" }}
+                          {%- endif -%}
+                        </div>
+                      {%- endif -%}
+      
+                      <a href="#" class="article__title">Example blog post</a>
+      
+                      {%- if section.settings.blog_show_author -%}
+                        <div class="article__author">by Base Themes</div>
+                      {%- endif -%}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            {%- endfor -%}
+          </div>    
+        {%- endunless -%}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Index Latests Blogs Posts",
+  "class": "Index_latests_blogs_posts_new",
+  "settings": [
+    {
+      "type": "textarea",
+      "id": "title",
+      "label": "t:sections.blog-posts.settings.title.label",
+      "default": "Our <span>journal</span>"
+    },
+    {
+      "id": "blog",
+      "type": "blog",
+      "label": "t:sections.blog-posts.settings.blog.label"
+    },
+    {
+      "type": "range",
+      "id": "post_limit",
+      "label": "t:sections.blog-posts.settings.post_limit.label",
+      "default": 3,
+      "min": 3,
+      "max": 45,
+      "step": 3
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_tags",
+      "label": "t:sections.blog-posts.settings.blog_show_tags.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_date",
+      "label": "t:sections.blog-posts.settings.blog_show_date.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_comments",
+      "label": "t:sections.blog-posts.settings.blog_show_comments.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_author",
+      "label": "t:sections.blog-posts.settings.blog_show_author.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_excerpt",
+      "label": "t:sections.blog-template.settings.blog_show_excerpt.label",
+      "default": true
+    },
+    {
+      "type": "select",
+      "id": "blog_image_size",
+      "label": "t:sections.blog-posts.settings.blog_image_size.label",
+      "default": "square",
+      "options": [
+        {
+          "value": "natural",
+          "label": "t:sections.blog-posts.settings.blog_image_size.options.natural.label"
+        },
+        {
+          "value": "square",
+          "label": "t:sections.blog-posts.settings.blog_image_size.options.square.label"
+        },
+        {
+          "value": "landscape",
+          "label": "t:sections.blog-posts.settings.blog_image_size.options.landscape.label"
+        },
+        {
+          "value": "portrait",
+          "label": "t:sections.blog-posts.settings.blog_image_size.options.portrait.label"
+        },
+        {
+          "value": "wide",
+          "label": "t:sections.blog-posts.settings.blog_image_size.options.wide.label"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Index Latests Blogs Posts",
+      "settings": {
+        "blog": "News",
+        "post_limit": 12
+      }
+    }
+  ],
+  "disabled_on": {
+    "groups": ["footer", "header", "custom.popups"]
+  }
+}
+{% endschema %}

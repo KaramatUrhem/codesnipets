@@ -1,0 +1,112 @@
+{%- if section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank or section.settings.mainheadingtext != blank or section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.mainbtnlink != blank -%}
+  <div class="Index_banner_overlay_text_main_new Index_banner_overlay_text_main_new_{{ section.id }}" style="{% if section.settings.maindesktopimage != blank %}background: url({{ section.settings.maindesktopimage | img_url: 'master' }}) no-repeat center center; background-size: cover;{% else %}background: {{ section.settings.mainbackcolor }};{% endif %}">
+    <style>
+      @media(min-width:0px) and (max-width:768px){
+        .Index_banner_overlay_text_main_new_{{ section.id }}{
+          background: url({{ section.settings.mainmobileimage | img_url: 'master' }}) no-repeat center center !important;
+          background-size: cover !important;
+        }
+      }
+    </style>
+    <div class="Index_banner_overlay_text_back_new">
+      {%- if section.settings.mainheadingtext != blank or section.settings.biginfotext != blank or section.settings.smallinfotext != blank or section.settings.mainbtnlink != blank -%}
+        <div class="page-width">
+          <div class="Index_banner_overlay_text_inner_new">
+            <div class="Index_banner_overlay_text_alltexts_new">
+              <div class="Index_banner_overlay_text_alltexts_svgicon_new">
+                <svg width="249" height="21" viewBox="0 0 249 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <line x1="8.58429e-08" y1="10.7002" x2="249" y2="10.7002" stroke="white"/>
+                  <path d="M114.006 10.7028C113.97 10.4874 114.099 10.3729 114.304 10.2916C116.064 9.5948 117.678 8.66041 119.116 7.45377C121.291 5.62998 122.976 3.46133 123.981 0.825481C124.051 0.641603 124.103 0.450624 124.16 0.2628C124.21 0.10023 124.311 -0.000784585 124.493 4.59057e-06C124.672 4.59057e-06 124.778 0.0947048 124.83 0.258064C125.684 2.96257 127.321 5.17068 129.435 7.07101C130.978 8.45839 132.739 9.51746 134.684 10.2901C134.95 10.395 134.993 10.4716 135 10.7509C135.006 10.9837 134.87 11.0808 134.667 11.1589C130.948 12.5992 128.007 14.9399 125.949 18.2931C125.481 19.0554 125.093 19.8557 124.841 20.7127C124.791 20.884 124.685 20.9976 124.502 21C124.32 21.0023 124.212 20.8926 124.157 20.7214C123.591 18.926 122.575 17.38 121.335 15.9634C119.713 14.1105 117.749 12.6868 115.49 11.6435C115.106 11.4667 114.711 11.3136 114.318 11.155C114.05 11.0469 114.005 10.9924 114.006 10.7036V10.7028Z" fill="white"/>
+                </svg>
+              </div>
+              <div class="Index_banner_overlay_text_details_new">
+                {%- if section.settings.mainheadingtext != blank -%}
+                  <h4>{{ section.settings.mainheadingtext }}</h4>
+                {%- endif -%}
+                {%- if section.settings.biginfotext != blank -%}
+                  <h3>{{ section.settings.biginfotext }}</h3>
+                {%- endif -%}
+                {%- if section.settings.smallinfotext != blank -%}
+                  {{ section.settings.smallinfotext }}
+                {%- endif -%}
+                {%- if section.settings.mainbtntext != blank and section.settings.mainbtnlink != blank -%}
+                  <div class="Index_banner_overlay_text_alltexts_button_new">
+                    <a href="{{ section.settings.mainbtnlink }}" class="btn btn--inverse">
+                      {{ section.settings.mainbtntext }}
+                    </a>
+                  </div>
+                {%- endif -%}
+              </div>
+              <div class="Index_banner_overlay_text_alltexts_svgicon_new">
+                <svg width="249" height="21" viewBox="0 0 249 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <line x1="8.58429e-08" y1="10.7002" x2="249" y2="10.7002" stroke="white"/>
+                  <path d="M114.006 10.7028C113.97 10.4874 114.099 10.3729 114.304 10.2916C116.064 9.5948 117.678 8.66041 119.116 7.45377C121.291 5.62998 122.976 3.46133 123.981 0.825481C124.051 0.641603 124.103 0.450624 124.16 0.2628C124.21 0.10023 124.311 -0.000784585 124.493 4.59057e-06C124.672 4.59057e-06 124.778 0.0947048 124.83 0.258064C125.684 2.96257 127.321 5.17068 129.435 7.07101C130.978 8.45839 132.739 9.51746 134.684 10.2901C134.95 10.395 134.993 10.4716 135 10.7509C135.006 10.9837 134.87 11.0808 134.667 11.1589C130.948 12.5992 128.007 14.9399 125.949 18.2931C125.481 19.0554 125.093 19.8557 124.841 20.7127C124.791 20.884 124.685 20.9976 124.502 21C124.32 21.0023 124.212 20.8926 124.157 20.7214C123.591 18.926 122.575 17.38 121.335 15.9634C119.713 14.1105 117.749 12.6868 115.49 11.6435C115.106 11.4667 114.711 11.3136 114.318 11.155C114.05 11.0469 114.005 10.9924 114.006 10.7036V10.7028Z" fill="white"/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      {%- endif -%}
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+  {
+    "name": "Index Banner Overlay Text",
+    "class": "Index_banner_overlay_text_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#F6F2F1"
+      },
+      {
+        "type": "image_picker",
+        "id": "maindesktopimage",
+        "label": "Add Main Desktop Image Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "mainmobileimage",
+        "label": "Add Main Mobile Image Display"
+      },
+      {
+        "type": "text",
+        "id": "mainheadingtext",
+        "label": "Add Main Heading Text Display",
+        "default": "The Aurus Bride"
+      },
+      {
+        "type": "textarea",
+        "id": "biginfotext",
+        "label": "Add Big Information Text Display",
+        "default": "Wedding jewelry-"
+      },
+      {
+        "type": "richtext",
+        "id": "smallinfotext",
+        "label": "Add Small Information Text Display",
+        "default": "<p>an extension of your personality</p>"
+      },
+      {
+        "type": "text",
+        "id": "mainbtntext",
+        "label": "Add Main Button Text Display",
+        "default": "Connect With Us"
+      },
+      {
+        "type": "url",
+        "id": "mainbtnlink",
+        "label": "Add Main Button Link Display",
+        "default": "/"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Index Banner Overlay Text"
+      }
+    ]
+  }
+{% endschema %}

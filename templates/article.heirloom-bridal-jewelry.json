@@ -1,0 +1,242 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Indian weddings and jewelry are closely connected. For an Indian bride, jewelry is more than just a fashion accessory or adornment. For her, the Indian bridal jewelry that she wears on her big day is a symbol of cultural pride and tradition. It represents auspiciousness, prosperity, and blessings that she’ll need for her new life. This makes jewelry an essential part of Indian weddings and for the same reasons, heirloom pieces hold immense value.<\/p>"
+          }
+        },
+        "25d8d700-9ec9-4126-a00b-41cf572391f7": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Heirloom_indian_wedding_jewelry.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Heirloom_indian_wedding_jewelry.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "e64625cd-b163-4634-bf5f-ee83676a29f3": {
+          "type": "texts",
+          "disabled": true,
+          "settings": {
+            "fullinfotext": ""
+          }
+        }
+      },
+      "block_order": [
+        "9ee21dfa-959b-4956-b17f-0ade92e3cdc2",
+        "25d8d700-9ec9-4126-a00b-41cf572391f7",
+        "e64625cd-b163-4634-bf5f-ee83676a29f3"
+      ],
+      "settings": {
+        "backdesktopimage": "shopify:\/\/shop_images\/Bollywood_heirloom_bridal_jewelry.png",
+        "backmobileimage": "shopify:\/\/shop_images\/Bollywood_heirloom_bridal_jewelry.png",
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "4af74115-0fc0-45bb-95b8-112a26212284": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0": {
+          "type": "heading",
+          "settings": {
+            "headingtext": "<p>Incorporating Heirloom Jewelry into Your Indian Bridal Jewelry Set<\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2": {
+          "type": "images",
+          "disabled": true,
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/Rectangle_6087-min.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/Rectangle_6083_1_-min.jpg",
+            "smallinfotext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>Passed down through generations, heirloom jewelry reminds the wearer of her family values. It carries the legacy of her ancestors and tells the tales of family heritage, love, and cherished memories. A bride who wears heirloom jewelry on her wedding day carries the love and blessings of all her ancestors.<\/p><p>You can add your heirloom pieces to your Indian bridal jewelry set and give it a vintage look. Let’s see how.<\/p><p><\/p>"
+          }
+        },
+        "538da84d-2426-4e95-b009-9565c9b46ab2": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<h3>Something New, Something Old<\/h3><p>You can give your heirloom pieces a contemporary touch by including some modern pieces of Indian bridal jewelry into the mix. For instance, while keeping your ancestral Raani Haar as the heart of the entire look, you can pick a pair of stud earrings that blend in well. To finish the look, you can pick bangles or bracelets that match the entire theme and you’ll have created a magnificent bridal look that keeps your ancestral necklace in the spotlight. You can experiment with different pieces and create something unique that suits your style.<\/p><h3>Simple and Elegant<\/h3><p>Or you can go with the traditional look by wearing just the heirloom pieces. If you’re trying to include some other pieces of Indian bridal jewelry into the mix, we suggest you keep them minimal to make the heirloom pieces take the spotlight. With this approach, you’ll be able to create a vintage bridal look with your heirloom jewelry being the centerpiece of your ensemble.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-0",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-2",
+        "template--16686221689084__4af74115-0fc0-45bb-95b8-112a26212284-167949909336053620-3",
+        "538da84d-2426-4e95-b009-9565c9b46ab2"
+      ],
+      "settings": {
+      }
+    },
+    "296f3653-d119-44ea-a190-7cc4b4096411": {
+      "type": "article-images-with-texts-new",
+      "blocks": {
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0": {
+          "type": "information",
+          "settings": {
+            "image_on_left": true,
+            "headingtext": "Regal and Majestic",
+            "infotext": "<p>With the classic and timeless pieces of Indian bridal jewelry that you received from your ancestors, you can become a royal bride. Your ancestral rani haar can easily become the statement piece. You can build the rest of the look around it with other pieces of Indian bridal jewelry and you’ll have a unique look that makes you feel like a queen.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/family_indian_bridal_jewelry.png",
+            "mobileimage": "shopify:\/\/shop_images\/family_indian_bridal_jewelry.png",
+            "imagetext": "<p><em>Image courtesy: Pexels<\/em><\/p>"
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1": {
+          "type": "information",
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Create Layers",
+            "infotext": "<p>If you’re thinking about <a href=\"https:\/\/www.aurusjewels.com\/blogs\/news\/creating-the-perfect-indian-bracelet-stack-a-step-by-step-guide\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/blogs\/news\/creating-the-perfect-indian-bracelet-stack-a-step-by-step-guide\">creating a bracelet stack<\/a> or making <a href=\"https:\/\/www.aurusjewels.com\/blogs\/news\/ace-the-art-of-layering-bridal-necklaces-with-this-guide\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/blogs\/news\/ace-the-art-of-layering-bridal-necklaces-with-this-guide\">layers with your Indian necklaces<\/a>, you can include your heirloom piece of Indian bridal jewelry and give it a vintage feel. Your stack can revolve around the design and feel of the ancestral piece and give the whole look a retro feel.<\/p><p>And it doesn’t have to end with bracelets or necklaces. You can stack your ancestral rings with your wedding band and achieve a striking look. <\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/indian_bridal_necklace_layering1.png",
+            "mobileimage": "shopify:\/\/shop_images\/indian_bridal_necklace_layering1.png",
+            "imagetext": ""
+          }
+        },
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2": {
+          "type": "information",
+          "disabled": true,
+          "settings": {
+            "image_on_left": false,
+            "headingtext": "Different shapes put together",
+            "infotext": "<p>The sophisticated Kundan technique enables gemstones of any size or shape to be set into intricate designs. Sometimes, before the entire stone-setting process begins, gold-smiths might fill the hollow frame, known as ghat, with different objects of varying shapes grouped together to form the object. Another option is to let the shape of the gemstone define the ghat's shame.<\/p><p>Since earlier times, certain shapes have influenced the jewelry-making tradition. Squares, triangles, and circles are the most common shapes.<\/p>",
+            "desktopimage": "shopify:\/\/shop_images\/Rectangle_6084_1_-min.jpg",
+            "mobileimage": "shopify:\/\/shop_images\/Rectangle_6086-min.jpg",
+            "imagetext": "<p><em>Source and Image courtesy: Traditional Indian Jewellery—Beautiful People by Bernadette Van Gelder<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-0",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-1",
+        "template--16686221689084__296f3653-d119-44ea-a190-7cc4b4096411-16795551294d9b5405-2"
+      ],
+      "settings": {
+        "mainheadingtext": ""
+      }
+    },
+    "67a7f836-c6c6-4d3d-acdd-71f2ad0c3a9b": {
+      "type": "article-image-texts-block-new",
+      "blocks": {
+        "template--16728201887996__67a7f836-c6c6-4d3d-acdd-71f2ad0c3a9b-1685250557fe25a4d8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "headingtext": "<p>Different forms of ghat, some already filled with wax<\/p>"
+          }
+        },
+        "template--16728201887996__67a7f836-c6c6-4d3d-acdd-71f2ad0c3a9b-1685250557fe25a4d8-1": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<h3>Repurpose and Recreate<\/h3><p>Including an heirloom piece doesn’t mean wearing it the way it was worn traditionally. You can always experiment and repurpose your Indian bridal jewelry to create a fresh look. For instance, you can use your ancestral earrings as the focal point and use them as a brooch. Not only will this make the piece more noticeable but will also serve as a special addition to your wedding outfit. <\/p><p>With these 5 tips, you’ll be able to make your heirloom pieces a part of your Indian bridal jewelry set and give your outfit a unique and vintage look. You can always take inspiration from the B-town’s finest such as Konkana Sen Sharma who adorned her simple wedding outfit with her grandmother’s jewelry. Another famous example is Neha Dhupia’s wedding ring which was gifted to her by the Bedi family as a sign of their love and acceptance.<\/p><p><\/p>"
+          }
+        },
+        "989f6b6f-5a36-41a7-a3dd-aecf370b2a31": {
+          "type": "images",
+          "settings": {
+            "maindesktopimage": "shopify:\/\/shop_images\/1538550553_726A6374.jpg",
+            "mainmobileimage": "shopify:\/\/shop_images\/1538550553_726A6374.jpg",
+            "smallinfotext": "<p><em>Image courtesy: Neha Dhupia via Royal Pepper<\/em><\/p>"
+          }
+        },
+        "template--16728201887996__67a7f836-c6c6-4d3d-acdd-71f2ad0c3a9b-1685250557fe25a4d8-3": {
+          "type": "texts",
+          "settings": {
+            "fullinfotext": "<p>If you’re looking for a timeless piece of Indian bridal jewelry that can stay in the family and carry your legacy, make sure you check out our <a href=\"https:\/\/www.aurusjewels.com\/pages\/wedding-day\" target=\"_blank\" title=\"https:\/\/www.aurusjewels.com\/pages\/wedding-day\">Indian bridal jewelry collection<\/a>. And if you need a hand styling these pieces, we'd be more than happy to help you out with it!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16728201887996__67a7f836-c6c6-4d3d-acdd-71f2ad0c3a9b-1685250557fe25a4d8-0",
+        "template--16728201887996__67a7f836-c6c6-4d3d-acdd-71f2ad0c3a9b-1685250557fe25a4d8-1",
+        "989f6b6f-5a36-41a7-a3dd-aecf370b2a31",
+        "template--16728201887996__67a7f836-c6c6-4d3d-acdd-71f2ad0c3a9b-1685250557fe25a4d8-3"
+      ],
+      "settings": {
+      }
+    },
+    "4c5e9829-38fd-4086-8e17-37ad69ad7a5a": {
+      "type": "article-mp4-video-banner-new",
+      "disabled": true,
+      "settings": {
+        "mp4videolink": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/93c6d4ac069841abb2fbdf1099ed9f1f.mp4"
+      }
+    },
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db": {
+      "type": "article-latest-blog-posts-new",
+      "settings": {
+        "title": "Read more from our <span>journal<\/span>",
+        "post_limit": 15,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    },
+    "522c486f-3c38-46df-9c27-be00415ecf72": {
+      "type": "Index-featured-collection-new",
+      "settings": {
+        "backcolor": "#f6f2f1",
+        "customClass": "blog_featured_collection_new",
+        "title": "You may want to <span>shop<\/span>",
+        "home_featured_products": "collectibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true
+      }
+    },
+    "1683210261162571d3": {
+      "type": "apps",
+      "blocks": {
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753": {
+          "type": "shopify:\/\/apps\/time2read-read-time-estimator\/blocks\/app-block-article-read-time\/de876115-09d1-4e2f-bd5b-ce94430501cb",
+          "settings": {
+            "read_time_prefix": "",
+            "read_time_suffix": "Minute",
+            "read_time_text_color": "#000000",
+            "read_time_top_padding": 0,
+            "read_time_bottom_padding": 0,
+            "read_time_font_size": 16,
+            "read_time_bold": false,
+            "horizontal_alignment": "unset",
+            "read_time_placement": "after",
+            "read_time_custom_selector": ".read_placement"
+          }
+        }
+      },
+      "block_order": [
+        "3a09b2ef-849a-4b87-9534-e9cc65ede753"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4af74115-0fc0-45bb-95b8-112a26212284",
+    "296f3653-d119-44ea-a190-7cc4b4096411",
+    "67a7f836-c6c6-4d3d-acdd-71f2ad0c3a9b",
+    "4c5e9829-38fd-4086-8e17-37ad69ad7a5a",
+    "1a2e8dff-c407-4ec0-b2b6-26e7b1dba2db",
+    "522c486f-3c38-46df-9c27-be00415ecf72",
+    "1683210261162571d3"
+  ]
+}

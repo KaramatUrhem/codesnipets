@@ -1,0 +1,68 @@
+{%- if section.settings.maindesktopimage != blank or section.settings.mainmobileimage != blank or section.settings.mainheadingtext != blank or section.settings.maininfotext != blank -%}
+  <div class="Page_family_jewels_banner_text_main_new Page_family_jewels_banner_text_main_new_{{ section.id }}" style="{% if section.settings.maindesktopimage != blank %}background: url({{ section.settings.maindesktopimage | img_url: 'master' }}) no-repeat center center; background-size: cover;{% else %}background: {{ section.settings.mainbackcolor }};{% endif %}">
+    <style>
+      @media(min-width:0px) and (max-width:768px){
+        .Page_family_jewels_banner_text_main_new_{{ section.id }}{
+          background: url({{ section.settings.mainmobileimage | img_url: 'master' }}) no-repeat center center !important;
+          background-size: cover !important;
+        }
+      }
+    </style>
+    {%- if section.settings.mainheadingtext != blank or section.settings.maininfotext != blank -%}
+      <div class="page-width">
+        <div class="Page_family_jewels_banner_text_inner_new">
+          <div class="Page_family_jewels_banner_text_alltexts_new">
+            {%- if section.settings.mainheadingtext != blank -%}
+              <h2>{{ section.settings.mainheadingtext }}</h2>
+            {%- endif -%}
+            {%- if section.settings.maininfotext != blank -%}
+              {{ section.settings.maininfotext }}
+            {%- endif -%}
+          </div>
+        </div>
+      </div>
+    {%- endif -%}
+  </div>
+{%- endif -%}
+
+{% schema %}
+  {
+    "name": "Family Jewels Banner Text",
+    "class": "Page_family_jewels_banner_text_new",
+    "settings": [
+      {
+        "type": "color",
+        "id": "mainbackcolor",
+        "label": "Select Main Background Color Display",
+        "default": "#CCCCCC"
+      },
+      {
+        "type": "image_picker",
+        "id": "maindesktopimage",
+        "label": "Add Main Desktop Image Display"
+      },
+      {
+        "type": "image_picker",
+        "id": "mainmobileimage",
+        "label": "Add Main Mobile Image Display"
+      },
+      {
+        "type": "text",
+        "id": "mainheadingtext",
+        "label": "Add Main Heading Text Display",
+        "default": "Indian Family Jewels"
+      },
+      {
+        "type": "richtext",
+        "id": "maininfotext",
+        "label": "Add Main Information Text Display",
+        "default": "<p>A digital public resource of the distinct jewellery of India, Through information and personal stories</p>"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Family Jewels Banner Text"
+      }
+    ]
+  }
+{% endschema %}

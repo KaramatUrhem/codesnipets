@@ -1,0 +1,5 @@
+{% assign article_read_time = article.content | strip_html | split: ' ' | size | times: 1.0 | divided_by: 250 | ceil %}
+
+<div class="time2read-container-article-collection-page">
+  <span class="time2read-text">{{ article_read_time }} min read</span>
+</div>    

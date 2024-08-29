@@ -1,0 +1,133 @@
+{%- if section.blocks.size > 0 -%}
+  <div class="article_image_texts_block_main_new">
+    <div class="page-width">
+      <div class="article_image_texts_block_inner_new">
+        <div class="article_template_allblocks_new">
+          {%- for block in section.blocks -%}
+            <div class="article_template_allblocks_inner_new" {{ block.shopify_attributes }}>
+              {%- case block.type -%}
+                {%- when 'heading' -%}
+                  {%- if block.settings.headingtext != blank -%}
+                    <div class="article_template_allblocks_headinginner_new">
+                      <h3>{{ block.settings.headingtext }}</h3>
+                    </div>
+                  {%- endif -%}  
+                {%- when 'images' -%}
+                  {%- if block.settings.maindesktopimage != blank or block.settings.mainmobileimage != blank or block.settings.smallinfotext != blank -%}
+                    <div class="article_template_allblocks_imagesinner_new">
+                      {%- if block.settings.maindesktopimage != blank or block.settings.mainmobileimage != blank -%}
+                        <div class="article_template_allblocks_imagesinner_images_new">
+                          {%- if block.settings.maindesktopimage != blank -%}
+                            {%- render 'image-element',
+                              img: block.settings.maindesktopimage,
+                              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                              classes: 'desktop_image_new',
+                            -%}
+                          {%- endif -%}
+                          {%- if block.settings.mainmobileimage != blank -%}
+                            {%- render 'image-element',
+                              img: block.settings.mainmobileimage,
+                              widths: '180, 360, 540, 750, 900, 1080, 1296, 1512, 1728, 1944, 2048',
+                              classes: 'mobile_image_new',
+                            -%}
+                          {%- endif -%}
+                        </div>
+                      {%- endif -%}
+                      {%- if block.settings.smallinfotext != blank -%}
+                        <div class="article_template_allblocks_imagesinner_texts_new">
+                          {{ block.settings.smallinfotext }}
+                        </div>
+                      {%- endif -%}
+                    </div>
+                  {%- endif -%}
+                {%- when 'texts' -%}
+                  {%- if block.settings.fullinfotext != blank -%}
+                    <div class="article_template_allblocks_textsinner_new">
+                      {{ block.settings.fullinfotext }}
+                    </div>
+                  {%- endif -%}
+              {%- endcase -%}  
+            </div>
+          {%- endfor -%}  
+        </div>
+      </div>
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+  {
+    "name": "Article Image Texts Block",
+    "class": "article_image_texts_block_new",
+    "settings": [
+      
+    ],
+    "blocks": [
+      {
+        "type": "images",
+        "name": "Images",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "maindesktopimage",
+            "label": "Add Main Desktop Image Display"
+          },
+          {
+            "type": "image_picker",
+            "id": "mainmobileimage",
+            "label": "Add Main Mobile Image Display"
+          },
+          {
+            "type": "richtext",
+            "id": "smallinfotext",
+            "label": "Add Small Information Text Display",
+            "default": "<p><em>Source and image courtesy: Victoria and Albert Museum</em></p>"
+          }
+        ]
+      },
+      {
+        "type": "texts",
+        "name": "Texts",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "fullinfotext",
+            "label": "Add Full Information Text Display",
+            "default": "<p>Ornate designs made with precious gemstones encrusted in 24K gold—said to have been born in the royal region of Rajasthan and flourished during the era of the Mughals, Kundan jewelry is perhaps one of the most, if not the most-loved jewelry styles in India, especially that of brides.</p><p>According to Bernadette Van Gelder's book Traditional Indian Jewelry—Beautiful People, the Kundan jewelry-making technique is perhaps the oldest technique for setting stones in jewelry using gold in the Indian tradition. According to the book, this technique was first mentioned in the Ain-i-Akbari, the third and final book of Akbarnama, the official account of Akbar's reign.</p>"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "name": "Heading",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "headingtext",
+            "label": "Add Heading Text Display",
+            "default": "<p>Different forms of ghat, some already filled with wax</p>"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Article Image Texts Block",
+        "blocks": [
+          {
+            "type": "heading"
+          },
+          {
+            "type": "texts"
+          },
+          {
+            "type": "images"
+          },
+          {
+            "type": "texts"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

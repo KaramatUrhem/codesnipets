@@ -1,0 +1,107 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "53d8ab24-2922-49af-8cfa-a9f08d9f2a45": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The Rooh woman is a beautiful medley of contrasts – fiercely independent yet rooted in tradition. Her jewellery collection then, must mirror these very traits. With a keen eye for the tasteful, she prefers intimate dos set to stirring Norah Jones compositions over extravagant galas. Her heart’s desire? For the jewellery pieces she picks to resonate deep within, for she believes that they are a reflection of her true self.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-0",
+        "template--16686221820156__53d8ab24-2922-49af-8cfa-a9f08d9f2a45-16835616446e9ef16a-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "classname": "",
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 3,
+            "rows_per_page": 23,
+            "mobile_flush_grid": false
+          }
+        },
+        "382f433d-0451-456b-8ea0-1f0d914122a1": {
+          "type": "image_grid_item",
+          "settings": {
+            "desk_position": "6",
+            "mob_position": "6",
+            "image": "shopify:\/\/shop_images\/curate_the_wedding_-5.webp",
+            "title": "Curate your \n<br><span>dream wedding <\/span> jewels",
+            "text": "A magical mix of tradition, design and refinement.",
+            "link_text": "Consult with us",
+            "link": "https:\/\/wa.me\/message\/7WGG6ZYHZSKXO1"
+          }
+        },
+        "bc684439-3546-4626-a905-1f3ecfeeca81": {
+          "type": "image_with_slider",
+          "settings": {
+            "desk_position": "9",
+            "mob_position": "8",
+            "change_alignment": false,
+            "title": "<p>Shop the<em> look<\/em><\/p>",
+            "image": "shopify:\/\/shop_images\/curate_the_wedding_-_6.webp",
+            "product_1": "saira-wedding-gold-and-tourmaline-necklace-for-women",
+            "product_sample1_vertical_position": 62,
+            "product_sample1_horizontal_position": 38,
+            "product_2": "ananya-gold-and-polki-jadau-jhumka-earrings",
+            "product_sample2_vertical_position": 40,
+            "product_sample2_horizontal_position": 68,
+            "product_3": "",
+            "product_sample3_vertical_position": 54,
+            "product_sample3_horizontal_position": 52,
+            "product_4": "",
+            "product_sample4_vertical_position": 48,
+            "product_sample4_horizontal_position": 90
+          }
+        }
+      },
+      "block_order": [
+        "product_grid",
+        "382f433d-0451-456b-8ea0-1f0d914122a1",
+        "bc684439-3546-4626-a905-1f3ecfeeca81"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "53d8ab24-2922-49af-8cfa-a9f08d9f2a45",
+    "main-collection"
+  ]
+}
